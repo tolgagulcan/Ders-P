@@ -21,7 +21,7 @@
   --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-tap-highlight-color:transparent}
-body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--navy-soft)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
 .wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 main.wrap{padding-block:0 40px}
 select,input,button{font:inherit;color:var(--ink)}
@@ -42,7 +42,7 @@ header.bell{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;backgroun
 .iconbtn{flex:none;width:44px;height:44px;display:grid;place-items:center;border-radius:12px;border:1px solid var(--line);background:var(--surface);cursor:pointer}
 .iconbtn svg{width:22px;height:22px;stroke:var(--ink);fill:none;stroke-width:1.8;stroke-linecap:round}
 .iconbtn[aria-expanded="true"],.iconbtn.on{border-color:var(--accent);background:var(--accent-soft)}
-.timepanel{border-top:1px solid var(--line);background:var(--surface)}
+.timepanel{background:var(--surface)}
 .timepanel .wrap{padding-block:8px;display:grid;gap:6px}
 .row1{display:grid;grid-template-columns:auto repeat(5,minmax(0,1fr));gap:5px}
 .perrow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr)) 4px repeat(4,minmax(0,1fr));gap:5px}
@@ -56,6 +56,8 @@ header.bell{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;backgroun
 .timepanel.manual .tb[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .timepanel.manual .tb[aria-pressed="true"] small{color:var(--accent-ink)}
 .btn{min-height:44px;padding:0 14px;border-radius:10px;border:1px solid var(--line);background:var(--bg);cursor:pointer;font-weight:600;display:inline-flex;align-items:center;gap:7px;white-space:nowrap}
+.btn .lt{display:flex;flex-direction:column;align-items:flex-start;line-height:1.1}
+.btn .lt small{font-family:var(--mono);font-weight:500;font-size:11px;margin-top:2px;opacity:.85}
 .btn .ldot{width:8px;height:8px;border-radius:50%;background:var(--muted)}
 .btn.live{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .btn.live .ldot{background:var(--accent-ink)}
@@ -188,14 +190,9 @@ table.week{border-collapse:collapse;width:100%;min-width:620px;table-layout:fixe
 </style>
 
 <header class="bell">
-  <div class="wrap">
-    <div class="brand">Kim Nerede<small>Halide Edip Adıvar Ortaokulu · 2026–2027</small></div>
-    <div class="clock" id="clock">--:--</div>
-    <div class="status" id="status"><span class="dot"></span><span id="statusText">…</span></div>
-  </div>
   <div class="timepanel" id="timePanel">
     <div class="wrap">
-      <div class="row1" id="dayRow"><button class="btn live" id="liveBtn" type="button" aria-pressed="true"><span class="ldot"></span>Canlı</button></div>
+      <div class="row1" id="dayRow"><button class="btn live" id="liveBtn" type="button" aria-pressed="true"><span class="ldot"></span><span class="lt"><b>Canlı</b><small id="liveSub">…</small></span></button></div>
       <div class="perrow" id="perRow"></div>
     </div>
   </div>
@@ -269,6 +266,17 @@ function liveState(){
     if(n.min<PM[i][0])return{d:n.wd,p:null,kind:i===0?"once":(i===4?"ogle":"teneffus"),next:i,label:n.label};
   }
   return{d:n.wd,p:null,kind:"sonra",label:n.label};
+}
+function liveShort(){
+  const L=liveState();
+  switch(L.kind){
+    case"ders":return`${L.p+1}. ders · ${L.left} dk`;
+    case"teneffus":return"Teneffüs";
+    case"ogle":return"Öğle arası";
+    case"once":return"08:50'de";
+    case"sonra":return"Bitti";
+    default:return"Hafta sonu";
+  }
 }
 function statusText(s){
   if(s.manual)return`${DSHORT[s.d]} · ${s.p+1}. ders ${P[s.p][0]}`;
@@ -429,10 +437,7 @@ function board(s){
 }
 function render(){
   const s=state();
-  $("clock").textContent=s.manual?DSHORT[s.d]:s.label;
-  $("statusText").textContent=statusText(s);
-  $("status").classList.toggle("idle",s.kind!=="ders");
-  $("status").classList.toggle("manual",!!s.manual);
+  $("liveSub").textContent=s.manual?"dön":liveShort();
   drawTimeButtons(s);
 
 
