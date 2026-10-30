@@ -83,7 +83,7 @@ nav.tabs{display:flex;gap:4px;margin:18px 0 14px;border-bottom:1px solid var(--l
 .pill[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
 
 /* ---- class picker ---- */
-.seg{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:4px;background:var(--navy-soft);border-radius:14px}
+.seg{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:4px;padding:4px;background:var(--navy-soft);border-radius:14px}
 .seg button{min-height:44px;border:0;border-radius:10px;background:none;font-family:var(--display);font-weight:600;cursor:pointer;color:var(--muted)}
 .seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px var(--shadow)}
 .subes{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px;margin-top:10px}
@@ -313,10 +313,12 @@ document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{setMode(b.dataset.m)
 // class picker
 const byGrade={};CLASSES.forEach(c=>(byGrade[c.split("/")[0]]??=[]).push(c));
 function drawClassPicker(){
-  $("gradeSeg").innerHTML=Object.keys(byGrade).map(g=>`<button type="button" data-g="${g}" aria-pressed="${g===grade}">${g}. sınıf</button>`).join("");
+  $("gradeSeg").innerHTML=Object.keys(byGrade).map(g=>`<button type="button" data-g="${g}" aria-pressed="${g===grade}">${g}. sınıf</button>`).join("")
+    +`<button type="button" data-g="all" aria-pressed="${grade==="all"}">Tümü</button>`;
+  $("subes").hidden=grade==="all";
   $("subes").innerHTML=(byGrade[grade]||[]).map(c=>`<button class="chip" type="button" data-c="${c}" aria-pressed="${c===selC}">${c}</button>`).join("");
 }
-$("gradeSeg").onclick=e=>{const b=e.target.closest("[data-g]");if(b){grade=b.dataset.g;drawClassPicker()}};
+$("gradeSeg").onclick=e=>{const b=e.target.closest("[data-g]");if(b){grade=b.dataset.g;render()}};
 $("subes").onclick=e=>{const b=e.target.closest("[data-c]");if(b)openClass(b.dataset.c)};
 
 // search
@@ -446,6 +448,7 @@ function render(){
   }else if(mode==="C"){
     drawClassPicker();
     $("board").innerHTML=board(s);
+    if(grade==="all"){$("cOut").innerHTML="";return}
     if(!selC){$("cOut").innerHTML=`<p class="hint">Bir şube seçince o sınıfın şu anki dersi ve programı burada görünür. Bütün okulun durumu aşağıda.</p>`;return}
     const g=DATA[selC];
     const cell=(d,p)=>{const c=g[d][p];return c?`<span class="a">${esc(c[0])}</span>${c[1].map(t=>`<button class="b" data-got="${esc(t)}">${esc(nice(t))}</button>`).join("")}`:""};

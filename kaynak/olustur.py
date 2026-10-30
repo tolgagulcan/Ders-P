@@ -74,9 +74,19 @@ def site_uret(veri):
         '<meta name="robots" content="noindex, nofollow">\n<meta name="theme-color" content="#1d3a5c">\n'
         "<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}"
         "body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>\n"
+        # telefona uygulama olarak eklenince: ad "Ders-P", simge, tam ekran
+        '<link rel="manifest" href="/manifest.webmanifest">\n'
+        '<link rel="icon" type="image/png" href="/favicon.png">\n'
+        '<link rel="apple-touch-icon" href="/apple-touch-icon.png">\n'
+        '<meta name="apple-mobile-web-app-capable" content="yes">\n'
+        '<meta name="mobile-web-app-capable" content="yes">\n'
+        '<meta name="apple-mobile-web-app-title" content="Ders-P">\n'
+        '<meta name="application-name" content="Ders-P">\n'
+        '<meta name="apple-mobile-web-app-status-bar-style" content="default">\n'
     )
+    sw = '<script>if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("/sw.js").catch(()=>{}));</script>\n'
     SITE.mkdir(exist_ok=True)
-    (SITE / "index.html").write_text(bas + govde[:i] + "\n</head>\n<body>\n" + govde[i:] + "\n</body>\n</html>\n", encoding="utf-8")
+    (SITE / "index.html").write_text(bas + govde[:i] + "\n</head>\n<body>\n" + govde[i:] + "\n" + sw + "</body>\n</html>\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
