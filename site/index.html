@@ -90,10 +90,16 @@ nav.tabs{display:flex;gap:4px;margin:18px 0 14px;border-bottom:1px solid var(--l
 .search{position:relative}
 .search input{width:100%;min-height:52px;font-size:17px;padding:12px 16px;border:1.5px solid var(--line);border-radius:14px;background:var(--surface)}
 .search input:focus{border-color:var(--navy);outline:none}
-.sugg{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--surface);border:1px solid var(--line);border-radius:14px;max-height:min(360px,55vh);overflow:auto;z-index:4;box-shadow:0 10px 28px var(--shadow);list-style:none;margin:0;padding:6px}
-.sugg li{min-height:46px;padding:10px 12px;border-radius:10px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px}
-.sugg li small{color:var(--muted);font-family:var(--mono);font-size:12px;white-space:nowrap}
-.sugg li[aria-selected="true"],.sugg li:hover{background:var(--navy-soft)}
+.tlist{list-style:none;margin:12px 0 0;padding:0;border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden}
+.tlist .let{padding:4px 14px;font-family:var(--display);font-weight:700;font-size:12px;color:var(--navy);background:var(--navy-soft)}
+.tlist button{width:100%;min-height:50px;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:6px 14px;background:none;border:0;border-top:1px solid var(--line);cursor:pointer;text-align:left;font-size:15px}
+.tlist .let+li button{border-top:0}
+.tlist button:hover{background:var(--navy-soft)}
+.tlist .st{flex:none;font-family:var(--mono);font-size:13px;font-weight:500;padding:3px 9px;border-radius:999px;background:var(--accent-soft);color:var(--ink)}
+.tlist .st.free{background:var(--free-soft);color:var(--free)}
+.tlist .st.next{background:none;color:var(--muted)}
+.tlist .empty{padding:16px;color:var(--muted)}
+.backbtn{display:inline-flex;align-items:center;gap:6px;min-height:40px;margin-top:10px;padding:0 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);cursor:pointer;font-weight:500}
 .recent{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
 .recent::-webkit-scrollbar{display:none}
 .recent .lbl{flex:none;align-self:center;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
@@ -227,8 +233,7 @@ table.week{border-collapse:collapse;width:100%;min-width:620px;table-layout:fixe
 
   <section id="viewT">
     <div class="search">
-      <input id="q" type="search" enterkeyhint="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Öğretmen ara…" aria-label="Öğretmen ara">
-      <ul class="sugg" id="sugg" role="listbox" hidden></ul>
+      <input id="q" type="search" enterkeyhint="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Listede ara…" aria-label="Öğretmen listesinde ara">
     </div>
     <div class="recent" id="recent" hidden></div>
     <div id="tOut"></div>
@@ -348,35 +353,33 @@ function drawClassPicker(){
 $("gradeSeg").onclick=e=>{const b=e.target.closest("[data-g]");if(b){grade=b.dataset.g;render()}};
 $("subes").onclick=e=>{const b=e.target.closest("[data-c]");if(b)openClass(b.dataset.c)};
 
-// search
-let hi=0,matches=[];
-function showSugg(){
-  const q=fold($("q").value.trim());
-  if(!q||(selT&&$("q").value===nice(selT))){$("sugg").hidden=true;return}
-  const words=q.split(/\s+/);
-  matches=TEACH.filter(t=>{const f=fold(t);return words.every(w=>f.includes(w))}).slice(0,12);
-  hi=0;
-  $("sugg").innerHTML=matches.length?matches.map((t,i)=>`<li role="option" data-t="${esc(t)}" aria-selected="${i===0}">${esc(nice(t))}<small>${hours(t)} saat</small></li>`).join(""):`<li aria-disabled="true">Eşleşen öğretmen yok</li>`;
-  $("sugg").hidden=false;
+// search box filters the teacher list
+const filtered=()=>{const q=fold($("q").value.trim());if(!q)return TEACH;const ws=q.split(/\s+/);return TEACH.filter(x=>{const f=fold(x);return ws.every(w=>f.includes(w))})};
+$("q").addEventListener("input",()=>{selT=null;render()});
+$("q").addEventListener("focus",()=>{if(selT){selT=null;$("q").value="";render()}});
+$("q").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();const f=filtered();if(f.length)openTeacher(f[0])}});
+function teacherList(s){
+  const list=filtered();
+  if(!list.length)return`<ul class="tlist"><li class="empty">Eşleşen öğretmen yok.</li></ul>`;
+  const p=s.d===null?null:(s.kind==="ders"?s.p:(s.kind==="sonra"?null:s.next));
+  let html='<ul class="tlist">',last="";
+  for(const x of list){
+    const L=fold(x).charAt(0);
+    if(L!==last){html+=`<li class="let">${esc(nice(x.replace(/^Dr\. /,"")).charAt(0))}</li>`;last=L}
+    let st="";
+    if(p!==null){const c=T[x][s.d][p];
+      st=c?(s.kind==="ders"?`<span class="st">${c.cls}</span>`:`<span class="st next">→ ${c.cls}</span>`):(s.kind==="ders"?`<span class="st free">boş</span>`:"")}
+    html+=`<li><button type="button" data-got="${esc(x)}"><span>${esc(nice(x))}</span>${st}</button></li>`;
+  }
+  return html+"</ul>";
 }
-$("q").addEventListener("input",showSugg);
-$("q").addEventListener("focus",()=>{$("q").select();showSugg()});
-$("q").addEventListener("keydown",e=>{
-  if($("sugg").hidden||!matches.length)return;
-  if(e.key==="ArrowDown"||e.key==="ArrowUp"){e.preventDefault();hi=(hi+(e.key==="ArrowDown"?1:-1)+matches.length)%matches.length;
-    [...$("sugg").children].forEach((li,i)=>li.setAttribute("aria-selected",i===hi));}
-  if(e.key==="Enter"){e.preventDefault();openTeacher(matches[hi])}
-  if(e.key==="Escape")$("sugg").hidden=true;
-});
-$("sugg").addEventListener("click",e=>{const li=e.target.closest("[data-t]");if(li)openTeacher(li.dataset.t)});
-document.addEventListener("click",e=>{if(!e.target.closest(".search"))$("sugg").hidden=true});
 
 function drawRecent(){
   $("recent").hidden=!recent.length;
   $("recent").innerHTML=`<span class="lbl">Son</span>`+recent.map(t=>`<button class="pill" type="button" data-got="${esc(t)}" aria-pressed="${t===selT}">${esc(nice(t))}</button>`).join("");
 }
 function openTeacher(t){
-  selT=t;$("q").value=nice(t);$("sugg").hidden=true;$("q").blur();
+  selT=t;$("q").value="";$("q").blur();
   recent=[t,...recent.filter(x=>x!==t)].slice(0,6);store.set("kn_recent",recent);store.set("kn_t",t);
   setMode("T");
 }
@@ -454,6 +457,7 @@ function board(s){
       :`<div class="brow none${c===selC?" sel":""}"><button class="k" data-goc="${c}">${c}</button><div class="v">Ders yok</div></div>`}).join("")}</div>`).join("");
   return`<section class="board"><div class="boardhead"><h2>Tüm sınıflar</h2><span>${title}</span></div><div class="bcols">${cols}</div></section>`;
 }
+document.addEventListener("click",e=>{if(e.target.closest("#backT")){selT=null;render();window.scrollTo({top:0})}});
 function render(){
   const s=state();
   $("liveSub").textContent=s.manual?"dön":liveShort();
@@ -462,9 +466,9 @@ function render(){
 
   if(mode==="T"){
     drawRecent();
-    if(!selT){$("tOut").innerHTML=`<p class="hint">Öğretmenin adını yazın. Şu an hangi sınıfta olduğu ve haftalık programı burada görünür.</p>`;return}
+    if(!selT){$("tOut").innerHTML=teacherList(s)+`<p class="sum">Turuncu: şu an girdiği sınıf · yeşil: boş · ok: teneffüsten sonraki sınıfı. Ada dokununca programı açılır.</p>`;return}
     const sch=T[selT];
-    $("tOut").innerHTML=nowCard(nice(selT)+(s.manual?" · seçilen saatte":" · şu an"),teacherNow(selT,s))+
+    $("tOut").innerHTML=`<button class="backbtn" type="button" id="backT">← Tüm öğretmenler</button>`+nowCard(nice(selT)+(s.manual?" · seçilen saatte":" · şu an"),teacherNow(selT,s))+
       schedule(
         (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},
         (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},s)+
