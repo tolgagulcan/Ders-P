@@ -138,6 +138,12 @@ nav.tabs{display:flex;gap:4px;margin:18px 0 14px;border-bottom:1px solid var(--l
 .daylist .c button.b{background:none;border:0;padding:2px 0;cursor:pointer;text-align:left;color:var(--navy);display:inline;margin-right:8px}
 .daylist li.empty .c{color:var(--muted);font-style:italic}
 .daylist li.cur{background:var(--accent-soft);box-shadow:inset 4px 0 0 var(--accent)}
+.daylist.compact li{grid-template-columns:28px 1fr;min-height:46px;padding:6px 14px}
+.daylist.compact .c{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.daylist.compact .c .a,.daylist.compact .c .b{display:inline}
+.daylist.compact .c .b{font-size:14.5px}
+.week.compact th.p{width:44px}
+.week.compact td .a,.week.compact td .b{display:inline;margin-right:6px}
 .daylist li.lunch{min-height:0;padding:4px 14px;grid-template-columns:1fr;text-align:center;font-family:var(--mono);font-size:11.5px;color:var(--muted);background:var(--bg)}
 
 /* ---- week table (desktop) ---- */
@@ -424,19 +430,19 @@ function classNow(c,s){
 const nowCard=(title,o)=>`<div class="now${o.free?" free":""}"><div class="who">${title}</div><div class="where">${o.where}</div>${o.what?`<div class="what">${o.what}</div>`:""}${o.next?`<div class="next">${o.next}</div>`:""}</div>`;
 
 // ---- schedules: phone day list + desktop table ----
-function schedule(phoneCell,deskCell,s){
+function schedule(phoneCell,deskCell,s,compact=false){
   const day=s.d??0;
-  let ph=`<div class="only-phone"><p class="dayhead">${DAYS[day]} programı</p><ul class="daylist">`;
+  let ph=`<div class="only-phone"><p class="dayhead">${DAYS[day]} programı</p><ul class="daylist${compact?" compact":""}">`;
   for(let p=0;p<8;p++){
     if(p===4)ph+=`<li class="lunch">Öğle arası · 12:15–12:50</li>`;
     const html=phoneCell(day,p),cur=s.d===day&&s.p===p,nx=!s.manual&&s.p==null&&s.next!=null&&s.d===day&&s.next===p;
-    ph+=`<li class="${html?"":"empty"}${cur?" cur":""}${nx?" nxt":""}"><div class="t"><b>${p+1}.</b>${P[p][0]}<br>${P[p][1]}</div><div class="c">${html||"Boş"}</div></li>`;
+    ph+=`<li class="${html?"":"empty"}${cur?" cur":""}${nx?" nxt":""}"><div class="t"><b>${p+1}.</b>${compact?"":`${P[p][0]}<br>${P[p][1]}`}</div><div class="c">${html||"Boş"}</div></li>`;
   }
   ph+=`</ul></div>`;
-  let dk=`<div class="only-desk gridwrap"><table class="week"><thead><tr><th class="p"></th>${DAYS.map((d,i)=>`<th class="${s.d===i?"today":""}">${d}</th>`).join("")}</tr></thead><tbody>`;
+  let dk=`<div class="only-desk gridwrap"><table class="week${compact?" compact":""}"><thead><tr><th class="p"></th>${DAYS.map((d,i)=>`<th class="${s.d===i?"today":""}">${d}</th>`).join("")}</tr></thead><tbody>`;
   for(let p=0;p<8;p++){
     if(p===4)dk+=`<tr class="lunch"><th></th><td colspan="5">Öğle arası 12:15–12:50</td></tr>`;
-    dk+=`<tr><th class="p"><b>${p+1}.</b>${P[p][0]}–${P[p][1]}</th>`;
+    dk+=`<tr><th class="p"><b>${p+1}.</b>${compact?"":`${P[p][0]}–${P[p][1]}`}</th>`;
     for(let d=0;d<5;d++){const html=deskCell(d,p);dk+=`<td class="${html?"":"empty"}${s.d===d&&s.p===p?" cur":""}${!s.manual&&s.p==null&&s.next!=null&&s.d===d&&s.next===p?" nxt":""}">${html}</td>`}
     dk+="</tr>";
   }
@@ -471,7 +477,7 @@ function render(){
     $("tOut").innerHTML=`<button class="backbtn" type="button" id="backT">← Tüm öğretmenler</button>`+nowCard(nice(selT)+(s.manual?" · seçilen saatte":" · şu an"),teacherNow(selT,s))+
       schedule(
         (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},
-        (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},s)+
+        (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},s,true)+
       `<p class="sum">Haftalık ${hours(selT)} saat · sınıfa dokununca sınıf programı açılır.</p>`;
   }else if(mode==="C"){
     drawClassPicker();
