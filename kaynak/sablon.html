@@ -1,0 +1,462 @@
+<title>Kim Nerede</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: slim sticky bell bar → (desktop: top tabs | phone: bottom nav) → "şu an" card → day list (phone) / week table (desktop) */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --ink:#16202c; --muted:#5d6b7c; --line:#d9dfe7;
+  --accent:#d9861a; --accent-ink:#1a1205; --accent-soft:#fdf0dc; --navy:#1d3a5c; --navy-soft:#e5edf6;
+  --free:#2f7d55; --free-soft:#e3f2ea; --shadow:rgba(10,20,35,.14);
+  --display:"Sora",system-ui,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+  --navh:64px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f151d; --surface:#17202b; --ink:#e8edf3; --muted:#93a1b2; --line:#2a3644;
+  --accent:#f0a33c; --accent-ink:#1a1205; --accent-soft:#3a2a12; --navy:#8fb6e0; --navy-soft:#1c2c40;
+  --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f151d; --surface:#17202b; --ink:#e8edf3; --muted:#93a1b2; --line:#2a3644;
+  --accent:#f0a33c; --accent-ink:#1a1205; --accent-soft:#3a2a12; --navy:#8fb6e0; --navy-soft:#1c2c40;
+  --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-tap-highlight-color:transparent}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--navy-soft)}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main.wrap{padding-block:0 40px}
+select,input,button{font:inherit;color:var(--ink)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* ---- bell bar ---- */
+header.bell{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;background:var(--navy-soft);border-bottom:1px solid var(--line)}
+.bell .wrap{padding-block:10px;display:flex;align-items:center;gap:12px}
+.brand{font-family:var(--display);font-weight:700;font-size:17px;letter-spacing:-.01em;color:var(--navy);white-space:nowrap}
+.brand small{display:block;font-family:var(--body);font-weight:400;font-size:12px;color:var(--muted);letter-spacing:0}
+.clock{font-family:var(--mono);font-size:20px;font-weight:500;font-variant-numeric:tabular-nums}
+.status{display:inline-flex;align-items:center;gap:7px;min-width:0;padding:6px 11px;border-radius:999px;background:var(--surface);border:1px solid var(--line);font-weight:500;font-size:13.5px}
+.status span:last-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.status .dot{flex:none;width:9px;height:9px;border-radius:50%;background:var(--accent)}
+.status.idle .dot{background:var(--muted)}
+.status.manual{background:var(--accent-soft);border-color:var(--accent)}
+.spacer{flex:1}
+.iconbtn{flex:none;width:44px;height:44px;display:grid;place-items:center;border-radius:12px;border:1px solid var(--line);background:var(--surface);cursor:pointer}
+.iconbtn svg{width:22px;height:22px;stroke:var(--ink);fill:none;stroke-width:1.8;stroke-linecap:round}
+.iconbtn[aria-expanded="true"],.iconbtn.on{border-color:var(--accent);background:var(--accent-soft)}
+.timepanel{border-top:1px solid var(--line);background:var(--surface)}
+.timepanel .wrap{padding-block:8px;display:grid;gap:6px}
+.row1{display:grid;grid-template-columns:auto repeat(5,minmax(0,1fr));gap:5px}
+.perrow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr)) 4px repeat(4,minmax(0,1fr));gap:5px}
+.tb{position:relative;min-width:0;min-height:44px;padding:4px 2px;border:1px solid var(--line);border-radius:10px;background:var(--bg);cursor:pointer;
+  font-family:var(--display);font-weight:600;font-size:14px;color:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.1}
+.tb small{font-family:var(--mono);font-weight:400;font-size:10.5px;color:var(--muted);margin-top:2px}
+.tb.now{box-shadow:inset 0 0 0 2px var(--accent)}
+.tb.today::after{content:"";position:absolute;top:5px;right:6px;width:6px;height:6px;border-radius:50%;background:var(--accent)}
+.tb[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
+.tb[aria-pressed="true"] small{color:var(--surface);opacity:.8}
+.timepanel.manual .tb[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.timepanel.manual .tb[aria-pressed="true"] small{color:var(--accent-ink)}
+.btn{min-height:44px;padding:0 14px;border-radius:10px;border:1px solid var(--line);background:var(--bg);cursor:pointer;font-weight:600;display:inline-flex;align-items:center;gap:7px;white-space:nowrap}
+.btn .ldot{width:8px;height:8px;border-radius:50%;background:var(--muted)}
+.btn.live{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.live .ldot{background:var(--accent-ink)}
+@media (prefers-reduced-motion:no-preference){.btn.live .ldot{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.3}}}
+
+/* ---- nav ---- */
+nav.tabs{display:flex;gap:4px;margin:18px 0 14px;border-bottom:1px solid var(--line)}
+.tab{display:flex;align-items:center;gap:8px;background:none;border:0;border-bottom:3px solid transparent;padding:10px 16px;font-family:var(--display);font-weight:600;font-size:15px;color:var(--muted);cursor:pointer;margin-bottom:-1px}
+.tab svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tab .badge{font-family:var(--mono);font-size:11px;background:var(--free-soft);color:var(--free);border-radius:999px;padding:1px 7px}
+
+/* ---- search ---- */
+.search{position:relative}
+.search input{width:100%;min-height:52px;font-size:17px;padding:12px 16px;border:1.5px solid var(--line);border-radius:14px;background:var(--surface)}
+.search input:focus{border-color:var(--navy);outline:none}
+.sugg{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--surface);border:1px solid var(--line);border-radius:14px;max-height:min(360px,55vh);overflow:auto;z-index:4;box-shadow:0 10px 28px var(--shadow);list-style:none;margin:0;padding:6px}
+.sugg li{min-height:46px;padding:10px 12px;border-radius:10px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.sugg li small{color:var(--muted);font-family:var(--mono);font-size:12px;white-space:nowrap}
+.sugg li[aria-selected="true"],.sugg li:hover{background:var(--navy-soft)}
+.recent{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
+.recent::-webkit-scrollbar{display:none}
+.recent .lbl{flex:none;align-self:center;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.pill{flex:none;min-height:40px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);cursor:pointer;font-size:14px;white-space:nowrap}
+.pill[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
+
+/* ---- class picker ---- */
+.seg{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:4px;background:var(--navy-soft);border-radius:14px}
+.seg button{min-height:44px;border:0;border-radius:10px;background:none;font-family:var(--display);font-weight:600;cursor:pointer;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px var(--shadow)}
+.subes{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px;margin-top:10px}
+.chip{min-height:48px;border-radius:12px;border:1px solid var(--line);background:var(--surface);cursor:pointer;font-family:var(--mono);font-weight:500;font-size:16px}
+.chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
+
+/* ---- now card ---- */
+.now{margin:16px 0;padding:16px 18px;border-radius:16px;background:var(--surface);border:1px solid var(--line);display:grid;gap:6px}
+.now .who{font-family:var(--display);font-size:12.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.now .where{font-family:var(--display);font-size:clamp(26px,7.5vw,40px);font-weight:700;letter-spacing:-.02em;line-height:1.1;text-wrap:balance}
+.now .where .big{color:var(--accent);font:inherit;background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px}
+.now .what{font-size:16px}
+.now .next{font-size:14px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px;margin-top:4px}
+.now.free .where{color:var(--free)}
+.link{background:none;border:0;padding:2px 0;color:var(--navy);text-decoration:underline;text-underline-offset:3px;cursor:pointer;font:inherit;font-weight:500}
+
+/* ---- day tabs + list (phone) ---- */
+.dayhead{font-family:var(--display);font-weight:600;font-size:14px;color:var(--muted);margin:4px 2px 8px}
+.daylist{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden}
+.daylist li{display:grid;grid-template-columns:64px 1fr;gap:12px;align-items:center;min-height:58px;padding:8px 14px;border-bottom:1px solid var(--line)}
+.daylist li:last-child{border-bottom:0}
+.daylist .t{font-family:var(--mono);font-size:12px;color:var(--muted);line-height:1.25}
+.daylist .t b{display:block;font-family:var(--display);font-size:16px;color:var(--ink)}
+.daylist .c{min-width:0}
+.daylist .c .a{display:block;font-weight:600;font-size:16px}
+.daylist .c button.a{background:none;border:0;padding:0;cursor:pointer;text-align:left;color:var(--navy);text-decoration:underline;text-underline-offset:3px;font-family:var(--mono)}
+.daylist .c .b{display:block;color:var(--muted);font-size:13.5px}
+.daylist .c button.b{background:none;border:0;padding:2px 0;cursor:pointer;text-align:left;color:var(--navy);display:inline;margin-right:8px}
+.daylist li.empty .c{color:var(--muted);font-style:italic}
+.daylist li.cur{background:var(--accent-soft);box-shadow:inset 4px 0 0 var(--accent)}
+.daylist li.lunch{min-height:0;padding:4px 14px;grid-template-columns:1fr;text-align:center;font-family:var(--mono);font-size:11.5px;color:var(--muted);background:var(--bg)}
+
+/* ---- week table (desktop) ---- */
+.gridwrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+table.week{border-collapse:collapse;width:100%;min-width:620px;table-layout:fixed}
+.week th,.week td{border-bottom:1px solid var(--line);border-right:1px solid var(--line);padding:7px 8px;vertical-align:top;text-align:left}
+.week tr>*:last-child{border-right:0}
+.week tbody tr:last-child>*{border-bottom:0}
+.week thead th{font-family:var(--display);font-weight:600;font-size:13px;background:var(--navy-soft);color:var(--navy)}
+.week th.p{width:86px;font-family:var(--mono);font-weight:400;font-size:12px;color:var(--muted);background:var(--surface)}
+.week th.p b{display:block;font-family:var(--display);font-size:14px;color:var(--ink)}
+.week td{font-size:13px;height:56px}
+.week td .a{font-weight:600;display:block}
+.week td .b{color:var(--muted);font-size:12px;display:block}
+.week td button.a,.week td button.b{background:none;border:0;padding:0;cursor:pointer;text-align:left}
+.week td button.a{color:var(--ink);font-size:13px}
+.week td button:hover{color:var(--navy);text-decoration:underline}
+.week td.empty{background:repeating-linear-gradient(135deg,transparent 0 6px,var(--bg) 6px 7px)}
+.week th.today{background:var(--accent-soft);color:var(--ink)}
+.week td.cur{background:var(--accent-soft);box-shadow:inset 0 0 0 2px var(--accent)}
+.week tr.lunch td,.week tr.lunch th{height:auto;padding:3px 8px;font-size:11px;color:var(--muted);background:var(--bg);text-align:center;font-family:var(--mono)}
+
+.board{margin-top:28px}
+.boardhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin:0 2px 10px}
+.boardhead h2{font-family:var(--display);font-size:18px;font-weight:700;margin:0}
+.boardhead span{font-size:13.5px;color:var(--muted)}
+.bcols{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;align-items:start}
+.bcol{border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden;min-width:0}
+.bcol h3{margin:0;padding:8px 12px;font-family:var(--display);font-size:13px;font-weight:600;color:var(--navy);background:var(--navy-soft)}
+.brow{display:grid;grid-template-columns:44px minmax(0,1fr);gap:8px;align-items:center;padding:7px 12px;border-top:1px solid var(--line);min-height:50px}
+.bcol h3+.brow{border-top:0}
+.brow .k{background:none;border:0;padding:0;cursor:pointer;font-family:var(--mono);font-weight:500;font-size:14px;color:var(--navy);text-decoration:underline;text-underline-offset:3px;text-align:left}
+.brow .v{min-width:0;font-size:13px;line-height:1.3}
+.brow .v b{display:block;font-weight:600}
+.brow .v button{background:none;border:0;padding:0;cursor:pointer;color:var(--muted);font-size:12.5px;text-align:left;margin-right:6px}
+.brow .v button:hover{color:var(--navy);text-decoration:underline}
+.brow.none .v{color:var(--muted);font-style:italic}
+.brow.sel{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
+@media (max-width:900px){.bcols{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:720px){.bcols{grid-template-columns:1fr}.brow{min-height:52px}.brow .v{font-size:14px}}
+.daylist li.nxt{box-shadow:inset 4px 0 0 var(--accent)}
+.week td.nxt{box-shadow:inset 0 0 0 2px var(--accent);outline-offset:-2px}
+.sum{font-size:13px;color:var(--muted);margin:8px 2px 0}
+.hint{color:var(--muted);font-size:14px;margin:14px 2px 0}
+.freehead{font-family:var(--display);font-weight:600;font-size:18px;margin:4px 0 2px}
+.freelist{list-style:none;margin:12px 0 0;padding:0;border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden}
+.freelist li{border-bottom:1px solid var(--line)}
+.freelist li:last-child{border-bottom:0}
+.freelist button{width:100%;min-height:52px;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:8px 16px;background:none;border:0;cursor:pointer;text-align:left;font-size:15px}
+.freelist small{color:var(--muted);font-size:12.5px;text-align:right}
+.freelist button:hover{background:var(--free-soft)}
+
+/* show table on wide screens, day list on phones */
+.only-phone{display:none}
+@media (max-width:720px){
+  .only-desk{display:none}
+  .only-phone{display:block}
+  .brand small{display:none}
+  .brand{font-size:15px}
+  .clock{font-size:17px}
+  nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:7;margin:0;border:0;border-top:1px solid var(--line);background:var(--surface);
+    display:grid;grid-template-columns:repeat(2,1fr);gap:0;
+    padding:0 max(8px,env(safe-area-inset-right,0px)) env(safe-area-inset-bottom,0px) max(8px,env(safe-area-inset-left,0px));
+    box-shadow:0 -4px 16px var(--shadow)}
+  .tab{flex-direction:column;justify-content:center;gap:2px;height:var(--navh);padding:6px 4px;border-bottom:0;border-top:3px solid transparent;margin:0;font-size:12px;position:relative}
+  .tab[aria-selected="true"]{border-top-color:var(--accent);border-bottom-color:transparent}
+  .tab .badge{position:absolute;top:6px;left:calc(50% + 8px)}
+  main.wrap{padding-block:14px calc(var(--navh) + env(safe-area-inset-bottom,0px) + 24px)}
+}
+@media (max-width:400px){.brand{display:none}}
+@media (prefers-reduced-motion:no-preference){.now{animation:in .22s ease-out}@keyframes in{from{transform:translateY(4px)}to{transform:none}}}
+</style>
+
+<header class="bell">
+  <div class="wrap">
+    <div class="brand">Kim Nerede<small>Halide Edip Adıvar Ortaokulu · 2026–2027</small></div>
+    <div class="clock" id="clock">--:--</div>
+    <div class="status" id="status"><span class="dot"></span><span id="statusText">…</span></div>
+  </div>
+  <div class="timepanel" id="timePanel">
+    <div class="wrap">
+      <div class="row1" id="dayRow"><button class="btn live" id="liveBtn" type="button" aria-pressed="true"><span class="ldot"></span>Canlı</button></div>
+      <div class="perrow" id="perRow"></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tabT" data-m="T" aria-selected="true" type="button">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1-4 4-6 8-6s7 2 8 6"/></svg>Öğretmen</button>
+    <button class="tab" role="tab" id="tabC" data-m="C" aria-selected="false" type="button">
+      <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="13" rx="2"/><path d="M8 21h8M12 17v4"/></svg>Sınıf</button>
+  </nav>
+
+  <section id="viewT">
+    <div class="search">
+      <input id="q" type="search" enterkeyhint="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Öğretmen ara…" aria-label="Öğretmen ara">
+      <ul class="sugg" id="sugg" role="listbox" hidden></ul>
+    </div>
+    <div class="recent" id="recent" hidden></div>
+    <div id="tOut"></div>
+  </section>
+
+  <section id="viewC" hidden>
+    <div class="seg" id="gradeSeg"></div>
+    <div class="subes" id="subes"></div>
+    <div id="cOut"></div>
+    <div id="board"></div>
+  </section>
+</main>
+
+<script>
+const DATA = __DATA__;
+const DAYS=["Pazartesi","Salı","Çarşamba","Perşembe","Cuma"];
+const DSHORT=["Pzt","Sal","Çar","Per","Cum"];
+const P=[["08:50","09:30"],["09:45","10:25"],["10:40","11:20"],["11:35","12:15"],["12:50","13:30"],["13:45","14:25"],["14:40","15:20"],["15:35","16:15"]];
+const toMin=s=>{const[h,m]=s.split(":").map(Number);return h*60+m};
+const PM=P.map(([a,b])=>[toMin(a),toMin(b)]);
+const tr=(a,b)=>a.localeCompare(b,"tr");
+const CLASSES=Object.keys(DATA).sort((a,b)=>{const[g1,s1]=a.split("/"),[g2,s2]=b.split("/");return g1-g2||tr(s1,s2)});
+
+const T={};
+for(const c of CLASSES)DATA[c].forEach((day,d)=>day.forEach((cell,p)=>{
+  if(!cell)return;const[ders,ts]=cell;
+  for(const t of ts){(T[t]??=DAYS.map(()=>Array(8).fill(null)))[d][p]={cls:c,ders}}
+}));
+const TEACH=Object.keys(T).sort((a,b)=>tr(a.replace("Dr. ",""),b.replace("Dr. ","")));
+const hours=t=>T[t].flat().filter(Boolean).length;
+const fold=s=>s.toLocaleUpperCase("tr").replace(/^DR\. /,"").replace(/[ÇĞİIÖŞÜÂÎÛ]/g,ch=>({Ç:"C",Ğ:"G",İ:"I",I:"I",Ö:"O",Ş:"S",Ü:"U",Â:"A",Î:"I",Û:"U"}[ch]));
+const nice=t=>t.split(" ").map(w=>w==="Dr."?w:w.charAt(0)+w.slice(1).toLocaleLowerCase("tr")).join(" ");
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const store={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(_){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(_){}}};
+
+// ---- time ----
+let manual=null;
+function istanbulNow(){
+  const parts=new Intl.DateTimeFormat("en-GB",{timeZone:"Europe/Istanbul",weekday:"short",hour:"2-digit",minute:"2-digit",hour12:false}).formatToParts(new Date());
+  const g=k=>parts.find(x=>x.type===k).value;
+  const wd={Mon:0,Tue:1,Wed:2,Thu:3,Fri:4,Sat:5,Sun:6}[g("weekday")];
+  const h=+g("hour")%24,m=+g("minute");
+  return{wd,min:h*60+m,label:String(h).padStart(2,"0")+":"+g("minute")};
+}
+function state(){
+  if(manual)return{d:manual.d,p:manual.p,kind:"ders",label:P[manual.p][0],manual:true};
+  return liveState();
+}
+function liveState(){
+  const n=istanbulNow();
+  if(n.wd>4)return{d:null,p:null,kind:"haftasonu",label:n.label};
+  for(let i=0;i<8;i++){
+    if(n.min>=PM[i][0]&&n.min<PM[i][1])return{d:n.wd,p:i,kind:"ders",label:n.label,left:PM[i][1]-n.min};
+    if(n.min<PM[i][0])return{d:n.wd,p:null,kind:i===0?"once":(i===4?"ogle":"teneffus"),next:i,label:n.label};
+  }
+  return{d:n.wd,p:null,kind:"sonra",label:n.label};
+}
+function statusText(s){
+  if(s.manual)return`${DSHORT[s.d]} · ${s.p+1}. ders ${P[s.p][0]}`;
+  switch(s.kind){
+    case"ders":return`${s.p+1}. ders · ${s.left} dk kaldı`;
+    case"teneffus":return`Teneffüs · ${s.next+1}. ders ${P[s.next][0]}`;
+    case"ogle":return`Öğle arası · 5. ders 12:50`;
+    case"once":return`Dersler 08:50'de`;
+    case"sonra":return`Dersler bitti`;
+    default:return`Hafta sonu`;
+  }
+}
+
+const $=id=>document.getElementById(id);
+DSHORT.forEach((d,i)=>$("dayRow").insertAdjacentHTML("beforeend",`<button class="tb" type="button" data-sd="${i}" aria-label="${DAYS[i]}">${d}</button>`));
+$("perRow").innerHTML=P.map((p,i)=>(i===4?`<span aria-hidden="true"></span>`:"")+`<button class="tb" type="button" data-sp="${i}" aria-label="${i+1}. ders ${p[0]}–${p[1]}">${i+1}<small>${p[0].replace(/^0/,"")}</small></button>`).join("");
+const liveDefault=()=>{const L=liveState();return{d:L.d??0,p:L.p??L.next??(L.kind==="sonra"?7:0)}};
+$("dayRow").addEventListener("click",e=>{const b=e.target.closest("[data-sd]");if(!b)return;manual={...(manual||liveDefault()),d:+b.dataset.sd};render()});
+$("perRow").addEventListener("click",e=>{const b=e.target.closest("[data-sp]");if(!b)return;manual={...(manual||liveDefault()),p:+b.dataset.sp};render()});
+$("liveBtn").onclick=()=>{manual=null;render()};
+function drawTimeButtons(s){
+  const live=!manual,L=liveState();
+  $("liveBtn").classList.toggle("live",live);$("liveBtn").setAttribute("aria-pressed",live);
+  $("timePanel").classList.toggle("manual",!live);
+  document.querySelectorAll("[data-sd]").forEach(b=>{const i=+b.dataset.sd;
+    b.setAttribute("aria-pressed",s.d===i);b.classList.toggle("today",L.d===i)});
+  const nowP=L.d===null?null:(L.p??(L.kind==="sonra"?null:L.next));
+  document.querySelectorAll("[data-sp]").forEach(b=>{const i=+b.dataset.sp;
+    b.setAttribute("aria-pressed",s.kind==="ders"&&s.p===i);
+    b.classList.toggle("now",!manual?false:(L.d===s.d&&nowP===i));
+    if(live)b.classList.toggle("now",L.kind!=="ders"&&nowP===i)});
+}
+
+let mode="T",selT=null,selC=null,grade=null;
+let recent=store.get("kn_recent",[]).filter(t=>T[t]);
+function setMode(m){
+  mode=m;["T","C"].forEach(k=>{$("tab"+k).setAttribute("aria-selected",k===m);$("view"+k).hidden=k!==m});
+  store.set("kn_mode",m);render();
+}
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{setMode(b.dataset.m);window.scrollTo({top:0})});
+
+// class picker
+const byGrade={};CLASSES.forEach(c=>(byGrade[c.split("/")[0]]??=[]).push(c));
+function drawClassPicker(){
+  $("gradeSeg").innerHTML=Object.keys(byGrade).map(g=>`<button type="button" data-g="${g}" aria-pressed="${g===grade}">${g}. sınıf</button>`).join("");
+  $("subes").innerHTML=(byGrade[grade]||[]).map(c=>`<button class="chip" type="button" data-c="${c}" aria-pressed="${c===selC}">${c}</button>`).join("");
+}
+$("gradeSeg").onclick=e=>{const b=e.target.closest("[data-g]");if(b){grade=b.dataset.g;drawClassPicker()}};
+$("subes").onclick=e=>{const b=e.target.closest("[data-c]");if(b)openClass(b.dataset.c)};
+
+// search
+let hi=0,matches=[];
+function showSugg(){
+  const q=fold($("q").value.trim());
+  if(!q||(selT&&$("q").value===nice(selT))){$("sugg").hidden=true;return}
+  const words=q.split(/\s+/);
+  matches=TEACH.filter(t=>{const f=fold(t);return words.every(w=>f.includes(w))}).slice(0,12);
+  hi=0;
+  $("sugg").innerHTML=matches.length?matches.map((t,i)=>`<li role="option" data-t="${esc(t)}" aria-selected="${i===0}">${esc(nice(t))}<small>${hours(t)} saat</small></li>`).join(""):`<li aria-disabled="true">Eşleşen öğretmen yok</li>`;
+  $("sugg").hidden=false;
+}
+$("q").addEventListener("input",showSugg);
+$("q").addEventListener("focus",()=>{$("q").select();showSugg()});
+$("q").addEventListener("keydown",e=>{
+  if($("sugg").hidden||!matches.length)return;
+  if(e.key==="ArrowDown"||e.key==="ArrowUp"){e.preventDefault();hi=(hi+(e.key==="ArrowDown"?1:-1)+matches.length)%matches.length;
+    [...$("sugg").children].forEach((li,i)=>li.setAttribute("aria-selected",i===hi));}
+  if(e.key==="Enter"){e.preventDefault();openTeacher(matches[hi])}
+  if(e.key==="Escape")$("sugg").hidden=true;
+});
+$("sugg").addEventListener("click",e=>{const li=e.target.closest("[data-t]");if(li)openTeacher(li.dataset.t)});
+document.addEventListener("click",e=>{if(!e.target.closest(".search"))$("sugg").hidden=true});
+
+function drawRecent(){
+  $("recent").hidden=!recent.length;
+  $("recent").innerHTML=`<span class="lbl">Son</span>`+recent.map(t=>`<button class="pill" type="button" data-got="${esc(t)}" aria-pressed="${t===selT}">${esc(nice(t))}</button>`).join("");
+}
+function openTeacher(t){
+  selT=t;$("q").value=nice(t);$("sugg").hidden=true;$("q").blur();
+  recent=[t,...recent.filter(x=>x!==t)].slice(0,6);store.set("kn_recent",recent);store.set("kn_t",t);
+  setMode("T");
+}
+function openClass(c){selC=c;grade=c.split("/")[0];store.set("kn_c",c);drawClassPicker();setMode("C")}
+document.addEventListener("click",e=>{
+  const a=e.target.closest("[data-goc]");if(a){openClass(a.dataset.goc);window.scrollTo({top:0});return}
+  const b=e.target.closest("[data-got]");if(b){openTeacher(b.dataset.got);window.scrollTo({top:0});return}
+});
+
+// ---- now ----
+function nextLesson(row,from){for(let i=from;i<8;i++)if(row[i])return i;return null}
+const clsLink=c=>`<button class="link" data-goc="${c}">${c}</button>`;
+function teacherNow(t,s){
+  if(s.d===null)return{where:"Hafta sonu",free:true,what:"Okulda ders yok."};
+  const row=T[t][s.d];
+  if(s.kind==="ders"){
+    const c=row[s.p],n=nextLesson(row,s.p+1);
+    const nx=n!==null?`Sonraki: ${n+1}. ders (${P[n][0]}) · ${clsLink(row[n].cls)} ${esc(row[n].ders)}`:"Bugün başka dersi yok.";
+    if(c)return{where:`<button class="big" data-goc="${c.cls}">${c.cls}</button> sınıfında`,what:`${esc(c.ders)} · ${s.p+1}. ders, ${P[s.p][0]}–${P[s.p][1]}`,next:nx};
+    return{where:"Bu saatte dersi yok",free:true,what:`${s.p+1}. ders boş (${P[s.p][0]}–${P[s.p][1]}).`,next:nx};
+  }
+  if(s.kind==="sonra")return{where:"Dersler bitti",free:true,what:`Bugün ${row.filter(Boolean).length} saat dersi vardı.`};
+  const n=nextLesson(row,s.next);
+  const lbl={teneffus:"Teneffüste",ogle:"Öğle arasında",once:"Dersler başlamadı"}[s.kind];
+  return{where:lbl,free:true,what:n!==null?`Sonraki dersi: ${n+1}. ders (${P[n][0]}) · ${clsLink(row[n].cls)} ${esc(row[n].ders)}`:"Bugün başka dersi yok."};
+}
+const tLinks=ts=>ts.map(t=>`<button class="link" data-got="${esc(t)}">${esc(nice(t))}</button>`).join(", ");
+function classNow(c,s){
+  if(s.d===null)return{where:"Hafta sonu",free:true,what:"Ders yok."};
+  const row=DATA[c][s.d];
+  if(s.kind==="ders"){
+    const cell=row[s.p],nxi=s.p+1<8&&row[s.p+1]?s.p+1:null;
+    const nx=nxi!==null?`Sonraki: ${nxi+1}. ders · ${esc(row[nxi][0])} · ${tLinks(row[nxi][1])}`:"Bu dersten sonra sınıfın dersi yok.";
+    if(cell)return{where:esc(cell[0]),what:`${tLinks(cell[1])} · ${s.p+1}. ders, ${P[s.p][0]}–${P[s.p][1]}`,next:nx};
+    return{where:"Bu saatte ders yok",free:true,what:`${s.p+1}. ders boş.`,next:nx};
+  }
+  if(s.kind==="sonra")return{where:"Dersler bitti",free:true,what:""};
+  const cell=row[s.next];
+  const lbl={teneffus:"Teneffüs",ogle:"Öğle arası",once:"Dersler başlamadı"}[s.kind];
+  return{where:lbl,free:true,what:cell?`Sıradaki: ${s.next+1}. ders (${P[s.next][0]}) · ${esc(cell[0])} · ${tLinks(cell[1])}`:""};
+}
+const nowCard=(title,o)=>`<div class="now${o.free?" free":""}"><div class="who">${title}</div><div class="where">${o.where}</div>${o.what?`<div class="what">${o.what}</div>`:""}${o.next?`<div class="next">${o.next}</div>`:""}</div>`;
+
+// ---- schedules: phone day list + desktop table ----
+function schedule(phoneCell,deskCell,s){
+  const day=s.d??0;
+  let ph=`<div class="only-phone"><p class="dayhead">${DAYS[day]} programı</p><ul class="daylist">`;
+  for(let p=0;p<8;p++){
+    if(p===4)ph+=`<li class="lunch">Öğle arası · 12:15–12:50</li>`;
+    const html=phoneCell(day,p),cur=s.d===day&&s.p===p,nx=!s.manual&&s.p==null&&s.next!=null&&s.d===day&&s.next===p;
+    ph+=`<li class="${html?"":"empty"}${cur?" cur":""}${nx?" nxt":""}"><div class="t"><b>${p+1}.</b>${P[p][0]}<br>${P[p][1]}</div><div class="c">${html||"Boş"}</div></li>`;
+  }
+  ph+=`</ul></div>`;
+  let dk=`<div class="only-desk gridwrap"><table class="week"><thead><tr><th class="p"></th>${DAYS.map((d,i)=>`<th class="${s.d===i?"today":""}">${d}</th>`).join("")}</tr></thead><tbody>`;
+  for(let p=0;p<8;p++){
+    if(p===4)dk+=`<tr class="lunch"><th></th><td colspan="5">Öğle arası 12:15–12:50</td></tr>`;
+    dk+=`<tr><th class="p"><b>${p+1}.</b>${P[p][0]}–${P[p][1]}</th>`;
+    for(let d=0;d<5;d++){const html=deskCell(d,p);dk+=`<td class="${html?"":"empty"}${s.d===d&&s.p===p?" cur":""}${!s.manual&&s.p==null&&s.next!=null&&s.d===d&&s.next===p?" nxt":""}">${html}</td>`}
+    dk+="</tr>";
+  }
+  dk+=`</tbody></table></div>`;
+  return ph+dk;
+}
+
+// whole-school board for the shown moment: current period, or the next one during breaks
+function board(s){
+  let p,title;
+  if(s.d===null)return`<section class="board"><div class="boardhead"><h2>Tüm sınıflar</h2><span>Hafta sonu · ders yok</span></div></section>`;
+  if(s.kind==="ders"){p=s.p;title=`${s.manual?DAYS[s.d]+" · ":"Şu an · "}${p+1}. ders, ${P[p][0]}–${P[p][1]}`}
+  else if(s.kind==="sonra")return`<section class="board"><div class="boardhead"><h2>Tüm sınıflar</h2><span>Bugünkü dersler bitti</span></div></section>`;
+  else{p=s.next;title=`Sıradaki: ${p+1}. ders, ${P[p][0]}'da başlıyor`}
+  const cols=Object.entries(byGrade).map(([g,cs])=>`<div class="bcol"><h3>${g}. sınıflar</h3>${cs.map(c=>{
+    const cell=DATA[c][s.d][p];
+    return cell?`<div class="brow${c===selC?" sel":""}"><button class="k" data-goc="${c}">${c}</button><div class="v"><b>${esc(cell[0])}</b>${cell[1].map(t=>`<button data-got="${esc(t)}">${esc(nice(t))}</button>`).join("")}</div></div>`
+      :`<div class="brow none${c===selC?" sel":""}"><button class="k" data-goc="${c}">${c}</button><div class="v">Ders yok</div></div>`}).join("")}</div>`).join("");
+  return`<section class="board"><div class="boardhead"><h2>Tüm sınıflar</h2><span>${title}</span></div><div class="bcols">${cols}</div></section>`;
+}
+function render(){
+  const s=state();
+  $("clock").textContent=s.manual?DSHORT[s.d]:s.label;
+  $("statusText").textContent=statusText(s);
+  $("status").classList.toggle("idle",s.kind!=="ders");
+  $("status").classList.toggle("manual",!!s.manual);
+  drawTimeButtons(s);
+
+
+  if(mode==="T"){
+    drawRecent();
+    if(!selT){$("tOut").innerHTML=`<p class="hint">Öğretmenin adını yazın. Şu an hangi sınıfta olduğu ve haftalık programı burada görünür.</p>`;return}
+    const sch=T[selT];
+    $("tOut").innerHTML=nowCard(nice(selT)+(s.manual?" · seçilen saatte":" · şu an"),teacherNow(selT,s))+
+      schedule(
+        (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},
+        (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},s)+
+      `<p class="sum">Haftalık ${hours(selT)} saat · sınıfa dokununca sınıf programı açılır.</p>`;
+  }else if(mode==="C"){
+    drawClassPicker();
+    $("board").innerHTML=board(s);
+    if(!selC){$("cOut").innerHTML=`<p class="hint">Bir şube seçince o sınıfın şu anki dersi ve programı burada görünür. Bütün okulun durumu aşağıda.</p>`;return}
+    const g=DATA[selC];
+    const cell=(d,p)=>{const c=g[d][p];return c?`<span class="a">${esc(c[0])}</span>${c[1].map(t=>`<button class="b" data-got="${esc(t)}">${esc(nice(t))}</button>`).join("")}`:""};
+    $("cOut").innerHTML=nowCard(selC+(s.manual?" · seçilen saatte":" · şu an"),classNow(selC,s))+schedule(cell,cell,s)+
+      `<p class="sum">Öğretmen adına dokununca öğretmenin programı açılır.</p>`;
+  }
+}
+
+// start in a working state: last selections, otherwise first entries as examples
+selT=null;selC=null;grade=Object.keys(byGrade)[0];
+$("q").value="";
+setMode("T");
+setInterval(()=>{if(!manual)render()},20000);
+</script>

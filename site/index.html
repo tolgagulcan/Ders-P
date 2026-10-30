@@ -1,0 +1,476 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#1d3a5c">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Kim Nerede</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: slim sticky bell bar → (desktop: top tabs | phone: bottom nav) → "şu an" card → day list (phone) / week table (desktop) */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --ink:#16202c; --muted:#5d6b7c; --line:#d9dfe7;
+  --accent:#d9861a; --accent-ink:#1a1205; --accent-soft:#fdf0dc; --navy:#1d3a5c; --navy-soft:#e5edf6;
+  --free:#2f7d55; --free-soft:#e3f2ea; --shadow:rgba(10,20,35,.14);
+  --display:"Sora",system-ui,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+  --navh:64px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f151d; --surface:#17202b; --ink:#e8edf3; --muted:#93a1b2; --line:#2a3644;
+  --accent:#f0a33c; --accent-ink:#1a1205; --accent-soft:#3a2a12; --navy:#8fb6e0; --navy-soft:#1c2c40;
+  --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f151d; --surface:#17202b; --ink:#e8edf3; --muted:#93a1b2; --line:#2a3644;
+  --accent:#f0a33c; --accent-ink:#1a1205; --accent-soft:#3a2a12; --navy:#8fb6e0; --navy-soft:#1c2c40;
+  --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-tap-highlight-color:transparent}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--navy-soft)}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main.wrap{padding-block:0 40px}
+select,input,button{font:inherit;color:var(--ink)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* ---- bell bar ---- */
+header.bell{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;background:var(--navy-soft);border-bottom:1px solid var(--line)}
+.bell .wrap{padding-block:10px;display:flex;align-items:center;gap:12px}
+.brand{font-family:var(--display);font-weight:700;font-size:17px;letter-spacing:-.01em;color:var(--navy);white-space:nowrap}
+.brand small{display:block;font-family:var(--body);font-weight:400;font-size:12px;color:var(--muted);letter-spacing:0}
+.clock{font-family:var(--mono);font-size:20px;font-weight:500;font-variant-numeric:tabular-nums}
+.status{display:inline-flex;align-items:center;gap:7px;min-width:0;padding:6px 11px;border-radius:999px;background:var(--surface);border:1px solid var(--line);font-weight:500;font-size:13.5px}
+.status span:last-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.status .dot{flex:none;width:9px;height:9px;border-radius:50%;background:var(--accent)}
+.status.idle .dot{background:var(--muted)}
+.status.manual{background:var(--accent-soft);border-color:var(--accent)}
+.spacer{flex:1}
+.iconbtn{flex:none;width:44px;height:44px;display:grid;place-items:center;border-radius:12px;border:1px solid var(--line);background:var(--surface);cursor:pointer}
+.iconbtn svg{width:22px;height:22px;stroke:var(--ink);fill:none;stroke-width:1.8;stroke-linecap:round}
+.iconbtn[aria-expanded="true"],.iconbtn.on{border-color:var(--accent);background:var(--accent-soft)}
+.timepanel{border-top:1px solid var(--line);background:var(--surface)}
+.timepanel .wrap{padding-block:8px;display:grid;gap:6px}
+.row1{display:grid;grid-template-columns:auto repeat(5,minmax(0,1fr));gap:5px}
+.perrow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr)) 4px repeat(4,minmax(0,1fr));gap:5px}
+.tb{position:relative;min-width:0;min-height:44px;padding:4px 2px;border:1px solid var(--line);border-radius:10px;background:var(--bg);cursor:pointer;
+  font-family:var(--display);font-weight:600;font-size:14px;color:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.1}
+.tb small{font-family:var(--mono);font-weight:400;font-size:10.5px;color:var(--muted);margin-top:2px}
+.tb.now{box-shadow:inset 0 0 0 2px var(--accent)}
+.tb.today::after{content:"";position:absolute;top:5px;right:6px;width:6px;height:6px;border-radius:50%;background:var(--accent)}
+.tb[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
+.tb[aria-pressed="true"] small{color:var(--surface);opacity:.8}
+.timepanel.manual .tb[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.timepanel.manual .tb[aria-pressed="true"] small{color:var(--accent-ink)}
+.btn{min-height:44px;padding:0 14px;border-radius:10px;border:1px solid var(--line);background:var(--bg);cursor:pointer;font-weight:600;display:inline-flex;align-items:center;gap:7px;white-space:nowrap}
+.btn .ldot{width:8px;height:8px;border-radius:50%;background:var(--muted)}
+.btn.live{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.live .ldot{background:var(--accent-ink)}
+@media (prefers-reduced-motion:no-preference){.btn.live .ldot{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.3}}}
+
+/* ---- nav ---- */
+nav.tabs{display:flex;gap:4px;margin:18px 0 14px;border-bottom:1px solid var(--line)}
+.tab{display:flex;align-items:center;gap:8px;background:none;border:0;border-bottom:3px solid transparent;padding:10px 16px;font-family:var(--display);font-weight:600;font-size:15px;color:var(--muted);cursor:pointer;margin-bottom:-1px}
+.tab svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tab .badge{font-family:var(--mono);font-size:11px;background:var(--free-soft);color:var(--free);border-radius:999px;padding:1px 7px}
+
+/* ---- search ---- */
+.search{position:relative}
+.search input{width:100%;min-height:52px;font-size:17px;padding:12px 16px;border:1.5px solid var(--line);border-radius:14px;background:var(--surface)}
+.search input:focus{border-color:var(--navy);outline:none}
+.sugg{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--surface);border:1px solid var(--line);border-radius:14px;max-height:min(360px,55vh);overflow:auto;z-index:4;box-shadow:0 10px 28px var(--shadow);list-style:none;margin:0;padding:6px}
+.sugg li{min-height:46px;padding:10px 12px;border-radius:10px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.sugg li small{color:var(--muted);font-family:var(--mono);font-size:12px;white-space:nowrap}
+.sugg li[aria-selected="true"],.sugg li:hover{background:var(--navy-soft)}
+.recent{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
+.recent::-webkit-scrollbar{display:none}
+.recent .lbl{flex:none;align-self:center;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.pill{flex:none;min-height:40px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);cursor:pointer;font-size:14px;white-space:nowrap}
+.pill[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
+
+/* ---- class picker ---- */
+.seg{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:4px;background:var(--navy-soft);border-radius:14px}
+.seg button{min-height:44px;border:0;border-radius:10px;background:none;font-family:var(--display);font-weight:600;cursor:pointer;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px var(--shadow)}
+.subes{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px;margin-top:10px}
+.chip{min-height:48px;border-radius:12px;border:1px solid var(--line);background:var(--surface);cursor:pointer;font-family:var(--mono);font-weight:500;font-size:16px}
+.chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
+
+/* ---- now card ---- */
+.now{margin:16px 0;padding:16px 18px;border-radius:16px;background:var(--surface);border:1px solid var(--line);display:grid;gap:6px}
+.now .who{font-family:var(--display);font-size:12.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.now .where{font-family:var(--display);font-size:clamp(26px,7.5vw,40px);font-weight:700;letter-spacing:-.02em;line-height:1.1;text-wrap:balance}
+.now .where .big{color:var(--accent);font:inherit;background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px}
+.now .what{font-size:16px}
+.now .next{font-size:14px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px;margin-top:4px}
+.now.free .where{color:var(--free)}
+.link{background:none;border:0;padding:2px 0;color:var(--navy);text-decoration:underline;text-underline-offset:3px;cursor:pointer;font:inherit;font-weight:500}
+
+/* ---- day tabs + list (phone) ---- */
+.dayhead{font-family:var(--display);font-weight:600;font-size:14px;color:var(--muted);margin:4px 2px 8px}
+.daylist{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden}
+.daylist li{display:grid;grid-template-columns:64px 1fr;gap:12px;align-items:center;min-height:58px;padding:8px 14px;border-bottom:1px solid var(--line)}
+.daylist li:last-child{border-bottom:0}
+.daylist .t{font-family:var(--mono);font-size:12px;color:var(--muted);line-height:1.25}
+.daylist .t b{display:block;font-family:var(--display);font-size:16px;color:var(--ink)}
+.daylist .c{min-width:0}
+.daylist .c .a{display:block;font-weight:600;font-size:16px}
+.daylist .c button.a{background:none;border:0;padding:0;cursor:pointer;text-align:left;color:var(--navy);text-decoration:underline;text-underline-offset:3px;font-family:var(--mono)}
+.daylist .c .b{display:block;color:var(--muted);font-size:13.5px}
+.daylist .c button.b{background:none;border:0;padding:2px 0;cursor:pointer;text-align:left;color:var(--navy);display:inline;margin-right:8px}
+.daylist li.empty .c{color:var(--muted);font-style:italic}
+.daylist li.cur{background:var(--accent-soft);box-shadow:inset 4px 0 0 var(--accent)}
+.daylist li.lunch{min-height:0;padding:4px 14px;grid-template-columns:1fr;text-align:center;font-family:var(--mono);font-size:11.5px;color:var(--muted);background:var(--bg)}
+
+/* ---- week table (desktop) ---- */
+.gridwrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+table.week{border-collapse:collapse;width:100%;min-width:620px;table-layout:fixed}
+.week th,.week td{border-bottom:1px solid var(--line);border-right:1px solid var(--line);padding:7px 8px;vertical-align:top;text-align:left}
+.week tr>*:last-child{border-right:0}
+.week tbody tr:last-child>*{border-bottom:0}
+.week thead th{font-family:var(--display);font-weight:600;font-size:13px;background:var(--navy-soft);color:var(--navy)}
+.week th.p{width:86px;font-family:var(--mono);font-weight:400;font-size:12px;color:var(--muted);background:var(--surface)}
+.week th.p b{display:block;font-family:var(--display);font-size:14px;color:var(--ink)}
+.week td{font-size:13px;height:56px}
+.week td .a{font-weight:600;display:block}
+.week td .b{color:var(--muted);font-size:12px;display:block}
+.week td button.a,.week td button.b{background:none;border:0;padding:0;cursor:pointer;text-align:left}
+.week td button.a{color:var(--ink);font-size:13px}
+.week td button:hover{color:var(--navy);text-decoration:underline}
+.week td.empty{background:repeating-linear-gradient(135deg,transparent 0 6px,var(--bg) 6px 7px)}
+.week th.today{background:var(--accent-soft);color:var(--ink)}
+.week td.cur{background:var(--accent-soft);box-shadow:inset 0 0 0 2px var(--accent)}
+.week tr.lunch td,.week tr.lunch th{height:auto;padding:3px 8px;font-size:11px;color:var(--muted);background:var(--bg);text-align:center;font-family:var(--mono)}
+
+.board{margin-top:28px}
+.boardhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin:0 2px 10px}
+.boardhead h2{font-family:var(--display);font-size:18px;font-weight:700;margin:0}
+.boardhead span{font-size:13.5px;color:var(--muted)}
+.bcols{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;align-items:start}
+.bcol{border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden;min-width:0}
+.bcol h3{margin:0;padding:8px 12px;font-family:var(--display);font-size:13px;font-weight:600;color:var(--navy);background:var(--navy-soft)}
+.brow{display:grid;grid-template-columns:44px minmax(0,1fr);gap:8px;align-items:center;padding:7px 12px;border-top:1px solid var(--line);min-height:50px}
+.bcol h3+.brow{border-top:0}
+.brow .k{background:none;border:0;padding:0;cursor:pointer;font-family:var(--mono);font-weight:500;font-size:14px;color:var(--navy);text-decoration:underline;text-underline-offset:3px;text-align:left}
+.brow .v{min-width:0;font-size:13px;line-height:1.3}
+.brow .v b{display:block;font-weight:600}
+.brow .v button{background:none;border:0;padding:0;cursor:pointer;color:var(--muted);font-size:12.5px;text-align:left;margin-right:6px}
+.brow .v button:hover{color:var(--navy);text-decoration:underline}
+.brow.none .v{color:var(--muted);font-style:italic}
+.brow.sel{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
+@media (max-width:900px){.bcols{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:720px){.bcols{grid-template-columns:1fr}.brow{min-height:52px}.brow .v{font-size:14px}}
+.daylist li.nxt{box-shadow:inset 4px 0 0 var(--accent)}
+.week td.nxt{box-shadow:inset 0 0 0 2px var(--accent);outline-offset:-2px}
+.sum{font-size:13px;color:var(--muted);margin:8px 2px 0}
+.hint{color:var(--muted);font-size:14px;margin:14px 2px 0}
+.freehead{font-family:var(--display);font-weight:600;font-size:18px;margin:4px 0 2px}
+.freelist{list-style:none;margin:12px 0 0;padding:0;border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden}
+.freelist li{border-bottom:1px solid var(--line)}
+.freelist li:last-child{border-bottom:0}
+.freelist button{width:100%;min-height:52px;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:8px 16px;background:none;border:0;cursor:pointer;text-align:left;font-size:15px}
+.freelist small{color:var(--muted);font-size:12.5px;text-align:right}
+.freelist button:hover{background:var(--free-soft)}
+
+/* show table on wide screens, day list on phones */
+.only-phone{display:none}
+@media (max-width:720px){
+  .only-desk{display:none}
+  .only-phone{display:block}
+  .brand small{display:none}
+  .brand{font-size:15px}
+  .clock{font-size:17px}
+  nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:7;margin:0;border:0;border-top:1px solid var(--line);background:var(--surface);
+    display:grid;grid-template-columns:repeat(2,1fr);gap:0;
+    padding:0 max(8px,env(safe-area-inset-right,0px)) env(safe-area-inset-bottom,0px) max(8px,env(safe-area-inset-left,0px));
+    box-shadow:0 -4px 16px var(--shadow)}
+  .tab{flex-direction:column;justify-content:center;gap:2px;height:var(--navh);padding:6px 4px;border-bottom:0;border-top:3px solid transparent;margin:0;font-size:12px;position:relative}
+  .tab[aria-selected="true"]{border-top-color:var(--accent);border-bottom-color:transparent}
+  .tab .badge{position:absolute;top:6px;left:calc(50% + 8px)}
+  main.wrap{padding-block:14px calc(var(--navh) + env(safe-area-inset-bottom,0px) + 24px)}
+}
+@media (max-width:400px){.brand{display:none}}
+@media (prefers-reduced-motion:no-preference){.now{animation:in .22s ease-out}@keyframes in{from{transform:translateY(4px)}to{transform:none}}}
+</style>
+</head>
+<body>
+
+
+<header class="bell">
+  <div class="wrap">
+    <div class="brand">Kim Nerede<small>Halide Edip Adıvar Ortaokulu · 2026–2027</small></div>
+    <div class="clock" id="clock">--:--</div>
+    <div class="status" id="status"><span class="dot"></span><span id="statusText">…</span></div>
+  </div>
+  <div class="timepanel" id="timePanel">
+    <div class="wrap">
+      <div class="row1" id="dayRow"><button class="btn live" id="liveBtn" type="button" aria-pressed="true"><span class="ldot"></span>Canlı</button></div>
+      <div class="perrow" id="perRow"></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tabT" data-m="T" aria-selected="true" type="button">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1-4 4-6 8-6s7 2 8 6"/></svg>Öğretmen</button>
+    <button class="tab" role="tab" id="tabC" data-m="C" aria-selected="false" type="button">
+      <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="13" rx="2"/><path d="M8 21h8M12 17v4"/></svg>Sınıf</button>
+  </nav>
+
+  <section id="viewT">
+    <div class="search">
+      <input id="q" type="search" enterkeyhint="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Öğretmen ara…" aria-label="Öğretmen ara">
+      <ul class="sugg" id="sugg" role="listbox" hidden></ul>
+    </div>
+    <div class="recent" id="recent" hidden></div>
+    <div id="tOut"></div>
+  </section>
+
+  <section id="viewC" hidden>
+    <div class="seg" id="gradeSeg"></div>
+    <div class="subes" id="subes"></div>
+    <div id="cOut"></div>
+    <div id="board"></div>
+  </section>
+</main>
+
+<script>
+const DATA = {"5/A":[[["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Türkçe",["ARZU PİRİÇ"]],["Türkçe",["ARZU PİRİÇ"]],["Fen Bilimleri",["MERVE TEKİN"]],["Fen Bilimleri",["MERVE TEKİN"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]]],[["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Matematik",["CANSU UZUNÇAM"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]]],[["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["Fen Bilimleri",["MERVE TEKİN"]],["Fen Bilimleri",["MERVE TEKİN"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]]],[["Türkçe",["ARZU PİRİÇ"]],["Türkçe",["ARZU PİRİÇ"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]]],[["Türkçe",["ARZU PİRİÇ"]],["Türkçe",["ARZU PİRİÇ"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]],["Kültür ve Med. Yön Ver.",["ARZU PİRİÇ"]],["Kültür ve Med. Yön Ver.",["ARZU PİRİÇ"]],["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]]]],"5/B":[[["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]],["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]]],[["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["Kültür ve Med. Yön Ver.",["EDA TUNÇ BULUT"]],["Kültür ve Med. Yön Ver.",["EDA TUNÇ BULUT"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]]],[["Matematik",["SELMA ÖZDİLEK"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]]],[["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]]],[["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]],["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]]]],"5/C":[[["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]]],[["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]]],[["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]]],[["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]]],[["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Kültür ve Med. Yön Ver.",["HİLAL İŞÖZEN"]],["Kültür ve Med. Yön Ver.",["HİLAL İŞÖZEN"]],["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Matematik",["CANSU UZUNÇAM"]]]],"5/D":[[["Din Kültürü ve Ahlak Bilgisi",["ÜNAL YEŞİLOĞLU"]],["Din Kültürü ve Ahlak Bilgisi",["ÜNAL YEŞİLOĞLU"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]]],[["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]]],[["Kültür ve Med. Yön Ver.",["NUR ÖZGENÇ"]],["Kültür ve Med. Yön Ver.",["NUR ÖZGENÇ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]]],[["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]]],[["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]]]],"5/E":[[["Sosyal Bilgiler",["AYFER BABACAN"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]]],[["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]]],[["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]]],[["Kültür ve Med. Yön Ver.",["EDA TUNÇ BULUT"]],["Kültür ve Med. Yön Ver.",["EDA TUNÇ BULUT"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]]],[["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]]]],"5/F":[[["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]]],[["Kültür ve Med. Yön Ver.",["EDA TUNÇ BULUT"]],["Kültür ve Med. Yön Ver.",["EDA TUNÇ BULUT"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]]],[["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["Fen Bilimleri",["MERVE TEKİN"]],["Fen Bilimleri",["MERVE TEKİN"]]],[["Matematik",["Dr. UĞUR KARAMAN"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Türkçe",["EDA TUNÇ BULUT"]],["Türkçe",["EDA TUNÇ BULUT"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]]],[["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Fen Bilimleri",["MERVE TEKİN"]],["Fen Bilimleri",["MERVE TEKİN"]]]],"5/G":[[["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]]],[["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]],["Matematik",["FİLİZ ERARSLAN"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]]],[["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]]],[["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]]],[["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],["Kültür ve Med. Yön Ver.",["FETHİYE AKBAŞ"]],["Kültür ve Med. Yön Ver.",["FETHİYE AKBAŞ"]]]],"5/H":[[["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]]],[["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Fen Bilimleri",["SEVAL TÜRKOĞLU"]],["Sosyal Bilgiler",["MEHTAP POLAT"]],["Sosyal Bilgiler",["MEHTAP POLAT"]]],[["Sosyal Bilgiler",["MEHTAP POLAT"]],["Matematik",["SELMA ÖZDİLEK"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]]],[["Almanca",["ESRA ŞAHAN"]],["Almanca",["ESRA ŞAHAN"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]]],[["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["Kültür ve Med. Yön Ver.",["ARZU GÜNDOĞDU"]],["Kültür ve Med. Yön Ver.",["ARZU GÜNDOĞDU"]],["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]]]],"6/A":[[["Matematik",["MUSTAFA ENGİN BAÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]]],[["Kültür ve Med. Yön Ver.",["AYFER BABACAN"]],["Kültür ve Med. Yön Ver.",["AYFER BABACAN"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]]],[["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Masal ve Destanlarımız",["NUR ÖZGENÇ"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Matematik ve Bilim Uyg.",["MUSTAFA ENGİN BAÇ"]],["Matematik ve Bilim Uyg.",["MUSTAFA ENGİN BAÇ"]]],[["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],["REHBERLİK",["NUR ÖZGENÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]]],[["Sosyal Bilgiler",["AYFER BABACAN"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Müzik",["SERKAN KAYA"]],["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],["Görsel Sanatlar",["GÜL OLGUN"]]]],"6/B":[[["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["Matematik ve Bilim Uyg.",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik ve Bilim Uyg.",["KAMERŞAH KARACAN KÜÇÜK"]]],[["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]]],[["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Kültür ve Med. Yön Ver.",["FAHRETTİN KARAASLAN"]],["Kültür ve Med. Yön Ver.",["FAHRETTİN KARAASLAN"]],["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]],["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]]],[["İngilizce",["BELGİN TEKÇE"]],["İngilizce",["BELGİN TEKÇE"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Masal ve Destanlarımız",["AHMET KOÇ"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]]],[["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]],["REHBERLİK",["GAMZE FİTNAT KILIÇ"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Müzik",["SERKAN KAYA"]]]],"6/C":[[["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Masal ve Destanlarımız",["AHMET KOÇ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["REHBERLİK",["AHMET KOÇ"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]]],[["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["Sosyal Bilgiler",["MEHTAP POLAT"]],["Sosyal Bilgiler",["MEHTAP POLAT"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]],["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]]],[["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]],["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]]],[["İngilizce",["AYLA ÇENSİ ÇEPA"]],["İngilizce",["AYLA ÇENSİ ÇEPA"]],["Matematik ve Bilim Uyg.",["CANSU UZUNÇAM"]],["Matematik ve Bilim Uyg.",["CANSU UZUNÇAM"]],["Kültür ve Med. Yön Ver.",["MEHTAP POLAT"]],["Kültür ve Med. Yön Ver.",["MEHTAP POLAT"]],["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]]],[["Müzik",["SERKAN KAYA"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["Matematik",["CANSU UZUNÇAM"]],["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]],["Sosyal Bilgiler",["MEHTAP POLAT"]]]],"6/D":[[["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["REHBERLİK",["FETHİYE AKBAŞ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]]],[["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["Görsel Sanatlar",["GÜL OLGUN"]]],[["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Matematik ve Bilim Uyg.",["YASEMİN PEKTAŞ"]],["Matematik ve Bilim Uyg.",["YASEMİN PEKTAŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]]],[["İngilizce",["NİLGÜN BERKİ"]],["İngilizce",["NİLGÜN BERKİ"]],["Matematik",["YASEMİN PEKTAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]]],[["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]],["Masal ve Destanlarımız",["FETHİYE AKBAŞ"]],["Müzik",["SERKAN KAYA"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Kültür ve Med. Yön Ver.",["TANER KASIMOĞLU"]],["Kültür ve Med. Yön Ver.",["TANER KASIMOĞLU"]]]],"6/E":[[["Matematik",["YEŞİM YILDIRIM"]],["Matematik",["YEŞİM YILDIRIM"]],["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]]],[["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Matematik",["YEŞİM YILDIRIM"]],["Sosyal Bilgiler",["MEHTAP POLAT"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]]],[["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Matematik",["YEŞİM YILDIRIM"]],["Matematik",["YEŞİM YILDIRIM"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]],["Beden Eğitimi ve Spor",["KADRİYE BÜŞRA YÜRÜK"]]],[["Kültür ve Med. Yön Ver.",["MEHTAP POLAT"]],["Kültür ve Med. Yön Ver.",["MEHTAP POLAT"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Masal ve Destanlarımız",["NEVİN ŞİŞMAN"]],["Müzik",["SERKAN KAYA"]],["Matematik ve Bilim Uyg.",["YEŞİM YILDIRIM"]],["Matematik ve Bilim Uyg.",["YEŞİM YILDIRIM"]]],[["İngilizce",["DİDEM ÇAKALOT"]],["İngilizce",["DİDEM ÇAKALOT"]],["REHBERLİK",["MEHTAP POLAT"]],["Sosyal Bilgiler",["MEHTAP POLAT"]],["Sosyal Bilgiler",["MEHTAP POLAT"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]]]],"6/F":[[["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Matematik",["YASEMİN PEKTAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]]],[["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["Masal ve Destanlarımız",["HİLAL İŞÖZEN"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["REHBERLİK",["FAHRETTİN KARAASLAN"]],["Matematik ve Bilim Uyg.",["YASEMİN PEKTAŞ"]],["Matematik ve Bilim Uyg.",["YASEMİN PEKTAŞ"]]],[["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Matematik",["YASEMİN PEKTAŞ"]],["Müzik",["SERKAN KAYA"]]],[["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["Matematik",["YASEMİN PEKTAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]]],[["İngilizce",["YAĞMUR GÜL"]],["İngilizce",["YAĞMUR GÜL"]],["Kültür ve Med. Yön Ver.",["FAHRETTİN KARAASLAN"]],["Kültür ve Med. Yön Ver.",["FAHRETTİN KARAASLAN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]]]],"6/G":[[["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Kültür ve Med. Yön Ver.",["TANER KASIMOĞLU"]],["Kültür ve Med. Yön Ver.",["TANER KASIMOĞLU"]]],[["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Masal ve Destanlarımız",["FETHİYE AKBAŞ"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],["REHBERLİK",["FİLİZ ERARSLAN"]]],[["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]]],[["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Matematik",["FİLİZ ERARSLAN"]],["Müzik",["SERKAN KAYA"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["Sosyal Bilgiler",["TANER KASIMOĞLU"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]]],[["Fen Bilimleri",["NEVİN KAYA"]],["Fen Bilimleri",["NEVİN KAYA"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["İngilizce",["DEVLET DENİZ YILMAZ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Türkçe",["FETHİYE AKBAŞ"]],["Matematik ve Bilim Uyg.",["FİLİZ ERARSLAN"]],["Matematik ve Bilim Uyg.",["FİLİZ ERARSLAN"]]]],"6/H":[[["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["Masal ve Destanlarımız",["OSMAN ÇELİK"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Matematik ve Bilim Uyg.",["YASEMİN PEKTAŞ"]],["Matematik ve Bilim Uyg.",["YASEMİN PEKTAŞ"]],["REHBERLİK",["MEHMET GÖKMEN PİRAHMETOĞLU"]]],[["Görsel Sanatlar",["GÜL OLGUN"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Müzik",["SERKAN KAYA"]],["Matematik",["YASEMİN PEKTAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["Kültür ve Med. Yön Ver.",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Kültür ve Med. Yön Ver.",["GÜLGÜN YONCA TÜRKÖZÜ"]]],[["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Matematik",["YASEMİN PEKTAŞ"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Türkçe",["OSMAN ÇELİK"]],["Türkçe",["OSMAN ÇELİK"]]],[["Matematik",["YASEMİN PEKTAŞ"]],["Matematik",["YASEMİN PEKTAŞ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Türkçe",["OSMAN ÇELİK"]],["Türkçe",["OSMAN ÇELİK"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]]],[["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Türkçe",["OSMAN ÇELİK"]],["Türkçe",["OSMAN ÇELİK"]],["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]]]],"6/İ":[[["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]],["Matematik ve Bilim Uyg.",["YEŞİM YILDIRIM"]],["Matematik ve Bilim Uyg.",["YEŞİM YILDIRIM"]]],[["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["Matematik",["YEŞİM YILDIRIM"]],["Matematik",["YEŞİM YILDIRIM"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Masal ve Destanlarımız",["ARZU GÜNDOĞDU"]],["Sosyal Bilgiler",["FAHRETTİN KARAASLAN"]]],[["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Matematik",["YEŞİM YILDIRIM"]],["Matematik",["YEŞİM YILDIRIM"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]]],[["Matematik",["YEŞİM YILDIRIM"]],["İngilizce",["DENİZ TOKGÖZ"]],["İngilizce",["DENİZ TOKGÖZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["REHBERLİK",["YEŞİM YILDIRIM"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]]],[["Kültür ve Med. Yön Ver.",["FAHRETTİN KARAASLAN"]],["Kültür ve Med. Yön Ver.",["FAHRETTİN KARAASLAN"]],["Almanca",["MERVE KARABAŞ"]],["Almanca",["MERVE KARABAŞ"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Müzik",["SERKAN KAYA"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]]]],"7/A":[[["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Matematik",["GAZEL PALAOĞLU"]],["Matematik",["GAZEL PALAOĞLU"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],null],[["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","TÜLİN ÜLGEN"]],["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","TÜLİN ÜLGEN"]],["REHBERLİK",["ARZU GÜNDOĞDU"]],["Matematik ve Bilim Uyg.",["GAZEL PALAOĞLU"]],["Matematik ve Bilim Uyg.",["GAZEL PALAOĞLU"]],null],[["Sosyal Bilgiler",["AYFER BABACAN"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Ahlak ve Yurttaşlık",["AYFER BABACAN"]],["Müzik",["SERKAN KAYA"]],["Görsel Sanatlar",["GÜL OLGUN"]],null],[["Türkçe",["ARZU GÜNDOĞDU"]],["Türkçe",["ARZU GÜNDOĞDU"]],["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Matematik",["GAZEL PALAOĞLU"]],["Fen Bilimleri",["MERVE TEKİN"]],["Fen Bilimleri",["MERVE TEKİN"]],null],[["Fen Bilimleri",["MERVE TEKİN"]],["Fen Bilimleri",["MERVE TEKİN"]],["Türkçe",["ARZU GÜNDOĞDU"]],["Görgü ve Nezaket",["MERVE TEKİN"]],["Görgü ve Nezaket",["MERVE TEKİN"]],["Matematik",["GAZEL PALAOĞLU"]],["Matematik",["GAZEL PALAOĞLU"]],null]],"7/B":[[["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],null],[["Matematik",["GAZEL PALAOĞLU"]],["Matematik",["GAZEL PALAOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Türkçe",["HİLAL İŞÖZEN"]],["Görgü ve Nezaket",["KADRİYE SEMA TUNÇ"]],["Görgü ve Nezaket",["KADRİYE SEMA TUNÇ"]],null],[["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["REHBERLİK",["HİLAL İŞÖZEN"]],null],[["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","ZERRİN KÖSE"]],["Müzik",["SERKAN KAYA"]],["Görsel Sanatlar",["ARZU GÖKALP"]],["Matematik",["GAZEL PALAOĞLU"]],null],[["Matematik",["GAZEL PALAOĞLU"]],["Matematik",["GAZEL PALAOĞLU"]],["Ahlak ve Yurttaşlık",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Matematik ve Bilim Uyg.",["BİLAL ÖZDEMİR"]],["Matematik ve Bilim Uyg.",["BİLAL ÖZDEMİR"]],null]],"7/C":[[["Türkçe",["OSMAN ÇELİK"]],["Türkçe",["OSMAN ÇELİK"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],null],[["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Görgü ve Nezaket",["ÖZNUR DÖKMECİ"]],["Görgü ve Nezaket",["ÖZNUR DÖKMECİ"]],["Ahlak ve Yurttaşlık",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],null],[["Türkçe",["OSMAN ÇELİK"]],["Türkçe",["OSMAN ÇELİK"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],null],[["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","HÜLYA ŞAHİN"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","HÜLYA ŞAHİN"]],["Türkçe",["OSMAN ÇELİK"]],["Matematik",["Dr. UĞUR KARAMAN"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["Müzik",["SERKAN KAYA"]],null],[["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["Matematik ve Bilim Uyg.",["Dr. UĞUR KARAMAN"]],["Matematik ve Bilim Uyg.",["Dr. UĞUR KARAMAN"]],["REHBERLİK",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],null]],"7/D":[[["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Matematik",["YEŞİM YILDIRIM"]],["Matematik",["YEŞİM YILDIRIM"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Görgü ve Nezaket",["KADRİYE SEMA TUNÇ"]],["Görgü ve Nezaket",["KADRİYE SEMA TUNÇ"]],null],[["Müzik",["SERKAN KAYA"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Matematik ve Bilim Uyg.",["YEŞİM YILDIRIM"]],["Matematik ve Bilim Uyg.",["YEŞİM YILDIRIM"]],null],[["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Matematik",["YEŞİM YILDIRIM"]],null],[["Ahlak ve Yurttaşlık",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Matematik",["YEŞİM YILDIRIM"]],["Matematik",["YEŞİM YILDIRIM"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],null],[["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["Fen Bilimleri",["KADRİYE SEMA TUNÇ"]],["REHBERLİK",["KADRİYE SEMA TUNÇ"]],["Sosyal Bilgiler",["GÜLGÜN YONCA TÜRKÖZÜ"]],["Türkçe",["NUR ÖZGENÇ"]],["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],null]],"7/E":[[["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],null],[["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Matematik ve Bilim Uyg.",["MUSTAFA ENGİN BAÇ"]],["Matematik ve Bilim Uyg.",["MUSTAFA ENGİN BAÇ"]],["REHBERLİK",["NEŞEM ÖZBAY"]],null],[["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Din Kültürü ve Ahlak Bilgisi",["ELİF ŞAHİN"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["Ahlak ve Yurttaşlık",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],null],[["Türkçe",["NUR ÖZGENÇ"]],["Görgü ve Nezaket",["GAMZE FİTNAT KILIÇ"]],["Görgü ve Nezaket",["GAMZE FİTNAT KILIÇ"]],["Görsel Sanatlar",["ARZU GÖKALP"]],["Matematik",["MUSTAFA ENGİN BAÇ"]],["İngilizce",["NEŞEM ÖZBAY"]],["İngilizce",["NEŞEM ÖZBAY"]],null],[["Türkçe",["NUR ÖZGENÇ"]],["Türkçe",["NUR ÖZGENÇ"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","AYŞEGÜL ÖZDEN"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","AYŞEGÜL ÖZDEN"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Müzik",["SERKAN KAYA"]],null]],"7/F":[[["Matematik",["GAZEL PALAOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Ahlak ve Yurttaşlık",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Matematik ve Bilim Uyg.",["GAZEL PALAOĞLU"]],["Matematik ve Bilim Uyg.",["GAZEL PALAOĞLU"]],null],[["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Matematik",["GAZEL PALAOĞLU"]],["Matematik",["GAZEL PALAOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Türkçe",["NEVİN ŞİŞMAN"]],null],[["Türkçe",["NEVİN ŞİŞMAN"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Müzik",["SERKAN KAYA"]],["İngilizce",["NURAY KARABİBER"]],["İngilizce",["NURAY KARABİBER"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],["Fen Bilimleri",["GAMZE FİTNAT KILIÇ"]],null],[["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["REHBERLİK",["NEVİN ŞİŞMAN"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","TÜLİN ÜLGEN"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","TÜLİN ÜLGEN"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],null],[["Görgü ve Nezaket",["GAMZE FİTNAT KILIÇ"]],["Görgü ve Nezaket",["GAMZE FİTNAT KILIÇ"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Matematik",["GAZEL PALAOĞLU"]],["Matematik",["GAZEL PALAOĞLU"]],["İngilizce",["NURAY KARABİBER"]],["İngilizce",["NURAY KARABİBER"]],null]],"7/G":[[["Türkçe",["HİLAL İŞÖZEN"]],["Müzik",["SERKAN KAYA"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["Matematik",["SELMA ÖZDİLEK"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","ZERRİN KÖSE"]],null],[["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Görgü ve Nezaket",["ÖZNUR DÖKMECİ"]],["Görgü ve Nezaket",["ÖZNUR DÖKMECİ"]],["Ahlak ve Yurttaşlık",["AYFER BABACAN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],null],[["Matematik ve Bilim Uyg.",["BİLAL ÖZDEMİR"]],["Matematik ve Bilim Uyg.",["BİLAL ÖZDEMİR"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],null],[["REHBERLİK",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],null],[["Türkçe",["HİLAL İŞÖZEN"]],["Türkçe",["HİLAL İŞÖZEN"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Sosyal Bilgiler",["AYFER BABACAN"]],["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]],["Görsel Sanatlar",["GÜL OLGUN"]],null]],"7/H":[[["Görgü ve Nezaket",["ÖZNUR DÖKMECİ"]],["Görgü ve Nezaket",["ÖZNUR DÖKMECİ"]],["Matematik",["SELMA ÖZDİLEK"]],["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],["Din Kültürü ve Ahlak Bilgisi",["ARZU SUBAZ"]],null],[["Ahlak ve Yurttaşlık",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Matematik ve Bilim Uyg.",["BİLAL ÖZDEMİR"]],["Matematik ve Bilim Uyg.",["BİLAL ÖZDEMİR"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]],null],[["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Matematik",["SELMA ÖZDİLEK"]],["Matematik",["SELMA ÖZDİLEK"]],null],[["Müzik",["SERKAN KAYA"]],["Görsel Sanatlar",["ARZU GÖKALP"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],["Türkçe",["AHMET KOÇ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],["Fen Bilimleri",["ÖZNUR DÖKMECİ"]],null],[["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["Sosyal Bilgiler",["İBRAHİM GÖKTÜRK BAYRAMOĞLU"]],["REHBERLİK",["VEFA KARATOPRAK"]],["Türkçe",["AHMET KOÇ"]],["Türkçe",["AHMET KOÇ"]],["İngilizce",["ZELİHA KUVAN"]],["İngilizce",["ZELİHA KUVAN"]],null]],"8/A":[[["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Türkçe",["OSMAN ÇELİK"]],["Türkçe",["OSMAN ÇELİK"]],null],[["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],["Müzik",["SERKAN KAYA"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],null],[["Çevr Ve İklim Değ.",["SEYHAN DURMUŞ"]],["Çevr Ve İklim Değ.",["SEYHAN DURMUŞ"]],["REHBERLİK",["HÜLYA ŞAHİN"]],["Türkçe",["OSMAN ÇELİK"]],["Türkçe",["OSMAN ÇELİK"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","AYŞEGÜL ÖZDEN"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","AYŞEGÜL ÖZDEN"]],null],[["Görsel Sanatlar",["ARZU GÖKALP"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Fen Bilimleri",["SEYHAN DURMUŞ"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],null],[["Görgü ve Nezaket",["OSMAN ÇELİK"]],["Görgü ve Nezaket",["OSMAN ÇELİK"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Matematik",["Dr. UĞUR KARAMAN"]],["Türkçe",["OSMAN ÇELİK"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],null]],"8/B":[[["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Türkçe",["SÜHEL YAVUZ"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],null],[["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],["Görsel Sanatlar",["GÜL OLGUN"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],null],[["Müzik",["SERKAN KAYA"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],null],[["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Çevr Ve İklim Değ.",["SEMİHA ERDOĞAN"]],["Çevr Ve İklim Değ.",["SEMİHA ERDOĞAN"]],["Türkçe",["SÜHEL YAVUZ"]],["Türkçe",["SÜHEL YAVUZ"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","AYŞEGÜL ÖZDEN"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","AYŞEGÜL ÖZDEN"]],null],[["Türkçe",["SÜHEL YAVUZ"]],["Türkçe",["SÜHEL YAVUZ"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["REHBERLİK",["AYŞEGÜL ÖZDEN"]],["Görgü ve Nezaket",["SÜHEL YAVUZ"]],["Görgü ve Nezaket",["SÜHEL YAVUZ"]],null]],"8/C":[[["Türkçe",["ARZU PİRİÇ"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Görgü ve Nezaket",["ARZU PİRİÇ"]],["Görgü ve Nezaket",["ARZU PİRİÇ"]],null],[["Türkçe",["ARZU PİRİÇ"]],["Türkçe",["ARZU PİRİÇ"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],null],[["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Ahlak ve Yurttaşlık",["MEHTAP POLAT"]],["Ahlak ve Yurttaşlık",["MEHTAP POLAT"]],["REHBERLİK",["SEMİHA ERDOĞAN"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],null],[["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Müzik",["SERKAN KAYA"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["Fen Bilimleri",["SEMİHA ERDOĞAN"]],["Türkçe",["ARZU PİRİÇ"]],["Türkçe",["ARZU PİRİÇ"]],null],[["Görsel Sanatlar",["GÜL OLGUN"]],["Çevr Ve İklim Değ.",["SEMİHA ERDOĞAN"]],["Çevr Ve İklim Değ.",["SEMİHA ERDOĞAN"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["T.C. İnk.Tar.ve Atatürkçülük",["MEHTAP POLAT"]],["T.C. İnk.Tar.ve Atatürkçülük",["MEHTAP POLAT"]],null]],"8/D":[[["Türkçe",["NEVİN ŞİŞMAN"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Müzik",["SERKAN KAYA"]],null],[["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],null],[["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["Çevr Ve İklim Değ.",["SEVAL KAYA CİRİT"]],["Çevr Ve İklim Değ.",["SEVAL KAYA CİRİT"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Türkçe",["NEVİN ŞİŞMAN"]],["Türkçe",["NEVİN ŞİŞMAN"]],null],[["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Görgü ve Nezaket",["NEVİN ŞİŞMAN"]],["Görgü ve Nezaket",["NEVİN ŞİŞMAN"]],null],[["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["REHBERLİK",["YASEMİN KAYMAZ"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","AYŞEGÜL ÖZDEN"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","AYŞEGÜL ÖZDEN"]],null]],"8/E":[[["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","ZERRİN KÖSE"]],["Ahlak ve Yurttaşlık",["TANER KASIMOĞLU"]],["Ahlak ve Yurttaşlık",["TANER KASIMOĞLU"]],["Türkçe",["AYŞE DİNGİL"]],null],[["Görgü ve Nezaket",["AYŞE DİNGİL"]],["Görgü ve Nezaket",["AYŞE DİNGİL"]],["REHBERLİK",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],null],[["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Müzik",["SERKAN KAYA"]],["Türkçe",["AYŞE DİNGİL"]],["Türkçe",["AYŞE DİNGİL"]],null],[["T.C. İnk.Tar.ve Atatürkçülük",["TANER KASIMOĞLU"]],["T.C. İnk.Tar.ve Atatürkçülük",["TANER KASIMOĞLU"]],["Çevr Ve İklim Değ.",["SEVAL KAYA CİRİT"]],["Çevr Ve İklim Değ.",["SEVAL KAYA CİRİT"]],["Görsel Sanatlar",["ARZU GÖKALP"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],null],[["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],["Matematik",["KAMERŞAH KARACAN KÜÇÜK"]],["Türkçe",["AYŞE DİNGİL"]],["Türkçe",["AYŞE DİNGİL"]],null]],"8/F":[[["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Türkçe",["AYŞE DİNGİL"]],["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],null],[["Çevr Ve İklim Değ.",["SEVAL KAYA CİRİT"]],["Çevr Ve İklim Değ.",["SEVAL KAYA CİRİT"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],["Türkçe",["AYŞE DİNGİL"]],["Türkçe",["AYŞE DİNGİL"]],null],[["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","AYŞEGÜL ÖZDEN"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","AYŞEGÜL ÖZDEN"]],["REHBERLİK",["AYŞE DİNGİL"]],["Görgü ve Nezaket",["AYŞE DİNGİL"]],["Görgü ve Nezaket",["AYŞE DİNGİL"]],["T.C. İnk.Tar.ve Atatürkçülük",["FAHRETTİN KARAASLAN"]],["T.C. İnk.Tar.ve Atatürkçülük",["FAHRETTİN KARAASLAN"]],null],[["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Fen Bilimleri",["SEVAL KAYA CİRİT"]],["Matematik",["FİLİZ ERARSLAN"]],null],[["İngilizce",["İSMİHAN KAPLAN"]],["İngilizce",["İSMİHAN KAPLAN"]],["Türkçe",["AYŞE DİNGİL"]],["Türkçe",["AYŞE DİNGİL"]],["Müzik",["SERKAN KAYA"]],["Ahlak ve Yurttaşlık",["FAHRETTİN KARAASLAN"]],["Ahlak ve Yurttaşlık",["FAHRETTİN KARAASLAN"]],null]],"8/G":[[["Müzik",["SERKAN KAYA"]],["Türkçe",["AYŞE DİNGİL"]],["Türkçe",["AYŞE DİNGİL"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],null],[["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","TÜLİN ÜLGEN"]],["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","TÜLİN ÜLGEN"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],null],[["Türkçe",["AYŞE DİNGİL"]],["Türkçe",["AYŞE DİNGİL"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["REHBERLİK",["CANDAN TOKAÇ"]],["İngilizce",["NURAY KARABİBER"]],["İngilizce",["NURAY KARABİBER"]],null],[["Çevr Ve İklim Değ.",["NEVİN GÖLOĞLU"]],["Çevr Ve İklim Değ.",["NEVİN GÖLOĞLU"]],["Görsel Sanatlar",["ARZU GÖKALP"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],null],[["Görgü ve Nezaket",["AYŞE DİNGİL"]],["Görgü ve Nezaket",["AYŞE DİNGİL"]],["İngilizce",["NURAY KARABİBER"]],["İngilizce",["NURAY KARABİBER"]],["Türkçe",["AYŞE DİNGİL"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],null]],"8/H":[[["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["TÜLİN ÜLGEN","ZERRİN KÖSE"]],["Görsel Sanatlar",["GÜL OLGUN"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Türkçe",["SÜHEL YAVUZ"]],["Türkçe",["SÜHEL YAVUZ"]],null],[["Görgü ve Nezaket",["SÜHEL YAVUZ"]],["Görgü ve Nezaket",["SÜHEL YAVUZ"]],["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["Türkçe",["SÜHEL YAVUZ"]],["Çevr Ve İklim Değ.",["ÖZLEM YORGANCILAR"]],["Çevr Ve İklim Değ.",["ÖZLEM YORGANCILAR"]],null],[["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["Ahlak ve Yurttaşlık",["CANDAN TOKAÇ"]],["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["Müzik",["SERKAN KAYA"]],null],[["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Türkçe",["SÜHEL YAVUZ"]],["Türkçe",["SÜHEL YAVUZ"]],null],[["Matematik",["AHMET SELİM ÇALIŞKAN"]],["Matematik",["AHMET SELİM ÇALIŞKAN"]],["REHBERLİK",["AHMET SELİM ÇALIŞKAN"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["T.C. İnk.Tar.ve Atatürkçülük",["CANDAN TOKAÇ"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],["İngilizce",["GÖKNİL GÖKTEPE ÜN"]],null]],"8/İ":[[["T.C. İnk.Tar.ve Atatürkçülük",["MEHTAP POLAT"]],["T.C. İnk.Tar.ve Atatürkçülük",["MEHTAP POLAT"]],["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],["Müzik",["SERKAN KAYA"]],["Ahlak ve Yurttaşlık",["MEHTAP POLAT"]],["Ahlak ve Yurttaşlık",["MEHTAP POLAT"]],null],[["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Türkçe",["ARZU PİRİÇ"]],["Türkçe",["ARZU PİRİÇ"]],["Görsel Sanatlar",["GÜL OLGUN"]],null],[["İngilizce",["NURAY KARABİBER"]],["İngilizce",["NURAY KARABİBER"]],["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["AYŞEGÜL ÖZDEN","ZERRİN KÖSE"]],["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["Fen Bilimleri",["ÖZLEM YORGANCILAR"]],["REHBERLİK",["ÖZLEM YORGANCILAR"]],null],[["İngilizce",["NURAY KARABİBER"]],["İngilizce",["NURAY KARABİBER"]],["Türkçe",["ARZU PİRİÇ"]],["Türkçe",["ARZU PİRİÇ"]],["Matematik",["FİLİZ ERARSLAN"]],["Çevr Ve İklim Değ.",["ÖZLEM YORGANCILAR"]],["Çevr Ve İklim Değ.",["ÖZLEM YORGANCILAR"]],null],[["Matematik",["FİLİZ ERARSLAN"]],["Matematik",["FİLİZ ERARSLAN"]],["Görgü ve Nezaket",["ARZU PİRİÇ"]],["Görgü ve Nezaket",["ARZU PİRİÇ"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Beden Eğitimi ve Spor",["VEFA KARATOPRAK"]],["Türkçe",["ARZU PİRİÇ"]],null]],"8/J":[[["Türkçe",["SÜHEL YAVUZ"]],["Türkçe",["SÜHEL YAVUZ"]],["Müzik",["SERKAN KAYA"]],["T.C. İnk.Tar.ve Atatürkçülük",["MEHTAP POLAT"]],["T.C. İnk.Tar.ve Atatürkçülük",["MEHTAP POLAT"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],null],[["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Türkçe",["SÜHEL YAVUZ"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],["Teknoloji ve Tasarım",["HÜLYA ŞAHİN","ZERRİN KÖSE"]],["Görgü ve Nezaket",["SÜHEL YAVUZ"]],["Görgü ve Nezaket",["SÜHEL YAVUZ"]],null],[["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["İngilizce",["MEHMET GÖKMEN PİRAHMETOĞLU"]],["Matematik",["CANSU UZUNÇAM"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Fen Bilimleri",["NEVİN GÖLOĞLU"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],["Din Kültürü ve Ahlak Bilgisi",["RABİA ÇAĞIRICI"]],null],[["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Beden Eğitimi ve Spor",["YASEMİN KAYMAZ"]],["Ahlak ve Yurttaşlık",["MEHTAP POLAT"]],["Ahlak ve Yurttaşlık",["MEHTAP POLAT"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]],["Görsel Sanatlar",["ARZU GÖKALP"]],null],[["Çevr Ve İklim Değ.",["NEVİN GÖLOĞLU"]],["Çevr Ve İklim Değ.",["NEVİN GÖLOĞLU"]],["REHBERLİK",["SÜHEL YAVUZ"]],["Türkçe",["SÜHEL YAVUZ"]],["Türkçe",["SÜHEL YAVUZ"]],["Matematik",["CANSU UZUNÇAM"]],["Matematik",["CANSU UZUNÇAM"]],null]]};
+const DAYS=["Pazartesi","Salı","Çarşamba","Perşembe","Cuma"];
+const DSHORT=["Pzt","Sal","Çar","Per","Cum"];
+const P=[["08:50","09:30"],["09:45","10:25"],["10:40","11:20"],["11:35","12:15"],["12:50","13:30"],["13:45","14:25"],["14:40","15:20"],["15:35","16:15"]];
+const toMin=s=>{const[h,m]=s.split(":").map(Number);return h*60+m};
+const PM=P.map(([a,b])=>[toMin(a),toMin(b)]);
+const tr=(a,b)=>a.localeCompare(b,"tr");
+const CLASSES=Object.keys(DATA).sort((a,b)=>{const[g1,s1]=a.split("/"),[g2,s2]=b.split("/");return g1-g2||tr(s1,s2)});
+
+const T={};
+for(const c of CLASSES)DATA[c].forEach((day,d)=>day.forEach((cell,p)=>{
+  if(!cell)return;const[ders,ts]=cell;
+  for(const t of ts){(T[t]??=DAYS.map(()=>Array(8).fill(null)))[d][p]={cls:c,ders}}
+}));
+const TEACH=Object.keys(T).sort((a,b)=>tr(a.replace("Dr. ",""),b.replace("Dr. ","")));
+const hours=t=>T[t].flat().filter(Boolean).length;
+const fold=s=>s.toLocaleUpperCase("tr").replace(/^DR\. /,"").replace(/[ÇĞİIÖŞÜÂÎÛ]/g,ch=>({Ç:"C",Ğ:"G",İ:"I",I:"I",Ö:"O",Ş:"S",Ü:"U",Â:"A",Î:"I",Û:"U"}[ch]));
+const nice=t=>t.split(" ").map(w=>w==="Dr."?w:w.charAt(0)+w.slice(1).toLocaleLowerCase("tr")).join(" ");
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const store={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(_){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(_){}}};
+
+// ---- time ----
+let manual=null;
+function istanbulNow(){
+  const parts=new Intl.DateTimeFormat("en-GB",{timeZone:"Europe/Istanbul",weekday:"short",hour:"2-digit",minute:"2-digit",hour12:false}).formatToParts(new Date());
+  const g=k=>parts.find(x=>x.type===k).value;
+  const wd={Mon:0,Tue:1,Wed:2,Thu:3,Fri:4,Sat:5,Sun:6}[g("weekday")];
+  const h=+g("hour")%24,m=+g("minute");
+  return{wd,min:h*60+m,label:String(h).padStart(2,"0")+":"+g("minute")};
+}
+function state(){
+  if(manual)return{d:manual.d,p:manual.p,kind:"ders",label:P[manual.p][0],manual:true};
+  return liveState();
+}
+function liveState(){
+  const n=istanbulNow();
+  if(n.wd>4)return{d:null,p:null,kind:"haftasonu",label:n.label};
+  for(let i=0;i<8;i++){
+    if(n.min>=PM[i][0]&&n.min<PM[i][1])return{d:n.wd,p:i,kind:"ders",label:n.label,left:PM[i][1]-n.min};
+    if(n.min<PM[i][0])return{d:n.wd,p:null,kind:i===0?"once":(i===4?"ogle":"teneffus"),next:i,label:n.label};
+  }
+  return{d:n.wd,p:null,kind:"sonra",label:n.label};
+}
+function statusText(s){
+  if(s.manual)return`${DSHORT[s.d]} · ${s.p+1}. ders ${P[s.p][0]}`;
+  switch(s.kind){
+    case"ders":return`${s.p+1}. ders · ${s.left} dk kaldı`;
+    case"teneffus":return`Teneffüs · ${s.next+1}. ders ${P[s.next][0]}`;
+    case"ogle":return`Öğle arası · 5. ders 12:50`;
+    case"once":return`Dersler 08:50'de`;
+    case"sonra":return`Dersler bitti`;
+    default:return`Hafta sonu`;
+  }
+}
+
+const $=id=>document.getElementById(id);
+DSHORT.forEach((d,i)=>$("dayRow").insertAdjacentHTML("beforeend",`<button class="tb" type="button" data-sd="${i}" aria-label="${DAYS[i]}">${d}</button>`));
+$("perRow").innerHTML=P.map((p,i)=>(i===4?`<span aria-hidden="true"></span>`:"")+`<button class="tb" type="button" data-sp="${i}" aria-label="${i+1}. ders ${p[0]}–${p[1]}">${i+1}<small>${p[0].replace(/^0/,"")}</small></button>`).join("");
+const liveDefault=()=>{const L=liveState();return{d:L.d??0,p:L.p??L.next??(L.kind==="sonra"?7:0)}};
+$("dayRow").addEventListener("click",e=>{const b=e.target.closest("[data-sd]");if(!b)return;manual={...(manual||liveDefault()),d:+b.dataset.sd};render()});
+$("perRow").addEventListener("click",e=>{const b=e.target.closest("[data-sp]");if(!b)return;manual={...(manual||liveDefault()),p:+b.dataset.sp};render()});
+$("liveBtn").onclick=()=>{manual=null;render()};
+function drawTimeButtons(s){
+  const live=!manual,L=liveState();
+  $("liveBtn").classList.toggle("live",live);$("liveBtn").setAttribute("aria-pressed",live);
+  $("timePanel").classList.toggle("manual",!live);
+  document.querySelectorAll("[data-sd]").forEach(b=>{const i=+b.dataset.sd;
+    b.setAttribute("aria-pressed",s.d===i);b.classList.toggle("today",L.d===i)});
+  const nowP=L.d===null?null:(L.p??(L.kind==="sonra"?null:L.next));
+  document.querySelectorAll("[data-sp]").forEach(b=>{const i=+b.dataset.sp;
+    b.setAttribute("aria-pressed",s.kind==="ders"&&s.p===i);
+    b.classList.toggle("now",!manual?false:(L.d===s.d&&nowP===i));
+    if(live)b.classList.toggle("now",L.kind!=="ders"&&nowP===i)});
+}
+
+let mode="T",selT=null,selC=null,grade=null;
+let recent=store.get("kn_recent",[]).filter(t=>T[t]);
+function setMode(m){
+  mode=m;["T","C"].forEach(k=>{$("tab"+k).setAttribute("aria-selected",k===m);$("view"+k).hidden=k!==m});
+  store.set("kn_mode",m);render();
+}
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{setMode(b.dataset.m);window.scrollTo({top:0})});
+
+// class picker
+const byGrade={};CLASSES.forEach(c=>(byGrade[c.split("/")[0]]??=[]).push(c));
+function drawClassPicker(){
+  $("gradeSeg").innerHTML=Object.keys(byGrade).map(g=>`<button type="button" data-g="${g}" aria-pressed="${g===grade}">${g}. sınıf</button>`).join("");
+  $("subes").innerHTML=(byGrade[grade]||[]).map(c=>`<button class="chip" type="button" data-c="${c}" aria-pressed="${c===selC}">${c}</button>`).join("");
+}
+$("gradeSeg").onclick=e=>{const b=e.target.closest("[data-g]");if(b){grade=b.dataset.g;drawClassPicker()}};
+$("subes").onclick=e=>{const b=e.target.closest("[data-c]");if(b)openClass(b.dataset.c)};
+
+// search
+let hi=0,matches=[];
+function showSugg(){
+  const q=fold($("q").value.trim());
+  if(!q||(selT&&$("q").value===nice(selT))){$("sugg").hidden=true;return}
+  const words=q.split(/\s+/);
+  matches=TEACH.filter(t=>{const f=fold(t);return words.every(w=>f.includes(w))}).slice(0,12);
+  hi=0;
+  $("sugg").innerHTML=matches.length?matches.map((t,i)=>`<li role="option" data-t="${esc(t)}" aria-selected="${i===0}">${esc(nice(t))}<small>${hours(t)} saat</small></li>`).join(""):`<li aria-disabled="true">Eşleşen öğretmen yok</li>`;
+  $("sugg").hidden=false;
+}
+$("q").addEventListener("input",showSugg);
+$("q").addEventListener("focus",()=>{$("q").select();showSugg()});
+$("q").addEventListener("keydown",e=>{
+  if($("sugg").hidden||!matches.length)return;
+  if(e.key==="ArrowDown"||e.key==="ArrowUp"){e.preventDefault();hi=(hi+(e.key==="ArrowDown"?1:-1)+matches.length)%matches.length;
+    [...$("sugg").children].forEach((li,i)=>li.setAttribute("aria-selected",i===hi));}
+  if(e.key==="Enter"){e.preventDefault();openTeacher(matches[hi])}
+  if(e.key==="Escape")$("sugg").hidden=true;
+});
+$("sugg").addEventListener("click",e=>{const li=e.target.closest("[data-t]");if(li)openTeacher(li.dataset.t)});
+document.addEventListener("click",e=>{if(!e.target.closest(".search"))$("sugg").hidden=true});
+
+function drawRecent(){
+  $("recent").hidden=!recent.length;
+  $("recent").innerHTML=`<span class="lbl">Son</span>`+recent.map(t=>`<button class="pill" type="button" data-got="${esc(t)}" aria-pressed="${t===selT}">${esc(nice(t))}</button>`).join("");
+}
+function openTeacher(t){
+  selT=t;$("q").value=nice(t);$("sugg").hidden=true;$("q").blur();
+  recent=[t,...recent.filter(x=>x!==t)].slice(0,6);store.set("kn_recent",recent);store.set("kn_t",t);
+  setMode("T");
+}
+function openClass(c){selC=c;grade=c.split("/")[0];store.set("kn_c",c);drawClassPicker();setMode("C")}
+document.addEventListener("click",e=>{
+  const a=e.target.closest("[data-goc]");if(a){openClass(a.dataset.goc);window.scrollTo({top:0});return}
+  const b=e.target.closest("[data-got]");if(b){openTeacher(b.dataset.got);window.scrollTo({top:0});return}
+});
+
+// ---- now ----
+function nextLesson(row,from){for(let i=from;i<8;i++)if(row[i])return i;return null}
+const clsLink=c=>`<button class="link" data-goc="${c}">${c}</button>`;
+function teacherNow(t,s){
+  if(s.d===null)return{where:"Hafta sonu",free:true,what:"Okulda ders yok."};
+  const row=T[t][s.d];
+  if(s.kind==="ders"){
+    const c=row[s.p],n=nextLesson(row,s.p+1);
+    const nx=n!==null?`Sonraki: ${n+1}. ders (${P[n][0]}) · ${clsLink(row[n].cls)} ${esc(row[n].ders)}`:"Bugün başka dersi yok.";
+    if(c)return{where:`<button class="big" data-goc="${c.cls}">${c.cls}</button> sınıfında`,what:`${esc(c.ders)} · ${s.p+1}. ders, ${P[s.p][0]}–${P[s.p][1]}`,next:nx};
+    return{where:"Bu saatte dersi yok",free:true,what:`${s.p+1}. ders boş (${P[s.p][0]}–${P[s.p][1]}).`,next:nx};
+  }
+  if(s.kind==="sonra")return{where:"Dersler bitti",free:true,what:`Bugün ${row.filter(Boolean).length} saat dersi vardı.`};
+  const n=nextLesson(row,s.next);
+  const lbl={teneffus:"Teneffüste",ogle:"Öğle arasında",once:"Dersler başlamadı"}[s.kind];
+  return{where:lbl,free:true,what:n!==null?`Sonraki dersi: ${n+1}. ders (${P[n][0]}) · ${clsLink(row[n].cls)} ${esc(row[n].ders)}`:"Bugün başka dersi yok."};
+}
+const tLinks=ts=>ts.map(t=>`<button class="link" data-got="${esc(t)}">${esc(nice(t))}</button>`).join(", ");
+function classNow(c,s){
+  if(s.d===null)return{where:"Hafta sonu",free:true,what:"Ders yok."};
+  const row=DATA[c][s.d];
+  if(s.kind==="ders"){
+    const cell=row[s.p],nxi=s.p+1<8&&row[s.p+1]?s.p+1:null;
+    const nx=nxi!==null?`Sonraki: ${nxi+1}. ders · ${esc(row[nxi][0])} · ${tLinks(row[nxi][1])}`:"Bu dersten sonra sınıfın dersi yok.";
+    if(cell)return{where:esc(cell[0]),what:`${tLinks(cell[1])} · ${s.p+1}. ders, ${P[s.p][0]}–${P[s.p][1]}`,next:nx};
+    return{where:"Bu saatte ders yok",free:true,what:`${s.p+1}. ders boş.`,next:nx};
+  }
+  if(s.kind==="sonra")return{where:"Dersler bitti",free:true,what:""};
+  const cell=row[s.next];
+  const lbl={teneffus:"Teneffüs",ogle:"Öğle arası",once:"Dersler başlamadı"}[s.kind];
+  return{where:lbl,free:true,what:cell?`Sıradaki: ${s.next+1}. ders (${P[s.next][0]}) · ${esc(cell[0])} · ${tLinks(cell[1])}`:""};
+}
+const nowCard=(title,o)=>`<div class="now${o.free?" free":""}"><div class="who">${title}</div><div class="where">${o.where}</div>${o.what?`<div class="what">${o.what}</div>`:""}${o.next?`<div class="next">${o.next}</div>`:""}</div>`;
+
+// ---- schedules: phone day list + desktop table ----
+function schedule(phoneCell,deskCell,s){
+  const day=s.d??0;
+  let ph=`<div class="only-phone"><p class="dayhead">${DAYS[day]} programı</p><ul class="daylist">`;
+  for(let p=0;p<8;p++){
+    if(p===4)ph+=`<li class="lunch">Öğle arası · 12:15–12:50</li>`;
+    const html=phoneCell(day,p),cur=s.d===day&&s.p===p,nx=!s.manual&&s.p==null&&s.next!=null&&s.d===day&&s.next===p;
+    ph+=`<li class="${html?"":"empty"}${cur?" cur":""}${nx?" nxt":""}"><div class="t"><b>${p+1}.</b>${P[p][0]}<br>${P[p][1]}</div><div class="c">${html||"Boş"}</div></li>`;
+  }
+  ph+=`</ul></div>`;
+  let dk=`<div class="only-desk gridwrap"><table class="week"><thead><tr><th class="p"></th>${DAYS.map((d,i)=>`<th class="${s.d===i?"today":""}">${d}</th>`).join("")}</tr></thead><tbody>`;
+  for(let p=0;p<8;p++){
+    if(p===4)dk+=`<tr class="lunch"><th></th><td colspan="5">Öğle arası 12:15–12:50</td></tr>`;
+    dk+=`<tr><th class="p"><b>${p+1}.</b>${P[p][0]}–${P[p][1]}</th>`;
+    for(let d=0;d<5;d++){const html=deskCell(d,p);dk+=`<td class="${html?"":"empty"}${s.d===d&&s.p===p?" cur":""}${!s.manual&&s.p==null&&s.next!=null&&s.d===d&&s.next===p?" nxt":""}">${html}</td>`}
+    dk+="</tr>";
+  }
+  dk+=`</tbody></table></div>`;
+  return ph+dk;
+}
+
+// whole-school board for the shown moment: current period, or the next one during breaks
+function board(s){
+  let p,title;
+  if(s.d===null)return`<section class="board"><div class="boardhead"><h2>Tüm sınıflar</h2><span>Hafta sonu · ders yok</span></div></section>`;
+  if(s.kind==="ders"){p=s.p;title=`${s.manual?DAYS[s.d]+" · ":"Şu an · "}${p+1}. ders, ${P[p][0]}–${P[p][1]}`}
+  else if(s.kind==="sonra")return`<section class="board"><div class="boardhead"><h2>Tüm sınıflar</h2><span>Bugünkü dersler bitti</span></div></section>`;
+  else{p=s.next;title=`Sıradaki: ${p+1}. ders, ${P[p][0]}'da başlıyor`}
+  const cols=Object.entries(byGrade).map(([g,cs])=>`<div class="bcol"><h3>${g}. sınıflar</h3>${cs.map(c=>{
+    const cell=DATA[c][s.d][p];
+    return cell?`<div class="brow${c===selC?" sel":""}"><button class="k" data-goc="${c}">${c}</button><div class="v"><b>${esc(cell[0])}</b>${cell[1].map(t=>`<button data-got="${esc(t)}">${esc(nice(t))}</button>`).join("")}</div></div>`
+      :`<div class="brow none${c===selC?" sel":""}"><button class="k" data-goc="${c}">${c}</button><div class="v">Ders yok</div></div>`}).join("")}</div>`).join("");
+  return`<section class="board"><div class="boardhead"><h2>Tüm sınıflar</h2><span>${title}</span></div><div class="bcols">${cols}</div></section>`;
+}
+function render(){
+  const s=state();
+  $("clock").textContent=s.manual?DSHORT[s.d]:s.label;
+  $("statusText").textContent=statusText(s);
+  $("status").classList.toggle("idle",s.kind!=="ders");
+  $("status").classList.toggle("manual",!!s.manual);
+  drawTimeButtons(s);
+
+
+  if(mode==="T"){
+    drawRecent();
+    if(!selT){$("tOut").innerHTML=`<p class="hint">Öğretmenin adını yazın. Şu an hangi sınıfta olduğu ve haftalık programı burada görünür.</p>`;return}
+    const sch=T[selT];
+    $("tOut").innerHTML=nowCard(nice(selT)+(s.manual?" · seçilen saatte":" · şu an"),teacherNow(selT,s))+
+      schedule(
+        (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},
+        (d,p)=>{const c=sch[d][p];return c?`<button class="a" data-goc="${c.cls}">${c.cls}</button><span class="b">${esc(c.ders)}</span>`:""},s)+
+      `<p class="sum">Haftalık ${hours(selT)} saat · sınıfa dokununca sınıf programı açılır.</p>`;
+  }else if(mode==="C"){
+    drawClassPicker();
+    $("board").innerHTML=board(s);
+    if(!selC){$("cOut").innerHTML=`<p class="hint">Bir şube seçince o sınıfın şu anki dersi ve programı burada görünür. Bütün okulun durumu aşağıda.</p>`;return}
+    const g=DATA[selC];
+    const cell=(d,p)=>{const c=g[d][p];return c?`<span class="a">${esc(c[0])}</span>${c[1].map(t=>`<button class="b" data-got="${esc(t)}">${esc(nice(t))}</button>`).join("")}`:""};
+    $("cOut").innerHTML=nowCard(selC+(s.manual?" · seçilen saatte":" · şu an"),classNow(selC,s))+schedule(cell,cell,s)+
+      `<p class="sum">Öğretmen adına dokununca öğretmenin programı açılır.</p>`;
+  }
+}
+
+// start in a working state: last selections, otherwise first entries as examples
+selT=null;selC=null;grade=Object.keys(byGrade)[0];
+$("q").value="";
+setMode("T");
+setInterval(()=>{if(!manual)render()},20000);
+</script>
+
+</body>
+</html>
