@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Ekim 2026 Ek Ders Ücretleri</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: tek sütun; üstte özet şeridi, altında araç çubuğu ve sıralanabilir liste */
+:root{
+  --bg:#f5f7f9; --surface:#ffffff; --fg:#17212b; --muted:#5d6b78; --line:#dde3e9;
+  --accent:#0f6b73; --accent-soft:#e3f1f2; --bar:#cfe3e5;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#11171d; --surface:#18212a; --fg:#e6ecf1; --muted:#93a2af; --line:#2a3642;
+  --accent:#5cc3cb; --accent-soft:#1c3438; --bar:#22444a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11171d; --surface:#18212a; --fg:#e6ecf1; --muted:#93a2af; --line:#2a3642;
+  --accent:#5cc3cb; --accent-soft:#1c3438; --bar:#22444a; color-scheme:dark}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.45;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 40px}
+.wrap{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+header{display:flex;flex-direction:column;gap:4px}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+h1{margin:0;font-size:clamp(22px,4.5vw,28px);font-weight:700;text-wrap:balance}
+.stats{display:flex;flex-wrap:wrap;gap:10px 28px;padding:14px 16px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+.stat{display:flex;flex-direction:column;gap:2px;min-width:0}
+.stat span{font-size:12px;color:var(--muted)}
+.stat b{font-family:var(--mono);font-size:17px;font-variant-numeric:tabular-nums;font-weight:500}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.search{flex:1 1 220px;min-width:0;font:inherit;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)}
+.search:focus-visible,.seg button:focus-visible,th button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.seg{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:inherit;font-size:14px;border:0;background:none;color:var(--fg);padding:8px 12px;cursor:pointer;white-space:nowrap}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"]{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.table-box{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow-x:auto}
+table{width:100%;border-collapse:collapse}
+th,td{padding:9px 14px;text-align:left;border-bottom:1px solid var(--line)}
+tr:last-child td{border-bottom:0}
+th{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;position:sticky;top:0;background:var(--surface)}
+th button{font:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+th button.on{color:var(--accent)}
+td.no{color:var(--muted);font-family:var(--mono);font-size:13px;width:2.5em;font-variant-numeric:tabular-nums}
+td.amt,th.amt{text-align:right}
+td.amt{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap;position:relative}
+.amt .v{position:relative;z-index:1}
+.amt .b{position:absolute;right:0;top:50%;height:60%;transform:translateY(-50%);background:var(--bar);border-radius:3px 0 0 3px;opacity:.7}
+tbody tr:hover td{background:var(--accent-soft)}
+.empty{padding:22px;text-align:center;color:var(--muted)}
+.note{font-size:13px;color:var(--muted);margin:0}
+@media (max-width:480px){th,td{padding:8px 10px}.seg button{padding:8px 9px;font-size:13px}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Halide Edip Adıvar Ortaokulu · Banka ödeme nüshası</div>
+    <h1>Ekim 2026 Ek Ders Ücretleri</h1>
+  </header>
+
+  <div class="stats" aria-live="polite">
+    <div class="stat"><span>Gösterilen kişi</span><b id="sCount">70</b></div>
+    <div class="stat"><span>Toplam</span><b id="sTotal">–</b></div>
+    <div class="stat"><span>En düşük</span><b id="sMin">–</b></div>
+    <div class="stat"><span>En yüksek</span><b id="sMax">–</b></div>
+  </div>
+
+  <div class="tools">
+    <input id="q" class="search" type="search" placeholder="İsim ara…" aria-label="İsim ara">
+    <div class="seg" role="group" aria-label="Sıralama">
+      <button type="button" data-k="amt-asc">Tutar ↑</button>
+      <button type="button" data-k="amt-desc">Tutar ↓</button>
+      <button type="button" data-k="name-asc">İsim A→Z</button>
+      <button type="button" data-k="name-desc">İsim Z→A</button>
+    </div>
+  </div>
+
+  <div class="table-box">
+    <table>
+      <thead><tr>
+        <th>#</th>
+        <th><button type="button" id="hName">Ad Soyad</button></th>
+        <th class="amt"><button type="button" id="hAmt">Hesaba geçecek tutar</button></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <p class="note">Başlıklara tıklayarak da sıralayabilirsiniz. Tutarlar ₺ cinsindendir.</p>
+</div>
+
+<script>
+const DATA=[
+["AHMET KOÇ",12131.44],["AHMET SELİM ÇALIŞKAN",3308.58],["AHMET TÜRKAN",19851.45],["ARZU GÜNDOĞDU",13234.30],
+["ARZU PİRİÇ",15440.02],["ARZU SUBAZ",26248.04],["AYFER BABACAN",11028.59],["AYLA ÇENSİ ÇEPA",15440.02],
+["AYŞE DİNGİL",14337.16],["AYŞEGÜL ÖZDEN",8551.57],["AYŞEGÜL TUNCER",19851.45],["BELGİN TEKCE",12131.44],
+["BİLAL ÖZDEMİR",24397.77],["BUKET YORGUN",24397.77],["CANDAN TOKAÇ",13234.30],["CANSU UZUNÇAM",15440.02],
+["DEMET ERKOLUKISA",18969.16],["DENİZ TOKGÖZ",13234.30],["DEVLET DENİZ YILMAZ",13234.30],["DİDEM ÇAKALOT",15440.02],
+["EDA TUNÇ BULUT",16984.02],["ELİF ŞAHİN",18748.60],["FAHRETTİN KARAASLAN",15440.02],["FETHİYE AKBAŞ",14778.30],
+["FİLİZ ERARSLAN",14778.30],["GAMZE FİTNAT KILIÇ",7720.02],["GAZEL PALAOĞLU",7720.01],["GÜL OLGUN",15219.45],
+["GÜLGÜN YONCA TÜRKÖZÜ",5955.44],["HİLAL İŞÖZEN",19520.59],["HÜLYA ŞAHIN",7278.87],["İBRAHİM GÖKTÜRK BAYRAMOĞLU",12352.02],
+["İSMİHAN KAPLAN",7720.02],["KADRİYE BÜŞRA YÜRÜK",14778.30],["KADRİYE SEMA TUNÇ",7720.02],["KAMERŞAH KARACAN KÜÇÜK",13918.07],
+["MEHMET GÖKMEN PİRAHMETOĞLU",13234.30],["MEHMET YAĞIZ",24397.77],["MEHTAP POLAT",14998.88],["MERVE KALKAN",9925.73],
+["MUSTAFA ENGİN BAÇ",11028.59],["MUSTAFA KARA",11910.87],["NEŞEM ÖZBAY",13234.30],["NEVİN ŞİŞMAN",11469.72],
+["NİLGÜN BERKİ",12131.44],["NUR ÖZGENÇ",19520.59],["NURAY KARABİBER",5734.86],["OSMAN ÇELİK",11028.59],
+["ÖZLEM YORGANCILAR",6617.16],["ÖZNUR DÖKMECİ",14778.30],["RABİA ÇAĞRICI",15881.16],["SELDA YILMAZ",15881.16],
+["SELMA ÖZDİLEK",13234.30],["SEMİHA ERDOĞAN",6617.16],["SERKAN KAYA",19410.31],["SEVAL KAYA CİRİT",5955.44],
+["SEVAL TÜRKOĞLU",6617.16],["SÜHEL YAVUZ",14337.16],["TANER KASIMOĞLU",13234.30],["TOLGA GÜLCAN",18307.45],
+["TÜLİN ÜLGEN",7278.88],["UĞUR KARAMAN",16454.65],["ÜNAL YEŞİLOĞLU",29566.43],["VEFA KARATOPRAK",23821.74],
+["YAĞMUR GÜL",15980.42],["YASEMİN KAYMAZ",18969.17],["YASEMİN PEKTAŞ",11028.58],["YEŞİM YILDIRIM",13675.44],
+["ZELİHA KUVAN",13225.48],["ZERRİN KÖSE",7371.51]
+];
+const fmt=new Intl.NumberFormat("tr-TR",{minimumFractionDigits:2,maximumFractionDigits:2});
+const tl=n=>fmt.format(n)+" ₺";
+const coll=new Intl.Collator("tr",{sensitivity:"base"});
+const MAX=Math.max(...DATA.map(d=>d[1]));
+let sortKey="amt-asc";
+try{const s=localStorage.getItem("ekders-sort");if(s)sortKey=s}catch(e){}
+
+const $=id=>document.getElementById(id);
+function norm(s){return s.toLocaleLowerCase("tr")}
+
+function render(){
+  const q=norm($("q").value.trim());
+  let list=DATA.filter(d=>!q||norm(d[0]).includes(q));
+  const [k,dir]=sortKey.split("-");
+  list.sort((a,b)=>{
+    let r=k==="amt"?(a[1]-b[1]):coll.compare(a[0],b[0]);
+    if(r===0)r=k==="amt"?coll.compare(a[0],b[0]):(a[1]-b[1]);
+    return dir==="asc"?r:-r;
+  });
+  const tb=$("rows");
+  if(!list.length){tb.innerHTML='<tr><td colspan="3" class="empty">Bu aramayla eşleşen isim yok.</td></tr>'}
+  else tb.innerHTML=list.map((d,i)=>
+    `<tr><td class="no">${i+1}</td><td>${d[0]}</td><td class="amt"><span class="b" style="width:${(d[1]/MAX*55).toFixed(1)}%"></span><span class="v">${tl(d[1])}</span></td></tr>`
+  ).join("");
+  const total=list.reduce((s,d)=>s+d[1],0);
+  $("sCount").textContent=list.length;
+  $("sTotal").textContent=list.length?tl(total):"–";
+  $("sMin").textContent=list.length?tl(Math.min(...list.map(d=>d[1]))):"–";
+  $("sMax").textContent=list.length?tl(Math.max(...list.map(d=>d[1]))):"–";
+  document.querySelectorAll(".seg button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.k===sortKey));
+  $("hName").classList.toggle("on",k==="name");$("hAmt").classList.toggle("on",k==="amt");
+  $("hName").textContent="Ad Soyad"+(k==="name"?(dir==="asc"?" ↑":" ↓"):"");
+  $("hAmt").textContent="Hesaba geçecek tutar"+(k==="amt"?(dir==="asc"?" ↑":" ↓"):"");
+}
+function setSort(k){sortKey=k;try{localStorage.setItem("ekders-sort",k)}catch(e){}render()}
+document.querySelectorAll(".seg button").forEach(b=>b.addEventListener("click",()=>setSort(b.dataset.k)));
+$("hName").addEventListener("click",()=>setSort(sortKey==="name-asc"?"name-desc":"name-asc"));
+$("hAmt").addEventListener("click",()=>setSort(sortKey==="amt-asc"?"amt-desc":"amt-asc"));
+$("q").addEventListener("input",render);
+render();
+</script>
+</body>
+</html>
