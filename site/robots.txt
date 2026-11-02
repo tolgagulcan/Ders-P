@@ -1,2 +1,15 @@
+# Arama motorları listelemesin; mesajlaşma uygulamaları bağlantı önizlemesi oluşturabilsin
+User-agent: WhatsApp
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
 User-agent: *
 Disallow: /

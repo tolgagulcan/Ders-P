@@ -1,8 +1,8 @@
-# Kim Nerede — Halide Edip Adıvar Ortaokulu
+# Ders-P (Kim Nerede) — Halide Edip Adıvar Ortaokulu
 
 İdarecilerin bir öğretmenin ya da sınıfın **şu an** nerede/hangi derste olduğunu gördüğü sayfa.
 
-Yayın adresi: https://halide-edip-kim-nerede.netlify.app
+Yayın adresi: https://halidedipadivar.netlify.app
 Netlify bu depoya bağlıdır; `main` dalına yapılan her gönderim siteyi otomatik günceller.
 
 ## Klasörler

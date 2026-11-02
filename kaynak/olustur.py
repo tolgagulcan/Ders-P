@@ -18,6 +18,7 @@ from pathlib import Path
 KOK = Path(__file__).resolve().parent.parent
 KAYNAK = KOK / "kaynak"
 SITE = KOK / "site"
+SITE_ADRESI = "https://halidedipadivar.netlify.app"
 GUNLER = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma"]
 
 
@@ -81,6 +82,16 @@ def site_uret(veri):
         '<meta name="apple-mobile-web-app-capable" content="yes">\n'
         '<meta name="mobile-web-app-capable" content="yes">\n'
         '<meta name="apple-mobile-web-app-title" content="Ders-P">\n'
+        # paylaşım önizlemesi (WhatsApp, Telegram vb.)
+        '<meta name="description" content="Halide Edip Adıvar Ortaokulu ders programı: öğretmen ve sınıf şu an nerede.">\n'
+        '<meta property="og:type" content="website">\n'
+        '<meta property="og:site_name" content="Ders-P">\n'
+        '<meta property="og:title" content="Ders-P">\n'
+        '<meta property="og:description" content="Halide Edip Adıvar Ortaokulu ders programı: öğretmen ve sınıf şu an nerede.">\n'
+        f'<meta property="og:url" content="{SITE_ADRESI}/">\n'
+        f'<meta property="og:image" content="{SITE_ADRESI}/icon-512.png">\n'
+        '<meta property="og:image:width" content="512">\n<meta property="og:image:height" content="512">\n'
+        '<meta name="twitter:card" content="summary">\n'
         '<meta name="application-name" content="Ders-P">\n'
         '<meta name="apple-mobile-web-app-status-bar-style" content="default">\n'
     )
