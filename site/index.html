@@ -46,6 +46,7 @@
   --accent:#f0a33c; --accent-ink:#1a1205; --accent-soft:#3a2a12; --navy:#8fb6e0; --navy-soft:#1c2c40;
   --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}
 *{box-sizing:border-box}
+html{touch-action:manipulation}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-tap-highlight-color:transparent}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
 .wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
@@ -70,18 +71,19 @@ header.bell{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;backgroun
 .iconbtn[aria-expanded="true"],.iconbtn.on{border-color:var(--accent);background:var(--accent-soft)}
 .timepanel{background:var(--surface)}
 .timepanel .wrap{padding-block:8px;display:grid;gap:6px}
-.row1{display:grid;grid-template-columns:auto repeat(5,minmax(0,1fr));gap:5px}
+.row1{display:grid;grid-template-columns:100px repeat(5,minmax(0,1fr));gap:5px}
 .perrow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr)) 4px repeat(4,minmax(0,1fr));gap:5px}
 .tb{position:relative;min-width:0;min-height:44px;padding:4px 2px;border:1px solid var(--line);border-radius:10px;background:var(--bg);cursor:pointer;
   font-family:var(--display);font-weight:600;font-size:14px;color:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.1}
 .tb small{font-family:var(--mono);font-weight:400;font-size:10.5px;color:var(--muted);margin-top:2px}
-.tb.now{box-shadow:inset 0 0 0 2px var(--accent)}
+.tb.isnow{box-shadow:inset 0 0 0 2px var(--accent)}
 .tb.today::after{content:"";position:absolute;top:5px;right:6px;width:6px;height:6px;border-radius:50%;background:var(--accent)}
 .tb[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--surface)}
 .tb[aria-pressed="true"] small{color:var(--surface);opacity:.8}
 .timepanel.manual .tb[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .timepanel.manual .tb[aria-pressed="true"] small{color:var(--accent-ink)}
 .btn{min-height:44px;padding:0 14px;border-radius:10px;border:1px solid var(--line);background:var(--bg);cursor:pointer;font-weight:600;display:inline-flex;align-items:center;gap:7px;white-space:nowrap}
+#liveBtn{padding:0 10px;min-width:0;overflow:hidden}
 .btn .lt{display:flex;flex-direction:column;align-items:flex-start;line-height:1.1}
 .btn .lt small{font-family:var(--mono);font-weight:500;font-size:11px;margin-top:2px;opacity:.85}
 .btn .ldot{width:8px;height:8px;border-radius:50%;background:var(--muted)}
@@ -310,12 +312,12 @@ function liveState(){
 function liveShort(){
   const L=liveState();
   switch(L.kind){
-    case"ders":return`${L.p+1}. ders · ${L.left} dk`;
+    case"ders":return`${L.left} dk kaldı`;
     case"teneffus":return"Teneffüs";
     case"ogle":return"Öğle arası";
-    case"once":return"08:50'de";
+    case"once":return"08:50";
     case"sonra":return"Bitti";
-    default:return"Hafta sonu";
+    default:return"Tatil";
   }
 }
 function statusText(s){
@@ -346,8 +348,8 @@ function drawTimeButtons(s){
   const nowP=L.d===null?null:(L.p??(L.kind==="sonra"?null:L.next));
   document.querySelectorAll("[data-sp]").forEach(b=>{const i=+b.dataset.sp;
     b.setAttribute("aria-pressed",s.kind==="ders"&&s.p===i);
-    b.classList.toggle("now",!manual?false:(L.d===s.d&&nowP===i));
-    if(live)b.classList.toggle("now",L.kind!=="ders"&&nowP===i)});
+    b.classList.toggle("isnow",!manual?false:(L.d===s.d&&nowP===i));
+    if(live)b.classList.toggle("isnow",L.kind!=="ders"&&nowP===i)});
 }
 
 let mode="T",selT=null,selC=null,grade=null;
