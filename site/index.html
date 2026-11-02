@@ -33,18 +33,18 @@
 :root{
   --bg:#f3f5f8; --surface:#ffffff; --ink:#16202c; --muted:#5d6b7c; --line:#d9dfe7;
   --accent:#d9861a; --accent-ink:#1a1205; --accent-soft:#fdf0dc; --navy:#1d3a5c; --navy-soft:#e5edf6;
-  --free:#2f7d55; --free-soft:#e3f2ea; --shadow:rgba(10,20,35,.14);
+  --free:#2f7d55; --red:#d62828; --free-soft:#e3f2ea; --shadow:rgba(10,20,35,.14);
   --display:"Sora",system-ui,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
   --navh:64px;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#0f151d; --surface:#17202b; --ink:#e8edf3; --muted:#93a1b2; --line:#2a3644;
   --accent:#f0a33c; --accent-ink:#1a1205; --accent-soft:#3a2a12; --navy:#8fb6e0; --navy-soft:#1c2c40;
-  --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}}
+  --free:#6cc79a; --red:#ef4444; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0f151d; --surface:#17202b; --ink:#e8edf3; --muted:#93a1b2; --line:#2a3644;
   --accent:#f0a33c; --accent-ink:#1a1205; --accent-soft:#3a2a12; --navy:#8fb6e0; --navy-soft:#1c2c40;
-  --free:#6cc79a; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}
+  --free:#6cc79a; --red:#ef4444; --free-soft:#15302a; --shadow:rgba(0,0,0,.45); color-scheme:dark}
 *{box-sizing:border-box}
 html{touch-action:manipulation}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-tap-highlight-color:transparent}
@@ -83,12 +83,13 @@ header.bell{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;backgroun
 .timepanel.manual .tb[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .timepanel.manual .tb[aria-pressed="true"] small{color:var(--accent-ink)}
 .btn{min-height:44px;padding:0 14px;border-radius:10px;border:1px solid var(--line);background:var(--bg);cursor:pointer;font-weight:600;display:inline-flex;align-items:center;gap:7px;white-space:nowrap}
-#liveBtn{padding:0 10px;min-width:0;overflow:hidden}
+#liveBtn{padding:0 8px;gap:6px;min-width:0;overflow:hidden}
+.btn .lt b{letter-spacing:.04em}
 .btn .lt{display:flex;flex-direction:column;align-items:flex-start;line-height:1.1}
 .btn .lt small{font-family:var(--mono);font-weight:500;font-size:11px;margin-top:2px;opacity:.85}
-.btn .ldot{width:8px;height:8px;border-radius:50%;background:var(--muted)}
+.btn .ldot{flex:none;width:9px;height:9px;border-radius:50%;background:var(--muted)}
 .btn.live{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
-.btn.live .ldot{background:var(--accent-ink)}
+.btn.live .ldot{background:var(--red);box-shadow:0 0 0 2px var(--surface)}
 @media (prefers-reduced-motion:no-preference){.btn.live .ldot{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.3}}}
 
 /* ---- nav ---- */
@@ -235,7 +236,7 @@ table.week{border-collapse:collapse;width:100%;min-width:620px;table-layout:fixe
 <header class="bell">
   <div class="timepanel" id="timePanel">
     <div class="wrap">
-      <div class="row1" id="dayRow"><button class="btn live" id="liveBtn" type="button" aria-pressed="true"><span class="ldot"></span><span class="lt"><b>Canlı</b><small id="liveSub">…</small></span></button></div>
+      <div class="row1" id="dayRow"><button class="btn live" id="liveBtn" type="button" aria-pressed="true"><span class="ldot"></span><span class="lt"><b>ŞU AN</b><small id="liveSub">…</small></span></button></div>
       <div class="perrow" id="perRow"></div>
     </div>
   </div>
