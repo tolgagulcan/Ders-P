@@ -10,6 +10,7 @@ Netlify bu depoya bağlıdır; `main` dalına yapılan her gönderim siteyi otom
 | Yol | İçerik |
 |---|---|
 | `site/` | Yayınlanan sayfa (Netlify sadece bu klasörü yayınlar) |
+| `site/d3.html` | D3 öğrenme senaryoları özet sayfası (öğretmenler için; veri sayfanın içinde, `S` dizisi) |
 | `kaynak/sablon.html` | Sayfanın tasarımı ve kodu; `__DATA__` yerine program verisi konur |
 | `kaynak/data.json` | Ders programı verisi: `sınıf → [gün][ders saati] = [ders, [öğretmenler]]` |
 | `kaynak/olustur.py` | PDF'i okuyup `data.json` ve `site/index.html` üretir |
