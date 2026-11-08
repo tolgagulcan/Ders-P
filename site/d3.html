@@ -53,6 +53,12 @@ details ul{margin:8px 0 0;padding-left:18px}
 details li{margin:3px 0}
 a{color:var(--link)}
 .pdf{display:inline-block;margin-top:16px;background:#1d3a5c;color:#fff;text-decoration:none;padding:9px 16px;border-radius:8px;font-weight:600;font-size:15px}
+.item{display:block;width:100%;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px;font:inherit;color:var(--ink);cursor:pointer}
+.item:hover{border-color:var(--accent)}
+.item .t{font-size:18px;font-weight:600;margin:4px 0 2px;display:flex;justify-content:space-between;gap:8px}
+.item .t span{color:var(--muted)}
+.item p{margin:0;color:var(--muted);font-size:14px}
+.back{background:none;border:0;color:var(--link);font:inherit;font-weight:600;cursor:pointer;padding:4px 0 14px}
 .empty{color:var(--muted);text-align:center;padding:40px 0}
 footer{color:var(--muted);font-size:13px;text-align:center;padding:0 16px 32px}
 @media (max-width:560px){h1{font-size:22px}.card{padding:16px}h2{font-size:19px}}
@@ -225,14 +231,33 @@ function card(s){
   </article>`;
 }
 
+function item(s){
+  return `<button class="item" data-i="${S.indexOf(s)}">
+  <div class="meta"><span class="tag b">${esc(s.brans)}</span><span class="tag">${s.sinif}. sınıf</span><span class="tag">${s.sure} ders saati</span></div>
+  <div class="t">${esc(s.ad)}<span>›</span></div>
+  <p>${esc(s.ozet)}</p></button>`;
+}
+
 function render(){
+  const el = document.getElementById("liste");
+  const sec = parseInt((location.hash.match(/^#s=(\d+)$/)||[])[1]);
+  if (S[sec]) {
+    document.querySelector(".bar").style.display = "none";
+    el.innerHTML = `<button class="back" id="geri">← Tüm konular</button>` + card(S[sec]);
+    document.getElementById("geri").onclick = () => history.length > 1 ? history.back() : (location.hash = "");
+    window.scrollTo(0, 0);
+    return;
+  }
+  document.querySelector(".bar").style.display = "";
   const ayList = S.filter(s => s.ay === st.ay);
   const branslar = ["Tümü", ...new Set(ayList.map(s => s.brans))];
   chips(document.getElementById("aylar"), AYLAR, "ay");
   chips(document.getElementById("branslar"), branslar, "brans");
   const list = ayList.filter(s => st.brans === "Tümü" || s.brans === st.brans);
-  document.getElementById("liste").innerHTML = list.length ? list.map(card).join("") : `<p class="empty">Bu ay için senaryo yok.</p>`;
+  el.innerHTML = list.length ? list.map(item).join("") : `<p class="empty">Bu ay için senaryo yok.</p>`;
+  el.querySelectorAll(".item").forEach(b => b.onclick = () => { location.hash = "s=" + b.dataset.i; });
 }
+window.addEventListener("hashchange", render);
 render();
 </script>
 </body>
