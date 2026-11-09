@@ -1,0 +1,203 @@
+[
+ {
+  "id": 204,
+  "unite": "Canlılarda Sistemler",
+  "ad": "Çimlenen Tohumlar",
+  "ozet": "Tohumun çimlenmesi ay çekirdeği ikramı, video ve beyin fırtınasıyla başlar; öğrenciler laboratuvarda hipotez kurup değişkenleri kontrol ettikleri bir çimlenme deneyi yapar, Düşün-Eşleş-Paylaş ile hava, su ve uygun sıcaklık sonucuna ulaşır, son derste hidroponik tarım posteri hazırlar.",
+  "ozu": "<p>Senaryonun kalbi bir <b>bilimsel deney</b>: öğrenciler “Bir tohumu nasıl uyandırırız?” sorusuna verdikleri cevaplardan değişken seçiyor, hipotez kuruyor, bağımlı-bağımsız-sabit değişkenleri belirleyip deney düzeneği kuruyor ve günlerce gözlem yapıp veriyi tablo ve grafiğe döküyor. Ardından tartışmayla çimlenmenin üç temel şartı (hava, su, uygun sıcaklık) netleştiriliyor; ışığın çimlenme için şart olmadığına özellikle dikkat çekiliyor. Konu hidroponik (topraksız) tarım araştırması ve “Yeşil Vatan” temalı tohum topu etkinliğiyle günlük hayata bağlanıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen bir avuç ay çekirdeği getirir."
+   ],
+   [
+    "1. ders",
+    "Öğretmen ay çekirdeği yer, öğrencilere ikram eder ve “Bu nedir, bitkinin yaşam döngüsündeki işlevi ne?” diye sorar; cevaplar “bir bitkinin tohumu”na yönlendirilir, üreme şartları ve tozlaşma hatırlatılır. “Hiç tohum ektiniz mi?” sorusunun ardından Günaydın Tohum videosu izlenir ve “Bu süreci hızlandırmak için ne yapabiliriz?” tartışılır. Tohumdan Bitkiye oyunuyla büyüme-gelişme aşamaları yoklanır ve çimlenmenin tanımı yapılır. Bir Tohumu Nasıl Uyandırırız? dijital panosunda öğrenciler çimlenme için neyin gerektiğine dair fikirlerini yazar; bunlar sonraki derste kullanılacaktır."
+   ],
+   [
+    "2. ders",
+    "Laboratuvarda dört grup kurulur. Panodaki fikirlerden beşi değişken olarak seçilip Hipotezimizi Kuralım etkinliğine yazılır; oksijensiz ortam oluşturulamayacağı için oksijen etkisi yalnızca anlatılır. Her grup bir faktör seçip hipotez kurar, görev dağılımı yapar ve hipotezinin doğruluğuna dair tahminini yazar. Hipotezimizi Test Edelim yönergesi ve malzemeler dağıtılır; bağımlı, bağımsız ve kontrol edilen değişkenler açıklanır ve gruplar deney düzeneğini kurar. Görevli öğrenciler tohumları her gün gözlemleyip çizer ve çimlenme durumunu tablo-grafik aracına kaydeder."
+   ],
+   [
+    "Ders sonrası (2. ders)",
+    "Gruplar Hipotezimizi Test Edelim Gözlem Formu'na verileri kaydeder ve sonuçlarını EBA'da paylaşır, Grup Değerlendirme Formu'nu doldurur. Öğrenciler EBA'daki Tohumun Çimlenmesi etkileşimli içeriğini yapar.",
+    "2"
+   ],
+   [
+    "3. ders",
+    "Düşün-Eşleş-Paylaş yönergesi dağıtılır ve tahtaya “Bir tohumun çimlenmesi için hangi çevresel faktörler kesinlikle gereklidir?” yazılır. Öğrenciler önce tek başına üç faktör belirleyip her biri için bir önerme yazar, sonra sıra arkadaşıyla tartışıp üç ortak önerme belirler ve sınıfa sunar. Öğretmen önermelerden bazılarını tahtaya yazıp tartışma başlatır, ışığın etkisine özellikle dikkat çeker. Sonunda çimlenme için gerekli üç temel faktörü (hava, su, uygun sıcaklık) ve her birinin hangi süreçte gerektiğini netleştirir."
+   ],
+   [
+    "4. ders",
+    "Kavram Haritasını Tamamla ve Kendini Değerlendir etkinlikleriyle eksikler giderilir. Gruplar internet ve yapay zekâ araçlarıyla hidroponik (topraksız) tarımı araştırıp bir poster hazırlar ve EBA'dan paylaşır; posterler Poster Değerlendirme Formu ile değerlendirilecektir. Sosyal farkındalık için “Yeşil Vatan” temalı Tohum Topum etkinliği tanıtılır ve öğrenciler görevlendirilir. Ders sonrasında öğretmen posterlere dönüt verir, öğrenciler Uygun Koşullar oyununu EBA'dan yapar."
+   ]
+  ],
+  "gerek": "Ay çekirdeği, tohumlar ve deney malzemeleri (kap, pamuk, su vb.), fen laboratuvarı, Düşün-Eşleş-Paylaş yönergesi çıktısı, bilgisayarlar, EBA; dijital pano, beyaz tahta, tablo-grafik, kavram haritası ve poster araçları."
+ },
+ {
+  "id": 205,
+  "unite": "Canlılarda Sistemler",
+  "ad": "Hayatın İzleri",
+  "ozet": "Hayvanlarda eşeyli-eşeysiz üreme, başkalaşım ve yaşam döngüsü denizyıldızı animasyonu, video ve grup araştırma posterleriyle; insanda üremeyi sağlayan yapı ve organlar ile döllenmeden bebeğe uzanan süreç EBA içerikleri, poster incelemesi ve grup posterleriyle öğretilir.",
+  "ozu": "<p>Senaryo iki bölümden oluşuyor. İlk iki derste öğrenciler hayvanlarda <b>üreme çeşitlerini</b> (denizyıldızında rejenerasyon, doğurarak ve yumurtayla çoğalma), başkalaşımı ve yaşam döngüsünü inceliyor; beslenme ve yaşam alanının büyüme-gelişmeye etkisini araştırıp hayvanları koruma bilincine ulaşıyor. Son iki derste insanda üreme sistemi, ergenlikteki değişimler ve <b>döllenme → zigot → embriyo → fetüs → bebek</b> süreci işleniyor. Öğretmen denizyıldızı örneğinde olayın hücre bölünmesi değil vücut parçalanması ve yeniden oluşma olduğunu ayrıca vurguluyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“Hayvanlarda hangi üreme çeşitlerini biliyorsunuz?” sorusuyla ön bilgiler yoklanır, beyin fırtınasıyla cevaplar üreme, büyüme, gelişme başlıklarında toplanır. Denizyıldızı Rejenerasyonu animasyonu izlenir ve Denizyıldızı Panosu'ndaki sorular dijital panoda cevaplanır. “Yavrulamış bir kedi ya da tavuk gördünüz mü, yavrularını aynı şekilde mi dünyaya getirir?” sorularıyla doğurarak ve yumurtayla çoğalma ayrımına varılır. EBA'daki Hayvanlarda Üreme, Büyüme ve Gelişme içeriğinden Başkalaşım videosu izlenir; “Bir hayvanın büyüyüp gelişmesi için nelere ihtiyacı var, beslenme ve yaşadığı ortam onu nasıl etkiler?” soruları tartışılır."
+   ],
+   [
+    "2. ders",
+    "Doğumdan ölüme sürecin yaşam döngüsü olduğu anlatılır, Yaşam Döngüsü görselinde aşamalar belirlenir ve “Bütün hayvanlarda bu süreçler aynı mı?” sorusu tartışılır. 4-5 kişilik gruplar Yaşam Döngüsünü Keşfediyorum etkinliğinden aldıkları görevle dijital ya da basılı kaynaklardan araştırma yapar, bulgularını Bilgi Kayıt Formu'na yazar ve 25 dakikada bir poster ya da afiş hazırlar. Gruplar verileri karşılaştırıp süreçlerin farklılık gösterdiği ve çeşitli faktörlerden etkilendiği sonucuna varır, çalışmalarını EBA'dan paylaşır. Ders, uygun yaşam alanlarını korumanın önemi vurgulanarak biter; ders sonrasında Grup Değerlendirme Formu ile değerlendirme yapılır ve Değerlendirelim oyunu EBA'dan gönderilir."
+   ],
+   [
+    "3. ders",
+    "EBA'daki İnsanda Üreme içeriğinden İnsanda Eşeyli Üreme, Eşey Hücreleri ve Döllenme videoları izlenir. Yapı ve Organlar posteri incelenir; öğrenciler merak ettikleri soruları sırayla arkadaşlarına sorar ve diğerleri cevaplar. Öğretmen yapı ve organların görevlerini ve birbirleriyle ilişkisini poster üzerinden açıklar, ergenlikte kız ve erkeklerde görülen ortak ve farklı değişimlere ve âdet döngüsünün üreme sistemiyle ilişkisine kısaca değinir. Erkek ve Dişi Üreme Sistemi eşleştirme etkinliği sırayla tamamlanır."
+   ],
+   [
+    "4. ders",
+    "Döllenmeden Bebeğe posteri incelenir, döllenme, zigot, embriyo, fetüs ve bebek kavramları açıklanır. 4-5 kişilik gruplar sperm ve yumurta hücresinden bebeğe uzanan süreci kendi ifadeleriyle özetleyen, yapı-organlarla ilişkileri oklar ve kısa açıklamalarla gösteren bir poster hazırlar ve EBA'da paylaşır. Gruplar posterlerini sunup aşamaları açıklar, diğerleri soru sorar. Konu Eşleştirme etkinliğiyle pekiştirilir."
+   ]
+  ],
+  "gerek": "Etkileşimli tahta, öğrenci bilgisayarları, internet, EBA; animasyon, dijital pano, poster ve eşleştirme araçları, Bilgi Kayıt ve Grup Değerlendirme formları."
+ },
+ {
+  "id": 206,
+  "unite": "Güneş Sistemi ve Tutulmalar",
+  "ad": "Karanlığın Güzelliği",
+  "ozet": "Güneş ve Ay tutulmaları afiş, sunum ve el feneri, basketbol topu, masa tenisi topuyla karanlık sınıfta yapılan canlandırmalarla öğretilir; gruplar tutulmalarla ilgili altı konuyu araştırıp sunum hazırlar, son derste boşluk doldurma ve kelime oyunuyla ön bilgiler son bilgilerle karşılaştırılır.",
+  "ozu": "<p>Senaryo tutulmayı <b>bedenle ve ışıkla</b> öğretiyor: bir öğrenci el feneriyle Güneş, biri basketbol topuyla Dünya, biri masa tenisi topuyla Ay oluyor; sınıf karartılınca Ay'ın Dünya'nın gölgesine girip karardığı ve gölgenin iki bölümü (tam ve yarı gölge) gözleniyor. Kanlı Ay tutulmasına, 800'lü yıllarda tutulma zamanlarını hesaplamanın yolunu bulan <b>Fergani</b>'ye ve eski insanların tutulmalarla ilgili efsanelerine de değiniliyor. İlk derste söylenen “Tutulma denince aklınıza ne geliyor?” cevapları son derste yeniden ele alınıp öğrenilenlerle karşılaştırılıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen Güneş ve Ay Tutulması Afişi'ni ve Güneş Tutulması sunumunu hazırlar; el feneri, masa tenisi topu ve tenis/basketbol topu temin eder."
+   ],
+   [
+    "1. ders",
+    "Dünya ve Ay'ın hareketleri bilindiği kabul edilerek afiş tahtada açılır ve “Tutulma denince aklınıza ne geliyor?” sorusunun cevapları sorgulanmadan not alınır. Güneş Tutulması sunumu anlatılır; gönüllü öğrenciler malzemelerle Güneş tutulması türlerini canlandırır, herkes not tutar. “Bulunduğunuz yerin yakınında bir Güneş tutulması gözlemlenebilecek mi?” sorusu EBA duvarında paylaşılır ve öğrenciler araştırıp cevabını yazar. Sonraki dersteki Ay tutulması canlandırması için üç öğrenci seçilir."
+   ],
+   [
+    "2. ders",
+    "Işıklar ve perdeler kapatılır. El fenerli öğrenci Güneş, 2-3 metre uzaktaki basketbol toplu öğrenci Dünya olur, masa tenisi toplu öğrenci Dünya'nın çevresinde dolanarak Ay'ı canlandırır. Ay'ın kendi ışığı olmadığı hatırlatılır, öğrenciler Ay Dünya'nın gölgesine girince karardığını görür ve gölgenin iki bölümüne dikkat çekilir. Kanlı Ay tutulması, Fergani'nin çalışmaları ve eski insanların tutulmaya dair inançları konuşulur. Altı grup oluşturulur ve Sunum Değerlendirme Formu tanıtılır; ders sonrasında öğrenciler eski insanların Ay tutulmasıyla ilgili mitolojik ve efsanevi düşüncelerini araştırıp EBA duvarında paylaşır."
+   ],
+   [
+    "3. ders",
+    "Gruplara Tutulma Günlüğü Araştırma Çalışması paylaşılır; her grup kendi konusunu öğretmenin yönlendirdiği güvenli kaynaklardan iş bölümüyle araştırıp verilerini kaydeder. Öğretmen grupları gezip açıklamalar yapar, bir sunum şablonu paylaşır. Gruplar araştırma sonuçlarını etkileşimli sunuma dönüştürüp EBA duvarında paylaşır ve ders sonrasında birbirlerinin sunumlarına yorum yapar; öğretmen sunumları formla değerlendirip dönüt verir."
+   ],
+   [
+    "4. ders",
+    "Öğretmen Güneş-Dünya-Ay görselini kullanan Boşlukları Dolduralım etkinliğini paylaşır; sorular birlikte cevaplanır, yanlışlar açıklanır. Ardından Kelimeleri Bulalım oyunu oynanır. İlk dersteki “Tutulma denince aklınıza ne geliyor?” cevapları hatırlatılır ve öğrenciler ön bilgileriyle şimdi öğrendiklerini karşılaştırır."
+   ]
+  ],
+  "gerek": "El feneri, basketbol/tenis topu, masa tenisi topu, karartılabilen sınıf, etkileşimli tahta, öğrenci bilgisayarları, EBA; afiş, sunum, e-dergi, boşluk doldurma ve oyun araçları."
+ },
+ {
+  "id": 207,
+  "unite": "Güneş Sistemi ve Tutulmalar",
+  "ad": "Sırlarla Dolu Gezegenler",
+  "ozet": "Güneş sistemi ve gezegenlerin özellikleri öğrencilerin merak soruları, Biruni hikâyesi, NASA'nın Eyes on the Solar System simülasyonu ve EBA içerikleriyle öğretilir; gruplar göç edecekleri gezegeni seçip gerekçelendirir, küp oyunu oynar ve gezegen tanıtım kartları hazırlar.",
+  "ozu": "<p>Senaryo öğrencinin <b>kendi sorularından</b> başlıyor: tahtaya “Güneş sisteminde cevabını bilmediğim bir şey…” yazılıyor ve bu sorular ders boyunca cevaplanıyor. Biruni'nin gezegenlerin Güneş etrafında dolandığı fikri bilim tarihine bağlantı kuruyor; gezegenler Güneş'e uzaklık, uydu-halka, büyüklük, karasal-gazsal olma özelliklerine göre sınıflandırılıyor; asteroit kuşağı, gök taşı, meteor ve meteorit ayrımı yapılıyor. Bilgiler “Dünya'dan göç etmek zorunda kalsak hangi gezegene giderdik?” sorusuyla kullanılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğrencilerin Güneş sistemiyle ilgili merak ettikleri sorular tahtaya not edilir. Biruni'nin Gökyüzü Sırrı dijital hikâyesi okunur ve sonundaki “Gezegenlerin Güneş'in etrafında dolandığını söyleyerek neyi keşfetmiş olabilirim?” sorusu tahmin edilir. Öğrenciler “en küçük / en büyük gezegen, Güneş'e en yakın / en uzak gezegen, Mars ile Jüpiter arasındaki bölge” sorularından üçünü seçip NASA'nın Eyes on the Solar System simülasyonunda cevabını arar ve EBA'dan paylaşır. Etkinlik Soruları dijital panosundaki sorulara da yanıt aranır; asteroit kuşağı gözlenir, asteroit, gök taşı, meteor ve meteorit kavramları açıklanır."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Güneş Sistemi içeriğiyle gezegenlerin Güneş'e yakınlığı, uydu ve halkaları, büyüklükleri, karasal ya da gazsal olmaları incelenir ve gezegenler bu özelliklere göre sınıflandırılır. EBA'daki Asteroit Kuşağı ve Gök Taşları içeriğinin “sıra sizde” etkinlikleri yapılır. 4-5 kişilik gruplar Dünya'da yaşamın zorlaştığını ve göç etmek zorunda kaldıklarını hayal eder; özelliklere bakarak bir gezegen seçer, nedenini ve orada nasıl yaşayacaklarını Gezegen Göç Formu'na yazar. Gruplar sunum yapar, sınıf oylamayla en yaşanabilir gezegeni seçer."
+   ],
+   [
+    "Ders sonrası (2. ders)",
+    "Öğrenciler seçtikleri gezegende kuracakları yaşamın görselini, öğretmenin EBA'dan paylaştığı örnek istemle yapay zekâ araçlarında oluşturup EBA'da paylaşır.",
+    "2"
+   ],
+   [
+    "3. ders",
+    "Öğretmen üzerinde sorular yazılı Gezegen Küpü ve Gezegen Kartları ile gelir; 4-5 kişilik gruplar makas ve yapıştırıcıyla küpü kurar, kartları keser ve Küple Gezegeni Keşfet kâğıdını inceler. Her öğrenci sırayla küpü atar, üstteki soruyu okur, rastgele bir gezegen kartı çeker ve soruyu o gezegene göre cevaplar. Grup hatalı bulduğu cevapları önce kendi arasında tartışır, uzlaşamazsa öğretmene danışır."
+   ],
+   [
+    "4. ders",
+    "Gruplar seçtikleri iki gezegen için, her biri en az üç özellik ve bir görsel içeren tanıtım kartları hazırlar; örnek olarak Güneş Sistemindeki Gezegenler kartları incelenir. Kartlar sunulur, grup üyeleri birbirini Akran Değerlendirme Formu ile değerlendirir. Konu EBA'dan paylaşılan Uzay Bilgisi çoktan seçmeli testiyle pekiştirilir. Ders sonrasında kartlar EBA'da paylaşılır ve her grup en az iki grubun çalışmasına yorum yapar."
+   ]
+  ],
+  "gerek": "Basılı Gezegen Küpü ve Gezegen Kartları, makas, yapıştırıcı, Gezegen Göç Formu, öğrenci bilgisayarları, internet, EBA; dijital hikâye, NASA Eyes on the Solar System, dijital pano, görsel tasarım ve yapay zekâ görsel araçları."
+ },
+ {
+  "id": 208,
+  "unite": "Işığın Yansıması ve Renkler",
+  "ad": "Işığın Yolu",
+  "ozet": "Işığın yansıması karanlık sınıfta ayna ve fenerle gösterilir; aynaya buruşuk poşet geçirilerek düzgün ve dağınık yansıma farkı gözlenir, gruplar folyo, buzlu cam ve cilalı tahtayla deney yapar; ikinci derste oyunlarla günlük hayattan örnekler sınıflandırılır.",
+  "ozu": "<p>Hedef, öğrencinin <b>düzgün yansıma</b> ile <b>dağınık yansıma</b>yı ayırt etmesi ve yüzeyin pürüzlü ya da pürüzsüz olmasıyla yansıma arasında ilişki kurması. Önce saat camından duvara düşen ışık gibi tanıdık bir durumla merak uyandırılıyor; sonra aynadaki net yansıma ile buruşuk poşet kaplı aynadaki yansıma karşılaştırılıyor. Gruplar farklı yüzeylerle kendi çıkarımlarını yapıyor, ikinci derste bu çıkarımı yeni günlük hayat örneklerine aktarıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen Nasıl Yansır Etkinlik Yönergesi'ni grup sayısı kadar çoğaltır; düz ayna, şeffaf olmayan poşet, 4 el feneri ya da lazer kalem, alüminyum folyo, buzlu cam ve cilalı tahta hazırlar, sınıfı karartmak için perde kullanır."
+   ],
+   [
+    "1. ders",
+    "“Işık nasıl yayılır? Ay bir ışık kaynağı mı? Saatinizin camından duvara düşen ışık, saati oynatınca neden yer değiştirir? Cisimleri nasıl görürüz?” sorularıyla ön bilgiler yoklanır. Sınıf karartılır, öğretmen feneri aynaya tutar ve ışığın yön değiştirdiği gözlenerek yansıma tanımlanır. Fikirlerimizi Söyleyelim görsellerinde su üzerindeki yansımalar tartışılır. Aynaya buruşturulmuş poşet geçirilip yeniden ışık tutulur ve iki yansıma arasındaki fark sorulur. Dört grup numaralı masalardaki malzemelerle Nasıl Yansır yönergesindeki tabloyu doldurur, yüzeylerin özellikleriyle yansıma arasında ilişki kurup sonucu sunar."
+   ],
+   [
+    "2. ders",
+    "Önceki deneyde varılan düzgün ve dağınık yansıma çıkarımı hatırlatılır. Hangi Yansıma? oyununda günlük hayattan yeni örnekler sınıflandırılır, öğrenciler kendi örneklerini verir. Haydi Sürükle etkinliğiyle yansıma çeşitlerinin özellikleri eşleştirilir, Neler Öğrendim? anlık dönütlü etkinliğiyle eksikler ve yanlış öğrenmeler giderilir."
+   ],
+   [
+    "Ders sonrası",
+    "Öğrenciler deney sonuçlarından yola çıkarak bir poster hazırlayıp EBA'da paylaşır ve Poster Değerlendirme Formu ile değerlendirir; ayrıca EBA'daki Işığın Yansıması etkileşimli içeriğini yapar.",
+    "2"
+   ]
+  ],
+  "gerek": "Düz ayna, şeffaf olmayan poşet, el feneri ya da lazer kalem, alüminyum folyo, buzlu cam, cilalı tahta, perdeli/karartılabilen sınıf, yönerge çıktıları, öğrenci bilgisayarları, EBA."
+ },
+ {
+  "id": 210,
+  "unite": "Kuvvet Etkisinde Hareket",
+  "ad": "Zamana Karşı Yolculuk",
+  "ozet": "Hız ile sürat arasındaki fark, alınan yol ve yer değiştirme kavramları Ayşe'nin eve dönüş haritası, Türkiye seyahat planlayıcısı ve okul bahçesinde kronometreyle yapılan 10 metrelik koşu deneyiyle öğretilir; son derste gruplar hız ve süratin benzerlik ve farklarını anlatan sunumlar hazırlar.",
+  "ozu": "<p>Senaryonun temel ayrımı: <b>sürat birim zamanda alınan yol, hız birim zamandaki yer değiştirmedir</b>. Ayşe'nin okuldan eve üç farklı yolu üzerinden “en kısa mesafe mi, en kısa süre mi?” tartışılıyor; “arabanın göstergesindeki 60 km/h hız mı, sürat mi?” sorusu ders boyunca merak uyandırıyor. Öğrenciler kavramları önce dijital bir seyahat planlayıcısında, sonra bahçede kendi koşu verileriyle ölçüyor; düz parkurda alınan yol ile yer değiştirmenin eşit olduğunu bizzat görüyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“Günlük hayatta ‘araç çok hızlı’ ya da ‘sürati yüksek’ deriz; aralarında fark var mı?” sorusuyla başlanır. Eve Dönüş haritasında Ayşe'nin eve gidebileceği üç yol gösterilir: “Hangi yolu seçerdiniz? Seçtiğiniz yol en kısa mesafe mi, en kısa süre mi? Bunlar hep aynı mı?” Yönlendirici sorularla alınan yol ve yer değiştirme ayrılır. Ayşe'nin bisikletle neden daha çabuk varacağı ve “aynı mesafeyi daha kısa sürede almanın” anlamı tartışılır; ders “Göstergedeki 60 km/h hız mı sürat mi?” sorusuyla kapanır."
+   ],
+   [
+    "2. ders",
+    "Türkiye Seyahat Planlayıcısı EBA'dan paylaşılır: öğrenciler iki şehir, araç (araba ya da uçak) ve hız seçip seyahat süresini hesaplar, sonra farklı hızla tekrar eder. Alınan yol, yer değiştirme ve süreler Seyahat Planlayıcısı Tablosu'na kaydedilir; bu kavramlarla süre arasındaki ilişkiye dair cevaplar Alınan Yol ve Yer Değiştirme dijital panosuna yazılır. Öğretmen şehirler arası seyahatlerde hız ve süratin nasıl ilişkilendirileceğini tartıştırıp düzeltmeler yapar; ders sonrasında Hız ve Sürat çoktan seçmeli testi EBA'dan gönderilir."
+   ],
+   [
+    "3. ders",
+    "Öğretmen gruplara kronometre, şerit metre ve Hız ve Sürat Tablosu hazırlar. Okul bahçesinde dörtlü gruplardan seçilen birer öğrenci Parkurlar görselindeki gibi 2, 4, 6, 8 ve 10 metrede işaretlenmiş düz piste dizilir ve aynı anda koşar; diğer üyeler kronometre tutma, süre kaydetme ve başlangıç-bitiş işaretleme görevlerini paylaşır. Her aralıktaki süre tabloya yazılır ve düz parkurda alınan yol ile yer değiştirmenin eşit olduğu gözlenir. Öğretmen koşu süresi ile sürat arasındaki ilişkiyi sorar; gruplar Etkinlik Değerlendirme Formu ile değerlendirilir."
+   ],
+   [
+    "4. ders",
+    "Gruplar örnek Hız ve Sürat Sunumu'nu inceleyip hız ve süratin benzerlik ve farklılıklarını görsel ve videolarla anlatan bir sunum hazırlar. Sunumlar EBA'dan paylaşılır ve sırayla yapılır, diğer öğrenciler sorular sorar. Ders sonrasında öğretmen sunumlara dönüt verir, öğrenciler Grup Değerlendirme Formu ile grup arkadaşlarını değerlendirir."
+   ]
+  ],
+  "gerek": "Kronometre, şerit metre, Hız ve Sürat Tablosu çıktısı, okul bahçesi, öğrenci bilgisayarları, EBA; web sayfası, dijital pano, test ve sunum araçları."
+ },
+ {
+  "id": 211,
+  "unite": "Maddenin Ayırt Edici Özellikleri",
+  "ad": "Maddelerin Gizli Hareketi",
+  "ozet": "Genleşme ve büzülme bir köprü kirişinin hikâyesi, EBA içeriği ve günlük hayat örnekleriyle tanıtılır; laboratuvarda metal çiftleriyle genleşme deneyi yapılır, gruplar bir infografik hazırlar ve son derste yapay zekâyla soru araştırıp eşleştirme ve yapılandırılmış grid ile kavram yanılgıları giderilir.",
+  "ozu": "<p>Hedef, ısı alışverişiyle maddelerin taneciklerinin arasındaki mesafenin ve dolayısıyla <b>hacminin</b> değişebileceğini kavramak; madde hâl değiştirmese bile genleşip büzülebiliyor. Deneyde farklı metallerin farklı miktarda genleştiği görülerek genleşmenin <b>saf maddeler için ayırt edici bir özellik</b> olduğu sonucuna varılıyor. “Kayalar neden ufalanır? Binalarda neden esneme payı bırakılır?” gibi sorular konuyu günlük hayata bağlıyor; öğrenciler evde ya da dışarıda gözledikleri bir genleşme-büzülme olayını gözlem-tahmin-tür adımlarıyla not ediyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Kütle ve Hacim görseliyle “Eşit kollu terazi taşın, dereceli silindir suyun hangi özelliğini ölçer?” diye sorulur. Güçlü Kiriş'in Hikâyesi okunur: “Hikâyede genleşme ne zaman oldu, hangi nesneler etkilendi? Maddeler ısı etkisiyle hep hâl değiştirir mi? Değiştirmediğinde tanecikler arası mesafe değişir mi?” Öğretmen hacmi hatırlatıp tanecikler arası mesafenin az da olsa değişebileceğini açıklar. EBA'daki Genleşme ve Büzülme içeriğinin Isı ve Madde Etkileşimi bölümü izlenir, Genleşme-Büzülme Örnekleri sunumu incelenir; “Kayalar neden ufalanır? Binalarda neden esneme payı bırakılır?” tartışılarak önermeler oluşturulur."
+   ],
+   [
+    "2. ders",
+    "Laboratuvarda dörtlü gruplara Metal Çiftlerinde Genleşme Deneyi Yönergesi dağıtılır ve güvenlik önlemleri alınır. Gruplar önce hipotez sorusuna gerekçeli tahminlerini yazar, sonra deneyi yapıp ölçüm ve gözlemleri tabloya kaydeder ve sonuç sorularını cevaplar. “Farklı metal çiftlerinin genleşme miktarı neden farklı çıktı?” sorusuyla genleşmenin saf maddeler için ayırt edici özellik olduğu fark ettirilir. Öğrencilerden evde ya da dışarıda bir genleşme veya büzülme olayını gözleyip defterlerine “gözlem, tahmin, değişimin türü” başlıklarıyla not etmeleri istenir."
+   ],
+   [
+    "3. ders",
+    "Genleşme ve Büzülme İnfografiği tahtada incelenir. Gruplar genleşme ile büzülmenin farklarını tartışır, öğretmen iyi bir infografiğin ögelerini anlatır ve gruplar görsel tasarım aracıyla kendi infografiklerini hazırlayıp EBA'da paylaşır. Ders sonrasında öğrenciler birbirlerinin çalışmalarına yorum yapar; öğretmen İnfografik Değerlendirme Formu ile değerlendirir, çıktılarını alıp altına dönüt notu ekleyerek sınıf panosunda sergiler."
+   ],
+   [
+    "4. ders",
+    "Çalışma Panosu'ndaki sorular gruplara rastgele dağıtılır; gruplar yapay zekâ araçlarıyla cevaplarını araştırıp açıklamalarını, verilerini ve görsellerini panoda paylaşır ve birbirlerininkini inceler. Eşleştirme etkinliğiyle öğrenilenler pekiştirilir. Ders sonrasında öğrenciler gözlem notlarını EBA'dan paylaşır, öğretmen dönüt verir ve kavram yanılgılarını gidermek için Yapılandırılmış Grid etkinliğini gönderir."
+   ]
+  ],
+  "gerek": "Metal çiftleri ve deney malzemeleri, deney yönergesi çıktıları, fen laboratuvarı, öğrenci bilgisayarları, EBA; dijital hikâye, sunum, infografik, dijital pano, yapay zekâ ve eşleştirme araçları."
+ }
+]
