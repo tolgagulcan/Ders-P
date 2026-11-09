@@ -1,0 +1,112 @@
+[
+ {
+  "id": 141,
+  "unite": "Sağlıklı Yaşıyorum",
+  "ad": "Sağlığım Yerinde",
+  "ozet": "Sepetteki sağlıklı ve sağlıksız yiyeceklerle başlanır; “Sağlık için Oyun ve Spor” şiirinden yola çıkarak “norm” belirlemek öğrenilir, gruplar seçtikleri bir sağlıklı yaşam normuna uygun “Sağlığım Yerinde” hikâyesi yazar ve birbirlerinin hikâyelerindeki normları yorumlar.",
+  "ozu": "<p>Norm, bir konuda doğru kabul edilen davranış kuralıdır (“Sağlıklı yaşam için düzenli hareket etmek gerekir.”). Bir metinden norm çıkarıp başka kaynaklarla karşılaştırmak ve kendi yazımızda bu normu işlemek eleştirel okuma ve yazmanın parçasıdır.</p>",
+  "dersler": [
+   [
+    "Şiirden norma",
+    "Öğretmen sepetinde sağlıklı ve sağlıksız yiyeceklerle gelir: “Bunların vücudumuza etkisi ne?” “Sağlıklı yaşam” denince akla gelenlerle kelime bulutu oluşturulur. EBA'daki “Sağlık için Oyun ve Spor” şiiri örnek okunup öğrencilere okutulur, eşleştirme etkinliği yapılır. Norm kavramı açıklanır; öğrenciler şiirden “Sağlıklı yaşam için düzenli hareket etmek gerekir” gibi bir norm çıkarır ve “Sağlıklı Yaşamın Altın Kuralları” afişiyle karşılaştırıp yargılarını dile getirir."
+   ],
+   [
+    "Sağlığım Yerinde hikâyesi",
+    "“Sağlıklı Yaşamın Farkındayım” doğru-yanlış etkinliğiyle normlar hatırlanır. Gruplar birer başkan seçer, bir norm belirler ve “Konumuzu Belirleyelim” etkinliğinden bir örnek durum seçer; normu bu durumla karşılaştırarak “Sağlığım Yerinde” başlıklı bir hikâye yazar. Söz dizimi, yazım ve noktalamaya dikkat edilir; hikâyeler EBA'da paylaşılır ve grup değerlendirme formuyla değerlendirilir."
+   ],
+   [
+    "Hikâyelerdeki normlar",
+    "Grup başkanları hikâyeleri okur. Her grup başka bir grubun hikâyesini seçip içindeki normu inceler, önemli noktaları belirler ve kendi bakış açısıyla yorumlayıp kısa bir yazı hâlinde paylaşır; sözlü geri bildirim verilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, sağlıklı-sağlıksız yiyecekler içeren sepet"
+ },
+ {
+  "id": 142,
+  "unite": "Sağlıklı Yaşıyorum",
+  "ad": "Sağlığın Anahtarı: Hareket",
+  "ozet": "Kısa bir egzersizle başlanır; TÜBİTAK Bilim Çocuk'taki hareket metni okunur, gruplar metni çoklu ortam ögeleriyle yeniden oluşturup sunar, öğrenciler çevrelerindeki çocukların egzersiz alışkanlıklarını gözlemleyip bilgilendirici metin yazar ve soru işaretinin kullanımı çalışılır.",
+  "ozu": "<p>Çoklu ortam ögeleri; yazıyı destekleyen görsel, ses, video, grafik gibi unsurlardır. Bilgilendirici metin bir konuyu gözlem ve araştırmaya dayanarak nesnel biçimde açıklar. Soru işareti soru bildiren cümle ve ifadelerin sonuna konur.</p>",
+  "dersler": [
+   [
+    "Hareket ve çoklu ortam",
+    "Öğrenciler bir dakika esneme ve hafif zıplama yapar: “Şimdi nasıl hissediyorsunuz, nefesiniz ve kalp atışınız nasıl?” TÜBİTAK Bilim Çocuk'taki “Yaşamımıza Hareket Katıyoruz, Sağlıklı Kalıyoruz” metni örnek okunup öğrencilere okutulur. Çoklu ortam ögeleri örnekle anlatılır. “Benim Grubum Hangisi?” etkinliğiyle gruplar oluşur; her grup metni en az bir çoklu ortam ögesi kullanarak yeniden yazar."
+   ],
+   [
+    "Sunumlar ve egzersiz süreleri",
+    "Ek süreden sonra grup sözcüleri yeniden oluşturdukları metinleri sunar, değerlendirme formu doldurulur. “Ne Kadar Hareket Edelim?” sunumu okunur: “Bu süreler gerçekçi mi, çevrendeki çocuklar ne kadar egzersiz yapıyor?” Ödev: çevreyi gözlemleyip araştırarak yazım kurallarına uygun bilgilendirici bir metin yazmak."
+   ],
+   [
+    "Bilgilendirici metinler ve soru işareti",
+    "Gönüllüler bilgilendirici metinlerini okur, öz değerlendirme formu doldurulur. EBA'daki soru işareti görseli incelenir ve “Soru İşareti Avcıları” eşleştirmesi yapılır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 143,
+  "unite": "Sağlıklı Yaşıyorum",
+  "ad": "Sağlıklı Yaşam İpuçları",
+  "ozet": "Sağlıklı yaşam afişi yorumlanır; Yeşilay'ın “Kral Şakir” videosundaki davranışlardan kartopu tekniğiyle normlar çıkarılır, törene geç kalma draması ve “Karar Ver Ne Yapardın?” etkinliğiyle davranış-sonuç ilişkisi tartışılır, öğrenciler bir davranışı eleştirip öneri yazar ve çoklu ortam ögeleriyle yazı oluşturur.",
+  "ozu": "<p>Normlar, toplumda uyulması beklenen yazılı olmayan kurallardır (söz kesmemek, ortak alanı temiz tutmak). Eleştirel değerlendirmede bir davranışın olumlu ve olumsuz yönleri belirlenir, olumsuz yönler için alternatif çözümler önerilir. Sağlıklı beslenme ve düzenli uyku sağlıklı yaşamın temelidir.</p>",
+  "dersler": [
+   [
+    "Kral Şakir ve normlar",
+    "“Afişi Yorumluyorum” etkinliği açılır, beyin fırtınasıyla “Sağlıklı yaşam için dikkat edilecekler” listesi oluşturulur. Norm kavramı sınıf örnekleriyle açıklanır. Yeşilay'ın “Kral Şakir – 23 Nisan” videosu izlenir; kartopu tekniğiyle öğrenciler önce ikili, sonra dörtlü, sonra sekizli gruplarda karakterlerin sağlıkla ilgili sorunlarından birer norm çıkarıp sınıfa sunar."
+   ],
+   [
+    "Davranışlar ve sonuçları",
+    "Üç gönüllü törene geç kalan öğrenci, tören sorumlusu öğretmen ve veli rollerini canlandırır; benzer deneyimler ve davranışların sonuçları tartışılır. “Karar Ver Ne Yapardın?” oyunu oynanır. Video yeniden izlenir; öğrenciler dikkat çeken bir davranışı seçip olumlu-olumsuz yönlerini belirler, olumsuzluklar için çözüm önererek eleştirisini deftere yazar."
+   ],
+   [
+    "Çoklu ortamla yazma",
+    "Taslak hâlindeki “Çoklu Ortamla Yazma” dijital hikâyesi örnek olarak paylaşılır; öğrenciler görsel, ses ve video gibi ögeler ekleyerek kendi yazılarını oluşturur. Yazılar kontrol listesiyle değerlendirilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 144,
+  "unite": "Sağlıklı Yaşıyorum",
+  "ad": "Sağlıklı Yaşamın Haritası",
+  "ozet": "Besin-hareket-fayda kartları eşleştirilir; Sağlık Bakanlığının 12-18 yaş beslenme ve fiziksel aktivite piramidi gruplarca incelenir, “savun ve eleştir” etkinliğinde ikililer piramidin önerilerini tartışır, öğrenciler görüşlerini kaydedip akran değerlendirmesiyle geliştirir.",
+  "ozu": "<p>Beslenme ve fiziksel aktivite piramidi, hangi besinlerden ne kadar tüketilmesi ve ne kadar hareket edilmesi gerektiğini gösterir. Eleştirel yaklaşım; bir bilgiyi hem savunmak hem de sorgulamak, “Bu öneriler herkes için uygulanabilir mi?” diye düşünmektir.</p>",
+  "dersler": [
+   [
+    "Besin-hareket-fayda",
+    "Karışık dağıtılan kartlarda öğrenciler besinleri, sonrasında yapılacak aktiviteler ve faydalarıyla eşleştirir (süt kemikleri güçlendirir, ip atlamak kemik gelişimini destekler gibi). Sağlık Bakanlığının 12-18 yaş “Beslenme ve Fiziksel Aktivite Piramidi” incelenir. Dört grup piramitten ikişer başlığı seçip piramidin tamamıyla ilişkisini “Bilgi İlişkilendirme” şablonunda gösterir ve tartışır. Ödev: EBA'daki Sağlıklı Yaşam içeriği."
+   ],
+   [
+    "Savun ve eleştir",
+    "Afiş tekrar açılır: “Bu önerileri herkes kolayca uygulayabilir mi?” Kısa cevaplarla kelime bulutu oluşturulur. İkili gruplarda bir öğrenci afişi savunur, diğeri eleştirir; 10 dakikalık tartışmanın sonucu birer cümleyle paylaşılır. Ödev: savunduğu görüşü üç dakikalık konuşma olarak kaydetmek."
+   ],
+   [
+    "Akran değerlendirmesi ve yeniden kayıt",
+    "İkililer birbirlerinin konuşmalarını dinleyip akran değerlendirme formuyla değerlendirir; her öğrenci konuşmasının güçlü ve gelişime açık yönlerini belirler. Konuşmasını yeniden düzenleyip metne dönüştürür, yapay zekâ araçlarıyla seslendirip yeni kaydı EBA'da paylaşır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, besin-hareket-fayda kartları"
+ },
+ {
+  "id": 145,
+  "unite": "Sağlıklı Yaşıyorum",
+  "ad": "Sağlıklıyım Çünkü Farkındayım",
+  "ozet": "“Sağlık İçin Doğru Olan” etkinliğiyle doğru ve yanlış alışkanlıklar konuşulur; “Bisikletin Yolculuğu” metni not alarak dinlenip eleştirel sorularla yorumlanır, gruplar metnin yapısını çözümler, “Sağlıklı Yaşam İçin 5 Altın Kural” afişi hazırlar ve hedef kitleye uygun tavsiye metni yazar.",
+  "ozu": "<p>Bir metni eleştirel dinlemek; yazarın neyi vurguladığını, bu çıkarıma hangi cümlelerden varıldığını ve neyin eksik kaldığını sorgulamaktır. Tavsiye metninde amaç ve hedef kitle belirlenir; uygun hitapla başlanır, uygun üslupla sürdürülür, uygun bir kapanışla bitirilir.</p>",
+  "dersler": [
+   [
+    "Bisikletin yolculuğu",
+    "“Sağlık İçin Doğru Olan” doğru-yanlış etkinliği yapılır, öğrenciler sağlık için doğru ve yanlış alışkanlıklara örnek verir; dengeli beslenme, hijyen ve temiz enerjinin önemi vurgulanır. “Bisikletin Yolculuğu” dinlenirken önemli noktalar not alınır. Tahtadaki sorular üzerine metin tekrar dinlenir: “Bisikletin kişisel mi, toplumsal faydası mı daha çok vurgulanmış? Hangi cümlelerden çıkardınız? Yazar olsaydınız neler eklerdiniz?”"
+   ],
+   [
+    "Metnin yapısı ve afiş",
+    "5-6 kişilik gruplar metnin çıktısı ve çalışma kâğıdıyla metnin yapısını çözümler. Ardından öğrendiklerinden yola çıkarak “Sağlıklı Yaşam İçin 5 Altın Kural” temalı bir poster ya da afiş hazırlamaya başlar; akran değerlendirme kartlarının kriterleri açıklanır."
+   ],
+   [
+    "Afişler ve tavsiye metni",
+    "Gruplar afişlerini tamamlayıp tanıtır, akran değerlendirme kartlarıyla birbirine geri bildirim verir. Gruplar sağlıklı yaşam tavsiyeleri içeren bir metin için amacı, hedef kitleyi (akranlar, aileler) ve yazma ortamını belirler; uygun hitap, üslup ve kapanışla taslağı yazar. Ödev: metni iş birlikli araçla tamamlayıp e-dergi olarak EBA'da paylaşmak; basılıp panoya asılır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, Bisikletin Yolculuğu metni ve çalışma kâğıdı çıktıları"
+ }
+]

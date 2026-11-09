@@ -130,5 +130,49 @@
    ]
   ],
   "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 139,
+  "unite": "Oyun Dünyası",
+  "ad": "Oyunlar Kıtaları Aşar",
+  "ozet": "Öğrenciler “oyun pasaportu” ile hayali bir dünya oyunları yolculuğuna çıkar; TÜBİTAK Bilim Çocuk'taki “Bir Dünya Oyun” metni not alarak dinlenir, bilinmeyen kelimeler sözlükten bulunur, anahtar kelimeler ve söz varlığı ilişkileri çalışılır, gruplar bir kıtanın oyununu tanıtan sunum yapar.",
+  "ozu": "<p>Oyunlar kültürün bir parçasıdır; farklı ülkelerin oyunları o toplumun yaşamını yansıtır, benzer oyunlar farklı kıtalarda da oynanabilir. Anahtar kelimeler metnin ana konusunu taşır; kelimeler arasındaki eş, zıt ve yakın anlam ilişkileri söz varlığını zenginleştirir.</p>",
+  "dersler": [
+   [
+    "Oyun pasaportu",
+    "Öğrencilere “Oyun Pasaportu” dağıtılır ve doldurulur: “Bu pasaport sadece oyun oynanan yerlere götürüyor.” “Oyun Yolculuğumuz” zihin haritasına öğrencilerin merak ettiği ülkelerin oyunları nedenleriyle eklenir, oyun-kültür ilişkisi tartışılır. “Bir Dünya Oyun” metninin başlık ve görsellerinden konu tahmin edilir; metin okunurken öğrenciler not alır ve bilinmeyen kelimeleri yazar, sonra TDK sözlüğünden kontrol edilir. Ödev: aile büyükleriyle geleneksel oyunlarımız üzerine görüşme."
+   ],
+   [
+    "Anahtar kelimeler ve kıta seçimi",
+    "Metin tekrar okunur, “Eşleştiriyorum” etkinliğiyle kelimeler pekiştirilir. Altı grup üçer dakikada anahtar kelimeleri belirler, ortak kelimeler tahtada toplanır ve “Söz Varlığı İlişkileri” etkinliği yapılır. “Oyun Kıtam” çarkıyla her grup bir kıta seçer; ödev olarak o kıtaya özgü bir oyunu tanıtan sunum hazırlar."
+   ],
+   [
+    "Kıta oyunları sunumları",
+    "Gruplar sunumlarını yapar, soru-cevabı kendileri yönetir; öğretmen dönüt verir. Ders sonrası gruplar değerlendirme çalışmasını doldurur."
+   ]
+  ],
+  "gerek": "Akıllı tahta, oyun pasaportu çıktısı"
+ },
+ {
+  "id": 140,
+  "unite": "Sağlıklı Yaşıyorum",
+  "ad": "Her Şeyin Başı Sağlık",
+  "ozet": "Sağlıklı yaşam soruları etkinliğinin sonuçları tartışılır; beş grup sağlık çarkından beslenme, spor, uyku, hijyen veya teknoloji kullanımını seçip sunum yapar, öğrenciler bir arkadaşlarına sağlıklı yaşam önerileri içeren dijital mektup yazar.",
+  "ozu": "<p>Sağlıklı yaşam dengeli beslenme, düzenli spor, yeterli uyku, hijyen ve bilinçli teknoloji kullanımıyla sürdürülür. Mektup; tarih, hitap, giriş, gelişme, sonuç ve imzadan oluşur. Dijital mektupta yazı düzeni, görsel-ses ekleme ve paylaşım gibi ortamın imkânları da göz önünde bulundurulur.</p>",
+  "dersler": [
+   [
+    "Sağlık çarkı",
+    "Ders öncesi öğrenciler sağlıklı yaşam sorularını cevaplar. Derste sonuçlar iki dakika incelenip tartışılır; “Sağlıklı yaşamak için neler yapmalıyız?” cevapları tahtaya yazılıp değerlendirilir. Beş grup “Sağlık Çarkı”yla beslenme, spor, uyku, hijyen veya teknoloji kullanımından birini seçer; ödev olarak bunun sağlıklı yaşamla ilişkisini anlatan üç dakikalık sunum hazırlar, rubrik tanıtılır."
+   ],
+   [
+    "Sunumlar ve dijital mektup",
+    "Gruplar sunum yapar, soru-cevabı kendileri yönetir ve rubrikle değerlendirir. Öğretmen dijital mektup görevini açıklar: bir arkadaşa sağlıklı yaşam alışkanlıklarını ve önerileri anlatan, hedefi ve okuyucuyu düşünerek planlanmış, dijital ortamın imkânlarını kullanan bir mektup. Mektup türünün özellikleri anlatılır; ödev olarak mektuplar dijital panoda paylaşılır."
+   ],
+   [
+    "Mektupların incelenmesi",
+    "Rastgele seçilen beş mektup içerik, düzen, yazım ve noktalama açısından incelenir; yazan öğrenci soruları cevaplar. Yansıtıcı günlük sonuçları değerlendirilip güçlü ve geliştirilecek yönlere dönüt verilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
  }
 ]
