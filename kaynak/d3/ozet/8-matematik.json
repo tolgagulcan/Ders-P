@@ -1,0 +1,298 @@
+[
+ {
+  "id": 0,
+  "unite": "Cebir",
+  "ad": "Bütçemi Planlıyorum",
+  "ozet": "Bütçe yönetimi sunumu ve soru-cevapla matematiğin finansal planlamadaki yeri tartışılır; gruplar etkinlik panosunda bir gelir seçip aylık tasarruf miktarını hesaplar, sabit tasarrufla 6 aylık birikimi tabloya ve çizgi grafiğe döker, bu tablo ve grafikten doğrusal denklemi yazar, sonuçlarını sunup akran formuyla değerlendirilir ve son derste doğrusal ilişki problemleri çözülür.",
+  "ozu": "<p>Senaryo doğrusal ilişkiyi <b>finansal okuryazarlıkla</b> öğretiyor: sabit aylık tasarruf (ör. 1000 TL → 1000, 2000, 3000 TL…) tablo, grafik ve denklem olmak üzere üç temsille gösteriliyor. Öğrenciler 7. sınıftaki örüntünün genel terimi bilgisinden yola çıkarak kendi verilerinden denklem kuruyor. Aynı geliri seçen grupların farklı sonuçları karşılaştırılarak bütçe kararlarının birikime etkisi tartışılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Bütçe Yönetimi sunumu açılır. “Bütçe yönetiminin günlük hayata faydası ne? Gelecekteki finansal durumumuzu tahmin etmek için hangi matematiksel yöntemleri kullanabiliriz?” gibi sorulara gelen cevaplar toplanır ve en sık tekrarlananlar belirlenir. Heterojen gruplar Etkinlik Panosu'na grup adlarını yazar, bir gelir seçip aylık tasarruf miktarlarını hesaplar ve sonuç bölümüne yazar. Öğretmen aynı geliri seçen grupların çalışmalarını karşılaştırarak dönüt verir."
+   ],
+   [
+    "2. ders",
+    "Gruplar tasarruflarını sabit tutarak 6 ay sonundaki birikimlerini tablo aracında hesaplar ve hesaplama cetvelini doldurur. Veriler panodaki grafik şablonuna işlenir ve doğrusal ilişki çizgi grafikle gösterilir."
+   ],
+   [
+    "3. ders",
+    "Tablo ve grafikler tahtada açılır, verilerin nasıl denkleme dönüştürüleceği konuşulur (7. sınıftaki örüntünün genel terimi hatırlatılır). Denklemler defterlere yazılır, grafiklerden en yüksek ve en düşük birikimler gözlenir; sabit artış ve azalış durumlarında tablo ve grafik oluşturma pekiştirilir. Ders sonrası gruplar tablo, grafik ve denklemlerini sunuma dönüştürür; EBA'daki Doğrusal İlişki etkileşimli içeriği gönderilir."
+   ],
+   [
+    "4. ders",
+    "Gruplar sunumlarını yapar; diğer öğrenciler sunum tekniği, içerik ve iletişim ölçütlerini içeren grup değerlendirme formunu doldurur. Öğretmen konuyu özetler ve soruları cevaplar."
+   ],
+   [
+    "5. ders",
+    "EBA'daki Alıştırmalar-Doğrusal İlişki soruları rastgele seçilen öğrencilerle çözülür. Doğrusal İlişki-Problemler içeriğindeki beş beceri temelli soru, öğrencilerin çözüm yollarını açıklayıp gerekçelendirmesiyle çözülür."
+   ]
+  ],
+  "gerek": "Etkinlik panosu (Ek-1), grup değerlendirme formu (Ek-2), BT sınıfı, etkileşimli tahta, EBA; etkileşimli sunum, etkileşimli beyaz tahta, tablo-grafik ve görsel düzenleme araçları."
+ },
+ {
+  "id": 1,
+  "unite": "Cebir",
+  "ad": "Denklemler Her Yerde",
+  "ozet": "“Gelecek İçin Ağaç Dik” projesindeki ağaçlandırma problemiyle denklem kurmaya girilir; öğrenciler araziyi çizip çözüm önerir, EBA videosuyla birinci dereceden bir bilinmeyenli denklemler pekiştirilir, oyunlaştırılmış denklem kurma-çözme yarışması yapılır ve son derste gruplar kartondan bir parçasında denklem problemi, diğerinde çözümü olan yapbozlar hazırlar.",
+  "ozu": "<p>Senaryo denklemi <b>gerçekçi bir problemle</b> başlatıyor: çevresi 56 m olan, uzun kenarı kısa kenarının 2 katından 8 m kısa dikdörtgen bir arazi 4 m²'lik karelere bölünüp her kareye bir ağaç dikilecek (kısa kenar 12 m, uzun kenar 16 m, alan 192 m² → 48 ağaç). Öğrenciler önce çizimle kendi yollarını arıyor, denklem öğretmen rehberliğinde bu önerilerden çıkıyor. Son derste öğrenciler denklem problemi yazan taraf oluyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Okuldaki “Gelecek İçin Ağaç Dik” projesi kapsamında dikdörtgen arazi problemi verilir: çevre 56 m, uzun kenar kısa kenarın 2 katından 8 m kısa, her 4 m²'ye bir ağaç. Öğrenciler araziyi çizip çözüm önerir, gönüllüler paylaşır ve öğretmenle birlikte denklem kurulup en fazla kaç ağaç gerektiği bulunur. EBA'daki Birinci Dereceden Bir Bilinmeyenli Denklemler videosu sorularla durdurularak izlenir, kavramlar tekrar açıklanır. Ders sonrası öğrenciler bu kavramlarla bir kavram haritası oluşturur."
+   ],
+   [
+    "2. ders",
+    "Oyunlaştırılmış Denklem Çözme ve Kurma etkinliğinde öğrenciler bireysel olarak soruları cevaplar; doğruluk ve süreye göre puanlanır ve skor tablosu ilan edilir. Zorlanılan sorular gönüllüler ya da öğretmen tarafından çözülür. Sonraki ders için karton, renkli kalem ve makas istenir."
+   ],
+   [
+    "3. ders",
+    "4-5 kişilik gruplar kartondan iki parçalı yapbozlar keser; bir parçaya denklem ya da denklem problemini, diğerine değişkenin değerini yazar. Her grup üye sayısı kadar yapboz hazırlar ve grup değerlendirme formuyla değerlendirilir. Ev çalışması olarak EBA'daki alt konu testi gönderilir."
+   ]
+  ],
+  "gerek": "Karton, renkli kalemler, makas, grup değerlendirme formu (Ek-2), BT sınıfı, etkileşimli tahta, EBA; kavram haritası ve oyunlaştırılmış ölçme araçları."
+ },
+ {
+  "id": 2,
+  "unite": "Cebir",
+  "ad": "Dünyayı Değiştiren Denklemler",
+  "ozet": "Denklemlerin uçaklardan Ay yolculuğuna, görelilikten yazılımlara kadar nerelerde kullanıldığı tartışılıp kelime bulutuna dönüştürülür; 7. sınıftaki tam sayı katsayılı denklemlerle 8. sınıftaki rasyonel katsayılı denklemler karşılaştırılır, Soru Avı ve EBA alıştırmalarıyla pekiştirilir, gruplar kullanım alanları üzerine poster hazırlar ve rasyonel katsayılı denklem cümleleri yazıp kurdukları denklemleri öğretmen dönütüyle düzelterek çözer.",
+  "ozu": "<p>Senaryo iki şeyi vurguluyor: denklemlerin <b>teknolojinin temelinde</b> olduğunu ve 8. sınıftaki yeniliğin <b>rasyonel katsayılar</b> olduğunu. Öğrenciler aynı denklemi önce tam sayı, sonra rasyonel katsayıyla yazarak farkı kendileri keşfediyor. Ders başı ve sonu kelime bulutlarının karşılaştırılması öğrencilerin fikirlerindeki değişimi gösteriyor. Uygulama tablosu ile denklem cümlesi yazma → denklem kurma → çözme adımları öğretmen dönütüyle adım adım düzeltiliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "EBA'dan 7. sınıf Birinci Dereceden Bir Bilinmeyenli Denklemler içeriği tekrar için gönderilir. Dörtlü gruplar oluşturulur, kullanılacak araçlar tanıtılır ve gözlem formunun ölçütleri paylaşılır."
+   ],
+   [
+    "1. ders",
+    "“Denklemler günlük hayatta nerelerde kullanılır, hangi meslekler kullanır?” sorularının cevaplarıyla kelime bulutu oluşturulur. Öğretmen uçakların uçmasında elektromanyetik, Ay yolculuğunda kütle çekim, Dünya ve zaman araştırmalarında görelilik denklemlerinin kullanıldığını ve teknolojik ürünlerin yazılımlarının denklemlerle üretildiğini anlatır. EBA'daki 8. sınıf içeriği açılır; öğrenciler tam sayı katsayılı bir denklemi rasyonel katsayılı hâle getirip farkı keşfeder."
+   ],
+   [
+    "2. ders",
+    "Soru Avı çoktan seçmeli etkinliği yapılır, EBA'daki alıştırmalar ve alt konu testi birlikte çözülür. Kelime bulutu öğrenilenlerle güncellenip ders başındaki fikirlerle karşılaştırılır. Ders sonrası gruplar denklemlerin dört farklı kullanım alanını görsel ve 3-4 cümlelik açıklamalarla anlatan A4 boyutunda bir poster hazırlayıp dijital panoya gönderir."
+   ],
+   [
+    "3. ders",
+    "Gruplar uygulama tablosuna rasyonel katsayılı dört denklem cümlesi yazar ve bunlara uygun denklemleri kurup dijital panodan gönderir. Öğretmen kontrol alanını doldurup eksik ve yanlış denklemlere dönüt verir, gruplar düzeltir."
+   ],
+   [
+    "4. ders",
+    "Gruplar kurdukları denklemleri yirmi dakikada çözer, öğretmen dönütlerine göre düzeltir. Son on dakikada grup üyeleri birbirini grup değerlendirme aracıyla değerlendirir, öğretmen gözlem formunu doldurur. Ders sonrası EBA'daki öğretmene özel alıştırma ve alt konu testi bir hafta içinde tamamlanmak üzere gönderilir."
+   ]
+  ],
+  "gerek": "Uygulama tablosu (Ek-3), gözlem formu (Ek-1), grup değerlendirme formu (Ek-4), BT sınıfı, etkileşimli tahta, EBA; kelime bulutu, çoktan seçmeli test, afiş ve dijital pano araçları."
+ },
+ {
+  "id": 3,
+  "unite": "Cebir",
+  "ad": "Engelsiz Okul",
+  "ozet": "Bedensel engelli bir misafirin rampası olmayan okulda yaşadığı zorlukları anlatan yapay zekâ hikâyesiyle eğim konusuna girilir; öğrenciler sınıflarını daha erişilebilir hâle getirir, eğimin dikeydeki değişimin yataydaki değişime oranı olduğunu öğrenir, gruplar okuldaki rampa, merdiven ve kaldırımların eğimini ölçüp uygun eğim (%4-%6) araştırmasını sunar, eğimin işareti ve eğimi verilen doğrunun denklemi çalışılır, eğimler dinamik geometri aracında doğrulanır.",
+  "ozu": "<p>Senaryo eğimi <b>erişilebilirlik</b> sorunuyla ilişkilendiriyor: öğrenciler hem sınıf düzenini değiştiriyor (sıralar arası boşluk, çöp kovasının sabitlenmesi, sık kullanılan eşyaların alt raflara konması) hem de okul girişindeki rampanın eğiminin kabul edilebilir aralıkta olup olmadığını hesaplıyor. Gerçek ölçümler sınıfta öğrenilen eğim tanımıyla birleşiyor. Hesaplanan eğimler dinamik geometri aracında grafik çizilerek kontrol ediliyor, farklı çıkan sonuçlar işlem hatası arayışına dönüşüyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğrenciler önceden EBA'daki Eğim videosunu izlemiştir. Bedensel engelli çocukların okullarda eğitim alabilmesi için gereken mimari düzenlemelerle ilgili bir makalenin özeti okunur; “Sınıfımızı daha kullanışlı ve güvenli hâle getirmek için neler yapabiliriz?” fikirleri dijital panoya yazılır ve uygulanabilir olanlarla sınıf düzeni değiştirilir. Rampa olmadığı için zorlanan bir misafiri anlatan yapay zekâ hikâyesi okunur; eğimin dikeydeki değişimin yataydaki değişime bölünmesiyle bulunduğu anlatılır ve EBA'daki Grafiği Verilen Doğrunun Eğimi içeriği çözülür. Ders sonrası 5-8 kişilik dört grup uygun rampa eğimini araştırır, okul içi ve dışındaki merdiven ve kaldırımlar için rampa eğimlerini hesaplar ve sunum hazırlar; EBA'daki Denklemi Verilen Doğrunun Eğimi içeriği gönderilir."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Eğimin İşareti etkileşimli videosu izlenir. Tahtaya çizilen doğrusal denklem grafiklerinin eğimleri 10 dakikada bulunur ve sırayla cevaplanır. EBA'daki Eğimi Kullanarak Doğru Denklemini Oluşturma içeriği izlenir, eğimi ve bir noktası verilen doğrunun denklemini kurma soruları çözülür."
+   ],
+   [
+    "3. ders",
+    "Grup sözcüleri okula engelli rampası yapma sunumlarını araştırmayı en erken yükleyenden başlayarak yapar. Sırasını bekleyen gruplar sunum yapanları grup değerlendirme formuyla değerlendirir."
+   ],
+   [
+    "4. ders",
+    "2-4 kişilik gruplar denklemlerin eğimlerini önce dijital panoda hesaplar, sonra dinamik matematik ve geometri aracında grafiklerini çizerek doğrular. Sonuçlar aynıysa sonraki denkleme geçilir, farklıysa işlemler kontrol edilir; öğretmen gruplar arasında dolaşıp dönüt verir."
+   ],
+   [
+    "5. ders",
+    "EBA'daki Grafiği Verilen Doğruların Eğimleri içeriği ve Doğrunun Eğimi alt konu testi paylaşılır. Öğrenciler kendi hızlarında çözüp cevaplarını dijital panoya yazar, öğretmen tahtadan takip ederek anında dönüt verir."
+   ]
+  ],
+  "gerek": "Rampa ölçümü için metre, grup değerlendirme formu (Ek-1), eğim soruları (Ek-2, Ek-3), BT sınıfı, etkileşimli tahta, EBA; yapay zekâ, dijital pano, etkileşimli sunum ve dinamik geometri araçları."
+ },
+ {
+  "id": 4,
+  "unite": "Cebir",
+  "ad": "Matematiksel Eşitsizliklerle Günlük Hayat Problemlerini Çözme",
+  "ozet": "Su kaynaklarının geleceğiyle ilgili videodan sonra bir şehrin su tüketimi problemi panoda adım adım eşitsizlikle çözülür ve su tasarrufu önerileri toplanır; kavrama soruları, eşleştirme oyunu ve EBA videosuyla eşitsizlik çözümü pekiştirilir, ikinci derste gıda güvenliği sunumundan sonra ikili gruplar depodaki bakteri miktarını gösteren eşitsizlik kuralını kurup soruları çözer ve sunar.",
+  "ozu": "<p>Senaryo eşitsizlikleri <b>sürdürülebilirlik ve sağlık</b> temalı iki gerçek yaşam problemiyle öğretiyor: şehrin su tüketiminin sınırlar içinde kalması ve temizlik işlemleriyle depodaki bakteri miktarının güvenli düzeye inmesi. İkinci problemde öğrenciler başlangıç miktarı, temizlik sayısı ve kalan miktar arasındaki ilişkiden eşitsizlik kuralını kendileri kuruyor. Matematikle birlikte su tasarrufu ve hijyen farkındalığı da kazandırılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Suyumuzun Geleceği Tehdit Altında videosu izlenir ve sürdürülebilir su yönetimi konuşulur. Bilinçli Su Tüketimi panosundaki şehir su tüketimi problemi öğrencilerle adım adım eşitsizlikle çözülür, su tasarrufu önerileri panoya kaydedilir. Eşitsizlik kavrama sorularıyla devam edilir, gönüllüler Eşitsizlik Eşleştirme oyununu tahtada oynar ve eğlenceli etiketlerle ödüllendirilir. EBA'daki Birinci Dereceden Bir Bilinmeyenli Eşitsizliklerin Çözümü videosu izlenir. Ders sonrası EBA'daki alıştırmalar ek çalışma olarak verilir."
+   ],
+   [
+    "2-3. ders",
+    "İkili gruplar oluşturulur. Dikkat çekici bir problem öğrencilerin defterlerinde çözülür, doğru adımlar tahtada gösterilir. Gıda Güvenliği ve Hijyeni sunumundan sonra öğrenciler olumlu ve olumsuz hijyen deneyimlerini anlatır. Gruplar Gıda Depolama ve Hijyen Kontrolü problemini tartışır; başlangıç miktarı, temizlik işlemi sayısı ve kalan bakteri miktarı arasındaki ilişkiden bir eşitsizlik kuralı kurup soruları çözer. Her gruptan bir temsilci kuralı ve cevapları açıklar, sınıfça tartışılır ve gruplar formla değerlendirilir. Ders sonrası beceri temelli eşitsizlik problemleri çıktı olarak verilir, çözümler sonraki derste birlikte kontrol edilir.",
+    "2-3"
+   ]
+  ],
+  "gerek": "Kavrama soruları (Ek-2), grup değerlendirme formu (Ek-6), beceri temelli problem çıktıları (Ek-7), etkileşimli tahta, EBA; etkileşimli beyaz tahta, oyunlaştırma ve sunum araçları."
+ },
+ {
+  "id": 5,
+  "unite": "Cebir",
+  "ad": "Sokakta Birileri Var",
+  "ozet": "4 Nisan Dünya Sokak Hayvanları Günü'nden yola çıkarak sınıf sokak hayvanları için bir yardım kampanyası başlatır: bir grup hayvanların toplandığı yerleri gözlemler, bir grup afiş hazırlar, bir grup yardımları kaydeder; yem ve su kabı noktaları okul orijin kabul edilerek mahalle krokisinde koordinat sistemine yerleştirilip sıralı ikililerle yazılır, boyama etkinliğiyle pekiştirilir ve son derste 3B tasarlanmış gemilerle koordinat sistemine uyarlanmış Amiral Battı oynanır.",
+  "ozu": "<p>Senaryo koordinat sistemini <b>gerçek bir toplumsal sorumluluk projesine</b> bağlıyor: yardım noktalarının yerini belirlemek koordinat sistemine ihtiyaç doğuruyor ve okul orijin alınarak mahalle krokisi üzerinde sıralı ikililer yazılıyor. Kampanya için okul idaresinden izin alınıp en beğenilen afiş basılıyor. Kapanış oyunla yapılıyor: öğrenciler 3B modelleme aracında boyutları belirli gemiler tasarlıyor (yazıcı yoksa kâğıttan) ve Amiral Battı'da rakibin gemilerini koordinatlarla buluyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“4 Nisan'da hangi günü kutluyoruz?” sorusuyla Dünya Sokak Hayvanları Günü hatırlatılır; “Sokak hayvanları için neler yapılabilir?” sorusunun cevapları beyin fırtınası aracında toplanır ve yem-su kabı koyma fikrine ulaşılır. Sınıf bir yardım kampanyası kararı alır: 1. grup hayvanların toplandığı alanları gezerek belirler, 2. grup duyuru afişi hazırlar, 3. grup yardımları (yem, yem kabı, su kabı) kaydeder; iletişim için sınıf yönetimi aracında ortam açılır. Yardımları noktalara ulaştırmak için koordinat sistemi fikrine varılır; EBA'daki Koordinat Sistemi ve Sıralı İkilinin Koordinat Sistemindeki Yeri videoları izlenip etkileşimli içerikler yapılır."
+   ],
+   [
+    "2. ders",
+    "Öğretmenin hazırladığı mahalle krokisi tahtada açılır ve dağıtılır. 1. gruptan bir öğrenci hayvanların toplandığı yerleri nokta olarak gösterir, okul orijin olarak işaretlenir; öğrenciler noktaları krokiye yerleştirip yardım noktalarını sıralı ikili olarak yazar. 2. grubun afişleri oylanır, seçilen basılır ve okul idaresinden izin alınarak kampanya başlatılır. Koordinat sistemi boyama etkinliğiyle pekiştirilir, kâğıtlar panoda sergilenir. Ders sonrası öğrenciler 3B modelleme aracında yüksekliği 1 cm, genişliği 2 cm olan cisimlerden gemi tasarlar ve 3B yazıcıdan basar (yazıcı yoksa 5×5 cm el işi kâğıdından dört gemi yapar)."
+   ],
+   [
+    "3. ders",
+    "2-4 kişilik gruplara Amiral Battı oyun alanı kâğıtları dağıtılır. Öğrenciler gemilerini rakibe göstermeden yerleştirip koordinatlarını deftere yazar ve sırayla koordinat söyleyerek rakibin gemilerini bulmaya çalışır. Öğretmen yanlış hamleleri düzeltir. Ders sonrası EBA'daki Koordinat Sistemi alt konu testi gönderilir."
+   ]
+  ],
+  "gerek": "Mahalle krokisi çıktısı, boyama etkinliği kâğıdı, Amiral Battı oyun alanı çıktıları, 3B yazıcı (yoksa el işi kâğıdı), BT sınıfı, etkileşimli tahta, EBA; beyin fırtınası, afiş, sınıf yönetimi ve 3B modelleme araçları."
+ },
+ {
+  "id": 6,
+  "unite": "Cebir",
+  "ad": "Terazi Hep Dengede mi Kalır?",
+  "ozet": "Terazi modeliyle 7. sınıftaki eşitlik bilgisi hatırlatılır; dinamik geometri aracındaki Bilinmeyeni Bul etkinliğinde kefeleri dengeye getirme yolları tartışılır, kefelerin eşit olmadığı durumlardan eşitsizlik kavramına ulaşılıp semboller öğrenilir, ikililer tartı, mikrofon, hız limiti ve üst geçit etkinliklerinde sözel ifadeleri eşitsizliğe çevirir, ikinci derste kavrama soruları çözülür ve öğrenciler eşitsizlikle ilgili animasyon ya da afiş hazırlar.",
+  "ozu": "<p>Senaryo eşitsizliği <b>dengesi bozulan terazi</b> üzerinden tanıtıyor: öğrenciler eşit olmayan kefelerde diğer kefenin ağırlığının ne olabileceğini düşünerek kavramın adını kendileri buluyor. Ardından semboller (&lt;, &gt;, ≤, ≥) günlük hayattaki sınır durumlarıyla (asansör/tartı kapasitesi, ses düzeyi, hız limiti, üst geçit yüksekliği) sözel ifadeden matematiksel ifadeye çevriliyor. İkili gruplar önceden belirlendiği için zaman verimli kullanılıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen eşitlik ve denklemleri hatırlatan bir sunum hazırlar, ikili grupları belirler ve akran değerlendirme formunu paylaşır. Öğrenciler dinamik geometri aracındaki terazi modelinde verilmeyen ağırlığı bulur."
+   ],
+   [
+    "1. ders",
+    "“Eşitliğin iki tarafına hangi işlemler uygulanırsa eşitlik bozulmaz? Bir denklemin birden fazla çözümü olabilir mi?” sorularıyla 7. sınıf konusu hatırlatılır. Bilinmeyeni Bul etkinliğinde dengedeki ve dengede olmayan teraziler incelenir; eşitliği sağlamak için izlenecek yollar tartışılır ve öğrenciler kendi yönergelerini uygular. Eşit olmayan kefelerin adı sorularak eşitsizlik kavramına ulaşılır, semboller EBA'daki Eşitsizlikler içeriğiyle verilir. İkinci aşamada sözel ifadelerin eşitsizlikle nasıl yazılacağı tartışılır; ikililer Tartı, Mikrofon, Hız Limiti ve Üst Geçit etkinliklerini yapar."
+   ],
+   [
+    "2. ders",
+    "Önceki dersteki dört etkinlik tahtaya yansıtılıp tartışılarak değerlendirilir. Çoktan seçmeli kazanım kavrama sorularıyla öğrenciler değerlendirilir. Öğrenciler günlük hayattan bir eşitsizlik durumunu anlatan animasyon ya da afiş hazırlar; afişler panoda sergilenir, animasyonlar tahtada izlenir. Akran değerlendirme formu doldurulur. Ödev: EBA'daki Eşitsizlikleri Sayı Doğrusunda Gözlemleme ve Sayı Doğrusunda Verilen Eşitsizliği Yazma alıştırmaları."
+   ]
+  ],
+  "gerek": "Akran değerlendirme formu (Ek-1), kazanım kavrama soruları (Ek-2), BT sınıfı, etkileşimli tahta, EBA; etkileşimli sunum, dinamik geometri, sınıf yönetimi, animasyon ve afiş araçları."
+ },
+ {
+  "id": 7,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Dikkat Matematik Çıkabilir!",
+  "ozet": "Deepfake tehlikesini anlatan metin ve videoyla başlayan senaryoda öğrenciler korunma yolları üzerine afiş hazırlar ve yüz tanıma teknolojilerini konuşur; EBA'daki Yüz Eşleştirme ve Uzaktan Yüz Tanıma içerikleriyle eşlik ve benzerlik keşfedilir, geometri tahtasında belirli oranlarda benzer çokgenler oluşturulur ve son derste 3B model, dinamik geometri, geometrik resim ve şiir istasyonlarında eş ve benzer şekiller üretilir.",
+  "ozu": "<p>Senaryo eşlik ve benzerliği <b>yüz tanıma teknolojisi</b> bağlamına yerleştiriyor: eş şekillerde kenar ve açıların eşit, benzer şekillerde açıların eşit ve kenarların orantılı olduğu yüz eşleştirme içerikleriyle fark ettiriliyor. Ders aynı zamanda deepfake gibi yapay zekâ risklerine karşı dijital farkındalık kazandırıyor. Son dersteki istasyon tekniği aynı kavramı dört farklı biçimde (3B tasarım, dinamik geometri, resim, şiir) üretmeyi sağlıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Yapay Zekâ Uygulamaları Öğretmen El Kitabı'ndaki “İnternetteki Büyük Tehlike” metni okunur ve “Büyük Tehlike: Deepfake” videosu izlenir. “Bu karışıklığı önlemek için siz ne yapardınız?” cevapları dijital panoda değerlendirilir ve en kullanışlı yöntem için slogan yazılır. 3-5 kişilik gruplar konuyla ilgili afiş hazırlar; afişler rubrikle değerlendirilip düzeltildikten sonra panoda sergilenir. EBA'daki Yüz Tanıma Teknolojileri videosu izlenip konuşulur."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Yüz Eşleştirme içeriğiyle eş şekillerde kenar ve açıların eşit olduğu fark ettirilir. Uzaktan Yüz Tanıma içeriğinde yamuğun hangi oranda büyütüldüğü sorularak benzer çokgenlerde açıların eşit, kenarların orantılı olduğuna ulaşılır. Benzer Üçgen ve Çokgenleri Bulma içeriği çözülür. Gruplar geometri tahtası ve lastiklerle öğretmenin oluşturduğu çokgene eş ve 3 ya da 1/3 gibi verilen oranlarda benzer çokgenler oluşturur."
+   ],
+   [
+    "3. ders",
+    "İstasyon tekniği uygulanır: 1. masada 3B model aracında, 2. masada dinamik geometri aracında eş ve benzer şekiller oluşturulur, 3. masada eş ve benzer çokgenlerle resim yapılır, 4. masada eşlik ve benzerlik üzerine şiir yazılır. Gruplar her masada 7 dakika çalışıp saat yönünde döner. Ürünler incelenir, ortak şiir okunur ve resim yorumlanıp panoda sergilenir; grup değerlendirme formu doldurulur. Ödev: EBA'daki Eş Çokgen ve Üçgenleri Bulma içeriği ve Eşlik ve Benzerlik alt konu testi."
+   ]
+  ],
+  "gerek": "Geometri tahtaları ve lastikler, resim ve yazı malzemeleri, poster rubriği (Ek-1), grup değerlendirme formu (Ek-2), BT sınıfı, etkileşimli tahta, EBA; dijital pano, afiş, 3B modelleme ve dinamik geometri araçları."
+ },
+ {
+  "id": 8,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Dönüşüm Geometrisine Yolculuk",
+  "ozet": "Mimari eserlerdeki öteleme ve yansımaları gösteren sunumla başlayan senaryoda dinamik geometri aracında örnek sorular çözülür, ötelemeli yansıma EBA videosuyla gösterilir ve beş soruluk çalışma kâğıdı araçta modellenerek çözülür; sonraki iki derste gruplar EBA'daki ardışık dönüşümler etkinliğinde şekillerin görüntülerini koordinat sisteminde bulur ve ardışık dönüşüm soruları yarışmasıyla pekiştirir.",
+  "ozu": "<p>Senaryo dönüşüm geometrisini <b>mimari ile ilişkilendirerek</b> başlatıyor, sonra dinamik geometri aracında görselleştiriyor: öğrenciler öteleme ve yansımanın şekli nasıl değiştirdiğini ekranda adım adım izliyor ve akıl yürütüyor. Ardışık dönüşümlerde hem görüntü çizimi hem köşe koordinatlarının belirlenmesi çalışılıyor. Grup yarışması ve grup içi değerlendirme süreci hareketli ve paylaşımlı tutuyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öteleme ve Yansıma sunumunda mimari eserlerdeki dönüşümler incelenir ve öğrencilerin fikirleri alınır; bu hareketlerin matematiksel açıklaması yapılır. Dinamik geometri aracındaki örnek soruda kırmızı şeklin nasıl oluştuğu üzerine akıl yürütülür ve sorular sırayla tahtada cevaplanır. EBA'daki Ötelemeli Yansıma videosu izlenir. Beş soruluk çalışma kâğıdı EBA'dan paylaşılır ve sorular araçta modellenerek bireysel ya da grupça çözülür, rastgele seçilen öğrenciler tahtada çözer. Ders sonrası EBA'daki Dönüşüm Geometrisi konu testi gönderilir."
+   ],
+   [
+    "2-3. ders",
+    "Gruplar bilgisayar sayısına göre oluşturulur ve grup değerlendirme ölçütleri paylaşılır. Her öğrenci EBA'daki Ardışık Dönüşümler Sonucu Oluşan Görüntüyü Belirleme etkinliğinde şekillerin ardışık dönüşüm sonrası görüntülerini koordinat sisteminde gösterir ya da köşe koordinatlarını bulur. Ardından EBA öğretmene özel sorulardan derlenen ardışık dönüşüm soruları gruplara dağıtılır ve yarışma yapılır; en çok doğru cevap veren grup ödüllendirilir. Öğrenciler grup arkadaşlarını değerlendirir, anlaşılmayan noktalar tekrar edilir.",
+    "2-3"
+   ]
+  ],
+  "gerek": "Çalışma kâğıdı (Ek-1), ardışık dönüşüm soruları ve kareli kâğıt çıktısı (Ek-2), grup değerlendirme formu (Ek-3), BT sınıfı, etkileşimli tahta, EBA; etkileşimli sunum ve dinamik geometri araçları."
+ },
+ {
+  "id": 9,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Geometri Bilmeyen Giremez",
+  "ozet": "Platon'un akademisinin girişindeki “Geometri bilmeyen girmesin.” sözünün nedeni çevrim içi tartışmayla konuşulur; EBA içeriğiyle üçgenin kenarortay, açıortay ve yüksekliği öğretilir, dörtlü gruplar dinamik geometri aracında farklı üçgen türlerinde aynı köşeden bu elemanları çizip farklarını inceler ve son derste çizimlerini sunup akran değerlendirmesi yapar.",
+  "ozu": "<p>Senaryo üçgenin yardımcı elemanlarını <b>keşfederek çizmeye</b> dayanıyor: gruplar açının gördüğü kenarı çift tam sayı olan bir üçgende aynı köşeden açıortay, kenarortay ve yüksekliği çizip aralarındaki farkı görüyor, sonra bunu açılarına ve kenarlarına göre farklı üçgen türlerinde tekrarlıyor (ör. ikizkenar üçgende bu elemanların çakışması). Platon'un sözü üzerine tartışma geometrinin tarihsel önemini ve gündelik hayattaki yerini öne çıkarıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Platon'un akademisinin girişindeki “Geometri bilmeyen girmesin.” ifadesi anlatılır. “Platon neden böyle bir ifade yazdırmış olabilir? Neden başka bir ders değil de yeryüzünü ölçmek anlamına gelen geometri?” soruları üzerine fikirler çevrim içi tartışma aracında paylaşılır ve geometrinin günlük hayattaki yeri konuşulur. Dörtlü gruplar oluşturulur, dinamik geometri aracı tanıtılır."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Üçgende Kenarortay, Açıortay ve Yükseklik içeriği izlenir; yardımcı elemanların gündelik hayatta kullanımına örnekler verilir. Gruplar dinamik geometri aracında, yardımcı elemanların çizileceği açının ve karşısındaki kenarın uzunluğunun çift tam sayı olduğu bir üçgen oluşturur, aynı köşeden açıortay, kenarortay ve yüksekliği çizip farklarını belirler. Aynı işlem açılarına ve kenarlarına göre farklı üçgen türlerinde tekrarlanır. Çizimler kaydedilip ödev olarak sunuma dönüştürülür."
+   ],
+   [
+    "3. ders",
+    "Ders süresi gruplar arasında eşit paylaştırılır; her grup oluşturduğu üçgenleri ve elemanlarını sunar. Son on dakikada öğrenciler akran değerlendirme formunu doldurur. Ödev: EBA'daki Üçgende Kenarortay, Açıortay ve Yükseklik alıştırmaları."
+   ]
+  ],
+  "gerek": "Akran değerlendirme formu (Ek-1), BT sınıfı, etkileşimli tahta, EBA; çevrim içi tartışma, dinamik geometri ve etkileşimli sunum araçları."
+ },
+ {
+  "id": 10,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Kralların Oyununda Öteleme",
+  "ozet": "Satranç üzerinden öteleme öğretilir: “Atı C3'e gönder.” komutuyla atın L hareketinin 2 birim yukarı ve 1 birim sağa ötelemeye denk olduğu gösterilir, gruplar satranç hamlelerini öteleme hareketlerine çevirir; ardından dinamik geometri aracında çokgen, nokta ve doğru parçaları ötelenir, noktanın ötelenmesiyle koordinatlarının nasıl değiştiği keşfedilip ortak bir kurala bağlanır ve son derste EBA sınavıyla değerlendirme yapılır.",
+  "ozu": "<p>Senaryo ötelemeyi <b>satranç hamleleriyle</b> somutlaştırıyor: taşların tahtadaki kurallı hareketleri, şeklin biçimi, büyüklüğü ve yönü değişmeden yapılan doğrusal ilerleme olarak yorumlanıyor. Öteleme ve koordinat ilişkisi doğrudan söylenmiyor; gruplar önce yatay, sonra dikey, sonra birleşik ötelemelerde koordinatların değişimini gözleyip kendi açıklamalarını yazıyor ve sınıfça ortak bir kurala ulaşılıyor. Konu robotik kodlama ve haritalandırma gibi alanlarla da ilişkilendiriliyor.</p>",
+  "dersler": [
+   [
+    "1-2. ders",
+    "Öğrenciler önceden EBA'daki Satranç Hakkında Genel Bilgi ve Satranç Tahtası ve Taşları videolarını izlemiştir. Tahtada çevrim içi bir satranç oyunu açılır ve “Atı C3'e gönder.” komutunun anlamı sorulur. Satrancın sosyalleşmeye ve analitik düşünmeye katkısı anlatılır; taşların hareketlerini tek kelimeyle ifade etme sorusuyla öteleme kavramına ulaşılır ve şeklin biçimi, büyüklüğü ve yönünün değişmediği vurgulanır. A2'deki atın C3'e L hareketinin 2 birim yukarı, 1 birim sağa ötelemeye denk olduğu gösterilir. 4-5 kişilik gruplar etkinlik kâğıdında hamlelere uygun ötelemeleri yazar ya da verilen ötelemeyle taşın geleceği kareyi bulur ve grup değerlendirme formuyla değerlendirilir.",
+    "1-2"
+   ],
+   [
+    "3. ders",
+    "Öğrenciler EBA duvarda paylaşılan yönergeyi izleyerek dinamik geometri aracında bir çokgeni öteler, ardından nokta, doğru parçası ve doğrularla da öteleme yapar. Uzun cevaplı sorular etkinliği yapılıp cevaplar tartışılır. Ders sonrası EBA'daki Öteleme Hareketi etkileşimli içeriği gönderilir."
+   ],
+   [
+    "4. ders",
+    "Öğretmen dinamik geometri aracında noktaları önce sağa-sola, sonra aşağı-yukarı, sonra her iki yönde öteler; gruplar her adımda koordinatlardaki değişimi açıklar ve açıklamalarını sınar. Gruplar tespitlerini dijital panoya yazar, sınıfça tartışılıp ortak bir kural belirlenir. Ötelemenin Doğrusu Yanlışı etkinliğinde yanlış ifadelerin doğrusu bulunur."
+   ],
+   [
+    "5. ders",
+    "EBA'daki Koordinat Sisteminde Öteleme etkileşimli videosundaki etkinlikler tamamlanır. Öğretmenin EBA'da hazırladığı sınav ders içinde bireysel olarak çözülür; raporlar incelenip yanlış yapılan sorular gönüllüler ya da öğretmen tarafından çözülür."
+   ]
+  ],
+  "gerek": "Satranç hamleleri ve öteleme etkinlik kâğıdı (Ek-1), grup değerlendirme formu (Ek-2), öteleme yönergesi (Ek-3), BT sınıfı, etkileşimli tahta, EBA; çevrim içi satranç sayfası, dinamik geometri, uzun cevaplı soru, dijital pano ve doğru-yanlış araçları."
+ },
+ {
+  "id": 11,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Pisagor'u ve Pisagor Teoremini Tanıyoruz",
+  "ozet": "Yapay zekâyla öğrenci seviyesine uyarlanmış Pisagor metniyle başlanır; gruplar dinamik geometri aracında 3-4-5 üçgeninden yola çıkarak dik üçgenler oluşturup tablodaki örüntüden a² + b² = c² bağıntısını keşfeder, cadde problemi araçta modellenir ve sürgülü etkinlikle karelerin alanları incelenir, soru çözümüyle pekiştirilir ve son derste Pisagor üçlüsü bulma, soru çözme ve kare tangram istasyonları uygulanır.",
+  "ozu": "<p>Senaryo Pisagor bağıntısını <b>keşfettirerek</b> öğretiyor: formül en sonda veriliyor; önce gruplar kendi çizdikleri dik üçgenlerde dik kenarlar üzerindeki karelerin alanları toplamının hipotenüs üzerindeki karenin alanına eşit olduğunu tablodan görüyor. Cadde problemi, iki dik kenarın toplamının hipotenüsten uzun olduğunu (kestirme yolun kısalığını) gösteriyor. Dinamik geometri aracı kenarlar değiştikçe alanların nasıl değiştiğini canlı izletiyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen Pisagor'u anlatan içeriği yapay zekâyla öğrenci seviyesine uyarlar ve sınıf yönetimi aracıyla gönderir. Farklı becerilere sahip, uyumlu öğrencilerden gruplar oluşturur."
+   ],
+   [
+    "1-2. ders",
+    "Pisagor metni üzerinden Pisagor'un hayatı ve matematiğe katkıları konuşulur; gruplar öğretmenin sorularını dijital panoda cevaplar. EBA'daki Pisagor ve Pisagor Bağıntısı içeriği izlenir, dik üçgen ve hipotenüs vurgulanır. Gruplar 3-4-5 üçgeninden yola çıkarak dinamik geometri aracında verilen adımlarla dik üçgenler oluşturur ve tabloyu doldurup panoda paylaşır. Tablodaki örüntüden dik kenarlardaki karelerin alanları toplamının hipotenüsteki karenin alanına eşit olduğuna ulaşılır ve a² + b² = c² bağıntısı verilir.",
+    "1-2"
+   ],
+   [
+    "3. ders",
+    "Gruplar cadde problemini tartışır; öğretmen problemi dinamik geometri aracında modelleyip C Caddesi'nin uzunluğunu hesaplar ve A ile B caddelerinin toplamının C'den uzun olduğunu gösterir. Bir dik kenar ve hipotenüs bilindiğinde diğer kenarın bulunması anlatılır. Pisagor Teoremi etkinliğinde seçilen öğrenciler a ve b sürgülerini hareket ettirip karelerin alanlarındaki değişimi inceler. İki kazanım kavrama sorusu çözülür; ödev EBA'daki Pisagor Bağıntısını Hesaplama alt konu testidir."
+   ],
+   [
+    "4. ders",
+    "EBA'daki Dik Üçgen ve Pisagor Bağıntısı çalışma sorularından ve 8. Sınıf Matematik Ünitelendirilmiş Örnek Sorular'dan seçilen sekiz soru birlikte çözülür. Ödev: EBA'daki Alıştırmalar-Dik Üçgen ve Pisagor Bağıntısı."
+   ],
+   [
+    "5. ders",
+    "Üç istasyon kurulur ve öğrenciler gözlem formuyla değerlendirilir: Pisagor Üçgenini Bulma'da (8 dk.) verilen kenar uzunluklarından Pisagor üçlüleri bulunur, Pisagor Bağıntısı Soruları'nda (10 dk.) önceki derste çözülmeyen örnek sorular çözülür, Kare Tangram Bulmacası'nda (12 dk.) gruplar verilen şekli oluşturup süresini kaydeder. En kısa sürede tamamlayan grup sınıf yönetimi aracından ödüllendirilir."
+   ]
+  ],
+  "gerek": "Pisagor soruları (Ek-1), keşif tablosu (Ek-2), problem durumu (Ek-3), kazanım kavrama soruları (Ek-4), gözlem formu (Ek-5), Pisagor üçlüsü tablosu (Ek-6), kare tangram setleri (Ek-7), BT sınıfı, etkileşimli tahta, EBA; yapay zekâ, sınıf yönetimi, dijital pano ve dinamik geometri araçları."
+ }
+]
