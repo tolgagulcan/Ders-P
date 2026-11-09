@@ -1,0 +1,105 @@
+## 6. Sinif/Fen Bilimleri/Canlilarda Sistemler - Cimlenen Tohumlar.pdf
+SURE:4 KOD:FB.6.3.3.
+KAV:Yaşam döngüsü, Tohum, Çimlenme, Büyüme
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen derste kullanmak üzere bir avuç ay çekirdeği temin eder.
+1. Ders (Sınıf)
+Öğretmen; elinde bir avuç ay çekirdeği ile sınıfa girer, birkaç tane yer ve öğrencilere de ikram eder. Bu
+esnada öğrencilere yediğinin ne olduğunu ve bir bitkinin yaşam döngüsündeki işlevinin ne olduğunu sorar.
+Öğrencilerden gelen cevapları tahtaya yazar. Yazılan cevapları öğrenciler bitkinin yaşam döngüsü üzerin-
+deki etkisine göre değerlendirir. Öğretmen ‘’bir bitkinin tohumu’’ cevabına ulaşmaları için öğrencileri yönlen-
+dirir. Bitkilerin üremesi için gerekli şartları ve tozlaşma olayını hatırlatmak için öğrencilere sorular sorar.
+Aldığı cevaplara geri bildirim verir.
+Öğrencilere “Hiç tohum ektiniz mi?” sorusunu yöneltir. Alınan cevaplardan sonra bir tohumun çimlenme
+sürecini öğrencilerinin zihninde somutlaştırmak amacıyla video düzenleme araçlarını kullanarak hazırladığı
+Günaydın Tohum videosunu açar. Öğrencilerin videoyu izlemesinin ardından “Videoda izlediğiniz süreci hızlan-
+dırmak için neler yapabiliriz?” diye sorar. Öğrencilerin verdiği cevaplarla tartışma ortamı oluşturur. Öğren-
+cilerin bitkinin yaşam döngüsündeki büyüme ve gelişme aşamaları ile ilgili ön bilgilerini harekete geçirmek
+amacıyla oyunlaştırma web aracıyla hazırladığı Tohumdan Bitkiye etkinliğini açar. Gönüllü öğrencilerle
+etkinliğe başlar ve diğer öğrencileri cesaretlendirerek etkinliğin tamamlanmasını sağlar. Etkinlik tamamla-
+dıktan sonra öğrencileri çimlenmenin tanımını yapabilmeleri için yönlendirir. Uygun şartlar sağlandığında
+tohumların bitkiyi oluşturmasına çimlenme dendiğini söyler.
+Öğretmen, bir tohumun çimlenerek yeni bir bitki oluşturması için gereken şartlar hakkında öğrencilerin fikir-
+lerini almak amacıyla dijital pano ya da pos-it araçlarını kullanarak hazırladığı Bir Tohumu Nasıl Uyandırırız?
+etkinliğini etkileşimli tahtadan açar. Bu çalışmada öğrencilerden beyin fırtınası yaparak tohumun çimlen-
+mesi ve bitkiyi oluşturması için nelerin gerekli olduğuna dair görüşlerini belirtmelerini ister. Öğrenciler, fikir-
+lerini bir sonraki derste yapılacak olan Hipotezimizi Kuralım etkinliğinde kullanmak üzere dijital panoya ekler.
+Ders Öncesi
+Öğretmen, etkinlikte kurulan hipotezleri test etmek için Hipotezimizi Test Edelim Etkinlik Yönergesi’ni hazırlar
+ve grup sayısı kadar çoğaltır (Ek-1). Yapılacak etkinlik için gerekli malzemeleri (fasulye/tere tohumu, pamuk,
+toprak, sulama kabı ve termometre) temin eder.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Fen Laboratuvarı)
+Öğretmen, öğrencilere tohumun çimlenmesini etkileyen değişkenler için yapılan tahminler doğrultusunda
+hipotezler kurup bunları test etmek amacıyla deney düzeneği hazırlayacaklarını söyler. Öğrencileri sınıfın
+fiziki koşullarına ve uygulanacak etkinliğe göre dört gruba ayırır. Oluşturduğu grupları masalarına yönlen-
+dirir. Bir önceki ders yapılan Bir Tohumu Nasıl Uyandırırız? etkinliğini açar ve kaydedilen cevaplardan beş
+tanesini Hipotezimizi Kuralım etkinliğinde değişken olarak kullanmak için seçer.
+Ardından öğrencilerin hipotezlerini oluşturmaları amacıyla etkileşimli beyaz tahta araçlarıyla hazırladığı
+Hipotezimizi Kuralım etkinliğini açar. Hipotez cümlesinin nasıl oluşturacağına dair bilgi verir. Etkinlik içeri-
+sinde ilgili alana belirlenen beş faktörü yazar. Bunlardan oksijen faktörünü laboratuvarda oksijensiz ortam
+oluşturulamayacağı için kullanamayacaklarını söyler. Oksijen değişkeninin tohumun çimlenmesine etkisini
+kısaca anlatır. Yapılacak etkinliğin değerlendirilmesi amacıyla hazırladığı Grup Değerlendirme Formu’nda
+yer alan değerlendirme kriterlerinden bahseder (Ek-2). Grupların belirlenen faktörlerden bir tanesini seçme-
+lerini ister. Hipotezlerini oluşturmaları için gruplara rehberlik eder. Grup üyelerinin kendi aralarında görev
+dağılımı yapmalarını sağlar. Gruplardan, etkinlikte kurulan hipotezlerin doğru olup olmadığına yönelik
+tahminlerde bulunmalarını ister. Grupların tahminlerini görevli öğrenci etkileşimli beyaz tahta aracında
+ilgili bölüme yazar. Öğretmen hazırladığı Hipotezimizi Test Edelim Etkinlik Yönergesi’ni ve gerekli malzeme-
+leri gruplara dağıtır (Ek-1). Yönergede yer alan bağımlı, bağımsız ve kontrol edilen (sabit tutulan) değişken
+kavramlarını açıklar. Gruplardan hipotezlerine göre deney düzenekleri kurmalarını ister. Deney sürecinde
+öğrencilerin bağımlı, bağımsız ve kontrol edilen (sabit tutulan) değişkenleri belirlemeleri için yönlendirici
+sorular sorar. Öğretmen, grup görev dağılımında seçilen öğrencilerden laboratuvarda bulunan tohumları
+her gün gözlemleyip gözlemlerini çizmelerini ister. Çimlenme durumlarını grafik ve tablolama aracında
+kayıt altına almalarını söyler ve dersi sonlandırır.
+Ders Sonrası
+Öğretmen, etkinlik gözlemlerini kaydetmek için grafik ve tablolama araçlarıyla hazırladığı Hipotezimizi Test
+Edelim Gözlem Formu’nu EBA'dan paylaşır. Gruptaki görevli öğrenciler gözlemlenebilen verileri kaydeder.
+Etkinlik tamamlandığında gruplar ulaştıkları sonuçları EBA’da paylaşır. Öğretmen, Grup Değerlendirme
+Formu'nu öğrencilerle paylaşarak etkinlik tamamlandığında grup çalışmasını değerlendirmelerini ister
+(Ek-2). EBA’da yer alan Tohumun Çimlenmesi etkileşimli içeriğini sınıfla paylaşır ve öğrencilerden etkinliği
+yapmalarını ister. Yapılan çalışmaları EBA’dan kontrol ederek öğrencilere geri bildirim verir.
+Ders Öncesi
+Öğretmen, Düşün-Eşleş-Paylaş Etkinlik Yönergesi’ni hazırlar, öğrenci sayısı kadar çıktı alır (Ek-3).
+3. Ders (Sınıf)
+Öğretmen, öğrencilere bu derste Düşün-Eşleş-Paylaş etkinliğini yapacaklarını söyler ve Düşün-Eşleş-
+Paylaş Etkinlik Yönergesi'ni öğrencilere dağıtır (Ek-3). Etkinliğin yönergesinde belirtilen sürelere dikkat
+edilmesi gerektiğini belirtir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, etkinliğin giriş aşamasında “Bir tohumun başarılı bir şekilde çimlenmesi için hangi çevresel
+faktörler kesinlikle gereklidir?" sorusunu tahtaya yazar. Öğrenciler bireysel olarak çalışır ve düşüncelerini
+not alır. Öğretmen, öğrencilerden tohumun çimlenmesi için gerekli olduğunu düşündükleri üç faktörü belir-
+lemelerini ve her faktörün çimlenmeye etkisini açıklayan birer önerme yazmalarını ister. Öğrenciler sıra
+arkadaşlarıyla ikişerli gruplar oluşturur. Eşleşen öğrenciler belirledikleri faktörleri ve önermeleri birbirle-
+riyle paylaşır. Seçilen faktörlerin nedenlerini tartışır ve tohumun çimlenmesine etki eden üç ortak önerme
+belirler. Gruplar oluşturdukları ortak önermelerini sınıfa sunar. Öğretmen sunum esnasında grup önerme-
+lerinden bazılarını tahtaya yazar. Yazılan önermeler üzerinden tartışma başlatır. Özelikle ışığın çimlenme
+üzerindeki etkisine dikkat çekerek öğrencilere rehberlik eder. Öğretmen, tahtaya yazılan tüm önermeleri
+özetler ve çimlenme için gerekli olan üç temel faktörü (hava, su, uygun sıcaklık) netleştirir. Her faktörün
+tohum için hangi fizyolojik süreçte gerekli olduğunu kısaca açıklar ve dersi tamamlar.
+Yorumlama, Sınıflandırma, Tartışma, Sorumluluk, İletişim, İş birliği
+4. Ders (BT Sınıfı)
+Öğretmen, öğrenme eksikliklerini gidermek ve konuyu pekiştirmek amacıyla kavram haritası oluşturmayı
+sağlayan web aracını kullanarak hazırladığı Kavram Haritasını Tamamla etkinliğini öğrencilerle paylaşır.
+Çalışmanın tamamlanmasının ardından öğrencilere geri bildirimde bulunur. Sonrasında öğrenme eksiklik-
+lerini gidermek ve konuyu pekiştirmek amacıyla anlık geri bildirim sağlayan web aracını kullanarak hazır-
+ladığı Kendini Değerlendir etkinliğini öğrencilerle paylaşır (Ek-4). Etkinlik sürecinde öğrencilere rehberlik
+eder. Etkinliğin tamamlanmasının ardından çözümleri paylaşarak eksik öğrenmeleri giderir ve öğrenme
+çıktısını pekiştirir. Daha önceki etkinliklerde oluşturduğu gruplara hidroponik tarımla (topraksız tarım) ilgili
+genel ağ ve yapay zekâ destekli araçlardan faydalanarak araştırma yapmalarını söyler. Araştırma sonuç-
+larından hareketle poster ve afiş hazırlama web araçlarını kullanarak konuya yönelik bir poster hazırlama-
+larını ve posterlerini EBA’dan paylaşmalarını gruplardan ister. Paylaşılan posterleri Poster Değerlendirme
+Formu’ndaki kriterlere göre ders sonrasında değerlendireceğini söyler ve kriterler hakkında öğrencileri
+bilgilendirir (Ek-5). Sosyal farkındalık oluşturmak amacıyla Yeşil Vatan konusuyla ilgili hazırladığı Tohum
+Topum etkinliğini tanıtır. Öğrencileri etkinliğe uygun şekilde görevlendirerek dersi sonlandırır.
+Ders Sonrası
+Öğretmen, paylaşılan posterleri Poster Değerlendirme Formu’ndaki kriterlere göre değerlendirir ve EBA’dan
+öğrencilere geri bildirimde bulunur (Ek-5). Konuyu pekiştirmek amacıyla oyunlaştırılmış ölçme ve değer-
+lendirme web aracıyla hazırladığı Uygun Koşullar etkinliğini öğrencilerle EBA’dan paylaşır ve öğrenci-
+lerden etkinliği yapmalarını ister.
+Eleştirel düşünme, Oyunseverlik, Yaratıcılık, İletişim, İş birliği, Sosyal farkındalık, Bilgiyi
+özetleme, Dijital bilgiye ulaşma ve dijital bilgiyi tanıma, Dijital bilgiyi kullanarak eleştirel
+düşünme, Dijital ortamlar için içerik oluşturma ve paylaşma, İletişim kurma ve paylaşma
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Günaydın Tohum", "UfKJfb3"], ["Tohumdan Bitkiye", "UjFuS97"], ["Bir Tohumu Nasıl Uyandırırız?", "Usl8KgJ"], ["Hipotezimizi Kuralım", "9LUYot"], ["Hipotezimizi Test Edelim Gözlem Formu", "u65sas"], ["Grup Değerlendirme Formu", "UaB10XZ"], ["EBA Tohumun Çimlenmesi", "U8LG2xf"], ["Kavram Haritasını Tamamla", "L5La6W"], ["Kendini Değerlendir", "U8tq4zW"], ["Tohum Topum", "U87CMCF"], ["Poster Değerlendirme Formu", "UH36kjV"], ["Uygun Koşullar", "myc68k"]]

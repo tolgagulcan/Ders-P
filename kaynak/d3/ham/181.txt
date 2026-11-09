@@ -1,0 +1,233 @@
+## 7. Sinif/Turkce/Okuma Kulturu - Dijitallesen Dunya, Dijitallesen Okuma.pdf
+SURE:5 KOD:T.7.3.1. T.7.3.19. T.7.3.5. T.7.3.33.
+KAV:
+Öğrenme Etkinlikleri
+Bu çalışmada 7. Sınıf Türkçe ders kitabının “Okuma Kültürü” temasındaki “Okumak Düşünmek İçindir”
+adlı metne dayalı etkinlikler, işleniş açısından teknoloji odaklı olarak ele alınmıştır.
+1. Ders (Sınıf)
+Öğretmen, dersin başında dikkat çekmek amacıyla Descartes’a (Dekart) ait “Düşünüyorum, öyleyse
+varım.” cümlesini tahtaya yazar ve ardından etkileşimli tahtadan dijital pano ya da post-it oluşturma
+araçlarını açar. Öğrencilerine bu cümleden ne anladıklarını soran öğretmen, gönüllü öğrencilere söz
+hakkı vererek onlardan düşüncelerini etkileşimli tahtadaki araca yazmalarını ister. Böylece öğrencile-
+rinden gelen farklı cevapları bütüncül bir şekilde bir araya getirerek onların eleştirel düşünme becerilerini
+harekete geçirmiş ve sınıfta tartışma ortamı oluşturmuş olur. Bu tartışma ortamında özellikle okuma ve
+düşünme arasındaki ilişkiye odaklanan fikirleri ön plana çıkarır. Bu etkinlikten sonra öğretmen ilk okumayı
+yapar ve sonraki okumalar için gönüllü öğrencileri görevlendirir. Okumalar bittikten sonra anlamı bilin-
+meyen kelimeler ile ilgili ders kitabındaki 1. etkinliği öğrencilere yaptırır. Etkinliğin tamamlanmasıyla
+birlikte bu etkinlikteki kelimelerin anlamlarını pekiştirmek amacıyla oluşturulmuş oyunlaştırılmış ölçme
+ve değerlendirme web araçları ile hazırlanan “Okumak Düşünmek İçindir Kelime Tahmini” adlı etkinliği
+etkileşimli tahtadan açar (Ek-1). Öğrenciler bu etkinliği tamamlar.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Eleştirel düşünme
+Ders Öncesi
+Öğretmen, öğrencilere dağıtacağı özet metin değerlendirme formunun çıktılarını alır (Ek-2).
+2. Ders (Sınıf)
+Öğretmen, metinle ilgili anlama sorularının olduğu 2. etkinliği yaptırarak derse başlar. Bu etkinliğin
+ardından öğrencilerine özetleme stratejisi hakkında bilgi vererek metnin oluş sırası ve mantık akışı içinde
+özetlenmesi gerektiğini vurgular. Konunun pekiştirilmesi amacıyla EBA üzerinden Metni Kronolojik Sıra
+ve Mantık Akışı İçinde Özetleme içeriğini etkileşimli tahtadan öğrencilerine yaptırır. Etkinliğin tamam-
+lanmasıyla birlikte metnin özetlenmesine yönelik ders kitabındaki 3. etkinliğe geçmeden önce öğren-
+cileriyle özet metin değerlendirme formunu paylaşan öğretmen, onlara hazırladıkları özetlerin bu form
+aracılığıyla değerlendirileceği bilgisini verir (Ek-2). Bu hatırlatmanın ardından öğretmen metnin özetlen-
+mesi için öğrencilerine süre tanır. Özetlerin tamamlanmasıyla birlikte kalan ders süresini de göz önünde
+bulundurarak özetleri değerlendirir ve öğrencilerine gerekli geri bildirimleri vererek dersi tamamlar.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim
+3. Ders (BT Sınıfı)
+Öğretmen, ders kitabındaki zarflarla ilgili olan 5. etkinliği öğrencilerine rehberlik ederek yaptırır. Etkinliğin
+tamamlanmasıyla birlikte öğretmen, konunun pekiştirilmesi amacıyla etkileşimli tahtadan EBA’da yer
+alan İşlevlerine Göre Zarflar-Alıştırma içeriğini açarak öğrencilerin yapmalarını sağlar. Etkinliği tamam-
+layan öğrenciler ders kitabındaki düşünceyi geliştirme yolları ile ilgili olan 6. etkinliği yapar. Öğretmen,
+yapay zekâ destekli araçları etkileşimli tahtadan açarak öğrencilerine bu araçlara söz konusu düşünceyi
+geliştirme yollarını örnekleyecek birer paragraf yazdırır ve öğrencileriyle birlikte ortaya çıkan paragrafları
+inceler. Ardından sınıfı üç gruba ayıran öğretmen; ders defterlerine 1. grubun örneklendirme, 2. grubun
+sayısal verilerden yararlanma, 3. grubun ise tanık göstermeyi örnekleyecek birer paragraf yazmalarını
+ister. Çalışmaların tamamlanmasıyla birlikte gönüllü öğrencilerden yazdıkları paragrafları sınıfla paylaş-
+malarını ister ve öğrencilerine gerekli geri bildirimleri vererek dersi tamamlar.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Yaratıcı ve yenilikçi düşünme, İş birliği
+4. Ders (BT Sınıfı)
+Öğretmen; gelişen teknolojiyle birlikte okuma materyallerinin artık sadece basılı olmayacağını, dijital
+platformlar üzerinden de çok çeşitli metinlere erişimin sağlanabileceğini vurgulayarak derse giriş yapar.
+Dijital ortamlara taşınan kütüphaneler hakkında bilgi verdikten sonra Türkiye’nin en büyük kütüphanesi
+olan Cumhurbaşkanlığı Millet Kütüphanesinin sanal turunun bağlantısını öğrencilerine yönlendirir ve
+öğrencilerinin kütüphanede sanal olarak dolaşabilmeleri için onlara süre tanır. Süre bitiminde öğren-
+cileri güvenilir bilgi kaynakları içeren dijital platformlara üyelik işlemleri ve Millî Kütüphane Yeni Üyelik
+sayfasına yönlendirerek form hakkında öğrencilerine bilgi verir.
+Dersin bilişim sınıfında işlenememesi durumunda öğretmen, sanal tur gezintisini etkileşimli tahta üzerinden
+açar ve sanal turu tüm öğrencilerin göreceği şekilde kendisi gerçekleştirir. Dijital platformlara üyelik
+işlemleri için ise ders kitabındaki 7 ve 8. etkinlikleri öğrencilere yaptırarak dersi tamamlar.
+İlgili Yetkinlikler/Beceriler: Medya okuryazarlığı
+5. Ders (BT Sınıfı)
+Öğretmen, bu derste ders kitabındaki 4. etkinlikte yer alan “Archimedes (Arşimet), Newton (Nivtın) ve
+Owen’ın (Ovın) bilim dünyasına yaptıkları katkılar ile ilgili araştırma çalışmasını gerçekleştirmek üzere
+öğrencileri görevlendirir. Bu amaçla sınıfı gruplara ayıran öğretmen, bu derste gruplara bir bilim insanı
+hakkında araştırma yapacaklarını ve elde ettikleri sonuçları çevrim içi dergi, elektronik kitap, metin
+hazırlama araçlarını kullanarak sonraki derste sunacaklarını belirtir. Bu çalışmayla öğrencilerine medya
+okuryazarlığı ve yaratıcılık becerilerini geliştirme fırsatı sunan öğretmen, çalışmaların grup değerlen-
+dirme yöntemiyle değerlendirileceğini belirtir. Bu amaçla sunum için grup değerlendirme formunu
+öğrencileriyle paylaşır ve değerlendirme kriterleri hakkında grupları bilgilendirir (Ek-3). Öğretmen, grup
+çalışmalarına rehberlik ederek çalışmaların tamamlanmasını sağlar.
+Ev Çalışması
+Öğretmen, bu etkinliği değerlendirmeleri için öğrencilerinden EBA’yı kullanmalarını ister. Öğrencilerinden
+hem hazırladıkları ürünleri hem de her grubun kendi grup üyelerini değerlendirmek için doldurduk-
+ları formu EBA’da paylaşmalarını ister. Bu görevle öğrencilerin ders dışı çalışmalar aracılığıyla eleştirel
+düşünme becerilerini geliştirmelerini sağlar.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Medya okuryazarlığı, Yaratıcı ve yenilikçi düşünme,
+Eleştirel düşünme, İletişim, İş birliği
+Değerlendirme
+Beceriler
+Öğrenme Yöntemleri/Araçları
+Yaklaşımı
+• EBA + etkileşimli içerik
+• EBA + alıştırmalar
+• EBA + çevrim içi dergi hazırlama grup değerlendirme formu
+• Özet metin değerlendirme formu
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+REFERANS
+İlgili Bağlantılar
+Beceriler
+Öğrenme Yaklaşımı
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Okumak Düşünmek İçindir Kelime Tahmini: https://meb.ai/bx6X1W (Son erişim tarihi: 28.04.2024)
+2. EBA Metni Kronolojik Sıra ve Mantık Akışı İçinde Özetleme: http://meb.ai/U4bDP1F (Son erişim tarihi:
+28.04.2024)
+3. EBA İşlevlerine Göre Zarflar-Alıştırma: http://meb.ai/UvRdWqh (Son erişim tarihi: 28.04.2024)
+4. Cumhurbaşkanlığı Millet Kütüphanesi Sanal Turu: http://meb.ai/qag1P1 (Son erişim tarihi: 28.04.2024)
+5. Millî Kütüphane Kayıt Sayfası: http://meb.ai/UuUxmIs (Son erişim tarihi: 28.04.2024)
+Kaynakça
+Arıcı, A. F. & Taşkın, Y. (2019). Okuma becerisinin diğer dil becerileriyle ilişkisi. International Journal of Field
+Education, 5(2), 185-194.
+Kır, T., Kırman, E. ve Yağız, S. (2021). Ortaokul ve imam hatip ortaokulu 7. sınıf Türkçe ders kitabı. MEB
+Yayınları.
+Millî Eğitim Bakanlığı. (2019). Türkçe dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=663
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Mayıs 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Millî Kütüphane. (2024). Yeni üyelik. Son erişim tarihi: 28 Nisan 2024, https://www.millikutuphane.gov.tr/
+register
+Sanal Tur. (2024). Cumhurbaşkanlığı Millet Kütüphanesi. Son erişim tarihi 28 Nisan 2024, https://sanaltur.
+mk.gov.tr/
+Wordwall. (2024). Okumak düşünmek içindir. Son erişim tarihi 28 Nisan 2024, https://wordwall.net/tr/
+resource/77920117/dijitalle%c5%9fen-d%c3%bcnya-dijitalle%c5%9fen-okuma-okumak-d%c3%bc%-
+c5%9f%c3%bcnmek-i%c3%a7indir
+Beceriler
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Beceriler
+Ekler
+Ek-1: Okumak Düşünmek İçindir Kelime Tahmini Etkinliği Soru ve Cevapları
+Ek-2: Özet Metin Değerlendirme Formu
+Ek-3: Çevrim İçi Dergi Hazırlama Grup Değerlendirme Formu
+EK-1
+Okumak Düşünmek İçindir Kelime Tahmini Etkinliği Soru ve Cevapları
+Aşağıda verilen içerik, oyunlaştırılmış ölçme ve değerlendirme web araçlarından biriyle sürükle bırak
+şeklinde hazırlanabilir.
+1.
+Var olmasına rağmen kimsenin görmediği, bilmediği bir yeri veya bir şeyi
+keşfetmek
+ortaya çıkarmak; bulmak anlamında ………………….. kelimesini kullanırız.
+incelemek
+Doğru Cevap: keşfetmek
+2. Kurum ve kuruluşlara genellikle habersiz olarak veya belli olayların şikâyeti
+polis üzerine gidip, işlerin mevzuata ve etik ilkelere göre yapılıp yapılmadığını
+müfettiş inceleyip rapor hazırlayan kimseye ………………….. denir.
+Doğru Cevap: müfettiş
+3.
+Biyoloji ile uğraşan kimseye ………………….. denir.
+biyolog
+kimyager
+Doğru Cevap: biyolog
+4. Yarım küre biçiminde olan ve yapıyı örten dam kümbet anlamındaki yapıya
+kubbe ………………….. denir.
+minare
+Doğru Cevap: kubbe
+5. Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimseye …………………..
+kâşif denir.
+gemici
+Doğru Cevap: kâşif
+6. Genel sorunlar üzerine yeni ve kendine özgü düşünceleri olan kimse;
+düşünür düşünücü, mütefekkir anlamında ………………….. kelimesini kullanırız.
+yönetici
+Doğru Cevap: düşünür
+7. Bilimde çok sayıda deney ve gözlemden sonra, aynı şartlarda aynı sonuç-
+teori ları verdiği kesin olarak belirlenen durumlar için ………………….. kelimesi kullanılır.
+yasa
+Doğru Cevap: yasa
+Dijitalleşen Dünya, Dijitalleşen Okuma
+EK-2
+Özet Metin Değerlendirme Formu
+Sevgili öğrenciler, hazırladığınız özetler öğretmeniniz tarafından aşağıdaki kriterlere göre değerlendi-
+rilecektir. Her bir kriter için 1-5 arası puanlama yapılacaktır. Lütfen kriterleri inceleyerek özetlerinizi bu
+çerçevede hazırlamaya özen gösteriniz.
+Grup Adı: ........................................................................................................................................... Tarih: ...........................................................
+Grup Üyeleri: ....................................................................................................................................................................................................................
+DERECELER
+Kısmen Yeterli
+Geliştirilmeli
+KRİTERLER
+Çok İyi
+Yeterli
+İyi
+1. Özetin ana metnin tüm önemli noktalarını ve bilgile-
+rini kapsaması
+2. Özetin ana metnin içeriğini tarafsız bir şekilde sunması
+İçerik
+3. Özetin ana metinden gereksiz ayrıntı ve tekrarları
+ayıklaması
+4. Özetin metnin ana fikrini doğru bir şekilde yansıtması
+5. Özetin metnin konusunu doğru bir şekilde yansıtması
+6. Özette açık ve anlaşılır bir dil kullanılması
+Dil, Anlatım ve Biçim
+7. Özetin dil bilgisi ve yazım kurallarına uygun olması
+8. Özetin akıcı ve tutarlı bir anlatıma sahip olması
+9. Özette, paragraf ve cümlelerin düzgün bir şekilde
+birleştirilmesi
+10. Özetin uygun bir uzunlukta olması
+TOPLAM PUAN
+Dijitalleşen Dünya, Dijitalleşen Okuma
+EK-3
+Çevrim İçi Dergi Hazırlama Grup Değerlendirme Formu
+Sevgili öğrenciler, çevrim içi dergi çalışmanızı grup olarak gerçekleştirdiniz. Bu çalışmada sizinle birlikte
+çalışan grup arkadaşlarınızı aşağıdaki kriterlere göre değerlendireceksiniz. Aynı şekilde arkadaşlarınız
+da sizi bu kriterlere göre değerlendirecektir. Lütfen kriterleri dikkatlice inceleyiniz ve çalışmalarınızı bu
+çerçevede yapmaya özen gösteriniz.
+Arkadaşınız verilen kriteri karşılıyor ise Evet (E), kısmen karşılıyor ise Kısmen (K), karşılamıyor ise Hayır
+(H) yazınız.
+Değerlendirmeyi Yapan Öğrenci Adı Soyadı: ............................................................................................................................................
+4. Öğrenci Adı Soyadı
+2. Öğrenci Adı Soyadı
+3. Öğrenci Adı Soyadı
+1. Öğrenci Adı Soyadı
+................................................
+................................................
+................................................
+................................................
+KRİTERLER
+Görev Tamamlama ve Katılım
+1. Grup üyesi kendine verilen görevleri zamanında
+tamamladı.
+2. Grup üyesi çalışma sürecinin tamamına aktif bir
+şekilde katıldı.
+3. Grup üyesi çevrim içi derginin düzenleme, tasarım,
+geri bildirim süreçlerinde rol aldı.
+4. Grup üyesi diğer arkadaşlarına çalışmalarla ilgili
+yardımcı oldu.
+İletişim ve İş Birliği
+5. Grup üyesi iletişiminde diğer üyelere saygılı davrandı.
+6. Grup üyesi, diğer üyelerin fikirlerini ve bakış açılarını
+dikkatle dinledi ve anlamaya çalıştı.
+7. Grup üyesi çalışma boyunca motive edici ve olumlu
+bir tutum sergiledi.
+8. Grup üyesi problemleri ve zorlukları eleştirel bir şekilde
+Problem Çözme ve
+analiz etti ve bu durumlara çözümler üretti.
+Karar Verme
+9. Grup üyesi dergi içeriği ve tasarımıyla ilgili yeni ve
+özgün fikirler sundu.
+10. Grup üyesi, çalışma boyunca farklı bakış açılarını göz
+önünde bulundurarak ortak bir çözüme ulaşmak için
+çaba gösterdi.
+Dijitalleşen Dünya, Dijitalleşen Okum
+LINKS:[["Okumak Düşünmek İçindir Kelime Tahmini", "bx6X1W"], ["EBA Metni Kronolojik Sıra ve Mantık Akışı İçinde Özetleme", "U4bDP1F"], ["EBA İşlevlerine Göre Zarflar-Alıştırma", "UvRdWqh"], ["Cumhurbaşkanlığı Millet Kütüphanesi Sanal Turu", "qag1P1"], ["Millî Kütüphane Kayıt Sayfası", "UuUxmIs"]]

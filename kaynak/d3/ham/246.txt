@@ -1,0 +1,95 @@
+## 6. Sinif/Matematik/Geometrik Sekiller - Herbaryum- Bitki Koleksiyonu.pdf
+SURE:5 KOD:MAT.6.3.2.
+KAV:Paralel doğrular, Kesen, Herbaryum, Dörtgen oluşturma, Üçgen oluşturma
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen öğrencileri 2-4 kişilik gruplara ayırır. Dinamik matematik ve geometri aracının kullanımı hakkında
+öğrencileri kısaca bilgilendirir. Hesabı olmayan öğrencilerin bu araçları kullanabilmeleri için hesap oluştur-
+malarına yardımcı olur.
+1. Ders (BT Sınıfı)
+Öğretmen ders öncesi oluşturduğu gruplara bir bilgisayarın karşısına oturmalarını söyler. Gruplardan
+dinamik matematik ve geometri aracına giriş yapmalarını ister. Etkileşimli tahtadan EBA’da yer alan Paralel
+İki Doğrunun İki Kesen ile Oluşturduğu Şekiller etkileşimli içeriğini açar ve öğrencilerden içerikte yer alan
+etkinlikleri kendi bilgisayarlarında uygulamalarını ister. Grupların etkinliği yapmaları için uygun gördüğü
+noktalarda içeriği durdurur. Tüm gruplar etkinliği tamamladığında bir sonraki etkinliği göstermek için içeriğe
+kaldığı yerden devam eder. Öğrencilerden etkinlik süresince oluşturdukları şekillerin görsellerini EBA‘dan
+paylaşmalarını ister. Paylaşılan görselleri etkileşimli tahtada açar ve öğrencilerle birlikte çalışmaları hem
+inceler hem de konu tekrarı yapar. Süreç boyunca grupların yaptıkları etkinlikleri takip eder. Hatalı çizim-
+lerde gruplara geri bildirim vererek hataları düzeltmelerini sağlar.
+Çıkarım yapma, Problem çözme, Matematiksel araç ve teknolojiden yararlanma,
+çözme
+Ders Öncesi
+Öğretmen, öğrencilere önceki bilgilerini hatırlatmak için etkileşimli sunum aracıyla hazırlanan Çokgenler içeri-
+ğini EBA’dan paylaşır (İçerik EBA’daki görseller kullanılarak hazırlanmıştır.). Öğrencileri 4 kişilik gruplara ayırır.
+2. Ders (Okul Bahçesi)
+Öğretmen, ders öncesinde EBA’dan gönderdiği görsellerle ilgili kısa bir bilgilendirme yapar ve öğrencilerin
+soruları varsa bunları cevaplar. Ardından çubuk makarnalarla bir oyun oynayacaklarını söyler ve her öğren-
+ciye bir çubuk makarna verir. Oyunun kurallarına göre öğrencilerden biri ebe olur, diğer öğrenciler ise 4
+kişilik gruplar oluşturur. Ebe, 5. sınıfta öğrendikleri çokgenlerden birini söyler. Gruplar ise ellerindeki makar-
+naları kırmadan söylenen çokgeni oluşturmaya çalışır. Gruplar istenen çokgeni oluşturduktan sonra ebe
+bir grup seçer ve seçtiği gruptan o çokgenin tüm özelliklerini söylemelerini ister. Gruptaki öğrenciler tüm
+özellikleri doğru sayarsa ebe başka bir çokgen söyler, sayamazsa grup elenir. Oyuna devam eden öğren-
+ciler arasından yeni bir ebe seçilir ve kalan öğrenciler 4 kişilik grup oluşturur. Oyun, yalnızca bir grup kalana
+kadar devam eder. Öğretmen sona kalan grup üyelerini tebrik eder.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencileri 2-5 kişilik gruplara ayırır.
+3. Ders (BT Sınıfı)
+Gruplar bir bilgisayarın karşısına oturur. Öğretmen, etkileşimli tahtada EBA’dan Dörtgenlerin Özellikleri etkile-
+şimli içeriğini açar ve sırayla içerikte yer alan dörtgenlere tıklar. Öğrenciler tüm dörtgenlerin özelliklerini dinle-
+dikten sonra onlardan bu dörtgenlere günlük hayattan örnek vermelerini ister. Etkinliğin ardından etkile-
+şimli tahtada EBA’dan Dörtgenlerin Çizimi etkileşimli içeriğini açar ve öğrenciler tüm dörtgenlerin özelliklerini
+dinler. Daha sonra öğrencilerden bu özellikleri dikkate alarak dörtgenleri şekil ve çizim aracında çizmelerini
+ister. Süreç boyunca öğrencilere rehberlik eder.
+Ders Sonrası
+Öğretmen, kodlama-programlama araçlarından birini kullanarak Doğa İnsanı içeriğini uygulama üzerinden
+oluşturduğu sınıftan öğrencilere gönderir. Öğrencilerden “kendi programımı yap” sekmesine tıklamalarını
+ister. Açılan ekrandaki üçgen ve dörtgenleri kullanarak (örneğin orman, piknik alanı, oyun alanı vb.) bir görsel
+oluşturmalarını öğrencilerden ister. Uygulama üzerinden etkinliğin takibini yapar. Öğrencilerin oluşturduğu
+görselleri EBA’dan oylamaya sunar ve öğrencilerden en beğendikleri görseli seçmelerini ister. En fazla oy
+alan üç görselin çıktısını alarak sınıf panosuna asar.
+Çıkarım yapma, Eleştirel düşünme, Matematiksel araç ve teknolojiden yararlanma,
+Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardımlaşmak, Dijital
+araçlarla iş görme, Görsel hakkında eleştirel düşünme
+Ders Öncesi
+Öğretmen öğrencilere bu derste herbaryum ile ilgili etkinlik yapacaklarını söyler. Öğrencilerden herbaryum
+ile ilgili araştırma yapmalarını ve buldukları bilgilerin bağlantısını paylaştığı sınıf yönetimi aracı ile paylaş-
+malarını ister. Öğrencileri 6 gruba ayırır. Her gruptan herbaryum oluşturma tekniğine göre bitki toplayarak
+derse gelmesini ister. Öğrencilerden renkli A4 kâğıdı, makas, yapıştırıcı, bant, zımba, cetvel ve açıölçer getir-
+melerini ister. Öz ve Akran Değerlendirme Formu’nun sınıf mevcudu kadar çıktısını alır (Ek-1).
+4. Ders (Sınıf)
+Öğretmen, Bitki Toplama, Teşhis ve Herbaryum Teknikleri başlıklı makalenin özet kısmını etkileşimli tahtada
+açar. Ardından etkileşimli tahtada yer alan bilgileri öğrencilerle birlikte okur ve değerlendirir. Topladıkları
+bitkilerle her grubun birer herbaryum oluşturacağını ve etkinlik sonunda birbirlerini değerlendireceklerini
+öğrencilere söyler. Öğrencilerin değerlendirme kriterlerini görmeleri için etkileşimli tahtada Öz ve Akran
+Değerlendirme Formu’nu açar (Ek-1). Her gruba bir çokgen ismi verir ve gruplardan herbaryum sayfalarını
+bu çokgene göre düzenlemelerini ister. Gruplar etkinliklerini tamamladıktan sonra öğrencilere Öz ve Akran
+Değerlendirme Formu’nu dağıtır (Ek-1). Öğrencilerden gruplarındaki arkadaşlarını değerlendirmelerini ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Grupların hazırladığı herbaryumlar, bir hafta kurutulduktan sonra sınıf panosunda sergilenir.
+Eleştirel düşünme, Matematiksel araç ve teknolojiden yararlanma, Merak, Seçicilik,
+Dijital araçlarla iş görme
+Ders Öncesi
+Öğretmen, EBA’dan İki Paralel Doğrunun İki Kesen ile Oluşturduğu Şekiller etkileşimli içeriğini öğrencilere
+gönderir ve takibini EBA’dan yapar. Görsel düzenleme araçlarını kullanarak konuyla ilgili Tanılayıcı Dallanmış
+Ağaç Etkinliği’ni hazırlar (Ek-2). Öz değerlendirme yapmayı sağlayan web aracını kullanarak Yansıtıcı Günlük
+çalışmasını hazırlar (Ek-3). EBA’daki Dörtgenlerin Çizimi çalışma sorularının sınıf mevcudu kadar çıktısını alır.
+Öğrencilere yanlarında cetvel getirmelerini söyler.
+5. Ders (Sınıf)
+Öğretmen, ders öncesinde gönderdiği etkileşimli içerik hakkında öğrencilerin soruları varsa cevaplar. Hazır-
+ladığı Tanılayıcı Dallanmış Ağaç Etkinliği’ni etkileşimli tahtada açar (Ek-2). Öğrencilerden etkinliği yapmala-
+rını ve buldukları çıkışı defterlerine not etmelerini ister. Tüm öğrenciler etkinliği tamamladıktan sonra her bir
+çıkış yolundaki sorular sınıfça incelenerek cevaplanır. Öğretmen doğru cevabı bulan öğrencileri tebrik eder.
+Öğretmen, Dörtgenlerin Çizimi çalışma kâğıdını öğrencilere dağıtır ve öğrencilerden cetvel kullanarak soruları
+cevaplamalarını ister. Öğrenciler soruları cevaplarken yardıma ihtiyacı olanlara rehberlik eder. Tüm öğren-
+ciler soruları cevapladıktan sonra etkinlik bağlantısını etkileşimli tahtada açar ve soruları sırasıyla öğren-
+cilerle birlikte cevaplar.
+Ders Sonrası
+Öğretmen, öğrencilerden Yansıtıcı Günlük çalışmasını doldurmalarını ister (Ek-3).
+Eleştirel düşünme, Seçicilik, Kendini tanıma (Öz farkındalık), Dijital araçlarla iş
+görme, Görsel hakkında eleştirel düşünme, Matematiksel problem çözme, Dijital
+bilgiyi anlamlandırma
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["EBA Paralel İki Doğrunun İki Kesen ile Oluşturduğu Şekiller", "PRQXVT"], ["Çokgenler", "UIg1Kne"], ["EBA Dörtgenlerin Özellikleri", "UTMHtNk"], ["EBA Dörtgenlerin Çizimi", "UUxpBkp"], ["Doğa İnsanı", "0Gv16B"], ["Bitki Toplama, Teşhis ve Herbaryum Teknikleri", "Uv5YhEA"], ["EBA İki Paralel Doğrunun İki Kesen ile Oluşturduğu Şekiller", "rF42QN"], ["Tanılayıcı Dallanmış Ağaç Etkinliği", "ajrzlh"], ["Yansıtıcı Günlük", "U8Mm9ZF"], ["EBA Dörtgenlerin Çizimi", "wd4oIx"], ["EBA Dörtgenlerin Çizimi (Cevap Anahtarı)", "A6lpp1"]]

@@ -1,0 +1,99 @@
+## 6. Sinif/Fen Bilimleri/Kuvvet Etkisinde Hareket - Dengedeyim.pdf
+SURE:4 KOD:FB.6.2.2. OB.2.5.
+KAV:Dengelenmiş ve dengelenmemiş kuvvet, Dengeleyici kuvvet, Bileşke kuvvet
+Öğrenme Etkinlikleri
+1. Ders (BT sınıfı)
+Öğretmen, öğrencilere kuvvet kavramı ve kuvvetin cisimler üzerindeki etkileriyle ilgili "Kuvvet nedir? Duran
+bir araba nasıl hareket eder? Hareket eden bir araba nasıl durur?" sorularını sorar. Öğrencilerin cevaplarını
+dinler. Ardından öğrencilere "Peki, araba hareket etmeye başlarken veya dururken ona etki eden kuvvetlerde
+nasıl bir değişiklik oluyor da bu hareketler gerçekleşiyor? İşte bugün hareketin dilini çözeceğiz. Kuvvetlerdeki
+bu değişikliğin yani dengenin bozulmasının sırrını öğreneceğiz." diyerek kuvvet ve hareket konusunu işleye-
+ceklerini belirtir. EBA’da yer alan Dengelenmiş ve Dengelenmemiş Kuvvetler etkileşimli içeriğini öğrencilerle
+paylaşır. Etkileşimli içeriğin aşamalarını öğrencilerle birlikte izler. İçerikte yer alan sıra sizde-1 ve sıra sizde-2
+etkinliklerindeki sorularda öğrencileri yönlendirerek kavramlara kendilerinin ulaşmalarını sağlar. Öğretmen
+düşün-eşleş-paylaş tekniğini kullanarak öğrencilerden dengelenmiş ve dengelenmemiş kuvvetleri birer
+örnekle açıklamalarını ister. Öğrenciler yanlarındaki veya arkalarındaki arkadaşıyla fikirlerini paylaşır. Denge-
+lenmiş ve dengelenmemiş kuvvetlerin benzerlik ve farklılıklarını sınıfça tartışır. Öğretmen, tartışma sonuçla-
+rından hareketle kavram yanılgılarını gidermek amacıyla bileşke kuvvetin sıfır olduğu durumlarda kuvvet-
+lerin dengelenmiş; sıfırdan farklı olduğu durumlarda ise dengelenmemiş olduğunu açıklar. Öğrencilere “Bir
+cismi dengelemek için ona nasıl bir kuvvet uygulamalıyız?” sorusunu sorar. Ardından simülasyon araçla-
+rıyla hazırlanan Kuvvet ve Hareket: Temel Prensipler simülasyonunu öğrencilerle paylaşır. Gönüllü öğrenci-
+lerden başlayarak öğrencilere söz hakkı verir. Öğrencilerin verilen cevaplarından hareketle bir cismi denge-
+lemek için uygulanması gereken dengeleyici kuvvetin, bileşke kuvvetle eşit büyüklükte ve zıt yönde olması
+gerektiğini fark etmelerini sağlar. Dengeleyici kuvvetin bileşke kuvveti sıfırladığını vurgular. Bir sonraki derste
+öğrencilere kendi deneylerini tasarlayacaklarını söyleyerek şu araştırma problemini yöneltir: "Bir cisme
+uygulanan kuvvetlerin dengelenmiş veya dengelenmemiş olması cismin hareketini nasıl etkiler?" Öğren-
+cilere bu problem üzerinde düşünmelerini belirterek dersi sonlandırır.
+Ders Öncesi
+Öğretmen, deney tasarımında kullanılmak üzere derste yapacağı grup etkinliği için oyuncak araba, cetvel,
+dinamometre, kitap, küçük farklı ağırlıklar, pet bardak, geniş lastik bant ve ip temin eder. Grup etkinliği için
+çevrim içi dergi, elektronik kitap, metin hazırlama araçlarını kullanarak Hipotez ve Deney Tasarım Formu
+hazırlar ve grup sayısı kadar formun çıktısını alır (Ek-1).
+2. Ders (Sınıf)
+Öğretmen, bir önceki dersin sonunda öğrencilerden üzerinde düşünmelerini istediği araştırma problemini
+hatırlatarak derse başlar. Öğrencilerden araştırma problemine ilişkin geliştirdikleri fikirleri sınıfla paylaş-
+malarını ister. Öğrencilerin görüşlerini dinledikten sonra bu fikirlerin doğruluğunu belirleyebilmek için bir
+hipotez oluşturmalarını ve bu hipotezi test edecek bir deney düzeneği tasarlayacaklarını belirtir. Daha
+sonra öğrencileri rastgele beşerli gruplara ayırır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, gruplara ders öncesi temin ettiği deney malzemelerini ve hazırladığı Hipotez ve Deney Tasarım
+Formu’nu dağıtır (Ek-1). Gruplardan önlerindeki malzemeleri incelemelerini ve araştırma problemini test
+etmek için hangi malzemeleri kullanabileceklerini tartışmalarını ister. Gruplara bir önceki derste üzerinde
+düşündükleri araştırma problemine yönelik ortak bir hipotez oluşturmalarını ve hipotezlerini forma yazma-
+larını söyler. Hipotezlerini oluşturduktan sonra gruplardan bu hipotezi test edebilecek bir deney düzeneği
+tasarlamalarını ister. Öğrenciler; kullanacakları malzemeleri seçer, deneyin yapılışını planlar ve forma
+kaydeder. Öğretmen etkinlik süresince grupları dolaşarak onlara yönlendirici sorular sorar. Öğrencilerin
+bilimsel süreç basamaklarını doğru uygulamalarına rehberlik eder ve onlara geri bildirimde bulunur.
+Öğrencilerin kendi fikirlerini geliştirerek farklı deney düzenekleri oluşturmalarını teşvik eder. Öğrenci-
+lerin tasarladıkları deney düzeneklerini gözden geçirir. Öğretmen; bir sonraki derste her grubun hazır-
+ladığı deney düzeneğini uygulayacağını, gözlemlerini forma kaydedeceğini ve hipotezlerini test edece-
+ğini söyler. Öğrencilere derste doldurdukları Hipotez ve Deney Tasarım Formu'nu yanlarında getirmelerini
+belirterek dersi sonlandırır.
+Ders Sonrası
+Öğretmen, öğrenme ekiskliklerini belirlemek amacıyla öz değerlendirme yapmayı sağlayan web araçla-
+rını kullanarak hazırladığı Yansıtıcı Günlük içeriğini öğrencilerle EBA'dan paylaşır (Ek-2). Öğrencilerden
+gözlem ve deneyimlerini ifade etmelerini ister. Etkinliğin kontrolünü ve geri bildirimini çevrim içi yapar.
+Ders Öncesi
+Öğretmen, bir önceki derste gruplara dağıttığı deney malzemelerinden grupların kullanacakları malze-
+meleri ders için hazırlar. Deney etkinliği için gerekli güvenlik önlemlerini alır.
+3. Ders (Fen Laboratuvarı)
+Öğretmen, bir önceki derste oluşturulan hipotezleri ve tasarlanan deney düzeneklerini kısaca hatırlatarak
+derse başlar. Deneye başlamadan önce öğrencilere güvenlik kurallarını hatırlatır ve malzemelerin dikkatli
+kullanılmasını söyler. Ardından gruplardan bir önceki derste tasarladıkları deney düzeneklerini kurmala-
+rını ister. Gruplar, deneyin yapılış adımlarını takip ederek cisme dengelenmiş ve dengelenmemiş kuvvetler
+uygular.
+Öğretmen öğrencilere cismin hareketinde meydana gelen değişiklikleri dikkatle gözlemlemelerini söyler.
+Gruplara deney sırasında elde ettikleri gözlemlerini Hipotez ve Deney Tasarım Formu'nda yer alan Gözlem
+ve Veri Kayıt Tablosu'na kaydetmelerini belirtir. Öğretmen, grupları dolaşarak öğrencilerin deney tasarım-
+larına uygun çalışıp çalışmadıklarını gözlemler ve onlara rehberlik eder. Gruplar deneylerini tamamlar.
+Gruplardan formda bulunan Verilerin Analizi bölümündeki soruları cevaplamalarını ister. Gruplar soruları
+cevaplar. Ardından gruplara formdaki Sonuç bölümünü doldurmalarını söyler.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, öğrencilerden hipotezlerini değerlendirmeden önce verilerini dikkatlice incelemelerini ister ve
+bu verileri bir sonraki derste analiz edeceklerini belirtir. Hipotezlerin değerlendirilerek ulaşılan sonuçların
+sınıfla paylaşılacağını ifade ederek dersi sonlandırır.
+Sentezleme, Sorumluluk, Açık fikirlilik, Deney yapma, İş birliği, İletişim, Bilgi kullanarak
+eleştirel düşünme, Dijital bilgiye ulaşma ve dijital bilgiyi tanıma, İletişim kurma ve
+paylaşma, Görsel iletişim uygulamaları oluşturma, Veri oluşturma
+4. Ders (Sınıf)
+Öğretmen, gruplardan bir grup sözcüsü seçmelerini ister. Grup sözcülerine bir önceki derste doldurdukları
+Hipotez ve Deney Tasarım Formu'nu kısaca sınıfa sunmalarını söyler. Ardından her grup sözcüsü; deney
+düzeneğini, elde ettiği verileri ve ulaştığı sonuçları sınıfla paylaşır. Sunumlar sırasında diğer gruplar soru
+sorar ve öğretmen geri bildirimde bulunur. Öğretmen, öğrencilerin açıklamalarından hareketle dengelenmiş
+kuvvetlerde bileşke kuvvetin sıfır olduğu için cismin hareket durumunun değişmediğini; dengelenmemiş
+kuvvetlerde ise bileşke kuvvetin sıfırdan farklı olması nedeniyle cismin hareketinde değişiklik meydana
+geldiğini vurgular. Öğretmen, öğrenilen bilgileri değerlendirmek amacıyla anlık geri bildirim sağlayan web
+araçlarını kullnarak hazırladığı Çalışma Seti etkinliğini etkileşimli tahtadan açar (Ek-3). Etkinlikteki doğru-
+yanlış, boşluk doldurma ve çoktan seçmeli soruları öğrencilerle birlikte yanıtlar. Her yanıtın ardından sınıf
+genelinde bir tartışma ortamı oluşturur. Öğrencilerin verdikleri cevaplar doğrultusunda hataları anında
+tespit ederek olası kavram yanılgılarına müdahale eder ve öğrenme eksikliklerini belirler. Tüm sorularda
+öğrencilere yapıcı ve yönlendirici geri bildirimlerde bulunur, varsa eksik veya yanlış öğrenilen noktalarla
+ilgili detaylı açıklamalar yaparak konunun zihinlerde netleşmesini sağlar. Öğretmen, öğrenme eksiklikle-
+rini ve kavram yanılgılarını belirlemek amacıyla eşleştirme yapabilmeyi sağlayan web araçlarını kulla-
+narak hazırladığı Beni Eşleştir etkinliğini etkileşimli tahtadan açar (Ek-4). Bu etkinlik aracılığıyla öğrenci-
+lerin kavramlar arasındaki ilişkileri doğru biçimde kurmalarını sağlar. Eşleştirme etkinliği sırasında kontrol
+ve geri bildirim sürecini eş zamanlı olarak yürütür, öğrencilerin mantık yürüterek doğruya ulaşmalarını
+destekler. Tüm eksiklerin giderildiğinden ve kavramların doğru anlaşıldığından emin olduktan sonra değer-
+lendirme sürecini tamamlayarak dersi sonlandırır.
+
+LINKS:[["EBA Dengelenmiş ve Dengelenmemiş Kuvvetler", "UK8Rw1Q"], ["Kuvvet ve Hareket: Temel Prensipler", "7UB5V8"], ["Hipotez ve Deney Tasarım Formu", "UXHqvTQ"], ["Yansıtıcı Günlük", "UipTNfi"], ["Çalışma Seti", "UTI2PEd"], ["Beni Eşleştir", "2ocJTh"]]

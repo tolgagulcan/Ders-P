@@ -1,0 +1,47 @@
+## 5. Sinif/Din Kulturu/Mimarimizde Dinî Motifler - Birlikte Dirlik.pdf
+SURE:2 KOD:DKAB.5.5.2.
+KAV:Cami, Minare, Şadırvan, Mihrap, Minber
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin önceki derste öğrendiklerini hatırlamaları ve yeni konuya hazırlanmaları için Camileri
+Tanıyalım etkileşimli içeriğini EBA’dan sınıfla paylaşır. Öğrencilerden bağlantıdaki etkinlikleri yapmalarını ve
+sunumda yer alan açıklamalara göre camilerin hangi amaçlarla kullanıldığına dair kısa notlar almalarını ister.
+1. Ders (Sınıf)
+Öğretmen, öğrencilere ders öncesi tamamlamaları gereken görevi hatırlatarak derse başlar. Sınıfa “Camiler
+niçin yapılmıştır?, Camilerde Müslümanlar ne yapar?” sorularını yönelterek öğrencilerin görüşlerini alır. Alınan
+cevaplar doğrultusunda camilerin yalnızca bir yapı olmadığını; birlik, düzen ve ibadet işlevlerini bir arada
+barındıran mekânlar olduğunu vurgular.
+Ardından sunum araçlarıyla hazırlanan Cami Bölümleriyle Tanışıyorum etkinliğini etkileşimli tahtadan açar
+(Ek-1). Cami bölümlerini iç ve dış mekânlar olarak sınıflandırıp öğrencilere tanıtır. Etkileşimli sunumun sonunda
+yer alan çoktan seçmeli soruları öğrencilerle birlikte cevaplar. Öğretmen; öğrenilen kavramların somutlaş-
+tırılması ve kalıcı hâle getirilmesi amacıyla eşleştirme yapabilmeyi sağlayan web aracıyla hazırlanan Cami
+Keşfi etkinliğini etkileşimli tahtada açar. Yanlış eşleştirme yapan öğrencilere sözlü yönlendirmelerle anlık
+geri bildirimde bulunur.
+Çözümleme, İletişim, Dinî kavramları ayırt etme, Merak, Sorumluluk, Dijital bilgiyi anlam-
+Ders Öncesi
+Öğretmen cami tasarımıyla ilgili öğrencileri bireysel olarak değerlendirmek üzere hazırladığı formun çıktı-
+sını alır (Ek-2).
+2. Ders (BT Sınıfı)
+Öğretmen, cami bölümlerini kısaca tekrar ederek öğrencilere hatırlatır. Sınıfa “Caminin bölümlerinin doğru
+bir yerleşim düzenine sahip olması neden önemlidir?” sorusunu sorarak konuya giriş yapar ve öğrencilerin
+cevaplarını dinler. Eşleştirme yapabilmeyi sağlayan web aracıyla hazırlanan İçeride mi, Dışarıda mı? etkin-
+liğini EBA’dan öğrencilerle paylaşır. Bu etkinlikte öğrenciler, cami bölümlerini iç mekân ve dış mekân olarak
+sınıflandırır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, öğrencilere “Caminin bölümlerini öğrendiniz, iç ve dış mekânlarını da keşfettiniz. Peki, siz bir cami
+tasarımcısı olsaydınız caminizin hangi özelliklere sahip olmasını isterdiniz? Tasarım yaparken nelere dikkat
+ederdiniz?” sorularını yöneltir. Öğrencilerle sorular üzerine konuştuktan sonra “Bugün gerçek bir inşaat yapma-
+yacağız. Ancak mimarların kullandığı yöntemlere benzer bir şekilde bilgisayar ortamında 3B bir cami tasar-
+layacağız.” diyerek 3B model oluşturmayı sağlayan araçlarla hazırladığı Camimi Tasarlıyorum etkinliğinin
+bağlantısını öğrencilerle paylaşır. 3B model oluşturmayı sağlayan araçlar hakkında öğrencilerini bilgilen-
+dirir. Tasarım çalışmasının sonunda ürünleri belirli kriterlere göre değerlendireceğini belirtir ve değerlen-
+dirme formunda yer alan kriterleri öğrencilere açıklar (Ek-2). Tasarımlarını tamamlayan ve gönüllü olan
+öğrenciler, çalışmalarını sınıfla paylaşarak tasarım sürecinde dikkat ettikleri kriterleri sözlü olarak ifade eder.
+Öğretmen etkinlik sonunda öğrencilerin cami tasarımlarını bireysel olarak form aracılığıyla değerlendirir.
+Ders sonunda tasarımların güçlü yönleri ile geliştirilmesi gereken yönlerine dair geri bildirim verdiği formları
+öğrencilerle paylaşır.
+Ders Sonrası
+Öğretmen; öğrencilerden yaşadıkları yerin yakınındaki bir camiyi ziyaret etmelerini, dağıttığı Mini Kontrol
+Listesi’ne gözlemlerini yazmalarını ve bu yapıyı kendi tasarımlarıyla karşılaştırmalarını ister (Ek-3).
+
+LINKS:[["EBA Camileri Tanıyalım", "AFBkIi"], ["Cami Bölümleriyle Tanışıyorum", "LUL7Gq"], ["Cami Keşfi", "SfP2e8"], ["İçeride mi, Dışarıda mı?", "qYJx5i"], ["Camimi Tasarlıyorum", "ZSlvEC"]]

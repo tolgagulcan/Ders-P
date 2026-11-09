@@ -1,0 +1,104 @@
+## 5. Sinif/Matematik/Geometrik Sekiller - Gollerimizdeki Cokgenler.pdf
+SURE:5 KOD:
+KAV:Doğada öğrenme, Çokgen, Doğru
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin matematiğin her yerde karşılarına çıkabilecek bir ders olduğunu fark etmesi için
+disiplinler arası iş birliğinden yararlanarak sınıf mevcudu kadar Türkiye’nin Gölleri başlıklı etkinliğin çıktısını
+alır. Öğretmen öğrencilere derste kullanmaları için cetvel getirmelerini söyler.
+1. Ders (Sınıf)
+Öğretmen, öğrencilerde merak uyandırmak için derse EBA’da yer alan Göller videosunu öğrencilere izleterek
+başlar. Video tamamlandıktan sonra öğrencilere “Ülkemizde bulunan gölleri oluşum çeşidine göre sınıflan-
+dırabilir misiniz?” sorusunu sorar. İstekli öğrencilere söz hakkı verir ve öğrencilerin tektonik, karstik, volkanik
+ve buzul cevaplarını vermeleri için gerekli yönlendirmeleri yapar. Öğretmen ders öncesinde çıktısını aldığı
+Türkiye’nin Gölleri etkinliğini öğrencilere dağıtır. “Sevgili öğrencilerim, etkinlik kâğıdında Türkiye’deki göllerin
+oluşumlarına göre gruplandırılıp renklendirilmiş hâli çizilmiştir. Şimdi sizden, önceki derslerimizde öğrendi-
+ğimiz şekilde doğrular oluşturmanızı istiyorum. Ancak doğruları oluştururken her bir doğrunun aynı renge
+sahip göllerden geçtiğine emin olun. Gölleri birleştirirken cetvel kullanmayı unutmayın.” der. Öğrencilere
+etkinliği yapmaları için 5 dakika süre verir. Öğrenciler etkinliği yaparken öğretmen sıraların arasında gezer,
+hatalı çizim yapan öğrenci varsa hatalı çizimini düzeltmesi için onlara rehberlik eder. Öğretmen, 5 dakikanın
+sonunda öğrencilerden etkinlik kâğıdını daha sonra tekrar kullanmak üzere defterlerinin arasına koyma-
+larını ister.
+Öğrencilerin çokgenlerin Türk tarihindeki yerini öğrenmesi için EBA’da yer alan Topkapı Palace Museum-İs-
+tanbul videosunu onlara izletir. Video tamamlandıktan sonra öğrencilere “Topkapı Sarayı’nın pencerele-
+rine dikkat ettiniz mi?” der ve istekli olan öğrencilere söz hakkı verir. Öğrencilerin cevaplarını dinledikten
+sonra “Sevgili çocuklar, Topkapı Sarayı’nın pencerelerinde gördüğümüz bu süslemelere vitray adı verilir ve
+Selçuklular Dönemi’nden beri Türklerin kullandığı bir süsleme çeşididir.” der. Öğretmen arama motorundan
+Topkapı Sarayı’nın penceresine ait geometrik desenli bir resmi açar ve öğrencilere “Penceredeki desenler
+kapalı şekillerdir. Siz de doğruları kullanarak kendi pencere deseninizi tasarlayabilirsiniz.” der ve öğrencilerden
+defterlerine görselde gördükleri kapalı şekillerden ikisini çizmelerini ister. Öğrenciler çizimlerini yaparken
+öğretmen çizimleri kontrol eder. Hatalı çizim yapan öğrencilere geri bildirimde bulunarak hatalarını düzelt-
+melerini sağlar. Tüm öğrenciler çizimlerini tamamladıktan sonra öğretmen “Oluşturduğunuz kapalı şekil-
+leri inceleyin. Doğru sayısı ile son adımda oluşan kapalı şeklin kenar sayısı arasında nasıl bir ilişki vardır?”
+sorusunu sorar. Öğrencilerin “Şekli oluşturmak için çizilen doğru sayısı ile oluşan şeklin kenar sayısı birbi-
+rine eşittir.” cevabını vermeleri için gerekli yönlendirmeleri yapar. Etkinlik tamamlandıktan sonra öğretmen,
+çokgenin tanımını yapar ve çokgenlerin kenar sayılarına göre isimlendirildiğini söyler. Öğrencilere “Sizler de
+oluşturduğunuz çokgenlerin isimlerini defterlerinize yazın.” der. Öğretmen, öğrencilerin isimlendirmelerini
+kontrol eder ve gerekli gördüğü yerlerde öğrencilere rehberlik eder. Öğretmen, dersin tamamlanması için
+kalan süreyi göz önünde bulundurarak konu ile ilgili alıştırma sorularının sayısını arttırabilir.
+Matematiksel araç ve teknoloji ile çalışma
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencileri sınıf mevcuduna göre 3-6 kişilik gruplara ayırır. “Türkiye’nin Gölleri” etkinliği çokgen
+çeşitleri tablosunun sınıfta oluşturulan grup sayısı kadar çıktısını alır (Ek-1).
+2. Ders (Sınıf)
+Öğretmen, öğrencilerden birinci ders dağıtmış olduğu “Türkiye’nin Gölleri” etkinlik kâğıdını sıralarının üzerine
+çıkarmalarını ister. Her gruba etkinlik kâğıdını dağıtır ve gruplardan, oluşan çokgen çeşitlerini belirleme-
+lerini ister (Ek-1). “Sevgili çocuklar, şimdi de sizden aynı renge sahip gölleri doğrular çizerek birleştirme-
+nizi, çokgenler oluşturmanızı (en fazla yedi kenarlı olacak şekilde) ve her çizim için bulduğunuz çokgenleri
+defterlerinize not etmenizi istiyorum.” der. Öğrencilerden çokgenleri oluşturduktan sonra grup arkadaşları
+ile buldukları sonuçları karşılaştırmalarını ve eksikleri varsa tamamlamalarını ister. Dersin son 15 dakika-
+sında etkinliği sonlandırır. Öğrencilerden etkinlik kâğıdı hariç tüm malzemelerini çantalarına kaldırmala-
+rını ister. Bu sırada etkileşimli tahtada haritayı açar. Etkinlik kâğıdında yer alan çokgen çeşitlerini gruplara
+sorar. Gruptan birinin çözümü etkileşimli tahtada çizmesini ister. Etkinlik tamamlandıktan sonra grupları,
+verdikleri cevaplara göre grup gözlem formu ile değerlendirir (Ek-2). Türkiye’deki Göller Cevap Anahtarını
+ve değerlendirme sonuçlarını gruplar ile paylaşır.
+Matematiksel araç ve teknoloji ile çalışma, Karşılaştırma, İletişim, İş birliği
+Ders Öncesi
+Öğretmen 3D model oluşturmayı sağlayan araç kullanımı ile ilgili açıklama yapar. Her öğrencinin uygula-
+maya giriş yapabilmesi için sisteme kaydolmasını sağlar. Öğretmen, öğrencileri 2-4 kişilik gruplara ayırır
+ve her grubun kendisine bir isim belirlemesini ister.
+3. Ders (BT Sınıfı)
+Her grup bir bilgisayarın karşısına oturur. Öğretmen, öğrencilerden 3D model oluşturmayı sağlayan aracı
+kullanarak içi boş birer çokgen oluşturmalarını ister. Her grup, tasarımlarının sunumu için bir grup sözcüsü
+belirler. Seçilen öğrenciler sırayla tahtaya kalkar, gruplarının adını söyler, tasarlamış oldukları çokgeni etkile-
+şimli tahtada açar ve sunumunu yapar. Öğretmen, gruplardan tasarladıkları çokgenleri EBA sınıf duvarında
+kendisiyle ve diğer öğrencilerle paylaşmalarını ister. Paylaşılan çokgenler arasında oylama başlatır ve en
+fazla oyu alan üç farklı çokgen ile kurabiye kalıbı yapacağını söyler.
+Ders Sonrası
+Öğretmen, oylama sonucuna göre en fazla oy alan 3 farklı şeklin baskısını alır (Baskıyı almak için okuldaki
+Kurabiye kalıplarını istekli üç öğrenciye verir ve haftanın son dersinin olduğu gün her bir öğrenciden sınıf
+mevcudunun üçte biri kadar kurabiye yapıp okula getirmesini ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen öğrencilerine dinamik matematik ve geometri aracını tanıtır. Öğrencileri araca nasıl giriş yapacak-
+ları, bu araç ile hangi etkinlikleri gerçekleştirebilecekleri hakkında bilgilendirir. Öğretmen, öğrencilerin yaptık-
+ları etkinlikleri paylaşmaları için bir sınıf kodu oluşturur ve öğrencileri 3-5 kişilik gruplara ayırır. Öğretmen
+anlık geri bildirim sağlayan web aracı kullanarak bir Kapalı Şekiller Oyunu hazırlar (Ek-3).
+4. Ders (BT Sınıfı)
+Her bir grup bir bilgisayarın karşısına oturur. Öğretmen dinamik matematik ve geometri aracını etkileşimli
+tahtada açar. Öğrencilerin tasarladıkları çokgenleri inceleyebilmeleri için sınıf kodunu öğrencilerle paylaşır.
+Öğrencilerden sırayla birer çokgen oluşturmalarını ve oluşturdukları çokgenlerin isimleri ile kendi isimle-
+rini çokgenin altına yazmalarını ister. Birinci öğrenci, etkinliğini tamamladıktan sonra sıra diğer öğrenciye
+geçer. Etkinlik dersin son 15 dakikasına kadar devam eder. Bu süre içerisinde etkinliği tamamlayamayan
+öğrenci olursa gün içerisinde tamamlayabilmesi için ek süre verir. Öğretmen, anlık geri bildirim sağlayan
+web aracında hazırlamış olduğu Kapalı Şekiller Oyunu etkinliğini uygular (Ek-3). Etkinlik sıralamasında ilk
+üçe giren grupları EBA’dan ödüllendirir.
+Ders Sonrası
+Her öğrenci dinamik matematik ve geometri aracıyla tasarımını yapıp paylaştıktan sonra öğretmen tasarım-
+ları inceler. Tasarımı hatasız olan öğrencileri EBA’dan ödüllendirir.
+Dijital ortamlar için içerik oluşturma ve paylaşma, Sorumluluk, İletişim, İş birliği
+Ders Öncesi
+Öğretmen, okul bahçesinde gerçekleştireceği etkinlikte kullanmak için etkinlik yönergesinin çıktısını alır
+(Ek-4). Öğrencilerinin özelliklerini göz önünde bulundurarak soru sayısını artırabilir veya azaltabilir. Öğretmen
+bahçe etkinliği için okula bir yumak ip getirir.
+5. Ders (Bahçe)
+Öğretmen, öğrencileri bahçeye çıkartır ve onlardan bir çember oluşturmalarını ister. Yapacağı etkinliği
+öğrencilere açıklar ve etkinliğe başlar (Ek-4). Öğrencilerin çalışmalarını etkinlik boyunca gözlemler ve gerekli
+gördüğü noktalarda onlara dönütler verir. Öğretmen bu etkinlik ile öğrencilerin birbirlerini daha iyi tanıma-
+larını sağlar. Dersin sonunda kurabiye getiren öğrencilerden yaptıkları kurabiyeleri arkadaşlarına dağıt-
+malarını ister.
+Oyunseverlik, İletişim, İş birliği
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Türkiye’nin Gölleri", "u7UgIU"], ["EBA Göller", "UVPCFAm"], ["Topkapı Palace Museum-İstanbul", "Up3w4Wg"], ["Türkiye’nin Gölleri Cevap Anahtarı", "MrEWIV"], ["Kapalı Şekiller Oyunu", "h7ErVb"]]

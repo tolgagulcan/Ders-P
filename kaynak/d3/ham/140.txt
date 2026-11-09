@@ -1,0 +1,53 @@
+## 5. Sinif/Turkce/Saglikli Yasiyorum - Her Seyin Basi Saglik.pdf
+SURE:3 KOD:T.K.5.1. T.K.5.6. T.Y.5.1.
+KAV:Sağlık, Sağlıklı yaşam unsurları, Dijital mektup
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, ders öncesinde uzun cevaplı sorular oluşturmayı sağlayan web araçları ile hazırlanmış Sağlıklı
+Yaşam Soruları Etkinliği’ni sınıf yönetimi araçları aracılığıyla öğrencilerle paylaşır ve onlardan formu doldur-
+malarını ister (Ek-1).
+1. Ders (Sınıf)
+Öğretmen, dersin başında sağlıklı yaşam soruları etkinliğinden elde edilen sonuçları açar ve inceleme-
+leri için öğrencilere iki dakikalık süre tanır. Sonrasında etkinlikteki sorulara verilen cevaplar üzerinden bir
+tartışma ortamı oluşturur. Ardından öğrencilere “Sağlıklı bir şekilde yaşamak için neler yapmalıyız?” sorusunu
+yöneltir ve cevapları etkileşimli tahtaya yazar. Cevaplar toplandıktan sonra öğretmen, cevapları öğrenci-
+lerle değerlendirir. Böylece öğrencilerin sağlıklı yaşama dair ön bilgilerini harekete geçirir.
+Öğretmen, sınıfı beş gruba ayırır ve oyunlaştırma web araçları ile hazırlanan Sağlık Çarkı etkinliği ile her
+grubun sağlıklı yaşama ilişkin kavramlardan birini (beslenme, spor, uyku, hijyen, teknoloji kullanımı) seçme-
+sini sağlar. Her grubun, seçtiği konunun sağlıklı yaşamla ilişkisini anlatan üç dakikalık bir sunumu ev çalış-
+ması şeklinde hazırlayacağını söyler. Çalışmada kullanılacak etkileşimli sunum araçlarını kısaca tanıtır ve
+sunumların rubrik ile değerlendirileceğini öğrencilere bildirir (Ek-2). Rubriğin özelliklerine ve rubrikteki kriter-
+lere ilişkin öğrencileri bilgilendirdikten sonra dersi sonlandırır.
+Ders Sonrası
+Öğrenciler grup içerisinde iş bölümü yapar. İş birlikli çalışmayı destekleyen araçlar aracılığıyla etkileşimli
+sunum araçlarında sunumlarını hazırlar ve EBA’dan sınıfla paylaşır.
+2. Ders (Sınıf)
+Bu derste gruplar sıra ile sunumlarını yapar. Her sunumun sonunda diğer öğrenciler, grup üyelerine sunuma
+ilişkin merak ettiklerini sorar. Öğretmen, soru-cevap kısmını grup üyelerinin yönetmesine izin vererek doğru
+zamanda söz alma ve verme davranışlarını pekiştirir. Sunumların tamamlanmasının ardından gruplar çalış-
+malarını sunum değerlendirme rubriği ile değerlendirir (Ek-2). Öğretmen formlardan elde edilen sonuç-
+lara ilişkin geri bildirimler verir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğrencilere ev çalışması olarak dijital bir mektup yazacaklarını bildiren öğretmen şu açıklamayı yapar:
+“Bugün sizlerden sağlıklı yaşam konusunda dijital bir mektup yazmanızı istiyorum. Amacımız, sağlıklı yaşam
+alışkanlıklarını başkalarıyla paylaşmak ve önerilerde bulunmak. Mektubunuzu bir arkadaşınıza yazacak-
+sınız. Yazarken hedefinizi, kime yazdığınızı ve dijital ortamda yazmanın farklarını (yazı düzeni, dil kullanımı,
+görsel ve ses ekleme imkânları, paylaşım ve okuyucu farklılıkları vb.) düşünerek plan yapmanızı istiyorum.
+Dijital ortamda yazmak sadece bir yazı yazmak değil; aynı zamanda ortamın sunduğu imkânları doğru
+kullanmak ve buna göre yazının şekline, içeriğine ve sunumuna dikkat etmektir.” Yazılan dijital mektupların
+yansıtıcı günlük ile değerlendirileceğini söyler ve yansıtıcı günlükteki sorulara ilişkin öğrencileri bilgilendirir
+(Ek-3). Ayrıca mektup türünün özelliklerine ilişkin kısa bir bilgilendirme yapar. Ardından öğrencilerin yazdık-
+ları dijital mektupları sınıfla paylaşabilecekleri dijital pano ya da post-it oluşturma araçları ile hazırlanan
+Dijital Mektubum etkinlik bağlantısını öğrencilere gönderir ve dersi sonlandırır.
+Ders Sonrası
+Öğrenciler dijital mektuplarını yazar ve bağlantı aracılığıyla sınıfla paylaşır. Yansıtıcı günlüğü doldurarak
+çalışmalarını değerlendirir (Ek-3).
+3. Ders (Sınıf)
+Bu derste öğretmen öğrencilerle dijital mektuplardan rastgele seçilen beşini inceler. İçerik, yazı düzeni, yazım
+ve noktalama konularında öğrencilere dönütler verir. Mektuplara ilişkin öğrenci sorularını alır ve incelenen
+dijital mektubu yazan öğrencinin soruları cevaplamasını sağlar. Gerektiğinde eklemeler ve düzeltmeler
+yapar. Ayrıca yansıtıcı günlükten elde edilen sonuçları değerlendirir. Öğrencilerin iyi ve geliştirilmesi gereken
+yönlerine ilişkin onlara dönütler vererek dersi sonlandırır.
+Yansıtma, Süreci değerlendirme, Soru sorma, İletişim
+
+LINKS:[["Sağlıklı Yaşam Soruları Etkinliği", "0XjGRn"], ["Sağlık Çarkı", "U3SFajj"], ["Dijital Mektubum", "azlUYn"]]

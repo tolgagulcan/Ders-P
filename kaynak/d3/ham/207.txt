@@ -1,0 +1,111 @@
+## 6. Sinif/Fen Bilimleri/Gunes Sistemi ve Tutulmalar - Sirlarla Dolu Gezegenler.pdf
+SURE:4 KOD:FB.6.1.1.
+KAV:Güneş sistemi, Gezegenler, Gezegenlerin nitelikleri, Biruni
+Öğrenme Etkinlikleri
+1. Ders (BT Sınıfı)
+Öğretmen derse başlamadan önce tahtaya “Güneş Sisteminde Cevabını Bilmediğim Bir Şey...” ifadesini
+yazar. Öğrencilerden Güneş sistemi, gezegenler ve uzay ile ilgili merak ettikleri soruları düşünmelerini ve
+paylaşmalarını ister. Gönüllü öğrenciler sorularını sınıfla paylaşırken öğretmen soruları tahtaya not eder.
+Tahtaya not ettiği sorularından yararlanarak öğrencilerin konuya ilişkin ön bilgilerini ve merak ettikleri nokta-
+ları belirler. Ders süresince bu soruların cevaplarını bulmaya çalışacaklarını ifade ederek öğrencilerin dikka-
+tini konuya çeker ve derse geçiş yapar. Ardından öğrencilerin konuya dikkatini çekmek için dijital hikâye
+oluşturma araçlarıyla oluşturulmuş Biruni’nin Gökyüzü Sırrı hikâyesini etkileşimli tahtada açar. Öğrencilerden
+hikâyeyi okumalarını ister. Öğrenciler, hikâyenin sonunda Biruni’nin yönelttiği “Ben, gezegenlerin Güneş’in
+etrafında dolandığını söyleyerek neyi keşfetmiş olabilirim?” sorusuna ilişkin tahminlerini paylaşır. Öğretmen,
+Biruni’nin Güneş merkezli düşünceyi vurgulayan çalışmalarına değinerek geri bildirimde bulunur. Ardından
+öğrencilere aşağıdaki soruları yöneltir ve bu sorulardan üçünü belirlemelerini ister:
+• Güneş sistemindeki en küçük gezegen hangisidir?
+• Güneş sistemindeki en büyük gezegen hangisidir?
+• Güneş’e en yakın gezegen hangisidir?
+• Güneş sisteminde Güneş’e en uzak gezegen hangisidir?
+• Mars ile Jüpiter arasındaki bölgenin adı nedir?
+Üç soruya Nasa’nın Eyes on the Solar System etkinliğini kullanarak yanıt arayacaklarını söyler.
+Öğretmen, birkaç gönüllü öğrenciyi seçerek onlardan belirledikleri soruları ve buldukları yanıtları sınıfla
+paylaşmalarını ister. Diğer öğrencilerden ise sorularını ve yanıtlarını EBA’dan paylaşmalarını ister. Dersten
+sonra öğrencilerin paylaşımlarını EBA üzerinden inceleyerek onlara geri bildirimde bulunur. Öğretmen,
+öğrencilerin konuyla ilgili gözlemlerini ifade edebilmeleri amacıyla dijital pano ya da post-it oluşturma
+araçlarından biriyle hazırladığı Etkinlik Soruları içeriğini EBA’da paylaşır ve öğrencilerden içeriği incelerken
+bu sorulara yanıt aramalarını ister. Öğrencilerin yanıtlarını inceleyerek geri bildirimlerde bulunur. Dijital
+panoyu öğrencilerle paylaşır, onların dersten sonra da incelemelerini sağlar.
+Öğretmen, öğrencilerden incelemeleri sırasında Mars ve Jüpiter arasında yer alan asteroit kuşağını da
+gözlemlemelerini ister. Öğrencilere asteroit kuşağının konumu ve özellikleri hakkında notlar almaları gerek-
+tiğini belirtir. İnceleme sonrasında öğretmen; etkileşimli tahtada hazırladığı kısa bir dijital içerik veya görsel
+kullanarak asteroit, gök taşı, meteor, meteorit ve meteor çukuru kavramlarını tanıtır. Öğrencilerden bu
+kavramlar ile asteroit kuşağı arasındaki ilişkiyi kurarak gözlemlerini sürdürmelerini ve ulaştıkları sonuçları
+sınıfla paylaşmalarını ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, Gezegen Göç Formu'nun grup sayısınca çıktısını alır (Ek-1).
+2. Ders (Sınıf)
+Öğretmen, bir önceki derste öğrencilerin Güneş sistemi ve gezegenler hakkında yaptıkları gözlemleri hatır-
+latmak amacıyla EBA’dan Güneş Sistemi içeriğini etkileşimli tahtadan açar. İçerikte yer alan gezegenlerin
+Güneş’e yakınlıklarını, uydu ve halkalarının olup olmama durumunu, birbirlerine göre hacimsel büyüklük-
+lerini, karasal ve gazsal olmaları gibi temel özelliklerini öğrencilerle inceler. İçerikte yer alan bilgilerden
+yararlanarak gezegenleri bu özelliklere göre sınıflandırmalarını öğrencilerden ister. Ardından asteroit
+kuşağı konusunu pekiştirmelerini sağlamak adına EBA’dan Asteroit Kuşağı ve Gök Taşları içeriğini etkile-
+şimli tahtadan açar. Öğrencilerden içerikte yer alan sıra sizde etkinliklerini sırayla yapmalarını ister ve
+onlara geri bildirimde bulunur. Öğretmen, öğrencilere gezegenlerin özelliklerini ve bu özelliklerle ilgili yaptık-
+ları sınıflandırmaları hatırlatarak bu bilgilerden yararlanacakları bir etkinlik gerçekleştireceklerini belirtir.
+Etkinlik için sınıfı 4-5 kişilik gruplara ayırır. Öğrencilerden gelecekte Dünya’da yaşam koşullarının zorlaştı-
+ğını ve bu nedenle başka bir gezegene göç etmek zorunda kaldıklarını hayal etmelerini ister. Gezegenlerin
+özelliklerini ve yaptıkları sınıflandırmayı dikkate alarak göç edecekleri gezegene tartışarak karar vermele-
+rini gruplara söyler. Göç için neden bu gezegeni seçtiklerini ve burada daha iyi bir yaşam sürmek için neler
+yapabileceklerini Gezegen Göç Formu ile açıklayacaklarını belirtir (Ek-1). Öğrencilere düşüncelerini forma
+yazmalarını söyler. Öğrenciler çalışmalarını bitirdiğinde öğretmen, gruplardan formlarını sınıfa sunma-
+larını ister. Sunumları dinleyen öğrencilerden gönüllü olanlar, çalışmalar hakkında yorumlarını açıklar.
+Öğrenciler, yorumları dinledikten sonra sunumlara göre oylama yaparak en yaşanılabilir gezegeni seçer.
+Ders Sonrası
+Öğretmen, önceki derste doldurdukları Gezegen Göç Formu’nda seçtikleri gezegeni ve nedenlerini dikkate
+alarak o gezegende kuracakları yaşamın görselini yapay zekâ destekli araçlarla oluşturmalarını öğrenci-
+lerden ister (Ek-1). Öğrencilerin yaptıkları çalışmaları EBA’da paylaşacaklarını belirtir. Bunun için öğrenci-
+lerle EBA'dan örnek bir istem paylaşır: “Dünya’da yaşam koşullarının zorlaşması nedeniyle insanların göç
+etmek zorunda kaldığı yeni bir gezegende kurulmuş bir yaşam alanını hayal edin. Bu gezegende insanların
+yaşayabilmesi için tasarlanmış şehirler, barınaklar, ulaşım sistemleri, tarım alanları ve enerji kaynakları
+bulunmaktadır. Çevrede gezegenin kendine özgü doğal özellikleri yer alır: Kırmızı bir gökyüzü, alışılmadık
+renklere sahip bitkiler, iki güneş, buzlarla kaplı dağlar ya da devasa kraterler gibi unsurlar görülmektedir.
+İnsanlar günlük yaşamlarını sürdürmekte, çocuklar oyun oynamakta, bilim insanları laboratuvarlarda çalış-
+makta, çiftçiler ise üretim yapmaktadır. Görsel; geleceğe dair umut veren, renkli, ayrıntılı ve bilim kurgu
+tarzında olmalıdır.” Öğrenciler yapay zekâ ile oluşturdukları görselleri EBA’da paylaşır. Öğretmen payla-
+şılan görsellere geri bildirimde bulunur.
+Ders Öncesi
+Öğretmen, görsel düzenleme araçları ile hazırladığı Gezegen Küpü ve Gezegen Kartları etkinlik kâğıtlarının
+grup sayısı kadar çıktısını alır. Etkinlikte kullanılmak üzere gruplara makas ve yapıştırıcı temin eder. Küple
+Gezegeni Keşfet etkinlik kâğıdının grup sayısı kadar çıktısını alır (Ek-2).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+3. Ders (Sınıf)
+Öğretmen, üzerinde sorular bulunan küp ve gezegen isimlerinin yazılı olduğu kartlarla sınıfa girer. Bu
+materyallerle gezegenler konusundaki bilgileri pekiştirmeye yönelik bir etkinlik yapacaklarını öğrencilere
+açıklar. Öğrencileri 4–5 kişilik gruplara ayırır ve her gruba Gezegen Küpü ve Gezegen Kartları'nı dağıtır.
+Gruplardan önce makas ve yapıştırıcı kullanarak küpü oluşturmalarını, sonra kartları kesmelerini ister.
+Ardından gruplara Küple Gezegeni Keşfet etkinlik kâğıdını dağıtır ve onlardan incelemelerini ister (Ek-2).
+Daha sonra grup içindeki öğrenciler sırayla önce küpü atar ve küpün üst yüzünde yer alan soruyu okur.
+Sonra gezegen kartlarından rastgele bir kart çeker ve soruyu, çektiği gezegene göre yanıtlar. Diğer grup
+üyeleri verilen yanıtı dikkatle dinler. Grup üyeleri, hatalı olduğunu düşündükleri yanıtları önce kendi arala-
+rında müzakere eder; uzlaşamadıkları noktalarda ise öğretmenin görüşüne başvurur. Öğretmen, sürece
+rehberlik eder ve ders süresini göz önünde bulundurularak etkinliği devam ettirir.
+Değerlendirme, Eleştirel düşünme, Sorumluluk, Oyunseverlik, Soru sorma, İş birliği, İletişim
+4. Ders (BT Sınıfı)
+Öğretmen, önceki etkinlikte ele alınan gezegenlerin özelliklerini hatırlatarak derse başlar. Ardından bir önceki
+derste oluşturulan gruplardan bir araya gelerek hatırladıkları bilgilerden ve gezegenlerin özelliklerinden
+yararlanıp seçtikleri iki gezegen için görsel düzenleme araçlarını kullanarak tanıtım kartları hazırlamala-
+rını ister. Çalışmanın sonunda ise grup üyelerinin birbirlerini akran değerlendirme yapmayı sağlayan web
+araçlarıyla hazırlanan Akran Değerlendirme Formu ile değerlendireceklerini açıklar ve formda yer alan
+maddeler hakkında öğrencileri bilgilendirir (Ek-3). Öğretmen, çalışmaya örnek oluşturması amacıyla görsel
+düzenleme araçları ile hazırlanan Güneş Sistemindeki Gezegenler tanıtım kartlarını etkileşimli tahtada açar
+ve gruplardan incelemelerini ister. Hazırlanacak kartlarda Güneş sistemindeki gezegenlerden iki gezegenin
+yer alması ve her gezegen için en az üç özellik, bir görsel bulunması gerektiğini açıklar. Öğrenciler, tanıtım
+kartlarını inceleyerek grup içinde tartışır ve tasarımlarına karar verir. Grup, aldığı kararlar doğrultusunda
+görsel düzenleme araçlarını kullanarak gezegen tanıtım kartlarını hazırlar. Öğretmen, etkinlik sürecinde
+gruplara rehberlik eder. Çalışmasını bitiren gruplar kartların sunumunu sırayla yapar. Öğretmen, Akran
+Değerlendirme Formu’nu öğrenciler ile paylaşır (Ek-3). Bu form ile öğrenciler grup arkadaşlarını değerlen-
+dirir. Daha sonra öğretmen öğrenmenin pekiştirilmesi için çoktan seçmeli sorular hazırlamayı sağlayan
+web araçlarıyla hazırlanan Uzay Bilgisi etkinliğini EBA’dan öğrencilerle paylaşır (Ek-4). Öğrencilerin çalış-
+mayı tamamlama durumlarını, etkinliği hazırladığı çoktan seçmeli sorular hazırlamayı sağlayan web
+araçları üzerinden takip eder ve onlara geri bildirimlerde bulunur.
+Ders Sonrası
+Öğrenciler hazırladıkları kartları EBA’dan paylaşır. Öğretmen, kartları inceleyerek paylaşımlara yorum
+yoluyla geri bildirim verir. Her grup en az iki grubun çalışmasını inceleyerek çalışma hakkında düşünce-
+lerini yorum kısmına yazar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Biruni’nin Gökyüzü Sırrı", "UefQ0CW"], ["Eyes On The Solar System", "UYcz2hh"], ["Etkinlik Soruları", "U8iZOCj"], ["EBA Güneş Sistemi", "i0TLZw"], ["EBA Asteroit Kuşağı ve Gök Taşları", "gJ9syA"], ["Gezegen Kartları", "UHEwDsp"], ["Gezegen Küpü", "qFfxMO"], ["Güneş Sistemindeki Gezegenler", "PLN4aR"], ["Akran Değerlendirme Formu", "nXuPMh"], ["Uzay Bilgisi", "UVvoL9M"]]

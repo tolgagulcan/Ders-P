@@ -1,0 +1,50 @@
+## 5. Sinif/Turkce/Iletisim ve Sosyal Iliskiler - Farkliliklarimizla Zenginiz.pdf
+SURE:3 KOD:T.O.5.9. T.O.5.11. T.Y.5.3.
+KAV:Empati, Bireysel farklılıklar, Karşılaştırma
+Öğrenme Etkinlikleri
+Ders Öncesi
+Bu ders tasarımı öncesinde öğrencilerin “empati, eleştirel düşünme ve anlam oluşturma becerisi” için basit
+düzeyde çıkarım yapma becerisine sahip olduğu kabul edilmiştir.
+1. Ders (Sınıf)
+Öğretmen dersin başında öğrencilerden kendisini betimlemelerini ister. Öğrencilere kendisinin hem fiziksel
+hem de kişilik özelliklerini defterlerine yazmalarını söyler. Yazılanlardan hareketle farklı bakış açıları üzerinde
+durur. Ardından “Aynı olay karşısında tüm insanlar benzer şekilde mi davranır?” sorusu ile de insanların bakış
+açısındaki farklılıklara dikkat çekerek öğrencilerin farklılıklar üzerine düşünmelerini sağlar. Sonrasında “Sizin
+başkalarından farklı özelliğiniz nedir?” sorusunu sorar ve zihin haritası oluşturma araçlarından birini kullanarak
+öğrencilerin cevaplarından bir zihin haritası oluşturur. Elde edilen sonuçlara ilişkin öğrenci görüşlerini alır.
+Öğretmen, etkileşimli sunum araçları ile hazırlanmış olan Çiçekli Kirpi metnini (Sözen Dağ, 2023) etkileşimli
+tahtadan açar. Metni okuyacaklarını ve ardından metne ilişkin soruları cevaplayacaklarını öğrencilere
+söyler. Metni okuyacaklarını ve ardından metne ilişkin soruları cevaplayacaklarını öğrencilere söyler. Metnin
+okunmasının ardından öğretmen, metne ilişkin soruları öğrencilere yöneltir (Ek-1). “Metindeki kirpinin yerinde
+siz olsaydınız nasıl bir çözüm bulurdunuz?” sorusunu öğrencilere sorar. Tereyağı ekmek tekniğini kullanır ve
+öğrencilerden sorulan sorunun cevabını önce bireysel, daha sonra sıra arkadaşlarıyla fikir paylaşımı yaparak
+düşünmelerini ister. Etkinlik tamamlandıktan sonra öğretmen, öğrencilerden ev çalışması olarak “Çiçekli
+Kirpi” metnini (Sözen Dağ, 2023) yapay zekâ destekli araçları kullanarak şiir türüne çevirmelerini ve defterle-
+rine yazmalarını ister. Sonrasında dersi sonlandırır.
+Ders Öncesi
+Öğrenciler, ders öncesinde yapay zekâ destekli araçlar yardımıyla “Çiçekli Kirpi” adlı metni (Sözen Dağ, 2023)
+şiir türüne çevirir.
+2. Ders (Sınıf)
+Öğretmen, “Çiçekli Kirpi” adlı metni (Sözen Dağ, 2023) etkileşimli tahtada açar. Öğrencilerin yapay zekâ destekli
+araçlarla hazırladıkları şiiri ve “Çiçekli Kirpi” metnini (Sözen Dağ, 2023) karşılaştırmalarını ister. İki metnin benzer
+ve farklı yönlerini görünür kılmak adına etkileşimli tahtada “Benzerlikler” ve “Farklılıklar” şeklinde iki ana başlık
+oluşturur. Öğrencilerden gelen cevapları ilgili başlığa not eder. Cevapların değerlendirilmesinin ardından
+öğrencileri “hikâye haritası” hakkında bilgilendirir. Ardından Hikâye Haritası etkinliğini etkileşimli tahtada açar
+ve öğrencilerden haritayı “Çiçekli Kirpi” metnine (Sözen Dağ, 2023) göre etkileşimli tahtada doldurmalarını ister.
+Bu etkinlikte “Mekân, Zaman, Olay, Şahıs-Varlık Kadrosu ve Anlatıcı” alt başlıkları yer almaktadır. Sonrasında
+sınıf mevcudunu göz önünde bulundurarak 4-6 kişilik öğrenci grupları oluşturur. Her gruptan, ev çalışması
+için dijital hikâye oluşturma araçlarını kullanarak “Farklılıklarımız zenginliğimizdir.” konulu bir hikâye oluştur-
+masını ister. Örnek olarak Küçük ve Büyük Kanatlar adlı dijital hikâyeyi etkileşimli tahtadan açar ve öğrenci-
+lerin incelemesini sağlar. Oluşturulacak dijital hikâye çalışmalarının grup içinde grup değerlendirme formu
+ile değerlendirileceğini bildirir ve kriterler hakkında öğrencileri bilgilendirir (Ek-2).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Gruplar, iş birlikli çalışmayı sağlayan araçları kullanarak dijital hikâyelerini oluşturur. Her grup, hikâyesini
+EBA’da paylaşır.
+3. Ders (Sınıf)
+Öğretmen, EBA’yı etkileşimli tahtada açar. Her gruptan gönüllü bir öğrenci yazdığı hikâyeyi okur. Öğretmen
+ve öğrenciler sözlü olarak geri bildirimde bulunurlar. Ardından gruplar, grup değerlendirme formunu doldu-
+rarak kendi çalışmalarını değerlendirir (Ek-2). Öğretmen, grup değerlendirme formlarına ilişkin gruplara dönüt
+verir. Sonrasında dersi sonlandırır.
+
+LINKS:[["Çiçekli Kirpi", "8TDuC7"], ["Hikâye Haritası", "UZqNBq8"], ["Küçük ve Büyük Kanatlar", "UvgysQF"]]

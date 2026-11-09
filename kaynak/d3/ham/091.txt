@@ -1,0 +1,98 @@
+## 5. Sinif/Sosyal Bilgiler/Teknoloji ve Sosyal Bilgiler - Parmagimin Ucundaki Teknoloji.pdf
+SURE:3 KOD:SB.5.6.2.
+KAV:Dijital ayak izi, Genel ağ, Teknoloji
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, teknolojik ürünlerin bilinçli kullanımı konusunda farkındalık oluşturmak amacıyla tasarladığı
+etkinlik için öğrencileri 2-4 kişilik gruplara ayırır. Öğrencilerin teknolojik bir ürün belirlemelerini ve bu tekno-
+lojik ürünle ilgili araştırma yapmalarını ister. Bu ürüne dair farkındalık oluşturmak için kısa film, kamu spotu,
+diyalog, karikatür, hikâye, şarkı veya kullanım kılavuzu hazırlayarak sınıfta sunacaklarını söyler. Bunun için
+animasyon oluşturma araçları veya video düzenleme araçlarını kullanabileceklerini belirtir (Ek-1). Etkinlik-
+leri kendisinin bütüncül dereceli puanlama anahtarı ile öğrencilerin ise öz değerlendirme formu ile değer-
+lendirileceğini belirterek değerlendirme kriterleri hakkında öğrencileri bilgilendirir (Ek-2 ve Ek-3). Kullana-
+cakları web araçları ile ilgili bilgi verir. Öğrencilerin soruları varsa cevaplar. Etkinliklerini hazırlamaları için
+öğrencilere 10 gün süre verir. Sunumların yapılacağı tarihle ilgili gerekli bilgilendirmeleri yapar.
+Öğretmen görsel düzenleme araçları ile Farkında Ol, Güvende Kal! ve Teknolojik Ürünlerin Bilinçli Kullanımı
+etkinliğini hazırlar (Ek-4).
+1. Ders (Sınıf)
+Öğretmen, “Dünyamız teknolojinin gelişmesiyle her geçen gün biraz daha değişiyor. Hemen hemen her
+alanda kullandığımız teknoloji ve teknolojik cihazlar artık hayatımızın vazgeçilmez bir parçası hâline geldi.
+Özellikle gelişen genel ağ ve buna bağlanabilen taşınabilir teknolojik cihazlar sayesinde dünyadaki bilgiler
+artık parmaklarımızın ucunda. Peki, bu teknolojileri doğru ve bilinçli bir şekilde kullanabiliyor muyuz?” diyerek
+öğrencilerin dikkatini çeker. Öğrencilerin birçoğunun sosyal medyayı kullandığını varsayarak EBA’dan İnternet
+Meraya Gelirse videosunu etkileşimli tahtada açar ve öğrencilere video ile ilgili soruları sorar.
+Öğrenciler soruları cevaplarken öğretmen gerekli yerlerde yönlendirmeler yapar. Bir yandan görsel düzen-
+leme araçları ile hazırladığı Farkında Ol, Güvende Kal! etkinliğini açar. Dijital ortamda güvende kalabilmek
+için nelere dikkat edilmesi gerektiğini öğrencilerle etkinlik içindeki alana yazılır.
+Öğretmen, görsel düzenleme araçları ile hazırladığı Teknolojik Ürünlerin Bilinçli Kullanımı çalışma sayfasını
+etkileşimli tahtada açar (Ek-4). Öğrencilerden sayfada yer alan örnek olayları okuyarak örnekteki öğren-
+cilerin yaptıkları hataları bulmalarını ve örnek olaylarla ilgili soruları cevaplamalarını ister. Sorular cevap-
+lanırken öğretmen, genel ağdan Güvenli Çocuk sitesinde yer alan çeşitli görselleri açarak öğrencilere
+gösterir. Görsellerin içeriklerini inceleyen öğrenciler konuyla ilgili düşüncelerini ifade eder. Böylece öğren-
+ciler, sosyal medya hesaplarını güvenli kullanmak için nasıl davranmaları gerektiği, tanımadıkları kişilerden
+gelen mesajları görünce ne yapacakları ve kişisel bilgilerine erişimi engellemek için nasıl güçlü şifreler
+oluşturabilecekleri konusunda çıkarımlar yaparlar.
+Öğretmen, genel ağ ortamındaki dijital ayak izlerinden bahseder. Öğrencilerden bu duruma örnekler verme-
+lerini ister. Gerekli yerlerde yönlendirmeler yaparak genel ağı kullanırken bilinçli hareket etmenin önemini
+vurgular.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, anket araçları ile hazırladığı Dijital Ayak İzlerimiz Bizi Takip Ediyor etkinliğini EBA’da öğrencilerle
+paylaşır (Ek-5). Dijital ayak izlerini hesaplamalarını ve bu izi azaltmak için üç maddelik bir eylem planı
+hazırlamalarını öğrencilerden ister. Öğrencilere, hazırladıkları eylem planlarını arkadaşlarıyla paylaşarak
+fikir alışverişinde bulunabileceklerini belirtir.
+Ders Öncesi
+Öğretmen, oyunlaştırma web araçları ile Dijital Ortamda Sahip Olduğumuz Temel Haklar etkinliğini ve
+oyunlaştırılmış ölçme ve değerlendirme araçları ile Teknolojiyi Kullanıyorum etkinliğini hazırlar.
+2. Ders (Sınıf)
+Öğretmen, Güvenli Çocuk sitesinden İnternette Dijital Etik Değerler videosunu etkileşimli tahtada açar. Öğren-
+ciler videoyu izledikten sonra oyunlaştırma web araçları ile hazırladığı Dijital Ortamda Sahip Olduğumuz
+Temel Haklar etkinliğini etkileşimli tahtada açar. Öğrencilerin etkinlik içindeki çarkı sırayla çevirmesini ister.
+Çark çevrildiğinde gelen hakkın dijital ortamda sahip olduğumuz haklardan biri olup olmadığını öğrenci-
+lere sorar ve bu konuda öğrencilerin tartışmalarını. Video içeriğini de düşünerek öğrencilerden bu hakla
+ilgili örnekler vermelerini ister. Gerekli yerlerde öğrencileri yönlendirerek bu hakları bilmenin, korumanın ve
+aramanın önemli bir beceri olduğunu öğrencilere hissettirir. Varsa öğrencilerin sorularını cevaplar.
+Öğretmen, genel ağın hayatımıza pek çok yenilik yanında bazı riskleri de beraberinde getirdiğini belirterek
+dijital okuryazar olmanın önemine vurgu yapar. Öğrencilerin dijital okuryazarlığın hangi yeterliliklerine sahip
+olduklarını öğrenmelerini sağlamak için hazırladığı Dijital Okuryazarlık Becerilerim Etkinlik Kâğıdı’nı öğrenci-
+lere dağıtır ve sayfada yer alan etkinliği yapmalarını ister (Ek-6). Öğretmen, öğrencilerin sorularını cevap-
+larken kullandıkları teknolojiyi anlamaları ve güvenli, etkili bir şekilde kullanabilmeleri için dijital okuryazarlık
+becerilerine sahip olmaları gerektiğini onlara fark ettirir.
+Öğretmen, bilinçli tüketici ve bilinçli teknoloji kullanıcısı olarak bir ürün satın alırken dikkat edilmesi gereken
+hususları belirtir. Aşağıdaki soruları sorarak öğrencileri yönlendirir ve cevap vermeleri için teşvik eder:
+• Neden fiş veya fatura alırız?
+• Garanti belgesi neden önemlidir?
+• Kullanım kılavuzu ne işe yarar?
+Öğretmen teknolojik ürünleri doğru amaçla, zamanında ve yerinde kullanmanın önemini belirtir. Tekno-
+lojik ürünlerin bilinçsiz kullanımının bazı olumsuz sonuçlara neden olabildiğini hatırlatır. “Böyle bir durumun
+yaşanmaması için teknolojik araçları kullanırken kendimize hangi soruları sormalıyız?” diyerek öğrencilere
+söz verir. Öğrencilerden buldukları soruları paylaşmalarını ve tahtaya yazmalarını ister. Teknolojinin bilinçli
+ve bilinçsiz kullanımıyla ilgili örnekler verir. Kendi yaşantılarından konuyla ilgili örnekler vermesi için öğren-
+cileri teşvik eder. Varsa öğrencilerin sorularını cevaplar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen oyunlaştırılmış ölçme ve değerlendirme araçları ile hazırladığı Teknolojiyi Kullanıyorum etkinliğini
+etkileşimli tahtadan açar. Öğrenciler sırayla etkinlik içindeki soruları cevaplar. Öğretmen gerekli yerlerde
+açıklamalar yapar.
+Eleştirel düşünme, Dijital bilgiye ulaşma ve dijital bilgiyi tanıma, Dijital ortamda
+iletişim kurmak ve etik ilkelere uygun iletişimi sürdürmek, Oyunseverlik, Dijital bilgiyi
+anlamlandırma
+Ders Öncesi
+Öğretmen, teknolojik ürünlerin bilinçli kullanımı konusunda farkındalık oluşturmak amacıyla hazırlanan
+sunumların ne zaman yapılacağı ile ilgili öğrencileri bilgilendirir. Bütüncül dereceli puanlama anahtarını
+grup sayısı kadar hazırlar (Ek-2). Öz değerlendirme formunu öğrenci sayısı kadar çoğaltır (Ek-3).
+3. Ders (Sınıf)
+Öğretmen, “Teknolojik ürünlerin bilinçli kullanımı farkındalık ve çaba gerektirir. Bu çabanın bir ürünü olarak
+arkadaşlarınız bir teknolojik ürün belirledi ve bu teknolojik ürünle ilgili araştırmalarını yaptılar. Bu ürünün
+bilinçli kullanımına dair farkındalık oluşturmak için etkinlikler tasarlayıp sunum hazırladılar. Şimdi onları
+dinlemeye ne dersiniz?” diyerek sınıfı motive eder. Hazırlıklarını tamamlamış grupların sıra ile sunumlarını
+gerçekleştirmelerini sağlar. Öğretmen, sunumlar sırasında etkinliği hazırlayan grup üyelerinin dinleyicilere,
+dinleyicilerin de etkinliği hazırlayanlara sorular sormasını sağlayarak tüm sınıfın etkinliklere aktif katılımını
+teşvik eder. Gerekli yerlerde yönlendirmeler yapar. Varsa öğrencilerin sorularını cevaplar. Yapılan grup
+çalışmalarını bütüncül dereceli puanlama anahtarı ile değerlendirerek öğrencilere geri bildirimde bulunur
+(Ek-2). Ayrıca öğrencilere grup çalışması içindeki performanslarını değerlendirmek için hazırlanmış olan
+öz değerlendirme formunu dağıtarak kendilerini değerlendirmelerini ister (Ek-3).
+Ders Sonrası
+Öğretmen, EBA’dan 6. Öğrenme Alanı Kavram Oyunu S. 145’teki etkinliği yapmaları için öğrencilere gönderir
+ve takibini yapar. Öğrencilerin sorularını cevaplar.
+
+LINKS:[["EBA İnternet Meraya Gelirse", "UUu5QgQ"], ["Farkında Ol, Güvende Kal!", "ABXzWi"], ["Teknolojik Ürünlerin Bilinçli Kullanımı", "2f6c1Z"], ["Güvenli Çocuk", "Ufjwr7f"], ["Dijital Ayak İzlerimiz Bizi Takip Ediyor", "gH6flc"], ["İnternette Dijital Etik Değerler", "UqANzlA"], ["Dijital Ortamda Sahip Olduğumuz Temel Haklar", "Uw9Mhsf"], ["Teknolojiyi Kullanıyorum", "UEpfNR5"], ["EBA 6. Öğrenme Alanı Kavram Oyunu S. 145", "Uka2WSL"]]

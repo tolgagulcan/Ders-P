@@ -1,0 +1,106 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (1) - Carp, Bol, Kesfet.pdf
+SURE:5 KOD:MAT.6.1.1.
+KAV:Çarpan, Bölen, Kat
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, EBA’da yer alan Çarpanlar ve Katlar videosunu öğrencilerin izlemeleri için paylaşır.
+1. Ders (Bahçe)
+Öğretmen, doğal sayıların çarpanları ve katları konusundan kısaca bahseder. Ders öncesinde gönderdiği
+Çarpanlar ve Katlar videosu ile ilgili öğrencilerin sorularının olup olmadığını sorar, varsa soruları cevaplar.
+Öğrencilerden sınıf mevcudunun (dersteki öğrenci sayısı) çarpanlarını tahmin etmelerini ister. Gönüllü
+öğrenciler tahminlerini söyledikten sonra “Bakalım kimlerin tahmini doğru?” der. Öğrencilerden öncelikle
+birer kişi olarak ayrılmalarını daha sonra sırasıyla ikili, üçlü, dörtlü ve beşli gruplar oluşturmalarını ister.
+Öğrenciler grupları oluşturdukça sonuçları etkinlik kâğıdındaki A bölümüne not eder (Ek-1). Öğrencilerin
+hepsi gruplara dâhil olunca oluşan grup sayısı ile bir gruptaki öğrenci sayısının sınıf mevcudunun çarpan-
+ları olduğunu belirtir.
+Öğretmen, etkinliğin başında çarpanları doğru tahmin eden öğrencileri tebrik eder. “Şimdi aynı etkinliği
+sınıfımızdaki kız öğrenci sayısına göre yapalım.” der. Öğrencilerden ilk olarak kız öğrenci sayısının çarpan-
+larını tahmin etmelerini ister, daha sonra gruplar oluşturmaları için onları yönlendirir ve elde ettiği sonuç-
+ları etkinlik kâğıdındaki B bölümüne not eder (Ek-1). Aynı etkinliği erkek öğrencilerle de yapar ve elde ettiği
+sonuçları etkinlik kâğıdındaki C bölümüne not eder (Ek-1). Tahminleri doğru olan öğrencileri tebrik eder. 1 ve
+sayının kendisinin, her zaman sayının çarpanı olduğunu öğrencilerin fark etmelerini sağlar.
+Ders Sonrası
+Öğretmen, öğrenilenlerin pekiştirilmesi için EBA’da yer alan Çarpanlar ve Katlar etkileşimli içeriğini öğren-
+cilerle paylaşır ve onlardan etkinliği tamamlamalarını ister.
+Oyunseverlik, İletişim, Çözümleme, Sınıflandırma, Matematiksel muhakeme
+Ders Öncesi
+Öğretmen sınıfa bir paket nohut veya kuru fasulye getirir. Öğrencileri 3-6 kişilik gruplara ayırır. Sınıftaki oturma
+düzenini grup oluşturmaya uygun şekilde düzenler (örneğin küme oturma düzeni). Sayıların katlarını bulma
+etkinlik kâğıdını grup sayısı kadar çoğaltır (Ek-2). (Kullanılacak materyaller uygulayıcı öğretmen için öneridir.)
+2. Ders (Sınıf)
+Öğretmen her bir gruba bir miktar nohut veya kuru fasulye verir. Öğrencilerden 4, 7, 12, 20 gibi sayıların ilk dört
+katını nohut veya fasulye tanelerini kullanarak masalarında göstermelerini ve elde ettikleri sonucu etkinlik
+kâğıdına not etmelerini ister (Ek-2). Öğrenciler etkinlikleri sırasıyla gerçekleştirirken ilk adımdan sonra istekli
+gruplara söz hakkı verir. Grubun cevabı doğru ise grubu tebrik eder, yanlış ise gruptaki öğrencilerin doğru
+cevabı bulması için yönlendirici sorular sorar. Etkinlikler sırasıyla gerçekleştirilir. Öğretmen, her sayının en
+küçük katının sayının kendisi olduğunu öğrencilerin fark etmelerini sağlar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, öğrencilerle EBA’daki Bir Doğal Sayının Çarpanları ve Katları etkileşimli içeriğini paylaşır ve öğren-
+cilerden etkinliği yapmalarını ister. Etkinliği yapan öğrencileri EBA’dan takip eder.
+Oyunseverlik, Grup iletişimine katılmak, İş birliği, Çözümleme
+Ders Öncesi
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web araçlarından birini kullanarak Çarpan ve
+Kat Çalışma Soruları etkinliğini hazırlar (Test soruları EBA’dan alınmıştır.). Hazırladığı etkinliğin bağlantısını
+EBA’dan paylaşır ve öğrencilerden dersten önce soruları cevaplandırmalarını ister. Öğrencileri 2-5 kişilik
+gruplara ayırır.
+3. Ders (BT Sınıfı)
+Öğretmen, öğrencilere Çarpan ve Kat Çalışma Soruları etkinlik içeriğiyle ilgili soruları olup olmadığını sorar.
+Öğrencilerden sorular gelirse istekli öğrencileri sırayla tahtaya kaldırır ve soruları cevaplamalarını sağlar.
+Ardından öğrencilerden dinamik matematik ve geometri aracını açmalarını ister. “Çocuklar bugün sizlerle
+‘Çarpan mı, Kat mı?’ oyununu oynayacağız.” der ve oyunun kurallarını açıklar. Oyunun kuralları gereği bir
+öğrenci seçer ve öğrenciye “Alanımın çarpanı mı, katı mı?” diye sorar.
+• Öğrenci “çarpan” derse öğretmen bir sayı söyler. Öğrencilerden dinamik matematik ve geometri aracını
+kullanarak kenar uzunlukları bu sayının çarpanları olan bir dikdörtgen çizmelerini ister. Çizimler tamam-
+landıktan sonra tüm gruplara söz hakkı verir ve gelen cevapları dinler. Öğrencilerin bulamadığı çarpan
+varsa tamamlar, yoksa öğrencileri tebrik eder.
+• Öğrenci “kat” derse öğretmen bir sayı söyler. Öğrencilerden dinamik matematik ve geometri aracını kulla-
+narak alanı, söylediği sayının katı olan bir dikdörtgen çizmelerini ister. Çizimler tamamlandıktan sonra tüm
+gruplara söz hakkı verir ve gelen cevapları dinler. Gruplara söylediği sayının kaç katını hesapladıklarını
+ve kenar uzunluklarının kaç olduğunu sorar. Öğrencilerin cevabı hatalıysa düzeltmeleri için geri bildirim
+verir, değilse öğrencileri tebrik eder.
+İlk etkinlik tamamlandıktan sonra öğretmenin sorusuna cevap veren öğrenci, bir arkadaşını seçer ve aynı
+soruyu ona sorar. Etkinlik ders sonuna kadar devam ettirilir.
+Ders Sonrası
+Öğretmen, öğrencilerin öğrenme sürecini gözlemlemek için Öz Değerlendirme Formu bağlantısını EBA’dan
+öğrencilerle paylaşır (Ek-3). Öğrencilerden formu doldurmalarını ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, 15 adet masa tenisi topunun üzerine birbirinden farklı sayılar yazar. Öğrencileri 4 gruba ayırır,
+dinamik matematik ve geometri aracı hakkında kısaca bilgilendirir. Görsel düzenleme araçlarından birini
+kullanarak Saklanan Sayıları Bul etkinliğini hazırlar. Bu etkinlikte 9, 12, 16, 23, 28, 37, 44 ve 64 sayılarının ilk 5
+katının bulunması istenir.
+4. Ders (Sınıf)
+Öğretmen, etkinlik hakkında öğrencileri bilgilendirerek derse başlar. Öğrenciler, dört farklı masada hazır-
+lanan etkinlikleri aşağıdaki gibi dönüşümlü olarak gerçekleştirir:
+• Birinci masada, kutunun içinde bulunan toplardan birini seçer ve seçtiği topun üzerinde yazan sayının
+çarpanlarını, dinamik matematik ve geometri aracındaki geometrik şekilleri kullanarak gösterir.
+• İkinci masada, öğretmenin hazırladığı Saklanan Sayıları Bul etkinliğini yapar ve buldukları cevapları not
+eder (Ek-4). Öğretmen, her gruptan kendilerinden önceki grupların bulduğu sayılardan farklı sayıların
+katlarını bulmalarını ister.
+• Üçüncü masada çarpanlar ve katlarla ilgili şiir yazar.
+• Dördüncü masada konu ile ilgili resim yapar.
+Her grup, bulunduğu masadaki etkinliği 5 dakika içinde yaptıktan sonra saatin dönme yönündeki diğer
+masaya geçer. Tüm gruplar masalardaki etkinlikleri tamamladıktan sonra etkinlik sonlandırılır. Öğretmen,
+birinci ve ikinci masadaki etkinlikleri etkileşimli tahtada açarak öğrencilerle birlikte cevaplandırır. Şiiri istekli
+öğrencilerden biri okur. Yine istekli öğrencilerden biri, şiiri yapay zekâ destekli araçlardan birini kullanarak
+şarkıya dönüştürür ve tüm sınıf şarkıyı dinler. Öğretmen, öğrencilerin dördüncü masada yaptıkları resmi
+sınıf panosuna asar ve dersi sonlandırır.
+Grup iletişimine katılmak, İş birliği, Matematiksel çözümler geliştirme, Matematiksel
+düşünme, Verileri düzenleme ve işleme, Yeni bilgiyi kullanma ve yapılandırma
+Ders Öncesi
+Öğretmen, öğrencileri 2-4 kişilik gruplara ayırır ve gruplardan konu ile ilgili açık uçlu birer problem yazma-
+larını ister. Gruplar yazdıkları problemi ve problemin çözümünü EBA’daki mesaj bölümünden öğretmenle-
+rine gönderir. Öğretmen, gönderilen problemleri ve çözümleri inceleyerek anlık geri bildirim sağlayan web
+araçlarından biri ile Kart Çevirme örnek etkinliğindeki gibi hazırlar (Ek-5).
+5. Ders (Sınıf)
+Öğretmen, öğrencilerin göndermiş olduğu sorulardan oluşan Kart Çevirme etkinliğini etkileşimli tahtada
+açar. Gruplardan ilk problemi cevaplamalarını ister. Tüm gruplar problemi cevapladıktan sonra öğrenci-
+lerin çözümü görmeleri için kartı çevirir ve doğru cevaplayan grupları tebrik eder.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+İstekli öğrencilerden birine söz hakkı vererek sorunun çözümünü açıklamasını ister. Soruyu farklı bir yöntemle
+çözen öğrencinin olup olmadığını sorar. Varsa istekli öğrenciden etkileşimli tahtada çözümünü açıklama-
+sını ister. Öğrencinin çözümü doğru ise öğrenciyi tebrik eder, yanlış ise neden yanlış olduğunu açıklar. Etkin-
+likteki tüm sorular ders sonuna kadar sırasıyla cevaplandırılır.
+
+LINKS:[["EBA Çarpanlar ve Katlar", "UJtuzp5"], ["EBA Çarpanlar ve Katlar", "yWRCdN"], ["EBA Bir Doğal Sayının Çarpanları ve Katları", "UJroCqj"], ["Çarpan ve Kat Çalışma Soruları", "I88VHg"], ["Öz Değerlendirme Formu", "dVul1r"], ["Saklanan Sayıları Bul", "nv8dMf"], ["Kart Çevirme", "a6291F"]]

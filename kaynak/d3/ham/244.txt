@@ -1,0 +1,131 @@
+## 6. Sinif/Matematik/Geometrik Sekiller - Dortgenlerin Sirri Kosegenlerde Sakli.pdf
+SURE:5 KOD:MAT.6.3.3.
+KAV:Dikdörtgen, Eşkenar dörtgen, Kare, Köşegen özellikleri, Paralelkenar
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, dinamik matematik ve geometri aracıyla hazırladığı Dörtgen Örnekleri içeriğini sınıf yönetimi
+aracını kullanarak öğrencilerle paylaşır. Öğrencilere bu dörtgenlerin tanımlanmasında hangi özelliklerin
+kullanılabileceğini sorar.
+1. Ders (Sınıf)
+Öğretmen, Dörtgen Örnekleri içeriğini etkileşimli beyaz tahtada açar ve öğrencilere “Bu dörtgenleri tanım-
+larken hangi özelliklerden söz edebiliriz?” sorusunu yöneltir. Karşılıklı kenarların paralel olması, karşılıklı kenar
+uzunluklarının eşit olması, karşılıklı iç açı ölçülerinin eşit olması, tüm kenar uzunluklarının eşit olması veya
+tüm iç açıların dik açı olması gibi yanıtlar vermeleri için öğrencileri yönlendirir. Öğrencilerden gelen yanıt-
+ları tahtaya yazar ve ardından “Peki, bu dörtgenleri tanımlamak için başka hangi özelliklerden söz edebi-
+liriz?” sorusuyla öğrencileri düşünmeye teşvik eder.
+Öğretmen, öğrencilerin dikkatini köşegenlere çeker. Öğrencilere dörtgenlerde kaç köşegen çizilebilece-
+ğini ve bu köşegenlerin kesiştiğinde hangi özellikleri gösterdiğini sorar. Öğrencilerden dinamik matematik
+ve geometri aracında yer alan dörtgenlerin köşegenlerini etkileşimli tahtada çizmelerini ister. Öğrenciler
+çizimleri üzerinden köşegenlerin birbirini ortalayıp ortalamadığını, uzunluklarının eşit olup olmadığını ve
+dik kesişip kesişmediklerini gözlemler. Öğretmen; öğrencilerin, uzunlukları eşit olan ve olmayan, dik kesişen
+ve kesişmeyen doğru parçaları olmak üzere dört farklı kategori oluşturabileceği sonucuna ulaşmalarına
+rehberlik eder.
+Dersin devamında öğrenciler, bu kategorilerden hangi tür dörtgenlerin ortaya çıkabileceğini tartışır. Örneğin
+birbirini ortalayan ve eşit uzunluktaki doğru parçalarının dikdörtgen veya kare, birbirini dik ortalayan doğru
+parçalarının eşkenar dörtgen veya kare oluşturabileceğini fark ederler. Böylece köşegen özelliklerinin de
+dörtgenleri tanımlamada kullanılabileceğini kendi çıkarımlarıyla keşfeder.
+Ders Sonrası
+Öğretmen, öğrencilerden anket oluşturmayı sağlayan web aracıyla hazırlanmış Yansıtma Çalışması üzerinde
+“Bugün köşegenlerle ilgili fark ettiğim şey ...” ifadesini tamamlayacak şekilde bir yansıtma cümlesi yazma-
+larını ister. Öğrencilerin yanıtlarını dijital ortamda toplar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, EBA’dan Birbirlerini Ortalayan Doğru Parçalarını Köşegen Kabul Eden Dörtgenler isimli videoyu
+paylaşır.
+2. Ders (BT Sınıfı)
+Dersin başında öğretmen, farklı bakış açılarını göstermek amacıyla öğrencilerin yazdığı yansıtma cümlele-
+rinden birkaç örneği etkileşimli tahtada gösterir. İsteyen öğrenciler kendi yansıtma cümlelerini sözel olarak
+sınıfla paylaşır. Ardından öğretmen, öğrencilerden dinamik matematik ve geometri aracıyla hazırlanan Eşit
+Uzunlukta Köşegenler ile Dörtgenler etkinliğini bilgisayarlarında açmalarını ister. Bu etkinlik, eşit uzunlukta
+ve birbirini ortalayan doğru parçalarının uç noktalarını köşe olarak kabul eden dörtgenleri oluşturmak için
+tasarlanmıştır.
+Öğrenciler, etkinlikteki açı ve uzunluk sürgülerini hareket ettirerek dörtgenlerin iç açı ölçülerini, kenar ve
+köşegen uzunluklarını inceler; gözlemlerini grafik ve tablolama aracıyla oluşturulan Eşit Uzunlukta ve Birbi-
+rini Ortalayan Köşegenler ile Oluşturulan Dörtgenler tablosuna kaydeder (Ek-1). Öğrenciler tablodaki veriler
+üzerinden, değişen değerler karşısında elde edilen dörtgenlere yönelik çıkarımlarda bulunur. Öğretmen,
+öğrencilerin özellikle köşegenlerin dik kesişmesi durumunda ortaya çıkan dörtgenin özelliklerini fark etmele-
+rine rehberlik eder.
+Öğrenciler, dinamik matematik ve geometri aracıyla hazırlanan Farklı Uzunlukta Köşegenler ile Dörtgenler
+etkinliğini açar. Aynı incelemeleri yapar ve elde ettikleri verileri grafik ve tablolama aracıyla oluşturulan Farklı
+Uzunlukta ve Birbirini Ortalayan Köşegenler ile Oluşturulan Dörtgenler tablosuna kaydeder (Ek-2).
+Öğrenciler, elde ettikleri ikinci tabloyu birinci tabloyla karşılaştırarak köşegen uzunluklarının eşit olup olmama-
+sının dörtgen özelliklerini nasıl değiştirdiğini tartışır. Sonuçlar sınıfça ele alınarak farklı köşegen uzunluk-
+larının ve kesişim açılarının, dörtgenlerin yapısında nasıl farklılıklara yol açtığı belirlenir. Öğretmen, doğru
+yönlendirmelerle öğrencilerin kare, dikdörtgen, eşkenar dörtgen ve paralelkenar gibi özel dörtgenlere yönelik
+çıkarımlar yapmalarına rehberlik eder.
+Ders Sonrası
+Gönüllü öğrenciler, yazdıkları yansıtma cümlelerini renkli kâğıtlara geçirerek sınıf panosuna asar. Böylece
+öğrencilerin düşüncelerini yansıtan ortak bir pano oluşur. Öğretmen, görsel düzenleme aracıyla hazırlanmış
+Gizemli Kelime etkinliğini dijital pano ya da post-it oluşturma aracını kullanarak paylaşır (Ek-3). Öğrenciler
+cevaplarını panoda paylaşır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencilerin Gizemli Kelime etkinliğindeki yanıtlarını değerlendirir ve derste tartışılacak nokta-
+ları hazırlar (Ek-3).
+3. Ders (Sınıf)
+Öğretmen, dersin başında Gizemli Kelime etkinliğindeki doğru–yanlış ifadelerini sınıfla birlikte değerlendirir
+(Ek-3). Öğrencilerden her bir ifadeye verdikleri cevapları gerekçelendirmelerini ister. Örneğin “Köşegenleri
+birbirini dik ortalayan tüm dörtgenler karedir.” ifadesinin neden yanlış olduğu eşkenar dörtgen örneğiyle
+tartışılır. Benzer şekilde “Birbirini dik ortalayan farklı uzunluktaki doğru parçaları eşkenar dörtgenin köşegen-
+lerini meydana getirir.” ifadesinde öğrencilerin yanılabileceği noktalar üzerinde durulur. Öğretmen, doğru
+cevapların birleşmesiyle ortaya çıkan gizemli kelimeyi tahtaya yazar. Böylece etkinliğin sonunda yer alan
+bilmece de çözülmüş olur.
+Öğretmen, dinamik matematik ve geometri aracıyla oluşturulmuş Birbirini Ortalayan Köşegenler etkinli-
+ğini etkileşimli beyaz tahtada açar. Öğrenciler, web aracındaki cetvel ve açıölçer yardımıyla köşegenlerin
+uzunluklarını ve kesişim açılarını ölçer. Ayrıca yazılımın hesaplama özelliğini kullanarak köşegenlerin kesişim
+noktası ile uç noktaları arasındaki uzaklıkları karşılaştırır ve köşegenlerin birbirini ortaladığını fark eder.
+Öğretmen, öğrencilerden etkinlikte verilen 12 farklı köşegen çiftinin uç noktalarını köşe kabul eden dörtgen-
+leri oluşturmalarını ister. Öğrenciler, her köşegen çiftiyle oluşturdukları dörtgenlere ait gözlemlerini defterle-
+rine kaydeder ve farklı köşegen özelliklerinin hangi dörtgenlere karşılık geldiğini sistemli bir biçimde gösterir.
+Daha sonra öğrenciler oluşturdukları dörtgenleri gerekçeleriyle açıklar. Öğretmen, bu açıklamalar üzerinden
+sınıfta bir tartışma ortamı oluşturur. Böylece öğrenciler, köşegen özellikleri yardımıyla dörtgenleri sınıflan-
+dırmayı deneyimler.
+Ders Sonrası
+Öğretmen, oyunlaştırılmış ölçme ve değerlendirme web aracıyla hazırlanmış Her Zaman-Bazen-Hiçbir Zaman
+değerlendirme sorularını sınıf yönetimi aracıyla paylaşır ve öğrencilerden etkinliği yapmalarını ister (Ek-4).
+Ders Öncesi
+Öğretmen, Her Zaman-Bazen-Hiçbir Zaman etkinliğindeki sorular üzerinden derste tartışılacak noktaları
+hazırlar ve öğrencileri ikili gruplara ayırır (Ek-4). EBA’daki Konuşan Eller videosunu öğrencilerle paylaşır ve
+dersten önce izlemelerini ister.
+4. Ders (Sınıf)
+Öğretmen, Her Zaman-Bazen-Hiçbir Zaman etkinliğindeki sorulara verilen cevapları öğrencilerle tartışarak
+derse başlar (Ek-4). Öğrencilerden birkaçına yanıtlarını gerekçeleriyle açıklatır; farklı görüşler olduğunda
+öğrencilerin birbirlerini dinlemesine ve fikirlerini savunmasına fırsat verir. Böylece köşegenlere ilişkin genel-
+lemeler gözden geçirilmiş olur.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğrenciler, ikili gruplar hâlinde “Bir Dörtgen Tut” oyununu oynar. Bu oyunda bir öğrenci kare, dikdörtgen,
+paralelkenar veya eşkenar dörtgenden birini seçerek aklında tutar. Diğer öğrenci ise “Köşegen uzunlukları
+eşit mi?”, “Köşegenler dik mi kesişiyor?”, “Karşılıklı kenar uzunlukları eşit mi?” gibi evet-hayır soruları sorarak
+arkadaşının aklındaki dörtgeni bulmaya çalışır. Daha sonra roller değiştirilir.
+Öğretmen, dersten önce paylaştığı video hakkında öğrencilerle konuşur. Sonrasında işaret dilinin sembolik
+yapısıyla matematik arasında bir bağlantı kurar. Matematiğin de tıpkı işaret dili gibi evrensel bir sembolik
+dil olduğunu, kullanılan sembollerin belirli anlamlar taşıdığını açıklar. Ardından öğrencilere “Konuşan Eller”
+oyununu oynayacaklarını söyler. Öğrenciler yine ikili gruplar oluşturur. Bir öğrenci konuşmadan yalnızca elleri
+veya parmaklarıyla bir özel dörtgeni sembolize eder, diğer öğrenci ise gösterilen işaretin hangi dörtgene
+karşılık geldiğini tahmin eder. Örneğin iki işaret parmağının dik kesişmesi kareyi, dik olmayan kesişmesi
+dikdörtgeni, farklı parmakların dik kesişmesi eşkenar dörtgeni, dik olmayan kesişmesi ise paralelkenarı temsil
+eder. Ardından roller değiştirilerek oyun sürdürülür. Böylece öğrenciler, köşegen özelliklerini sembolik bir dil
+aracılığıyla yeniden düşünme fırsatı bulur.
+Dersin sonunda öğretmen, bir sonraki derste köşegen özelliklerini kullanarak akış şemasıyla dörtgenleri
+sınıflandıracaklarını belirtir.
+Ders Sonrası
+Öğretmen, görsel düzenleme aracı ile hazırlanmış Dörtgenlerin Özellikleri isimli etkinliğin şablon bağlantısını
+EBA’dan paylaşır (Ek-5). Öğrenciler çalışmalarını EBA’dan gönderir. Öğretmen, EBA raporlar bölümünden
+çalışmanın takibini yapar ve Akış Şeması başlıklı etkileşimli EBA içeriğini de öğrencilere ders sonrası çalışma
+olarak verir.
+5. Ders (BT Sınıfı)
+Öğretmen, dersin başında öğrencileri 3-4 kişilik gruplara ayırarak öğrencilerden birbirini ortalayan köşegen-
+lerin uç noktalarını köşe kabul eden dörtgenleri sınıflandırmak için etkileşimli beyaz tahta aracını kullanarak
+bir Akış Şeması oluşturmalarını ister. Öğrenciler grup çalışması yaparak dijital ortamda akış şemalarını
+hazırlar. Öğretmen, öğrencilerin kullanacakları temel akış şeması ögelerini (başlangıç kutusu, karar nokta-
+ları, evet-hayır dallanmaları) kısaca hatırlatır ve kontrol listesi üzerinden onlara rehberlik eder (Ek-6).
+Gruplar, çalışmalarını tamamladıktan sonra sınıfta sunum yapar. Sunumların ardından her grup, oluştur-
+duğu akış şemasını grup değerlendirme yapmayı sağlayan web aracıyla hazırlanan Akış Şeması Kontrol
+Listesi ölçütlerine göre değerlendirir (Ek-6). Böylece öğrenciler hem kendi ürünlerinin güçlü ve geliştirilmesi
+gereken yönlerini görür hem de akış şeması hazırlama sürecine dair geri bildirim alır. Farklı grupların akış
+şemaları karşılaştırılarak hangi adımların ortak olduğu ve farklı adımların neden ortaya çıktığı sınıfça tartı-
+şılır. Öğrenciler, bu çalışmadan hareketle aynı problemi farklı yollarla çözmenin mümkün olduğunu fark eder
+ve köşegen özelliklerini sistematik bir biçimde kullanarak dörtgenleri sınıflandırmayı öğrenir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Dörtgen Örnekleri", "5OtA2m"], ["Yansıtma Çalışması", "yiMwCm"], ["EBA Birbirlerini Ortalayan Doğru Parçalarını Köşegen Kabul Eden Dörtgenler", "cMGWgi"], ["Eşit Uzunlukta Köşegenler ile Dörtgenler", "UK37XOv"], ["Eşit Uzunlukta ve Birbirini Ortalayan Köşegenler ile Oluşturulan Dörtgenler", "U5TNzG9"], ["Farklı Uzunlukta Köşegenler ile Dörtgenler", "lQPtuj"], ["Farklı Uzunlukta ve Birbirini Ortalayan Köşegenler ile Oluşturulan Dörtgenler", "Ul8KU9V"], ["Gizemli Kelime", "xTIMxa"], ["Birbirini Ortalayan Köşegenler", "UZmfSts"], ["Her Zaman-Bazen-Hiçbir Zaman", "5V4srY"], ["EBA Konuşan Eller", "RmRxGV"], ["Dörtgenlerin Özellikleri", "ImsL8u"], ["EBA Akış Şeması", "Ulu9Zif"], ["Akış Şeması", "U78NYCI"], ["Akış Şeması Kontrol Listesi", "U8Ktt1f"]]

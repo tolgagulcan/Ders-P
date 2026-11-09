@@ -1,0 +1,85 @@
+## 6. Sinif/Matematik/Geometrik Nicelikler - Ucurtma Senligi.pdf
+SURE:3 KOD:MAT.6.4.3.
+KAV:Alan, Dörtgen, Üçgen, Problem çözme
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, EBA’da yer alan Uçurtma Seven Arda dokümanını okumaları için öğrencilere gönderir. Öğretmen
+sınıf yönetimi aracının bağlantısını EBA’dan öğrencilere gönderir. Öğrencilerden uçurtmanın nasıl yapıla-
+cağına ilişkin araştırma yapmalarını ve elde ettikleri sonuçları sınıf yönetimi aracıyla paylaşmalarını ister.
+Öğrencileri 3-6 kişilik gruplara ayırır. Uçurtma Yapma Aşamaları Kontrol Listesi’nin grup sayısı kadar çıktısını
+alır (Ek-1). Sınıfın oturma düzenini öğrencilerin uçurtma etkinliğini rahatça yapabilecekleri şekilde ayarlar
+(örneğin küme düzeni). Öğrencilerden çıta, yapıştırıcı, cetvel, açıölçer, ip, makas, kurdele/kumaş parçası,
+çöp poşeti/gazete ve renkli kâğıt getirmelerini ister. Öğrencilerin getirdiği malzemeleri gruplara eşit olarak
+dağıtır. Uçurtma Şenliği Dereceli Puanlama Anahtarı’nın grup sayısı kadar çıktısını alır (Ek-2).
+1. Ders (Sınıf)
+Öğretmen, Uçurtma Seven Arda dokümanı hakkında kısaca açıklama yapar ve öğrencilere içerikle ilgili
+sorularının olup olmadığını sorar. Öğrencilerin soruları varsa cevaplar. Öğretmen “Çocuklar, bugün sizlerle
+uçurtma yapacağız. Sizce uçurtma yaparken hangi çokgenleri kullanabiliriz?” diye sorar. İstekli öğrenci-
+lerin cevaplarını dinler. Her gruba birer adet Uçurtma Yapma Aşamaları Kontrol Listesi ve Uçurtma Şenliği
+Dereceli Puanlama Anahtarı verir (Ek-1 ve Ek-2). Gruplardan Uçurtma Şenliği Dereceli Puanlama Anahta-
+rı’nı incelemelerini ve bir grup ismi belirleyerek bu ismi puanlama anahtarının üzerine yazmalarını ister.
+Gruplara uçurtmanın şekli hakkında ortak karar vermelerini ve Uçurtma Yapma Aşamaları Kontrol Liste-
+si’nde yer alan maddeleri takip ederek uçurtmalarını yapmalarını söyler. Makas kullanımıyla ilgili gerekli
+önlemleri alır. Öğrenciler uçurtmalarını yaparken gruplardan topladığı Uçurtma Şenliği Dereceli Puanlama
+Anahtarı’nın 1 ve 2. kriterlerini doldurur. Öğrencilere uçurtmalarını tamamlayınca okul bahçesinde uçura-
+bileceklerini belirtir.
+Ders Öncesi
+Öğretmen, grupların yaptıkları uçurtmaların görsellerini kullanarak iş birlikli çalışmayı destekleyen araçlardan
+biri ile Geometrik Şekiller etkinliğini oluşturur. Öğrencileri 2-5 kişilik gruplara ayırır, dinamik matematik ve
+geometri araçları ile hazırlanan Tanıtım etkinliği hakkında kısaca bilgilendirir.
+2. Ders (BT Sınıfı)
+Öğretmen, iş birlikli çalışmayı destekleyen araçlardan biri ile hazırladığı Geometrik Şekiller etkinliğinin
+bağlantısını öğrencilerle paylaşır. Etkinlikteki şekillerin, bir önceki derste yapılan uçurtmalardaki geometrik
+şekiller olduğunu belirtir. Öğrencilerle birlikte bu şekilleri inceler. İnceleme tamamlandıktan sonra öğretmen,
+“Çocuklar, bu şekilleri oluşturmak için Tanıtım etkinliğindeki gibi hangi dörtgenleri ve üçgenleri kullanabi-
+liriz? Bulduğunuz sonuçların ekran görüntüsünü alın ve sizinle paylaştığım bağlantıdaki ilgili çokgen şeklinin
+altına yorum olarak ekleyin.” der. Gruplar çizimlerini tamamladıktan sonra tüm gruplara sırayla söz hakkı
+verir. Her şekil için istekli öğrencilerden birini etkileşimli tahtaya kaldırır ve bulduğu sonucu göstermesini
+ister. Ayrıca oluşturdukları dörtgen ve üçgenlerin köşe noktalarının, uçurtmayı oluşturan geometrik şeklin
+köşe noktalarıyla aynı olması gerektiğini belirtir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Tüm çalışmalar tamamlandıktan sonra etkileşimli tahtada etkinliği açar ve öğrencilerle birlikte yorumları
+inceler. Öğrencilere farklı fikirleri olup olmadığını sorar ve istekli öğrencilere söz hakkı verir. Tüm cevapları
+dinledikten sonra Geometrik Şekiller Cevap Anahtarı içeriğini etkileşimli tahtada açarak öğrencilerle birlikte
+cevapları karşılaştırır. Eksik görsel varsa istekli öğrencilerin birinden görseli içeriğe eklemesini ister, eksiklik
+yoksa tüm öğrencileri tebrik eder.
+Öğretmen “Sevgili çocuklar, tüm geometrik şekilleri incelediğimize göre şimdi dörtgen ve üçgenlerimizin alanını
+hesaplayarak uçurtmaların alanlarını bulalım.” der. Ardından önceki derslerde öğrenilen dörtgen ve üçgen-
+lerin alanlarına ilişkin bilgileri kısaca hatırlatır. Uçurtmaların alanlarını hesaplarken gruplara rehberlik eder.
+Tüm gruplar etkinliği tamamladıktan sonra istekli öğrenciler soruları sırasıyla etkileşimli tahtada cevaplar.
+Öğretmen, her cevaptan sonra gruplara “Soruyu farklı bir yoldan çözebilir miydik?” sorusunu sorar ve görüş
+bildirmek isteyen öğrencilere söz hakkı verir. Ardından verilen cevabı sınıfa yönelterek “Sizce arkadaşınızın
+söylediği çözüm yolu doğru mu?” der. Böylece öğrencilerin eleştirel düşünme becerilerini geliştirir. İstekli
+tüm öğrencileri dinledikten sonra doğru cevabı açıklar. Etkinlik ders sonuna kadar devam eder. Öğretmen,
+Uçurtma Şenliği Dereceli Puanlama Anahtarı’ndaki kalan bölümleri doldurarak grupların puanlarını belirler
+ve en yüksek puanı alan grubu tebrik eder (Ek-2).
+Tartışma, Sorgulama, Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve
+açılarını anlamak, Çözümleme, Matematiksel araç ve teknolojiden yararlanma
+Ders Öncesi
+Öğretmen, EBA’da yer alan Alan Problemleri etkileşimli içeriğini öğrencilerle paylaşır. Öğrencilerden içerikte yer
+alan soruları cevaplamalarını ve çözümleri incelemelerini ister. Çoktan seçmeli sorular hazırlamayı sağlayan
+web araçlarından birini kullanarak EBA’da yer alan soruları içeren Alıştırma Soruları etkinliğini hazırlar (Ek-3).
+3. Ders (Sınıf)
+Öğretmen, öğrencilere Alan Problemleri etkileşimli içeriğindeki sorularla ilgili herhangi bir soruları olup
+olmadığını sorar ve soruları varsa cevaplar. Çoktan seçmeli sorular hazırlamayı sağlayan web aracı ile
+hazırladığı Alıştırma Soruları etkinliğindeki soruları sırasıyla etkileşimli tahtada açar (Ek-3). Öğrencilerden
+soruları cevaplamalarını ve cevaplarını sözlü olarak paylaşmalarını ister. Öğrenciler cevaplarını söyledikten
+sonra doğru cevabı söyler ve istekli öğrencilerden birini etkileşimli tahtaya kaldırarak soruyu çözmesini ister.
+Etkinlik ders sonuna kadar devam eder.
+Ders Sonrası
+Alıştırma Soruları etkinliğiMatematiksel
+ders sonunadoğrulama veya ispat yapma,
+kadar tamamlanamazsa Matematiksel
+öğretmen, temsillerden
+etkinliğin yararlanma,
+bağlantısını EBA’dan
+Matematikseletkinliği
+öğrencilerle paylaşır ve öğrencilerden temsilleri
+dersdeğerlendirme, Matematiksel çözümler
+süresi dışında tamamlamalarını ister. geliştirme,
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital bilgi üzerinden
+çıkarım yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["EBA Uçurtma Seven Arda", "8BUzMR"], ["Geometrik Şekiller", "bPtodn"], ["Tanıtım", "0pfPEs"], ["Geometrik Şekiller Cevap Anahtarı", "UTy0Msq"], ["EBA Alan Problemleri", "ljqn2W"], ["Alıştırma Soruları", "2tSGag"]]

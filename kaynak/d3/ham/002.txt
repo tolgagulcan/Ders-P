@@ -1,0 +1,263 @@
+## 8. Sinif/Matematik/Cebir - Dunyayi Degistiren Denklemler.pdf
+SURE:4 KOD:M.8.2.2.1.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilere denklemler konusunu öğreneceklerini ve yedinci sınıfta işlenen denklem konusundan
+farklı olarak rasyonel ifadeleri kullanacaklarını söyler. Yedinci sınıfta öğrenilen Birinci Dereceden Bir
+Bilinmeyenli Denklemler başlıklı içeriği EBA’dan öğrencilere çalışma olarak göndererek konuyla ilgili
+kuralları hatırlatır. Ders sırasında grup çalışması yapılacağı bilgisini vererek öğrencileri öngördüğü
+sisteme göre (sınıf listesi, oturma düzeni, küme düzeni gibi) dörder kişilik gruplara ayırır. Ders işlenişinde
+kullanılacak web araçlarının kısa bir tanıtımını yapar. Tüm derslerin sonunda süreci gözlem formu ile
+değerlendireceğini belirtir ve değerlendirme kriterleri ile ilgili bilgi verir (Ek-1).
+Ders 1 (Sınıf)
+Öğretmen öğrencilere aşağıdaki soruları sorarak derse başlar:
+• Sizce denklemler günlük hayatta nerelerde kullanılır?
+• Denklemler ne işimize yarar? Örneklerle açıklayınız.
+• Denklemler hangi meslekler tarafından kullanılır?
+Sınıftaki etkileşimli tahtadan kelime bulutu oluşturma aracını açar. Öğrenciler söz alarak fikirlerini
+belirtir. Öğrencilerden gelen cevaplarla denklemler konusunu özetleyen bir kelime bulutu oluşturur ve
+bunu kaydeder. Ardından öğrencilerin cevaplarından hareketle denklemlerin kullanım alanlarından
+söz ederek konuya giriş yapar. Uçakların uçması için elektromanyetik denklemlerinin; Ay’a seyahat
+için kütle çekim denkleminin; dünyanın yapısı, hareketleri ve zamanla ilgili araştırma yapmak için de
+görelilik denkleminin kullanıldığını vurgular. Günlük hayatı kolaylaştıran teknolojik gelişmelerin temelinde
+matematiksel denklemlerin olduğunu söyler. Arabaların ve teknolojik eşyaların tasarımında kullanılan
+yazılımların denklemler yardımıyla üretildiği bilgisini verir. Öğretmen bu örnekleri sıralarken öğrencilerin
+konuya olan merakını artırmayı amaçlar.
+Öğretmen, EBA’dan sekizinci sınıf Birinci Dereceden Bir Bilinmeyenli Denklemler başlıklı içeriği açar. Ders
+öncesi gönderilen denklemler konusunda değişken katsayısı tamsayı iken yeni öğrenilen denklemler
+konusunda katsayı rasyoneldir. Öğrenciler defterlerine önce katsayısı tamsayı olan bir denklem yazar.
+Sonra aynı denklemi, katsayısını rasyonel sayıya dönüştürerek yazar ve aradaki farkı keşfeder. Öğretmen,
+sekizinci sınıftaki denklemler konusunun yedinci sınıfta öğrenilen konudan farkının katsayılarla ilgili
+olduğunu vurgular.
+İlgili Yetkinlikler/Beceriler: İlişkilendirme, Matematiksel süreç becerileri, Dijital yeterlilik
+Ders 2 (BT Sınıfı)
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web araçlarını kullanarak oluşturduğu Soru
+Avı etkinliğini öğrencilere yaptırarak derse başlar (Ek-2). Bu etkinlikle öğrencilerin konuya olan merakını
+artırmayı hedefler. Daha sonra EBA’dan Alıştırmalar-Birinci Dereceden Bir Bilinmeyenli Denklemler başlıklı
+konu alıştırmalarını ve Birinci Dereceden Bir Bilinmeyenli Denklemler konusunun alt konu testini açarak
+öğrencilerle çözer. Bir önceki derste denklemlerin kullanım alanlarına yönelik fikirlerin kaydedildiği kelime
+bulutu oluşturma aracını açar ve öğrenilen bilgiler doğrultusunda güncelleme yapar. Konuyu öğrenmeden
+önce ve öğrendikten sonra öğrencilerdeki fikir değişikliklerini gözlemler.
+Ders Sonrası
+Öğretmen, öğrencilere denklemlerin kullanım alanlarıyla ilgili araştırma ödevi verir. Ödevin grup
+çalışmasıyla yapılacağını söyler. Gruplardan poster ve afiş oluşturma araçları kullanarak bir adet poster
+hazırlamalarını ister. Hazırlanacak posterlerin tek sayfalık A4 boyutlarında olmasını ve posterde dört farklı
+kullanım alanını gösteren dört görsel ile bu görsellerin yanında üç ya da dört cümlelik açıklamaların
+yer almasını ister. Gruplar, hazırlanan posterleri dijital pano ya da post-it oluşturma araçları kullanarak
+öğretmene gönderir.
+İlgili Yetkinlikler/Beceriler: Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler, Akıl yürütme
+Ders 3 (BT Sınıfı)
+Bu derste öğretmen, katsayısı rasyonel olan birinci dereceden bir bilinmeyenli denklem cümleleri yazmak
+üzere grupları görevlendirir. Bu görev için hazırladığı uygulama tablosunu gruplara gönderir (Ek-3). Bu
+görevde her bir grup dört tane denklem cümlesini uygulama tablosuna yazar. Öğretmen, yazılan tüm
+denklem cümlelerinin hangi gruba ait olduğunu dijital pano ya da post-it oluşturma aracını kullanarak
+not eder (Örneğin 1, 2, 3, … gibi bir grup sıralaması yapılabilir.). Gruplar, kendi yazdığı denklem cümlelerine
+uygun olarak kurdukları denklemleri dijital pano ya da post-it oluşturma araçları kullanarak uygulama
+tablosuna eklemek üzere gönderir. Bu aşamadan sonra öğretmen, tablodaki kontrol alanını doldurur.
+Öğretmen eksik ve yanlış kurulan denklemlerle ilgili geri bildirimler verir. Gruplar kurdukları denklemlerden
+oluşan tabloyu analiz eder. Öğrenciler, öğretmenin verdiği geri bildirimlere göre eksik ya da yanlış olarak
+değerlendirilen denklemleri düzenler.
+İlgili Yetkinlikler/Beceriler: Dijital yeterlilik, Matematiksel süreç becerileri, İlişkilendirme
+Ders 4 (BT Sınıfı)
+Öğretmen, gruplara kurdukları denklemleri çözmeleri için dijital pano ya da post-it oluşturma aracını
+kullanarak uygulama tablosunu tekrar gönderir (Ek-3). Gruplara denklemleri çözmeleri için yirmi dakika
+süre verir. Öğretmen, tablodaki ilgili kontrol kısmını kullanarak yapılan çözümlerle ilgili geri bildirimler verir.
+Bu geri bildirimlere göre denklemlerin düzenlenmesini ister. Gruplar; uygulama tablosunu kullanarak
+denklem cümlesi yazma, bu cümlelere uygun denklem kurma ve denklemleri çözme adımlarını öğretmenin
+geri bildirimleri doğrultusunda yapar. Dersin son on dakikasında öğrenciler, grup değerlendirme
+yapmayı sağlayan web araçlarını kullanarak grup çalışmasında yer alan arkadaşlarını değerlendirir
+(Ek-4). Ardından öğretmen, gözlem formunu doldurarak süreci bitirir ve ders sonrası çalışma verme
+aşamasına geçer (Ek-1).
+Ders Sonrası
+Süreç sonunda öğretmen öğrencilere EBA’dan Birinci Dereceden Bir Bilinmeyenli Denklemler adlı öğretmene
+özel alıştırmayı ve Birinci Dereceden Bir Bilinmeyenli Denklemler alt konu testini bir hafta içinde tamamlama
+koşuluyla çalışma olarak gönderir. Çalışmaların kontrolünü EBA raporlar bölümünden yapar.
+İlgili Yetkinlikler/Beceriler: Dijital yeterlilik, Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler,
+Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + öğretmene özel alıştırma
+• EBA + alt konu testleri
+• Grup değerlendirme yapmayı sağlayan web araçları
+• Çoktan seçmeli sorular hazırlamayı sağlayan web araçları
+• Öğretmen gözlem formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Birinci Dereceden Bir Bilinmeyenli Denklemler: http://meb.ai/1pb5Qn (Son erişim tarihi: 25.05.2024)
+2. EBA Birinci Dereceden Bir Bilinmeyenli Denklemler: http://meb.ai/UIHXn4U (Son erişim tarihi: 25.05.2024)
+3. Dünyayı Değiştiren Denklemler-Soru Avı: https://meb.ai/lRVbOf (Son erişim tarihi: 26.11.2024)
+4. EBA Alıştırmalar-Birinci Dereceden Bir Bilinmeyenli Denklemler: http://meb.ai/bemaju (Son erişim
+tarihi: 25.05.2024)
+5. EBA Alt Konu Testi Birinci Dereceden Bir Bilinmeyenli Denklemler: http://meb.ai/UbG0BZn (Son erişim
+tarihi: 25.05.2024)
+6. EBA Öğretmene Özel Alıştırma-Birinci Dereceden Bir Bilinmeyenli Denklemler: http://meb.ai/dS25aJ
+(Son erişim tarihi: 25.05.2024)
+7. EBA Alt Konu Testi-Birinci Dereceden Bir Bilinmeyenli Denklemler: http://meb.ai/UzERLJp (Son erişim
+tarihi: 25.05.2024)
+Kaynakça
+Guillen, M. (2020). Dünyayı değiştiren beş denklem. Nemesis Kitap.
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve
+Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Quizziz. (2024). Dünyayı değiştiren denklemler-soru avı. Son erişim tarihi 26 Kasım 2024, https://quizizz.
+com/admin/quiz/67450391f4d25687014d2065
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Öğretmen Gözlem Formu
+Ek-2: Dünyayı Değiştiren Denklemler-Soru Avı
+Ek-3: Dünyayı Değiştiren Denklemler Uygulama Tablosu
+Ek-4: Grup Değerlendirme Formu (Öğrenci İçin)
+Ek-1
+Öğretmen Gözlem Formu
+Bu form, öğretmenin öğrencilerin öğrenme süreçlerine ilişkin gözlem değerlendirmesi yapması için hazırlanmıştır. Her bir kriter için belirlenen derecelerden uygun olanın
+işaretlenmesi gerekmektedir. DERECELER: Geliştirilebilir (1), Yeterli (2), Çok İyi (3)
+KRİTERLER
+Öğrenme sürecinde TOPLAM PUAN
+Uygulama sürecinde Verilen görevlerde
+NO. ADI SOYADI Grup çalışmasına teknolojiyi kazanım Konu kazanımlarını
+web araçlarının zamanı etkin
+aktif katılım durumu amaçlarına uygun kavrama düzeyi
+kullanımı kullanma
+kullanma
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Dünyayı Değiştiren Denklemler
+Ek-2
+Dünyayı Değiştiren Denklemler-Soru Avı
+Aşağıdaki soruları okuyarak doğru olduğunu düşündüğünüz seçeneği işaretleyiniz.
+1. Hazine Avcısı: Bir hazinenin yeri şu denklemle verilmiştir: 3x+5=20.
+Hazineye ulaşmak için x’in değeri aşağıdakilerden hangisi olmalıdır?
+A) 5
+B) 10
+C) 15
+D) 20
+2. Cep Telefonu: Ali’nin cep telefonunda x tane oyun vardır. Ayşe’nin ise
+Ali’nin oyun sayısının 2 katı kadar oyunu vardır.
+İkisinin toplam oyun sayısı 21 ise Ali’nin kaç oyunu vardır?
+A) 11
+B) 9
+C) 7
+D) 5
+3. Yaş Bulmaca: Babamın yaşı benim yaşımın 3 katından 5 eksiktir.
+Toplam yaşımız 55 olduğuna göre ben kaç yaşındayım?
+A) 12
+B) 15
+C) 18
+D) 20
+4. Meyve Suyu: Bir marketten x TL’ye alınan meyve suyu iki gün sonra %20
+zamlanıyor.
+Zamlı fiyat y TL olduğuna göre y’yi x cinsinden aşağıdakilerden
+hangisindeki gibi ifade edebiliriz?
+A) y = x+20
+B) y = 0,8x
+C) y = x-20
+D) y = 1,2x
+Ek-2
+5. Asansör: Bir asansörde x kişi vardır.
+Asansörden 5 kişi indikten sonra asansörde kalan kişi sayısı 8 ise x kaçtır?
+A) 3
+B) 5
+C) 10
+D) 13
+6. Kitaplık: Bir kitaplıkta x tane matematik kitabı, matematik kitaplarının 2 katı
+kadar Türkçe kitabı vardır.
+Toplam kitap sayısı 45 olduğuna göre Türkçe kitabı sayısı kaçtır?
+A) 15
+B) 20
+C) 30
+D) 35
+7. Bisiklet Yarışı: Bir bisiklet yarışında Ali saatte x kilometre yol almaktadır.
+Ali 4 saatte 60 kilometre yol aldığına göre x kaçtır?
+A) 12
+B) 15
+C) 18
+D) 20
+8. Yaş Problemi: Ali’nin yaşı 4 yıl önce Mehmet’in yaşının yarısı kadardı.
+Ali’nin şu anki yaşı 14 olduğuna göre Mehmet’in şu anki yaşı kaçtır?
+A) 18
+B) 20
+C) 22
+D) 24
+Ek-2
+9. Bir sayının 1 ‘ü 5 olduğuna göre bu sayı kaçtır?
+3
+A) 10
+B) 15
+C) 20
+D) 25
+(2x-1)
+10. =5 denklemini sağlayan x değeri kaçtır?
+3
+A) 8
+B) 9
+C) 10
+D) 11
+Ek-3
+Dünyayı Değiştiren Denklemler Uygulama Tablosu
+Aşağıdaki tabloya denklem cümleleri yazınız. Bu cümlelere uygun denklem kurup bu denklemleri uygun yöntemlerle çözünüz.
+Grup Adı:
+Öğretmen Kontrol Alanı
+Denklem Cümleleri Denklem Kurma (1) Denklem Çözme (2)
+(1) (2)
+1.
+2.
+3.
+4.
+Öğretmen İçin Açıklama: Yazılan cümleye uygun denklem kurulmuşsa öğretmen ilk hücreye (1) “Evet”, kurulmamışsa “Hayır” yazmalıdır. Denklem çözümü
+doğru yapılmışsa öğretmen ikinci hücreye (2) “Evet”, yapılmamışsa “Hayır” yazmalıdır.
+Dünyayı Değiştiren Denklemler
+Ek-4
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, yapılan uygulamada grup arkadaşlarınızın gösterdiği performansı belirlemek amacıyla hazırlanmıştır. Arkadaşlarınız hakkındaki görüşlerinizi
+“Evet” ise E, “Bazen” ise B, “Hayır” ise H yazarak belirtiniz.
+Değerlendirme Yapan Öğrencinin Adı Soyadı:
+Grup Adı:
+Tarih:
+1. Grup Üyesi 2. Grup Üyesi 3. Grup Üyesi 4. Grup Üyesi
+KRİTERLER
+................... ................... ................... ...................
+Grup üyelerine çalışmalarında yardım etti.
+Arkadaşlarının düşüncelerine saygı gösterdi.
+Sorumluluklarını yerine getirmek için çaba sarf etti.
+Uygulama faaliyetlerine özgün fikirler sunarak katıldı.
+Sizce grubunuzun ön plana çıkan özellikleri nelerdi?
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Sizce grup çalışmanızı daha iyi hâle getirmek için neler yapılabilir?
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Eklemek istediklerim
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Dünyayı Değiştiren Denklemler
+Cevap Anahtarı
+Ek-2
+SORU CEVAPLAR
+Dünyayı Değiştiren Denklemle
+LINKS:[["EBA Birinci Dereceden Bir Bilinmeyenli Denklemler", "1pb5Qn"], ["EBA Birinci Dereceden Bir Bilinmeyenli Denklemler", "UIHXn4U"], ["Dünyayı Değiştiren Denklemler-Soru Avı", "lRVbOf"], ["EBA Alıştırmalar-Birinci Dereceden Bir Bilinmeyenli Denklemler", "bemaju"], ["EBA Alt Konu Testi Birinci Dereceden Bir Bilinmeyenli Denklemler", "UbG0BZn"], ["EBA Öğretmene Özel Alıştırma-Birinci Dereceden Bir Bilinmeyenli Denklemler", "dS25aJ"], ["EBA Alt Konu Testi-Birinci Dereceden Bir Bilinmeyenli Denklemler", "UzERLJp"]]

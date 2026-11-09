@@ -1,0 +1,46 @@
+## 5. Sinif/Turkce/Iletisim ve Sosyal Iliskiler - Iletisimle Buyuyen Hayaller.pdf
+SURE:3 KOD:T.O.5.9. T.Y.5.16. T.Y.5.21.
+KAV:İletişim, Çıkarım yapma, Problem çözme, Derin anlam
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, dersin girişinde dikkat çekmek amacıyla tahtaya “Biri gölet yapmak, diğeri şehir kurmak
+isteyen iki kişi birbirine nasıl destek olabilir?” sorusunu sorar. Öğrenci cevaplarını etkileşimli tahtaya yazan
+öğretmen, iletişim ve sosyal ilişkiler konularında sınıfta tartışma oluşturur. Bu etkinliğin ardından EBA’da
+yer alan Robot Muncuk adlı hikâye kitabını açan öğretmen, örnek okuma kapsamında metni 5. sayfadan
+başlayarak 9. sayfanın sonuna kadar önce kendi okur, ardından öğrencilerine okutur. Metnin anlaşıldı-
+ğından emin olduktan sonra öğretmen, etkileşimli beyaz tahta araçlarıyla hazırlanmış İpucu, Çıkarım, Kanıt
+etkinliğini etkileşimli tahtadan açar (Ek-1). Öğretmen, öğrencilerinden içerikte verilen örnekteki gibi ipuçla-
+rını belirlemelerini, bu ipuçlarından çıkarım yapmalarını ve çıkarımlarını kanıtlarla desteklemelerini ister.
+Öğrenciler örnekteki cümleleri doğru ilişkilendirerek defterine yazar. Öğretmen, öğrenci cevaplarını kontrol
+ederek dersi tamamlar.
+Ders Sonrası
+Öğretmen, öğrencilerinin metnin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilmelerine
+yönelik EBA’da yer alan Metni Anlama ve İnceleme-Küresel Isınma-Alıştırma içeriğini ders sonrası çalış-
+malar kapsamında öğrencilerine yönlendirir.
+2. Ders (Sınıf)
+Öğretmen, bu derste öğrencilerinin problem çözümüne yönelik yazabilme becerilerini harekete geçirmek
+amacıyla Robot Muncuk adlı metinden yola çıkarak tahtaya “Denizhan bir gölet kazmak, Dağhan ise bir
+şehir kurmak istiyor. Ancak sadece bir proje yapacak zamanları var.” cümlesini yazar. Bunun bir problem
+durumu olduğunu belirten öğretmen öğrencilerini 4-6 kişilik gruplara ayırır ve problemin tanımı, problemin
+özeti, alternatif çözümler, en uygun çözümü belirleme, çözümü ve çözüm sonrasını değerlendirme olmak
+üzere beş aşamalı bir yazı hazırlamalarını ve beyin fırtınası yapmayı sağlayan web aracı ile paylaşma-
+larını gruplardan ister. Hazırlanan yazıların dereceli puanlama anahtarı ile değerlendirileceğini belirten
+öğretmen, ders bitimine kadar öğrencilerine rehberlik eder ve tamamlanan yazıların sınıfla paylaşılma-
+sını sağlar (Ek-2).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+3. Ders (Sınıf)
+Öğretmen, üzerinde “Dur, Kes, Açıkla, Cevapla, Durakla” gibi ifadelerin yazılı olduğu kartlarla derse girer.
+Elindeki kartlarda yazılan ifadelerin cümle içinde neleri temsil edebileceğini sorarak öğrencilerin dikka-
+tini derse çeker. Öğrenci cevaplarını noktalama işaretlerine yönlendiren öğretmen, bu derste noktalama
+işaretleri üzerine çalışacaklarını belirtir. EBA’da yer alan Noktalama İşaretleri: Nokta, Virgül ve İki Nokta içeri-
+ğini etkileşimli tahtadan öğrencilerine sunar. Öğrencileriyle nokta, virgül ve iki noktanın kullanım alanları
+üzerine çalışmalar yapan öğretmen, öğrencilerini üç gruba ayırır ve her gruba bir noktalama işareti verip
+onlardan bireysel olarak ilgili noktalama işaretin tanıtan ve iki dörtlükten oluşan bir şiir yazmalarını ister. Bu
+çalışma için yeterli süreyi tanıyan öğretmen, süre sonunda gönüllü öğrencilerden yazdıkları şiirleri sınıfla
+paylaşmasını ister ve sınıfta oylama yaparak en güzel şiiri seçer. Seçilen şiiri yapay zekâ destekli araçları
+kullanarak bir şarkıya dönüştürür ve dersi bu çalışma ile tamamlar.
+Ders Sonrası Çalışmalar
+Öğretmen, bir sonraki derste sayıların yazımı ile ilgili konuyu ele alacaklarını belirterek derse gelmeden
+önce izlemeleri için EBA’daki Sayıların Yazımı adlı içeriği öğrencilerine yönlendirir.
+
+LINKS:[["EBA Robot Muncuk", "qJzZ5w"], ["İpucu, Çıkarım, Kanıt", "ITT12v"], ["EBA Metni Anlama ve İnceleme-Küresel Isınma-Alıştırma", "TJpOIA"], ["EBA Noktalama İşaretleri: Nokta, Virgül ve İki Nokta", "W2L5Nv"], ["EBA Sayıların Yazımı", "5yXg39"]]

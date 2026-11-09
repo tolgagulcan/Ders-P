@@ -1,0 +1,39 @@
+## Turkce Dil Kursu/Diger/Sinifimiz - Sayilari Ogreniyorum.pdf
+SURE:3 KOD:
+KAV:Sayı, Kardeş sayısı, Görsel okuma
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, sınıfa girer ve dikkat çekme amacıyla en öndeki öğrenciden başlayarak sınıftaki öğrencileri tek
+tek sesli bir şekilde sayar. Ardından, EBA’da yer alan Sayılar şarkısını etkileşimli tahtadan açar ve öğrencilere
+dinletir. Şarkıyı birkaç kez dinlettikten sonra öğrencilerin şarkıya eşlik etmesini sağlar. Videoyu tekrar açar
+ve şarkının ortasında videoyu durdurarak şarkıdaki sorulara öğrencilerin cevap vermesini sağlar. Öğren-
+cilerin cevaplarına dönütler verir. Bu çalışmanın ardından görsel düzenleme web araçlarıyla oluşturulan
+ve 1’den 20’ye kadar sayıların yazılı olduğu Boyayalım etkinliğinin çıktısını alarak öğrencilere dağıtır (Ek-1).
+Öğrencilerden, önce sayıları farklı renklerle boyamalarını ardından makasla her sayıyı ayrı ayrı kesmele-
+rini ister. Dersi bu etkinlikle tamamlar.
+Başkalarını etkin şekilde dinlemek, Sayma, Seçme
+2. Ders (Sınıf)
+Öğretmen, sınıfa girince üzerinde 5 rakamının yazılı olduğu sayı kartını tahtaya asar ve “Benim ismim ............
+bir öğrenciye “Senin ismin ne? Kaç kardeşin var? Kardeşlerinle neler yapmayı seversin?” sorularını yöneltir.
+Öğrencinin bu sorulara cevap vermesini sağlar. Soruya cevap veren öğrenci, bir önceki derste boyayıp
+kestiği sayı kartlarından kardeşlerinin sayısına ait olanı tahtaya asar ve bu uygulama tüm öğrencilerin
+katılımıyla devam eder.
+Öğretmen, eşleştirme yapabilmeyi sağlayan web aracıyla hazırlanan, 1-10 ve 11-20 arası sayıların yer aldığı
+Eşleştirelim (1-10) ve Eşleştirelim (11-20) etkinliklerini sırayla etkileşimli tahtadan açar ve gönüllü öğrenci-
+lerden başlayarak tüm öğrencilerin etkileşimli tahtada bu etkinlikleri yapmalarını sağlar. Etkinliklerdeki soru
+işaretlerinin yerine hangi sayının geleceğini öğrencilerden tahmin etmelerini ister ve öğrencilerin cevap-
+larını alır. Her iki sürükle bırak etkinliği de tüm öğrencilerin katılımı sağlanıncaya kadar devam eder.
+Seçme, Dijital araçlarla iş görme
+3. Ders (Sınıf)
+Öğretmen, derse gelirken getirdiği 20 (yirmi) adet A4 kâğıdının her birini iki bölüme ayırır. Sayfanın üst
+tarafındaki bölüme 1’den 20’ye kadar bir sayı yazar. Kâğıtları karıştırır ve öğrencilere rastgele dağıtır. Öğren-
+cilerden kâğıdın üst bölümünde yazan sayı kadar kâğıdın alt bölümüne elma çizmelerini ister ve onlara
+belli bir süre verir. Süre bitiminde akran değerlendirmesi yapmak için her öğrencinin yanındaki öğrenciyle
+kâğıdını değiştirmesini sağlar. Arkadaşının kâğıdını alan öğrenci, üst kısımdaki sayı ile alt kısma çizilen
+elma sayılarının doğru olup olmadığını kontrol eder. Bu süreçte akran değerlendirmesi sözlü olarak yapılır.
+Öğretmen, değerlendirme sürecine rehberlik eder ve sonuçlar üzerinden öğrencilerine dönütler vererek
+dersi tamamlar.
+Bulma, Sözlü ya da sözsüz olarak etkileşim sağlamak, Kendine güvenme (öz güven)
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["EBA Sayılar", "VQXkAw"], ["Boyayalım", "ZP99Es"], ["Eşleştirelim (1-10)", "UwjRbQB"], ["Eşleştirelim (11-20)", "gyZuL8"]]

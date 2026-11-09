@@ -1,0 +1,45 @@
+## 5. Sinif/Turkce/Duygularimi Taniyorum - Duygularin Izinde.pdf
+SURE:3 KOD:T.D.5.7. T.D.5.16. T.O.5.20.
+KAV:Duygu, Duyguları tanımak, Söz sanatları
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, görsel düzenleme araçları ile hazırlanan Duygu Kartlarından öğrenci sayısı kadar çoğaltır.
+1. Ders (Sınıf)
+Öğretmen, dersin başında hazırladığı kartları öğrencilere dağıtır ve boşlukları doldurmalarını ister. Öğrenci-
+lere kartları doldurmaları için iki dakikalık bir süre tanır. Ardından rastgele belirlediği öğrencilerden kartlara
+yazdıklarını okumalarını ister. Böylece öğrencilerin duygulara ilişkin ön bilgilerini harekete geçirir. Sonra-
+sında öğretmen, öğrencilere “Duygularımızı nasıl belli ederiz?” sorusunu yöneltir. Öğrenci cevaplarını etkile-
+şimli beyaz tahta araçlarına ekler ve dersin ilerleyen bölümlerinde kullanmak üzere saklar. Ardından EBA’da
+bulunan Duygularımı, Düşüncelerimi Nasıl İfade Edebilirim? adlı videoyu açar ve öğrencilere izletir. İzleme
+etkinliğinin sonrasında öğretmen, öğrencilerden videoda anlatılanlar ile etkileşimli beyaz tahta araçlarında
+yer alan öğrenci cevaplarını karşılaştırmalarını ister. Videoda anlatılanlar ile benzer olan öğrenci cevapları
+üzerine bir tartışma ortamı oluşturur. Tartışmanın ardından öğretmen “Duygularımız” şarkısı sözlerini etkile-
+şimli tahtadan açar (Ek-1). Şarkıyı “Arı Vız Vız Vız” şarkısının melodisi ile söyleyeceklerini bildirir ve şarkının
+bir kısmını örnek olarak söyler. Ardından tüm sınıf şarkıyı söyler ve öğretmen dersi sonlandırır.
+Ders Öncesi
+Öğretmen, metnin bölümlerini belirleme etkinlik kâğıdını öğrenci sayısına göre çoğaltır (Ek-2).
+2. Ders (Sınıf)
+Öğretmen, birazdan bir metin okuyacağını ve ilgili yerlerde metne ilişkin soruları cevaplandıracaklarını
+öğrencilere bildirir. Not alma, tahmin etme ve özetleme dinleme tekniklerinden istedikleri birini kullanabi-
+leceklerini söyler ve bu teknikleri kısaca tanıtır. Sonrasında etkileşimli sunum araçları ile hazırlanmış Bulutla
+Konuşan Çocuk bağlantısını açar ve okur (Ek-3). İlgili yerlerde soruları öğrencilere yöneltir ve cevaplama-
+ları için uygun bir süre tanır. Etkinliğin tamamlanmasının ardından öğretmen; öğrenci cevaplarını değer-
+lendirir ve metinlerin giriş, gelişme ve sonuç olmak üzere üç bölümden oluştuğunu açıklar. EBA’da bulunan
+Paragrafın Yapısı ve Özellikleri adlı videoyu açar. Öğrenciler videoyu izledikten sonra konunun tam olarak
+anlaşılması amacıyla öğretmen de videoda anlatılanlara ilişkin açıklamalar yapar, varsa öğrenci sorularını
+yanıtlar. Sonrasında öğretmen etkileşimli tahtadan “Bulutla Konuşan Çocuk” metnini açar (Ek-3). Metnin
+bölümlerini belirleme etkinlik kâğıdını öğrencilere dağıtır ve doldurmalarını ister (Ek-2). Etkinlik kâğıtlarının
+doldurulmasından sonra öğretmen, öğrenci cevaplarını değerlendirir ve yanlışlar varsa düzeltir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+3. Ders (Sınıf)
+Öğretmen, dersin başında “Çocuklar, sizce rüzgâr kulağımıza fısıldayabilir mi?” ya da “Bir çocuk kuş gibi
+hafifim diyorsa gerçekten bir kuş kadar hafif olabilir mi?” sorusunu yöneltir ve öğrencilerden cevapları alır.
+İlk önce bu kullanımların amacını sorar ve öğrenci cevaplarını alır. Daha sonra söz sanatlarının metinleri
+daha etkili, ilgi çekici hâle getirmek için kullanıldığını örnekler vererek anlatır. Sonrasında EBA’da bulunan Söz
+Sanatları (Benzetme ve Kişileştirme) videosunu açar ve öğrencilere izletir. Videoyu gerekli yerlerde durdu-
+rarak açıklamalar yapar ve varsa öğrenci sorularını yanıtlar. Ardından oyunlaştırılmış ölçme ve değerlen-
+dirme web araçları ile hazırlanmış Söz Sanatları etkinliğini açar ve öğrencilere yaptırır (Ek-4). Etkinlikle ilgili
+anlaşılmayan noktalar varsa gerekli açıklamaları yaparak dersi sonlandırır.
+Belirlemek, Çözümleme, Anlam oluşturma, Dijital bilgiyi anlamlandırma
+
+LINKS:[["EBA Duygularımı, Düşüncelerimi Nasıl İfade Edebilirim", "bbJp2B"], ["Bulutla Konuşan Çocuk", "U4xsOew"], ["EBA Paragrafın Yapısı ve Özellikleri", "UkgAP6P"], ["EBA Söz Sanatları (Kişileştirme ve Benzetme)", "7xyrOB"], ["Söz Sanatları", "UbFe9Aw"], ["Duygu Kartı", "UmayLmE"]]

@@ -1,0 +1,113 @@
+## 5. Sinif/Matematik/Istatiksel Arastirma Sureci - Veri ile Konusan Cocuklar.pdf
+SURE:4 KOD:MAT.5.5.1.
+KAV:Anket, Araştırma sorusu, Kategorik veri
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin veri ve araştırma sorusuna dair ön öğrenmelerini ölçmek ve dersi ilgi çekici hâle
+getirerek zihinsel olarak hazırlanmalarını sağlamak için anket araçları ile hazırladığı Ders Öncesi Öğrenci
+Anketi’ni EBA aracılığıyla öğrencilere gönderir (Ek-1). Anketin, matematik dersi saatinden önce tamamlan-
+masını ister.
+1. Ders (Sınıf)
+Dersin başında öğretmen, öğrencilerden sınıfça bir hayal kurmalarını ister. Sınıfa bir yapay zekâ makinesi
+getirdiğini ve bu makinenin her soruya bir cevap verebildiğini söyler. Ancak soruları doğru ve uygun şekilde
+sorarlarsa doğru cevaplar alabileceklerini, aksi hâlde cevapların şüpheli veya hatalı olabileceğini hatırlatır.
+Ardından eşleştirme yapabilmeyi sağlayan web aracı ile hazırladığı Yapay Zekâ Makinesi etkinliğini etkile-
+şimli tahtada açar (Ek-2). Gönüllü öğrenciler, ekranda yer alan soruları “Uygun Sorular” ve “Uygun Olmayan
+Sorular” kategorilerine sürükleyerek sınıflama yapar. Her işlem sonrası öğrenciler “Cevapları Kontrol Et”
+düğmesine tıklayarak geri bildirim alır. Öğretmen, öğrencilerin eşleştirmelerini anında değerlendirir ve her
+bir soru üzerine kısa açıklamalarda bulunur. Hangi soruların neden uygun olduğu, hangilerinin neden makine
+tarafından anlaşılamayacağı sınıfça tartışılır. Bu deneyim; öğrencilerin açık, net ve amaca uygun sorular
+sormanın önemini fark etmelerini sağlar.
+Öğretmen, ders öncesi topladığı Ders Öncesi Öğrenci Anketi’nin cevaplarını etkileşimli tahtaya yansıtarak
+öğrencilerle birlikte incelemeye başlar. Öğrencilerden özellikle “veri, anket, bilgi toplama” gibi kavramlar
+üzerine odaklanmalarını ister. Anket sonuçları üzerinden veri çeşitliliği ve bilgi toplama yöntemleri hakkında
+öğrencilerin çıkarım yapmalarını sağlar. Öğrencilerin verdikleri cevaplardan sık tekrar eden kelimeler belir-
+lenir. Ardından öğretmen, öğrencilerin 1. soruya verdiği cevapları kullanarak daha önce hazırlanan Verinin
+Anlamı Örnek Kelime Bulutu’na benzer bir çalışmayı, kelime bulutu oluşturmayı sağlayan web aracı ile
+oluşturur. Elde edilen görseli etkileşimli tahtada tüm sınıfa yansıtır. Öğrenciler, kelime bulutu üzerindeki
+kavramlar hakkında yorum yapar; hangi kavramların daha ön plana çıktığı, bu kavramların veri topla-
+mayla ilişkisi üzerine düşünürler.
+Öğretmen, gönüllülük esasına göre bazı öğrencileri seçerek onlardan bulut üzerindeki kelimelerden birini
+seçip kısa bir cümle kurmalarını ister. Etkinliğin sonunda öğrencileri katılımlarından dolayı görsel düzen-
+leme araçları ile hazırlanan Neşeli Etiketlerle ödüllendirir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+Dersin başında öğretmen öğrencilere “veri” kavramını kısaca hatırlatır. Ardından kategorik veriye odaklanır
+ve örnekler üzerinden açıklamalar yapar. Sonra tahtaya “Bir konuda bilgi toplamak istediğimizde önce ne
+yaparız?” sorusunu yazar ve öğrencilere kısa bir soru-cevap etkinliği yaptırır.
+Öğrenciler örnek araştırma soruları üretir ve öğretmen bu süreci yönlendirir. Ardından iyi bir anket sorusunun
+nasıl olması gerektiğini açıklamak için eşleştirme yapabilmeyi sağlayan web aracı ile hazırladığı Uygun
+mu Değil mi? sürükle-bırak etkinliğini etkileşimli tahtada açar (Ek-3). Öğrenciler, ekrandaki kartlarda yer
+alan soruları, kategorik veriye ve sayısal veriye “uygun olan” ve “uygun olmayan” anket soruları olarak sınıf-
+landırmak üzere ilgili bölümlere sürükler. Tüm kartlar yerleştirildikten sonra sistem anlık geri bildirim verir.
+Öğretmen, geri bildirim üzerinden öğrencilerle birlikte her bir sorunun neden doğru ya da yanlış sınıflan-
+dırıldığını tartışır ve açıklamalar yapar. Bu etkinlik sonunda öğrenciler, iyi bir anket sorusunun nasıl olması
+gerektiğini örnekler üzerinden tartışarak öğrenir. Kategorik ve sayısal veri arasındaki farkı kavrar. Dersin
+sonunda öğretmen, EBA’da bulunan Uygun Anket Sorusu Belirleme konu anlatım videosunu öğrencilere izletir.
+Bir araştırma için anket sorusu hazırlarken nelere dikkat edilmesi gerektiğini tekrar ederek dersi tamamlar.
+3. Ders (BT Sınıfı)
+Öğretmen, bir önceki derste yapılan etkinliğe atıfta bulunarak öğrencilerden anket için uygun olabilecek
+sorularla nasıl veri toplayabileceklerini söylemelerini ister. Anket yapma yolları üzerine kısa bir sohbet ortamı
+oluşturur. Hazır verilere nasıl ulaşılabileceğinden bahseder ve öğrencilere Türkiye İstatistik Kurumu (TÜİK)
+hakkında kısa bir bilgi verir. TÜİK web sayfasını tanıtarak öğrencilerden TÜİK Çocuk Portalı’na giriş yapmala-
+rını ister. Portalda yer alan bölümlere, öğrenciler kendi bilgilerini örnek olarak girer ve sistemin oluşturduğu
+kendilerine ait istatistiksel verileri inceler. Bu sayede öğrenciler, veriler yoluyla kendi özelliklerini tanıma ve
+başkalarıyla karşılaştırma imkânı bulur. Ayrıca hazır verilerin, bireyler ve toplum hakkında bilgi edinmede
+nasıl kullanıldığını deneyimlemiş olurlar.
+Öğretmen, anket oluşturma aracını tanıtır ve aracın temel özelliklerini açıklar. Araç üzerinden farklı soru
+türlerinin (çoktan seçmeli, kısa yanıtlı, derecelendirme vb.) nasıl oluşturulabileceğini, ders öncesinde anket
+araçları ile hazırladığı Örnek Öğrenci Anketi üzerinden gösterir. Ardından öğrencileri ikişerli gruplara ayırır
+ve her gruptan, belirledikleri bir araştırma sorusuna uygun olacak şekilde üç anket sorusu hazırlamalarını
+ister. Gruplar, hazırladıkları soruları kullanarak ilgili web aracı üzerinde dijital anketlerini oluşturur. Tamam-
+lanan anketler, öğretmenin yönlendirmesiyle EBA üzerinden paylaşılır. Etkinlik boyunca öğretmen, her grubun
+anket hazırlama sürecini gözlemlemek amacıyla bir kontrol listesi kullanır (Ek-4). Bu liste aracılığıyla soruların
+açıklığı, araştırma sorusuna uygunluğu, çeşitliliği ve dijital anketin bütünlüğü gibi ölçütleri değerlendirerek
+her gruba süreçte rehberlik eder. Tüm öğrenciler, sınıf arkadaşlarının oluşturduğu anketleri yanıtlayarak
+birbirlerinin çalışmalarına katılır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğrenciler; farklı anketleri deneyimleyerek anket sorularının kalitesini değerlendirme, çeşitli soru yapılarını
+karşılaştırma, katılımcı bakış açısını fark etme ve dijital iş birliği becerilerini geliştirme fırsatı bulurlar.
+İstatistiksel problemi belirleme, Verileri toplama ve analize hazırlama, Dijital araçlarla
+iş görme, Muhakeme (akıl yürütme), Çıkarım yapma, Karşılaştırma, Kişi ve gruplarla
+iş birliği yapmak, Düşüncelerini başkalarıyla tartışmak/müzakere etmek, Ekip
+(takım) çalışması yapmak ve yardımlaşmak, Grup iletişimine katılmak, İletişim
+kurma ve paylaşma
+Ders Öncesi
+Öğretmen, dersi önceden planlayarak sınıf mevcuduna göre öğrencileri 3-4 kişilik gruplara ayırır. Her
+gruptan bir araştırma sorusu belirlemesini ve bu soruya uygun 4 anket sorusu hazırlamasını ister. Öğren-
+ciler, anketlerini daha önce öğrendikleri anket aracı ile oluşturur. Anketler, öğrencilerin sınıf arkadaşları ya
+da okul içinden başka bireyler tarafından yanıtlanır. Her grup, kendi anketine gelen yanıtları dijital ortamda
+ya da çıktı olarak derler ve derse hazır gelir.
+Öğretmen, gruplara ait verileri karışık şekilde numaralandırarak rastgele başka bir gruba verir ve her gruba
+görsel düzenleme aracı ile hazırladığı bir Veri Dedektifleri Görev Kartı dağıtır (Ek-5).
+4. Ders (BT Sınıfı)
+Öğretmen, dersin başında öğrencilere bu derste birer “veri dedektifi” olacaklarını söyler. Başka bir grubun
+anket çalışmasını inceleyeceklerini, sorularla veri arasında tutarlılık olup olmadığını analiz edeceklerini
+açıklar. Böylece bir anketin ne kadar güçlü olduğunu daha iyi anlayacaklarını belirtir. Ardından her gruptan
+ders öncesinde hazırladıkları kendi anketlerine gelen yanıtları tabloya dönüştürerek etkileşimli beyaz tahta
+aracındaki Ortak Çalışma Panosu’nda paylaşmalarını ister. Bu sayede tüm gruplar, diğer grupların verile-
+rine kolayca erişir.
+Her grup, görev kartındaki sorular doğrultusunda kendilerine verilen başka bir gruba ait anket (araştırma
+sorusu, anket soruları ve toplanan veriler) üzerinde çalışır. Gruplar, inceledikleri veri setiyle ilgili değerlendir-
+melerini sınıfla paylaşır. Asıl veri sahibi grup, kendisine verilen geri bildirimleri dinler, isterse açıklamalarda
+bulunur. Öğretmen, etkinlik süresince grupları dolaşarak öğrencilerin analizlerini takip eder, açıklamala-
+rını dinler ve gerek duyulan noktalarda yönlendirici sorularla rehberlik eder. Öğrencilerin önceki derslerde
+edindikleri bilgileri değerlendirmek amacıyla oyunlaştırılmış ölçme ve değerlendirme web aracı ile hazır-
+ladığı Anket Ustası Kim? etkinliğini uygular (Ek-6). Etkinliğin sonunda en çok doğru yanıt veren öğrencileri
+neşeli etiketlerle ödüllendirir. Eksik veya hatalı öğrenmeleri belirleyerek öğrencilere bireysel geri bildirimde
+bulunur. Son olarak ders sonrası verilecek olan performans görevinin kapsamını, teslim süresini ve beklen-
+tilerini açıklayarak dersi bitirir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Performans Görevi: Öğretmen, öğrencilerden nesli tehlike altındaki bir canlıyla ilgili araştırma yaparak poster
+ve afiş oluşturma araçları ile dijital bir afiş hazırlamalarını ister. Onlardan bu afişi EBA’da paylaşmalarını
+ister. Öğrencilerin araştırmalarına temel oluşturacak bilgileri içeren Nesli Tehlike Altındaki Türler bağlantı-
+sını EBA üzerinden paylaşır ve öğrencilerden içerikteki bilgileri afiş çalışmaları öncesinde incelemelerini ister.
+Afişte yer alması gereken başlıkları ve değerlendirme ölçütlerini öğrencilere açıklar (Ek-7). Öğrenciler, çalış-
+malarını verilen süre içinde tamamlayarak teslim eder. Afiş paylaşım tarihi öğretmen tarafından belirlenir.
+Çözümleme, Yorumlama, Karşılaştırma, İş birliği, Başkalarını etkin şekilde dinlemek,
+Duygu ve düşüncelerini ifade etmek, Grup iletişimine katılmak, İstatistiksel problemi
+Dijital araçlarla iş görme, Sözlü ya da sözsüz olarak etkileşim sağlamak, Yaratıcılık,
+Sorumluluk, Merak, Dijital ortamlar için içerik oluşturma ve paylaşma
+
+LINKS:[["Ders Öncesi Öğrenci Anketi", "U6UuMtt"], ["Yapay Zekâ Makinesi", "UaFqpcu"], ["Verinin Anlamı Örnek Kelime Bulutu", "UELBOhB"], ["Neşeli Etiketler", "27XTy7"], ["Uygun mu Değil mi?", "jrrr56"], ["EBA Uygun Anket Sorusu Belirleme", "bwFXUe"], ["Türkiye İstatistik Kurumu (TÜİK)", "Zxx9Xs"], ["Örnek Öğrenci Anketi", "Uz1bYye"], ["Veri Dedektifleri Görev Kartı", "SlnP0v"], ["Ortak Çalışma Panosu", "0gOVtE"], ["Anket Ustası Kim?", "UtVghDH"], ["Nesli Tehlike Altındaki Türler", "6QhIt4"]]

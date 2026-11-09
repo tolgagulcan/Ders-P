@@ -1,0 +1,133 @@
+## 6. Sinif/Matematik/Geometrik Nicelikler - Tasarimin Matematigi.pdf
+SURE:5 KOD:MAT.6.4.2.
+KAV:Yükseklik, Paralelkenarın alanı, Üçgenin alanı
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Dikdörtgenin Alanı içeriğinin bağlantısını EBA sınıf gruplarında paylaşır. Dikdörtgenin özellikleri
+ve alan hesaplaması konularını tekrar etmeleri amacıyla tüm öğrencilerden bu etkileşimli içeriği tamam-
+lamalarını ister.
+1. Ders (Sınıf)
+Öğretmen, EBA’da yer alan Deniz Çayırları videosunu etkileşimli tahtada açar. Videoda deniz çayırlarının
+suyu temizlediği, oksijen ürettiği ve balıkların yaşam alanı olduğu anlatılmaktadır. Videonun ardından öğren-
+cilere şu soruları sorar:
+• Çayırların arasında boşluk olursa canlıların yaşam alanı sizce nasıl etkilenir?
+• Çayırların arasındaki boşluk artarsa balıkların ve kaplumbağaların yaşayacağı yerler artar mı yoksa
+azalır mı?
+• Çayırların miktarı oksijen üretimini nasıl etkiler?
+Öğretmen, gönüllü öğrencilerin cevaplarını dinler. Ardından bilim insanlarının, deniz çayırları ve bu çayır-
+ların arasında oluşan boşlukların alanını hesaplayarak ekosistemi korumak için çözüm yolları geliştirdiğini
+belirtir. Daha sonra görsel düzenleme aracıyla hazırladığı Deniz Çayırı Görseli’ni etkileşimli tahtada açar.
+Buradaki deniz çayırlarının arasında kalan dikdörtgensel alanı göstererek “Bu alanı nasıl hesaplayabiliriz?”
+sorusunu yöneltir ve soru-cevap yöntemiyle öğrencilerin konuyla ilgili çözüm üretmelerini sağlar. Öğrencilerin
+cevaplarını dinledikten sonra dikdörtgenin karşılıklı kenarları arasındaki dik mesafenin yükseklik olduğunu
+görsel üzerinde açıklar. Daha sonra dikdörtgenin alanının, bir kenar uzunluğu ve o kenara ait yüksekliğin
+çarpımıyla hesaplandığını hatırlatır. Bu bağıntıyı öğrencilerle birlikte tahtaya yazar. Şekil ve çizim aracıyla
+hazırladığı Dikdörtgende Alan Çalışma Soruları içeriğini etkileşimli tahtada açarak gönüllü öğrencilerden
+soruları çözmelerini ister (Ek-1). Öğrencilerin çözümlerini dinler ve doğru yaklaşımları pekiştirir. Yanlış veya
+eksik çözümlerle ilgili yönlendirici geri bildirimde bulunur.
+Matematiksel temsillerden yararlanma, Matematiksel çözümler geliştirme,
+Matematiksel araç ve teknolojiden yararlanma, Muhakeme (akıl yürütme), Çıkarım
+yapma, Dijital araçlarla iş görme, Merak
+Ders Öncesi
+Öğretmen öğrencileri ikişerli gruplara ayırır. Öğrencilerden derse gönye getirmelerini ister.
+2. Ders (BT Sınıfı)
+Öğretmen, derse başlamadan önce bir önceki derste kullanılan Deniz Çayırları Görseli’ni kısa süreliğine
+yeniden açar. Öğrencilere “Deniz çayırlarının kapladığı alanı bu kez paralelkenar modeliyle hesaplasaydık
+nasıl bir işlem yapmamız gerekirdi?” sorusunu yönelterek bir tartışma başlatır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Gelen cevapların ardından öğrencilerden farklı fikirleri karşılaştırmalarını ister ve gerekli noktalarda yönlen-
+dirici geri bildirimde bulunur. Daha sonra Paralelkenarın Yüksekliği videosunu etkileşimli tahtada açar.
+Videoyu izlerken öğrencilerden şu sorulara odaklanmalarını ister:
+• Paralelkenarda yükseklik hangi kenara aittir?
+• Yüksekliğin değişmesi alanı nasıl etkiler?
+Video izlendikten sonra gönye kullanarak farklı yönlendirilmiş paralelkenarlarda yüksekliğin nasıl çizileceğini
+öğrencilere gösterir. Ardından öğrenciler, defterlerine farklı paralelkenarlar çizerek bu şekillerin yüksekliklerini
+belirler. Öğretmen, öğrencilerden bu çizimleri grup arkadaşlarıyla birlikte dinamik matematik ve geometri
+aracına aktarmalarını ister. Öğrenciler, çizimlerini dijital ortama aktardıktan sonra yüksekliği değiştirerek
+alanın bu durumdan nasıl etkilendiğini gözlemler. Öğretmen, öğrencilerin yorumlarını dinler; doğru çıkarım-
+ları pekiştirici, yanlış veya eksik düşünceleri tamamlayıcı geri bildirimlerde bulunur.
+Paralelkenarın alanını hesaplamaya yönelik olarak dinamik matematik ve geometri aracıyla hazırladığı
+Paralelkenarın Alanı içeriğini etkileşimli tahtada açar ve EBA’da bağlantısını paylaşır. Grupların da eş zamanlı
+olarak içeriği açmalarını sağlar. İçerikte yer alan dikdörtgen ve paralelkenarın alanlarını karşılaştırmaya
+yönelik şu soruları sorar ve öğrencilerin fikirlerini alır:
+• Bu iki şeklin tabanları eşit olduğunda alanları da aynı kalır mı?
+• Yükseklik alanı nasıl etkiler?
+Ardından gruplardan şekillerin yüksekliğini sürükleyerek değiştirmelerini ve alanın değişip değişmediğini
+gözlemlemelerini ister. Öğrenciler, taban sabitken yüksekliğin artmasının veya azalmasının alanı doğrudan
+etkilediğini fark eder. Paralelkenarın alanının, bir kenar uzunluğu ile o kenara ait yüksekliğin çarpımına eşit
+olduğu kuralına ulaşırlar.
+Dersin sonunda öğretmen, öğrencilerden paralelkenarın alanı ile dikdörtgenin alanı arasındaki ilişkiyi kendi
+cümleleriyle ifade etmelerini ister. Öğrencilerin ifadelerine yönelik geri bildirimlerde bulunur ve iki şeklin alan
+özellikleri arasındaki farkları keşfetmelerine rehberlik eder.
+Ders Sonrası
+Öğretmen, öğrencilerin konuyu pekiştirmeleri için Paralelkenarın Alanı Alt Konu Testi içeriğini EBA’dan
+paylaşır. Öğrenciler testi tamamladıktan sonra sonuçları inceler ve bir sonraki derste öğrencilere geri bildi-
+rimde bulunur.
+Çözümleme, Çıkarım yapma, Muhakeme (akıl yürütme), Matematiksel çözümler
+geliştirme, Matematiksel araç ve teknolojiden yararlanma, Matematiksel temsil-
+lerden yararlanma, Dijital araçlarla iş görme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen öğrencilerden derse gönye, cetvel ve açıölçer getirmelerini ister.
+3. Ders (Sınıf)
+Öğretmen EBA’da yer alan Üçgenlerde Yükseklik videosunu etkileşimli tahtada açar. Videoyu izlerken öğren-
+cilerden şu sorulara odaklanmalarını ister:
+• Üçgende yükseklik hangi kenarlara ait olabilir?
+• Bir üçgenin kaç farklı yüksekliği vardır?
+• Yüksekliği her zaman üçgenin iç bölgesinde mi çizeriz?
+Öğretmen, videonun ardından öğrencilere kısa bir hatırlatma yapar. Önceki derste incelenen Deniz Çayır-
+ları Görseli’ni tekrar açarak öğrencilere “Bu alanı bu kez bir üçgen yardımıyla hesaplamak isteseydik nasıl
+bir işlem yapmamız gerekirdi?” sorusunu yöneltir. Öğrencilerin farklı fikirlerini dinler ve bu fikirlerden yola
+çıkarak üçgenlerde yüksekliğin önemini vurgular.
+Ardından gönüllü öğrencileri tahtaya çağırır ve onlardan açılarına göre üçgenlerin (dik, dar, geniş açılı
+üçgenler) yüksekliklerinin nasıl çizildiğini göstermelerini ister. Öğrenciler gönye, cetvel , açıölçer gibi ölçüm
+araçlarını kullanarak defterlerine örnek çizimler yapar. Ardından öğretmen, dinamik matematik ve geometri
+aracıyla hazırladığı Üçgenin Alanı içeriğini etkileşimli tahtada açar. Öğrencilerin paralelkenarın alanı ile
+üçgenin alanı arasındaki ilişkiyi fark etmeleri için yönlendirici sorular sorar. Üçgenin alanının paralelkenarın
+alanının yarısına eşit olduğu sonucuna ulaşmaları için onlara rehberlik eder. Konuyu pekiştirmek için içerikte
+yer alan üçgenin alanı ile ilgili alıştırmalarla derse devam eder. Soruları sırayla çözmeleri için gönüllü öğren-
+cileri tahtaya çağırır. Diğer öğrenciler de eş zamanlı olarak çözümleri defterlerinde yapar. Öğretmen, tüm
+öğrencilerin çizimlerini kontrol eder ve onlara soruları çözerken gerekli durumlarda yönlendirici geri bildi-
+rimde bulunur.
+Ders Sonrası
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web aracıyla hazırladığı Değerlendirme Soruları
+içeriğinin bağlantısını EBA’da öğrencilerle paylaşır (Ek-2). Öğrenciler, testi tamamladıktan sonra sonuç
+ekranının ekran görüntüsünü alarak EBA üzerinden mesaj yoluyla öğretmenlerine gönderir. Öğretmen test
+sonuçlarını inceleyip bir sonraki derste öğrencilere geri bildirim verir.
+Muhakeme (akıl yürütme), Matematiksel temsillerden yararlanma, Matematiksel
+anlama, Görseli yorumlama
+Ders Öncesi
+Öğretmen öğrencileri 3-4 kişilik gruplara ayırır. Öğrencilere 3B model oluşturmayı sağlayan aracı tanıtır.
+Uygulamada hesabı olmayanlara hesap açma konusunda rehberlik eder. Her gruptan en az bir öğren-
+cinin uygulama sınıfına katılımını sağlar. Tasarım Yönergesi-Ölçüm Tablosu ve dereceli puanlama anahtarı
+(rubrik) hazırlamayı sağlayan web aracıyla Gözlük Tasarımı Değerlendirme Rubriği’ni hazırlar (Ek-3 ve Ek-4).
+Değerlendirme rubriğinin ve ölçüm tablosunun grup sayısı kadar çıktısını alır (Uygulayıcı öğretmenlere fikir
+olması amacıyla 3B model oluşturmayı sağlayan araç ile Örnek Gözlük Modeli hazırlanmış ve paylaşılmıştır.).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, dersin başında “Sevgili öğrencilerim, düşünün ki siz birer tasarım ekibisiniz ve ünlü bir gözlük
+markası için yeni model geliştirmekle görevlendirildiniz. Gözlüğünüz sadece şık görünmekle kalmamalı; aynı
+zamanda yüze uygun olmalı, malzeme israfı olmadan üretilmeli ve maliyeti de makul olmalıdır. Bugün sizin
+göreviniz, hayalinizdeki gözlüğü bu ölçütlere göre 3B model oluşturmayı sağlayan araçlarla ortaya çıkar-
+maktır.” der. Tasarım sürecine başlamadan önce öğrencilere beyin fırtınası yapmayı sağlayan web aracı
+üzerinden Etkinlik Soruları içeriğini yöneltir. Öğrenciler fikirlerini web aracı üzerinden yazar. Tüm yanıtlar
+toplandıktan sonra öğretmen, sonuçları sınıfla paylaşır ve öne çıkan görüşleri vurgular. Ayrıca gözlük tasarı-
+mında yalnızca alan hesaplamalarının değil; göz–burun mesafesi, çerçeve genişliği, cam büyüklüğü, sap
+uzunluğu ve kalınlık gibi birçok ölçütün de dikkate alınması gerektiğini belirtir.
+Öğretmen, tasarım sürecinde kullanılacak yönergeyi ve Gözlük Tasarımı Değerlendirme Rubriği’ni etkileşimli
+tahtada açarak öğrencilere bu kriterlere uygun şekilde bir ürün tasarlamaları gerektiğini hatırlatır (Ek-3 ve
+Ek-4). Öğrencilere tasarım sürecinde rehberlik eder. Öğrenciler, tasarımlarında kullandıkları parçaların ölçüm-
+lerini yapar ve verilen tabloya kaydeder. Tüm gruplar tasarımlarını tamamladıktan sonra sırayla ürünlerini ve
+hazırladıkları ölçüm tablolarını etkileşimli tahtada sunar. Her grup, kendi tasarımını tanıtırken diğer gruplar
+tabloda yer alan ölçütlere bakarak tasarımların gerçeğe uygunluğunu değerlendirir ve tartışır. Öğretmen,
+tasarımlarını tamamlayan tüm grupları tebrik eder. Öğrencilere değerlendirme rubriğine göre her grubun
+ürününü puanlayacağını ve bir sonraki derste ayrıntılı geri bildirimde bulunacağını belirtir.
+Ders Sonrası
+Öğretmen, her grubun tasarımında kullanılan geometrik şekillerin uzunluk ve alan ölçülerini inceler, Gözlük
+Tasarımı Değerlendirme Rubriği ölçütlerine göre değerlendirir ve sonuçları sınıf panosuna asar (Ek-4).
+Muhakeme (akıl yürütme), Sentezleme, Matematiksel çözümler geliştirme, Matema-
+tiksel temsillerden yararlanma, Matematiksel araç ve teknolojiden yararlanma,
+Nesne, olgu ve olaylara ilişkin değişkenleri/ölçütleri belirlemek, Yaratıcılık, Sorum-
+luluk, Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardımlaşmak,
+Dijital araçlarla iş görme, Dijital ortamlar için içerik oluşturma ve paylaşma
+
+LINKS:[["EBA Dikdörtgenin Alanı", "UErGFLI"], ["EBA Deniz Çayırları", "5ol5pf"], ["Deniz Çayırı Görseli", "R4W49s"], ["Dikdörtgende Alan Çalışma Soruları", "SH0Wep"], ["EBA Paralelkenarın Yüksekliği", "UFCZAn7"], ["Paralelkenarın Alanı", "FiEEjS"], ["EBA Paralelkenarın Alanı Alt Konu Testi", "0ua5YT"], ["EBA Üçgenlerde Yükseklik", "Uh4jJTg"], ["Üçgenin Alanı", "6qgv20"], ["Değerlendirme Soruları", "OuXrhr"], ["Gözlük Tasarımı Değerlendirme Rubriği", "pnXgzu"], ["Örnek Gözlük Modeli", "Ub93i0m"], ["Etkinlik Soruları", "lzTUgV"]]

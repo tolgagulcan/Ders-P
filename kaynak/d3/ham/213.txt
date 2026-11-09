@@ -1,0 +1,81 @@
+## 6. Sinif/Sosyal Bilgiler/Birlikte Yasamak - Bizi Biz Yapanlar.pdf
+SURE:3 KOD:SB.6.1.2.
+KAV:Millî kültür, Değer, Gelenek, Görenek
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, oyunlaştırma web araçları ile Kültür Kavramları Kelime Bulma etkinliğini hazırlar (Ek-1). Bulmacada
+kelimelerin sağdan sola, soldan sağa, yukarıdan aşağıya ve çapraz yönlerde yer alabileceği konusunda
+öğrencileri bilgilendirir.
+1. Ders (Sınıf)
+Bu öğrenme senaryosunda öğrencilerin kültür, kültürel özellikler ve toplumsal birliği sürdürmeye ilişkin faali-
+yetler hakkında temel düzeyde bilgi sahibi olduğu kabul edilmektedir.
+Öğretmen derse başlarken Kültür Kavramları Kelime Bulma etkinliğini etkileşimli tahtadan açar (Ek-1). Etkin-
+likte verilen kavramları öğrencilerin cümle içinde kullanmaları ya da anlamlarını söylemelerini ister. Söz
+hakkı alan öğrenciler, cevaplarını verdikten sonra etkileşimli tahtada yer alan bulmaca üzerinde kavramları
+işaretler. Öğretmen bu ders sırasında yönlendirici ve destekleyici geri bildirimler verir. Öğretmen, öğrenci-
+lere zorlandıkları kelimeleri en sona bırakmalarını söyler. Öğrenciler, anlamlarını bilmedikleri kelimeleri Türk
+Dil Kurumu (TDK) Güncel Türkçe Sözlük’ten bakar, örnek cümle içinde kullanır.
+Öğretmen, öğrencilere Türkiye Kültür Yolu Festivali’ni daha önce duyup duymadıklarını sorar. Öğrencilerin
+cevaplarından sonra Türkiye Kültür Yolu Festivali genel ağ adresini açar. Farklı illere ait festival görüntüleri
+incelenir. Öğretmen, öğrencilerden çevrelerindeki benzer kültürel ögelere örnekler vermelerini ister.
+Yorumlama, Bilgi ihtiyacını fark etmek, Dijital araçlarla iş görme, Dijital bilgiyi
+sınıflandırmak, Görseli yorumlama, Kültürü kavrama, Açık fikirlilik, Sosyal farkındalık
+becerisi
+Ders Öncesi
+Öğretmen, öğrencilere bir sonraki ders kültürel bağlarımız ve millî değerlerimiz kavram haritası hazırlığı
+yapacaklarını söyler. Bu çalışma için öğrencilerden ders kitabı, genel ağ gibi araçları kullanarak veri topla-
+malarını ve topladıkları bilgileri sınıfa getirmelerini ister.
+2. Ders (BT Sınıfı)
+Öğretmen, öğrencileri kültürel bağlarımız ve millî değerlerimiz konulu araştırma çalışmalarını yapmaları
+için sınıfı rastgele 4-6 kişilik gruplara ayırır. Öğrencilere yapacakları çalışmayı kısaca anlatır:
+• Araştırma yaparken yapay zekâ destekli araçları ve genel ağı kullanabilirsiniz. Yapay zekâ araçları için
+şu örnek istemden (prompt) faydalanabilirsiniz:
+“Ben 6. sınıf öğrencisiyim. Sosyal bilgiler dersinde kullanmak için ‘kültürel bağlarımız ve millî değer-
+lerimiz’ konulu bir çalışma yapıyorum. Bana bu konuyla ilgili başlıca kavramları listeleyebilir misin?
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Özellikle şu başlıklar altında her biri için 3-5 alt kavram ver:
+◊ Dil ◊ Tarih
+◊ Din ◊ Millî semboller
+◊ Sanat ◊ Ortak değerler (hoşgörü, vatanseverlik vb.)
+◊ Gelenek ve görenekler
+Kavramlar sade, kısa ve 10-12 yaş grubunun anlayabileceği düzeyde olsun.”
+• Bu kaynaklar aracılığıyla dil, din, tarih, sanat, gelenek ve göreneklere dair kültürel bağlarımızı ve millî
+değerlerimizi belirleyiniz.
+• Merkeze “Kültürel Bağlar” ve “Millî Değerler” başlıklarını yerleştirerek alt kavramlarınızı seçiniz.
+• Belirlediğiniz kavramları, kavram haritası oluşturma araçlarıyla bir araya getirerek kavram haritanızı
+oluşturunuz (Örnek Çalışma).
+• Oluşturduğunuz kavram haritasını sunmak için gönüllü bir arkadaşınızı belirleyiniz. Kültürel bağlarımızın
+ve millî değerlerimizin toplumsal birliğe etkisine sunum sırasında mutlaka yer veriniz.
+• Kavram haritanızı EBA’da paylaşınız.
+• Kavram haritalarınız etkinlik sonunda kavram haritası değerlendirme formu ile değerlendirilecektir (Ek-2).
+Değerlendirme kriterlerini incelemeyi unutmayınız!
+Öğretmen, etkinlik sürecinde öğrencilere konu ve teknoloji rehberliği yapar. Etkinlik sonunda gerekli geri
+bildirimler verir.
+Ders Öncesi
+Öğretmen, kültürel ögeler sergisi hazırlığı için imkânlar ölçüsünde öğrencilerden aşağıdaki malzemeleri
+temin etmelerini ister (Malzemeler için resmî ve sivil toplum kuruluşlarından, ilgili branş öğretmenlerinden
+de destek alınabilir.).
+• Millî kültürümüzü yansıtan giysiler (halk oyunları, semazen kıyafeti…)
+• Yöresel gıdalar (ayran, lokum, kahve…)
+• Müzik aletleri (saz, gitar, ney…)
+• Sanatsal çalışmalar (ebru, işleme bakır …)
+• Geleneksel örnekler (sadaka taşları, zimem defteri…)
+• Görseller (Millî ve dinî bayramlar, yardımlaşma, dayanışma örnekleri…)
+Öğretmen, kültürel ögeler sergisi için poster ve afiş oluşturma araçlarını kullanarak tanıtıcı içerikler hazır-
+lamalarını öğrencilerden ister. Öğretmen, ders öncesi kavram haritası değerlendirme formunun çıktısını
+alır (Ek-2).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+3. Ders (BT Sınıfı)
+Öğretmen öğrencilerin çalışmalarını etkileşimli tahtada EBA’dan açar. Grup sözcüleri hazırladıkları sunum-
+ları yapar. Öğretmen ve öğrenciler sunumlar sırasında varsa sorularını gruplara yöneltir. Öğretmen, ihtiyaç
+hâlinde gruplara destek olur, gerekli geri bildirimleri verir. Yapılan kavram haritaları öğretmen tarafından
+kavram haritası değerlendirme formuyla değerlendirilir (Ek-2).
+Öğretmen, “Kültürel Ögeler Sergisi” için okulda uygun bir alan belirler; malzemeleri sergiye uygun hâle
+getirir. Teneffüs aralarında görevli öğrenciler, kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe
+etkilerini kısa sunumlarla arkadaşlarına aktarır.
+Ders Sonrası
+Öğretmen, konunun daha iyi pekişmesi, öğrencilerin kültürel bağlarımızın ve millî değerlerimizin toplumsal
+birliğe etkisini yorumlayabilme becerilerinin gelişmesi için EBA Toplumsal Birlikteliğimizi Etkileyen Faktörler
+etkileşimli içeriğini öğrencilere gönderir. Öğretmen, öğrencilerin çalışmalarını takip eder, geri bildirim verir.
+
+LINKS:[["EBA Toplumsal Birlikteliğimizi Etkileyen Faktörler", "U6JxR9N"], ["Kültür Kavramları Bilmece Bulmaca", "UYnNxyS"], ["Kültürel Bağlar/Millî Değerler Kavram Haritası", "UKT34mH"], ["Türk Dil Kurumu Sözlükleri.", "U2PLTo3"], ["Türkiye Kültür Yolu Festivali", "Sldpyb"]]

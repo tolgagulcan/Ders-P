@@ -1,0 +1,117 @@
+[
+ {
+  "id": 110,
+  "unite": "İstatistiksel Araştırma Süreci",
+  "ad": "Verileri Görselleştiriyorum",
+  "ozet": "Öğrenciler para temalı bir yarışmadan ve TÜİK haberlerinden elde ettikleri verilerle sütun ve daire grafiği oluşturup hangisinin ne zaman daha uygun olduğunu tartışır.",
+  "ozu": "<p>Sütun grafiği kategorileri karşılaştırmak için, daire grafiği bir bütünün parçalarını göstermek için daha uygundur. Grafik türü, verinin anlatmak istediği şeye göre seçilir.</p>",
+  "dersler": [
+   [
+    "Para dedektifleri ve veri tablosu",
+    "Ders öncesi EBA'dan sütun grafiği konu anlatımları ve “Para Dedektifleri” oyunu gönderilir. Derste 3-4 kişilik gruplar çizdikleri tablo ve grafikleri inceleyip birini seçer; etkileşimli beyaz tahtadaki Veri Tablosu şablonuna işleyip kendi grafiklerini oluşturur.",
+    "1-2"
+   ],
+   [
+    "TÜİK'ten veri",
+    "TÜİK web sitesi tanıtılır, bilgiye nasıl erişileceği gösterilir. Gruplar TÜİK haberlerindeki verilerle sütun ve daire grafikleri oluşturup EBA'da paylaşır."
+   ],
+   [
+    "Hangi grafik daha uygun?",
+    "Grupların grafikleri tahtada karşılaştırılır; daire grafiğinin bütünün parçalarını, sütun grafiğinin karşılaştırmayı daha iyi gösterdiği tartışılır. Grup değerlendirme formu doldurulur."
+   ],
+   [
+    "Çalışma kâğıdı",
+    "“Verileri Görselleştiriyorum” çalışma kâğıdı bireysel yapılır, öğretmen değerlendirip geri bildirim verir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, çalışma kâğıdı çıktısı"
+ },
+ {
+  "id": 111,
+  "unite": "Sayılar ve Nicelikler (1)",
+  "ad": "Çok Basamaklı Sayıların Yolculuğu",
+  "ozet": "Atatürk fotoğrafları sergisindeki beğeni sayıları, ülke nüfusları ve TÜİK verileri üzerinden çok basamaklı sayıların okunuşu, yazılışı, bölük ve basamakları öğrenilir.",
+  "ozu": "<p>Çok basamaklı sayılar sağdan sola üçerli bölüklere (birler, binler, milyonlar, milyarlar) ayrılarak okunur ve yazılır. Her rakamın değeri bulunduğu basamağa göre değişir.</p>",
+  "dersler": [
+   [
+    "Atatürk fotoğrafları sergisi",
+    "Ders öncesi ülke nüfusları tablosu doldurulur. Derste sanal sergideki Atatürk fotoğraflarının beğeni sayıları üzerinden altı basamaklı sayıların okunuşu ve yazılışı hatırlanır."
+   ],
+   [
+    "Bölük ve basamaklar",
+    "EBA videosuyla bölük ve basamaklar genellenir; tahtada sayılar bölüklerine ayrılıp okunur, alıştırma soruları çözülür. Ödev: grid etkinliği."
+   ],
+   [
+    "TÜİK verileriyle grup çalışması",
+    "Ödev kontrol edilir. TÜİK tanıtım filmi ve veri tabanından alınan büyük sayılarla gruplar okuma, yazma ve karşılaştırma etkinlikleri yapar, çalışmalarını panoda paylaşır; öz değerlendirme formu doldurulur.",
+    "3-4"
+   ],
+   [
+    "Çok basamaklı sayılar testi",
+    "Oyunlaştırılmış testle yarışma yapılır; en çok doğru yapanlar ödüllendirilir, eksikler tamamlanır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, etkinlik kâğıtları",
+  "link_ders": {
+   "1": 1,
+   "7": 5
+  }
+ },
+ {
+  "id": 112,
+  "unite": "Sayılar ve Nicelikler (2)",
+  "ad": "Eşitimi Bul",
+  "ozet": "Bir kodlama etkinliğinin ilerleme durumu üzerinden kesir, ondalık gösterim ve yüzde arasındaki denklik keşfedilir; yapboz ve modelleme etkinlikleriyle pekiştirilir.",
+  "ozu": "<p>Aynı miktar kesir (1/4), ondalık gösterim (0,25), yüzde (%25) ve model (bütünün dörtte biri boyalı) ile gösterilebilir; bunlar birbirine denktir.</p>",
+  "dersler": [
+   [
+    "Kodlamadaki ilerleme",
+    "Ders öncesi kodlama etkinliği yapılır. Derste etkinliğin “İlerleme Durumu” ekranındaki tamamlanma oranları kesir, ondalık ve yüzde olarak yazılır; sıra arkadaşları cevaplarını karşılaştırır, doğru sayıları da üç gösterimle ifade edilir.",
+    "1-2"
+   ],
+   [
+    "Yapboz",
+    "Tahtadaki yapbozda kesir, ondalık, yüzde ve model parçaları eşleştirilir."
+   ],
+   [
+    "Yüzdeleri modelleme",
+    "EBA'daki Yüzdelik İfadeleri Modelleme içeriği tahtada çözülür; tanılayıcı dallanmış ağaç etkinliği yapılır."
+   ],
+   [
+    "Alıştırmalar",
+    "Öğrenciler çevrim içi alıştırmaları çözer, çözümler tahtada yapılır. Kelime bulutuna dersten akılda kalanlar yazılır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, kodlama etkinlik kâğıdı çıktısı"
+ },
+ {
+  "id": 113,
+  "unite": "Sayılar ve Nicelikler (2)",
+  "ad": "Geçmişten Günümüze Hayatımızın Parçası: Kesirler",
+  "ozet": "Kesirlerin tarihten bugüne farklı gösterimleri (model, sembol, ondalık, yüzde, sayı doğrusu) oyunlar, isim hesaplamaları ve robot parkuruyla öğrenilir.",
+  "ozu": "<p>Bir kesir alan modeli, sembol (a/b), ondalık gösterim, yüzde ve sayı doğrusu üzerinde gösterilebilir. Bu gösterimler arasında geçiş yapabilmek kesirleri karşılaştırmayı kolaylaştırır.</p>",
+  "dersler": [
+   [
+    "Kesirler nasıl gösterilir?",
+    "Dijital panoda toplanan cevaplarla kesirlerin farklı gösterimleri listelenir; kesirlerin eski medeniyetlerde nasıl kullanıldığı anlatılır."
+   ],
+   [
+    "Merdiven oyunu",
+    "Gruplar farklı gösterimlerdeki kesir kartlarını merdivende küçükten büyüğe dizer."
+   ],
+   [
+    "İsimlerimizdeki kesirler",
+    "“Sınıfta hangi harfle başlayan isimler çok?” sorusuyla isim verilerinden kesir, ondalık ve yüzde hesaplamaları yapılır."
+   ],
+   [
+    "MateBot parkuru",
+    "EBA'dan Robotlar videosu izlenir; 20 kareli parkurda ilerleyen MateBot'un gittiği yol kesir, ondalık ve yüzde olarak hesaplanır."
+   ],
+   [
+    "Temsilleri eşleştirme",
+    "Her öğrenciye bir kart verilir; aynı kesri farklı gösterimle temsil eden arkadaşını bulur. Kesirlerin farklı temsilleri oyunuyla biter."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, eşleştirme kartları"
+ }
+]

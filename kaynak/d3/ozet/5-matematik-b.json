@@ -1,0 +1,41 @@
+[
+{"id":106,"unite":"İşlemlerle Cebirsel Düşünme","ad":"Astronotların Önceliği",
+"ozet":"Uzayda mahsur kalan astronotların hikâyesi üzerinden bir sayının karesi, küpü ve işlem önceliği öğrenilir.",
+"ozu":"<p>Bir sayının kendisiyle çarpımı karesi (a²), üç kez çarpımı küpüdür (a³); adını kare ve küpün alan/hacim hesabından alır. İşlemlerde sıra: önce parantez, sonra üslü ifade, sonra çarpma-bölme, en son toplama-çıkarma.</p>",
+"dersler":[
+["Uzayda mahsur kalan astronotlar","Ders öncesi EBA'da paylaşılan haber sunumu tahtada özetlenir; “Onların yerinde olsanız hangi sorunlar yaşardınız?” tartışmasıyla su, gıda, oksijen gibi kaynakların dikkatli kullanılması konuşulur ve astronotların su-gıda stoku problemine geçilir."],
+["Kare ve küp","“Neden üssü 2 olana kare, 3 olana küp deriz?” sorusuna dijital panoda cevap verilir. Dinamik geometri etkinlikleriyle sayının karesi ve küpü görselleştirilir; EBA içerikleriyle pekiştirilir. Ödev: işlem önceliği “dondurması” tasarlamak."],
+["Astronotların su stoku","Öğrencilerin dondurma tasarımları oylanır. Gruplar astronotların su stoku görselindeki problemleri işlem önceliğine göre çözer; problemlerle işlemleri eşleştirme etkinliği yapılır."],
+["İşlem önceliği ağacı","İşlem önceliği ağacı kâğıdında doğru çıkışa ulaşan puan alır; çözümler tahtada yapılır. Gruplar oyunlaştırılmış etkinlikle yarışır, EBA'dan parantezli işlemler içeriği izlenir."],
+["Değerlendirme","Öğrenciler bilgisayarda “Üslü İfadeler ve İşlem Önceliği” etkinliğini bireysel çözer; sonuçlar tahtada analiz edilir, sorular gönüllülerle çözülür."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları, etkinlik kâğıtları"},
+{"id":107,"unite":"İşlemlerle Cebirsel Düşünme","ad":"Bileklik Arkadaşım",
+"ozet":"Öğrenciler renkli iplerle örüntülü bileklik örer; şekil ve sayı örüntüleri dinamik geometri, kodlama aracı ve el işi kâğıdıyla incelenir.",
+"ozu":"<p>Örüntü, belli bir kurala göre tekrar eden ya da değişen şekil veya sayı dizisidir. Kuralı bulan, örüntünün sonraki adımlarını tahmin edebilir.</p>",
+"dersler":[
+["Bileklik yapımı","Mukavvadan 10 cm yarıçaplı daire kesilip 8 eş dilime ayrılır, ortasına delik açılır. Öğrenciler renkli iplerle bileklik örerken ortaya çıkan renk örüntüsünü fark eder; bileklikler arkadaşlara hediye edilir."],
+["Örüntü blokları","EBA'daki Örüntü Blokları videoları izlenir; gruplar dinamik geometri aracında kendi şekil örüntülerini oluşturur."],
+["Kodlamayla örüntü","Gruplar kodlama aracındaki “Sanatçı” etkinliklerinde tekrar eden komutlarla şekil örüntüleri çizer."],
+["El işi kâğıdıyla örüntü","Günlük hayattaki örüntüler gösterilir. Gruplar el işi kâğıdından üçgen, kare ve dikdörtgen kesip şekil örüntüleri oluşturur ve kuralını açıklar."],
+["Örüntüler testi","Tahtadaki testte öğrenciler cevaplarını kartla gösterir, öğretmen kodları okutur; doğru cevaplayanlar çözümü tahtada anlatır. EBA alıştırmalarıyla biter."]],
+"gerek":"Akıllı tahta, bilgisayar, renkli yün, mukavva, pergel, cetvel, makas, el işi kâğıdı"},
+{"id":108,"unite":"İstatistiksel Araştırma Süreci","ad":"Meraklı Da Vinci",
+"ozet":"Leonardo da Vinci'nin merakından yola çıkarak istatistiksel araştırmanın adımları, iyi bir araştırma sorusu ve veri toplama yöntemleri öğrenilir.",
+"ozu":"<p>İstatistiksel araştırma; soru oluşturma, veri toplama, verileri düzenleme ve yorumlama adımlarından oluşur. İyi bir araştırma sorusu net, ölçülebilir ve veriyle cevaplanabilir olmalıdır. Veriler gözlem, anket, deney veya hazır kaynaklardan toplanır.</p>",
+"dersler":[
+["Da Vinci ile tanışma","Mona Lisa tablosu tahtada incelenir; EBA içeriği ve sanal sergiyle Da Vinci'nin sanatçı, mühendis ve araştırmacı yönü tanıtılır."],
+["Ne araştırmak isterdin?","“Da Vinci hangi alanlarda buluş yaptı, sen ne araştırmak isterdin?” sorularına dijital panoda cevap verilir. Animasyonla istatistiksel araştırma süreci anlatılır."],
+["Araştırma sorusu","Araştırma adımları görselde özetlenir. “Araştırma Sorusu mu?” etkinliğinde hangi soruların veriyle cevaplanabileceği ayırt edilir; EBA'dan veri toplama yöntemleri izlenir."],
+["Veri toplama yöntemleri","“Yöntemini Bulalım” eşleştirme etkinliğinde araştırma konuları uygun veri toplama yöntemiyle eşleştirilir."],
+["Emojiler sınavı","Öğrenciler oyunlaştırılmış “Emojiler Sınavı”nı bilgisayarda çözer; istatistiksel araştırma günlüğü doldurulur."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları"},
+{"id":109,"unite":"İstatistiksel Araştırma Süreci","ad":"Veri ile Konuşan Çocuklar",
+"ozet":"Öğrenciler doğru soru sormanın önemini “yapay zekâ makinesi” oyunuyla fark eder; kategorik veri, iyi anket sorusu ve TÜİK verileriyle anket hazırlayıp sonuçları inceler.",
+"ozu":"<p>Kategorik veri, sayı yerine kategorilerle ifade edilen veridir (en sevilen renk gibi). İyi bir anket sorusu açık, tarafsız ve tek bir şeyi soran sorudur. Hazır veriler TÜİK gibi resmî kaynaklardan bulunabilir.</p>",
+"dersler":[
+["Yapay zekâ makinesi","Ders öncesi kısa bir anket doldurulur. Derste sınıfa her soruyu cevaplayan bir yapay zekâ makinesi getirildiği hayal edilir; “Yapay Zekâ Makinesi” eşleştirmesinde doğru sorunun doğru cevabı getirdiği fark edilir."],
+["Veri ve iyi anket sorusu","Veri ve kategorik veri kavramları örneklerle açıklanır, öğrenciler araştırma soruları üretir. “Uygun mu Değil mi?” etkinliğiyle iyi anket sorusunun özellikleri öğrenilir."],
+["TÜİK ve anket hazırlama","Veri toplama yolları konuşulur, TÜİK Çocuk Portalı incelenir. Gruplar kendi anketlerini hazırlar."],
+["Veri dedektifleri","Gruplar anket sonuçlarını tabloya döküp ortak panoda paylaşır; başka bir grubun anketini sorular-veriler tutarlı mı diye inceler. “Anket Ustası Kim?” yarışmasıyla biter."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları"}
+]

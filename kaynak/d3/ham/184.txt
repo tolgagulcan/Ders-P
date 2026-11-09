@@ -1,0 +1,139 @@
+## 7. Sinif/Turkce/Sanat - Sanat ve Duygularimiz.pdf
+SURE:5 KOD:T.7.1.2. T.7.1.4. T.7.3.25. T.7.3.28.
+KAV:
+Öğrenme Etkinlikleri
+Bu çalışmada 7. sınıf Türkçe ders kitabının “Sanat” temasındaki “Unutursun Mihribanım” adlı dinleme
+metnine dayalı etkinlikler, işleniş açısından teknoloji odaklı olarak ele alınmıştır.
+1. Ders (Sınıf)
+Öğretmen, ders kitabındaki hazırlık çalışmaları kapsamında öğrencilerden anılarından hareketle kendile-
+rini etkileyen olumlu bir çevre görüntüsünü (manzara, mekân, yapı vb.) betimleyerek defterlerine yazma-
+larını ister. Betimleme konusunda sorun yaşayan öğrencilerine rehberlik eder, ihtiyaç duyan öğrencilerine
+örnek metinler sunar. Etkinlik sonunda öğrencilerin yazdıklarını etkileşimli tahtada yapay zekâ destekli
+araçlardan birine yükler. Bu araçtan rastgele üç yazı seçmesini ister. Yapay zekâ destekli aracın belir-
+lediği üç yazıyı görsel düzenleme araçlarından birine yükler ve yazılarda betimlenen yerlerin görselle-
+rini oluşturur. Hazırlanan görsellerin özette belirtilen yerlerle olan benzerlik ve farklılıkları sınıf ortamında
+tartışılır. Öğretmen, hazırlık çalışmalarının tamamlanmasının ardından etkileşimli tahta üzerinden
+dinleme metnini açar. Öğrencilerden metni dinlemelerini, dinlerken anlamını bilmedikleri kelimeleri
+tespit etmelerini ister. Dinleme sürecinin ardından ders kitabındaki anlamı bilinmeyen kelimelerle ilgili
+1. etkinliğİ yapmalarını sağlar.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim
+2. Ders (Sınıf)
+Öğretmen, dersin başında empatik dinleme yöntemi hakkında açıklamalar yaparak öğrencilerden şiiri
+bu yöntemle dinlemelerini ister. Şiiri öğrencilere dinletir ve şiirin onlarda uyandırdığı duyguları yazmala-
+rına yönelik ders kitabındaki 2. etkinliği yaptırır. Bu çalışmayla öğrencilerin kendini şairin yerine koymasını
+sağlayan öğretmen, öğrencilerinde empati becerisinin gelişmesine katkıda bulunur. Etkinliğin ardından
+duygular hakkında sınıf içi tartışma ortamı oluşturan öğretmen, EBA’da yer alan Cümleye Hâkim Olan
+Duygular adlı etkileşimli içeriği etkileşimli tahtadan açarak öğrencilerin yapmasını sağlar.
+Son olarak ders kitabındaki metne yeni başlık bulma etkinliği olan 3. etkinliği ve metni anlamaya dayalı
+4. etkinliği öğrencilere yaptırarak dersi tamamlar.
+İlgili Yetkinlikler/Beceriler: Empati
+3. Ders (Sınıf)
+Öğretmen, bu derste metnin türü ile ilgili çalışmalar gerçekleştirir. Bu kapsamda öğrencilerine dinle-
+dikleri şiirin türünün ne olduğunu sorar. Öğrencilerinden türkü cevabını aldıktan sonra bu tür hakkında
+onlara bilgi verir ve koşma nazım biçimiyle yazılmış şiirlerin bestelenerek türkü hâline getirilebileceğini
+örneklerle zenginleştirerek anlatır. Öğrencilerinden türkü türünün özelliklerini ders kitabındaki 5. etkinlik
+alanına yazmalarını isteyen öğretmen, türkülerin farklı konularda yazılabileceğini belirterek öğrencile-
+rine etkileşimli tahta üzerinden EBA’da yer alan İzmir’in Kavakları türküsünü dinletir. Türkünün tamam-
+lanmasıyla öğretmen, öğrencilerinden “Unutursun Mihribanım” ve “İzmir’in Kavakları” türkülerini konu
+açısından karşılaştırmalarını ve bu çalışma için aktif öğrenme tekniklerinden kartopu tekniğini kullanma-
+larını ister. Bu teknikle öğrenciler önce ikişerli, sonra dörderli, daha sonra sekizerli gruplarla iki şiir arasın-
+daki benzerlik ve farklılıkları belirlerler. Öğretmen, kartopu etkinliği devam ederken etkileşimli tahtadan
+dijital pano ya da post-it oluşturma araçlarını açarak ortaya çıkan görüşlerin bu araçlara aktarılma-
+sını sağlar. Ortaya çıkan görüşler sınıfta değerlendirilir.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Kültürel farkındalık ve ifade
+4. Ders (BT Sınıfı)
+Öğretmen, öğrencileri sınıf mevcuduna göre gruplara ayırır ve bu gruplardan dinledikleri şiirin şairi
+hakkında genel ağı kullanarak bir araştırma yapmalarını ister. Oturma düzenini grup çalışmasına
+uygun bir şekilde düzenleyerek öğrencilerin bilgisayarlara erişimini kolaylaştırır. Gruplardan şairin hayatı
+hakkında genel ağı kullanarak ulaştıkları metin, görsel ve ses unsurlarını çevrim içi dergi, elektronik kitap,
+metin hazırlama araçlarına aktarmalarını ister. Böylece onlara medya okuryazarlığı becerilerini kullan-
+dırmış olur. Öğretmen bu çalışmada genel ağda yer alan eserlerin telif hakları kapsamında değerlendi-
+rilmesi gerektiğini vurgular ve kaynak göstermenin önemi üzerinde durur. Bununla birlikte örnek bir dijital
+dergi göstererek öğrencilerden benzer bir çalışmayı oluşturmalarını ister. Etkinlik boyunca öğrencilerine
+rehberlik eder ve hazırlanan içeriklerin sonraki derste, çevrim içi dergi grup değerlendirme formu aracı-
+lığıyla değerlendirileceğini belirterek öğrencilerine formdaki ölçütler hakkında bilgi verir (Ek-1).
+İlgili Yetkinlikler/Beceriler: Medya okuryazarlığı, Öğrenmeyi öğrenme
+5. Ders (Sınıf)
+Öğrenciler, bu derste bir önceki derste oluşturulan çevrim içi dergilerin sunumunu grup olarak gerçekleş-
+tirir. Gruplar dergi sunumlarını etkileşimli tahta üzerinden gerçekleştirirken diğer öğrenciler de arkadaş-
+larının çalışmalarını değerlendirir (Ek-1). Öğretmen, öğrencilerin teknolojiye ve derse yönelik olumlu
+tutumlarını pekiştirmek amacıyla hazırlanan dergileri imkânlar dâhilinde, okulun internet sitesinde yayım-
+lanmasına yönelik çalışmalar gerçekleştirir. Sunumların ve grup değerlendirmelerinin tamamlanma-
+sıyla ders sona erer.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim
+Beceriler
+Öğrenme Yaklaşımı
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırma
+• EBA + etkileşimli içerik
+• Ders kitabı etkinlikleri
+• Çevrim içi dergi, elektronik kitap, metin hazırlama araçları için grup değerlendirme formu
+REFERANS
+Beceriler
+Öğrenme
+İlgili Bağlantılar
+Yaklaşımı
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Cümleye Hâkim Olan Duygular: http://meb.ai/D4q6ta (Son erişim tarihi: 21.05.2024)
+2. EBA İzmir’in Kavakları: https://meb.ai/U2YFhQ1 (Son erişim tarihi: 21.05.2024)
+Kaynakça
+Akkurt, S. & Boratov, O. (2018). Neden sanat eğitimi?. International Journal of Scholars in Education, 1(1),
+54-60.
+Başbuğ, F., & Başbuğ, Z. (2016). Görsel sanatlar eğitimi üzerine notlar. Akdeniz Sanat, 9(18), 74-98.
+Erdal, N. (2023). Ortaokul ve imam hatip ortaokulu 7. sınıf Türkçe ders kitabı. Dörtel Yayıncılık.
+Ersoy, A. (1995). Sanat kavramlarına giriş (2. Baskı). Yorum-Sanat Yayıncılık.
+Millî Eğitim Bakanlığı. (2019). Türkçe dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=663
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Mayıs 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Beceriler
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Beceriler
+Ekler
+Ek-1: Çevrim İçi Dergi, Elektronik Kitap, Metin Hazırlama Araçları İçin Grup Değerlendirme Formu
+EK-1
+Çevrim İçi Dergi, Elektronik Kitap,
+Metin Hazırlama Araçları İçin Grup Değerlendirme Formu
+Sevgili öğrenciler; bu form bir şairin hayatını anlatacak olan çevrim içi dergi, elektronik
+kitap, metin hazırlama çalışması için grup değerlendirme formudur. Dergi çalışması sonrası
+arkadaşlarınızın ürünlerini aşağıdaki ölçütlere göre verilen derecelerden sadece birini ilgili
+kutucuğa yazarak değerlendireceksiniz. Aynı zamanda arkadaşlarınız da sizin ürünlerinizi bu
+ölçütlere göre değerlendirecektir. Lütfen çalışmalarınızı bu ölçütler çerçevesinde gerçekleş-
+tirmeye çalışınız ve değerlendirmede tarafsız olunuz. Bu form ile diğer grupların çalışmala-
+rını değerlendikten sonra aynı ölçütler ile kendi grubunuzun çalışmasını da değerlendiriniz.
+Dereceler: Kesinlikle katılıyorum (5 puan), Katılıyorum (4 puan), Kararsızım (3 puan), Katılmıyorum
+(2 puan), Kesinlikle katılmıyorum (1 puan)
+Değerlendirmeyi Yapan Öğrencinin Adı Soyadı: ..............................................................................................................
+Tarih: ...............................................
+GRUP İSİMLERİ
+Kendi Grubum
+4. Grup
+5. Grup
+3. Grup
+2. Grup
+KRİTERLER
+1. Grup
+1. Dergide açık ve anlaşılır bir dil kullanılmıştır.
+2. Dergide kullanılan bilgiler doğru ve günceldir.
+3. Dergi içeriği ile ilgili yeterince araştırma yapıl-
+mıştır.
+4. Dergi, şairin hayatı hakkında yeterli bilgi
+içermektedir.
+5. Dergi ilgi çekici şekilde hazırlanmıştır.
+6. Dergi tasarımında metin ve görsel dengesine
+dikkat edilmiştir.
+7. Dergide görsel tasarıma özen gösterilmiştir.
+8. Dergi sayfaları arasında tasarımda tutarlılık
+vardır.
+9. Dergi sunumu ilgi çekici şekilde gerçekleştiril-
+miştir.
+10.Dergi sunumu için verilen süre verimli kulla-
+nılmıştır.
+TOPLAM PUAN
+Sanat ve Duygularımı
+LINKS:[["EBA Cümleye Hâkim Olan Duygular", "D4q6ta"], ["EBA İzmir’in Kavakları", "U2YFhQ1"]]

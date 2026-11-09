@@ -1,0 +1,130 @@
+## 6. Sinif/Matematik/Geometrik Sekiller - Geometrik Yolculuk.pdf
+SURE:5 KOD:MAT.6.3.4.
+KAV:Geometrik şekiller, Açı ölçme, Problem çözme
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Zeugma Mozaik Müzesi’nin sanal gezi uygulamasını EBA aracılığıyla öğrencilerle paylaşır. Derse
+gelmeden önce öğrencilerden müzeyi uygulama üzerinden gezmelerini, mozaik şekilleri dikkatlice incele-
+melerini ve ilgilerini çeken geometrik şekilleri not almalarını ister. Öğretmen de sanal müzeyi çevrim içi
+olarak gezer. Mozaiklerdeki geometrik şekillerden özellikle üçgen, kare, dikdörtgen, paralelkenar, eşkenar
+dörtgen ve yamuk gibi şekillerin yerini dersten önce belirler. Derslerde kullanılacak web araçlarını incele-
+yerek arayüzlerini tanır ve içerikleri inceler.
+1. Ders (Sınıf)
+Öğretmen Zeugma Mozaik Müzesi’nin sanal müze uygulamasını etkileşimli tahtada açar. Müzeyi çevrim içi
+olarak gezen öğrencilere deneyimlerini sorarak derse başlar. Öğrencilerin müzedeki mozaik eserlerde kulla-
+nılan geometrik şekilleri fark etmelerini sağlar. Soru-cevap yöntemiyle şekillerin üçgen, kare, dikdörtgen,
+paralelkenar, eşkenar dörtgen ve yamuk gibi temel geometrik şekillere benzediğini vurgular. Öğrenciler,
+ders öncesinde aldıkları notlardan yola çıkarak eserlerde hangi geometrik şekilllerin kullanıldığını söyler.
+Öğretmen etkileşimli tahtada Zihin Haritası içeriğini açar ve öğrencilerin gözlemlerini ilgili yerlere yazar.
+Daha sonra zihin haritası oluşturma araçlarıyla hazırladığı Sanal Müze Gezisi içeriğini açar. Öğrenciler,
+kendi oluşturdukları zihin haritasındaki bilgilerle öğretmenin sunduğu zihin haritasındaki bilgileri karşılaş-
+tırır. Öğretmen, ders süresince ele alınacak geometrik şekillerle sanal müze gezisinde keşfedilen geometrik
+şekiller arasındaki ilişkiyi vurgular.
+Öğretmen, zihin haritasındaki ilk şekil olan üçgenin özelliklerini öğrencilerin ön bilgilerini harekete geçirerek
+açıklar. Üçgenin açı özelliklerini açıklamak için dinamik matematik ve geometri araçlarıyla hazırladığı Üçgenin
+Açıları içeriğini etkileşimli tahtada açar. İçerikte yer alan üçgenin köşe noktaları hareket ettirildiğinde açıların
+değiştiğini ama iç açılarının toplamının her zaman 180° kaldığını öğrencilerin fark etmelerini sağlar. Daha
+sonra dinamik matematik ve geometri araçlarıyla hazırlanan Üçgen Çeşitleri içeriğini açar. Sürgüleri kulla-
+narak kenar uzunluklarını değiştirir ve kenarlarına göre farklı üçgen çeşitleri oluşturur. Öğretmen, açılarına
+ve kenarlarına göre üçgen çeşitlerini bu içerikle öğrencilere hatırlatır. Gönüllü öğrenciler söz alarak dinamik
+araçtaki üçgende değişiklikler yapar ve üçgenlerin özelliklerini gözlemler.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (BT Sınıfı)
+Öğretmen, görsel düzenleme araçlarıyla hazırladığı Sınıflandır ve Hesapla içeriğinin bağlantısını EBA’dan
+öğrencilerle paylaşır (Ek-1). Öğrenciler içerikte bulunan soruları çözer. Öğretmen, öğrencilerin konuyla ilgili
+eksik bilgilerine yönelik geri bildirimlerde bulunur.
+Dersin ikinci aşamasında öğretmen Sanal Müze Gezisi isimli zihin haritasını tekrar açar. Sıradaki şekillerden
+kare ve dikdörtgenin özelliklerine yönelik öğrencilerin ön öğrenmelerini harekete geçirecek yönlendirme-
+lerde bulunur. Öğrencilere özellikle önceki sınıf seviyelerinde bu şekillerin açı ve kenar özelliklerine ilişkin
+neler hatırladıklarını sorar. Dinamik matematik ve geometri aracıyla oluşturduğu Kare içeriğinin bağlantı-
+sını EBA’dan gönderir. Bu içerikte yer alan dinamik kare şeklinin “açılar” kutucuğuna tıklayarak karenin açı
+özelliklerini açıklar. Sonra “köşegen” kutucuğuna tıklayarak şekilde görünür hâle gelen köşegen özelliklerini
+vurgular. Böylece karenin açı, kenar ve köşegen özellikleri açıklanmış olur. Öğrenciler, kendi bilgisayarla-
+rından dinamik matematik ve geometri aracı etkinliğinde değişiklikler yaparak şeklin özelliklerini keşfeder.
+Ardından öğretmen, dinamik matematik ve geometri aracıyla oluşturduğu Dikdörtgen içeriğini öğrencilere
+gönderir; şeklin açı, kenar ve köşegen özelliklerini araç üzerinden açıklar. Öğrencilerin aktif çizim yapması
+için dinamik matematik ve geometri aracını kullanarak hazırlanan Çiziyorum içeriğinin bağlantısını EBA’dan
+gönderir. Öğrencilere belirtilen çizimleri yapmaları için yeterli süre verir. Gönüllü öğrenciler söz alarak yaptık-
+ları çizimleri açıklar. Öğretmen, gerekli gördüğünde açı ve kenar bileşenlerinin özelliklerine dair geri bildirim-
+lerde bulunarak öğrencilerin çizim yapmalarına rehberlik eder. Kare ile dikdörtgenin benzer ve farklı özellik-
+lerini belirtir.
+Ders Öncesi
+Öğretmen, iş birlikli çalışmalar için sınıf yapısını göz önünde bulundurarak öğrencileri 4-5 kişilik heterojen
+gruplara ayırır.
+3. Ders (BT Sınıfı)
+Öğretmen Sanal Müze Gezisi isimli zihin haritasını etkileşimli tahtada açar. Sıradaki geometrik şekillerin
+paralelkenar ve eşkenar dörtgen olduğunu söyler. Paralel doğruların bir kesenle yaptığı açıları hatırlatarak
+öğrencilerin konuya ilişkin ön öğrenmelerini harekete geçirir. Dörtgenlerin iç açıları toplamlarının aynı olduğu
+bilgisini tekrar ederek öğrencilerin paralelkenar ve eşkenar dörtgenin iç açı özelliklerini keşfetmeleri için
+yönlendirmeler yapar. Dinamik matematik ve geometri aracı kullanarak hazırladığı Paralelkenar içeriğinin
+bağlantısını EBA’dan paylaşır. Gruplar bu bağlantıyı kullanarak içeriği açar. Öğretmen de etkileşimli tahtada
+içeriği açarak paralelkenarın açı, kenar ve köşegen özelliklerini açıklar. Önce “açılar” kutucuğunu tıklayarak
+öğrencilerin eşit ve bütünler açıları keşfetmelerini sağlar. Ardından paralel kenarları ve eşit uzunluktaki kenar-
+Matematiksel doğrulama veya ispat yapma, Matematiksel temsillerden yararlanma,
+ları belirtir. Her gruptan “köşegenler” kutucuğunu tıklayarak dinamik matematik ve geometri aracı etkinli-
+Matematiksel temsilleri değerlendirme, Matematiksel çözümler geliştirme,
+ğindeki değişiklikleri gözlemlemelerini ve köşegenler ortaya çıktıktan sonra oluşan açıları sembollerle ifade
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+etmelerini ister. Daha sonra dinamik matematik ve geometri aracı kullanarak hazırladığı Eşkenar Dörtgen
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital bilgi üzerinden
+içeriğinin bağlantısını EBA’dan paylaşır. Etkileşimli tahtadan içeriği açarak öğrencilerin kenar, açı ve köşegen
+çıkarım yapmak
+özelliklerini keşfetmelerini sağlar. Gruplardan sırasıyla “kenarlar, açılar, köşegenler ve açılar, köşegen parça-
+larının uzunlukları” kutucuklarını tıklayarak değişimleri gözlemlemelerini ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Paralelkenar ve eşkenar dörtgenin benzer ve farklı özelliklerini vurgular. Anlık geri bildirim sağlayan web
+araçlarıyla hazırladığı Problem Kartları etkinliğinin bağlantısını EBA’dan paylaşır (Ek-2). Gruplara soruları
+çözmeleri için yeterli süre verir ve varsa öğrencilerin sorularını cevaplar.
+Ders Sonrası
+Öğretmen, görsel düzenleme aracı kullanarak hazırladığı Kuş Bakışı Geometrik Şehir içeriğini EBA’dan gruplarla
+paylaşır. Öğrenciler grup çalışması yaparak bu içerikte bulunan tasarım etkinliğini yapar. Grup çalışması
+fiziksel ya da çevrim içi olarak yapılabilir. Tasarımların bağlantıları bir sonraki derste EBA’dan paylaşılır.
+Karar verme, Muhakeme (akıl yürütme), Analitik düşünme, Matematiksel araç ve
+teknolojiden yararlanma, Ekip (takım) çalışması yapmak ve yardımlaşmak, Dijital
+araçlarla iş görme
+4. Ders (Sınıf)
+Öğretmen önce grupların EBA’da paylaştıkları Kuş Bakışı Geometrik Şehir etkinliğini kontrol eder. Eksik ya da
+hatalı çizimlere ve açı ölçümlerine ilişkin geri bildirimlerde bulunur. Sınıf oylamasıyla seçilen en etkili tasarımı
+ve doğru açı hesaplamalarını yapan grubu tebrik eder. Ardından yamuk konusunun özelliklerine geçer.
+Öğretmen dinamik matematik ve geometri aracıyla hazırladığı Yamuk içeriğini etkileşimli tahtada açar.
+Şeklin köşe noktalarının yerini değiştirdiğinde açıların da değiştiğini öğrencilere gösterir. Gönüllü öğrenciler
+söz alarak tahtada dinamik şekil üzerinde değişiklikler yapar. Öğretmen, yamuğun paralel kenarlar arasında
+kalan açı çiftlerinin bütünleri olduğunu keşfetmeleri için öğrencileri yönlendirir. Açı özelliklerini anlattıktan
+sonra “köşegenler ve köşegen parçaları” kutucuklarına tıklayarak değişimlerinin gözlemlenmesini sağlar.
+Öğrencilerin de dinamik matematik ve geometri aracını aktif kullandığı bir ortamda öğretmen, eksik ve
+hatalı bilgileri gidermek üzere geri bildirimlerde bulunur. Daha sonra öğretmen birden fazla seçim yapmayı
+sağlayan web araçlarını kullanarak hazırladığı Özellikleri Belirle içeriğini açar (Ek-3). Öğrenciler yapılandı-
+rılmış grid (harflendirilmiş kutucuk) etkinliğini tamamlar. Öğretmen gerekli kısımlarda geri bildirimde bulunur.
+Matematiksel çözümler geliştirme, Matematiksel araç ve teknolojiden yararlanma,
+Oyunseverlik, Muhakeme, Duygu ve düşüncelerini ifade etmek, Bilgiyi özetleme,
+Dijital bilgiyi değerlendirmek, Dijital araçlarla iş görme
+Ders Öncesi
+Öğretmen; çevrim içi dergi, elektronik kitap, metin hazırlama araçlarını kullanarak uzun cevaplı sorular
+içeren Öğrendiklerim içeriğini hazırlar ve bu içerikteki soruları çözerken çizim yapılacağını belirtir (Ek-4).
+Bu nedenle öğrencilerden cetvel ve açıölçer getirmelerini ister. Öğrenci sayısı kadar akran değerlendirme
+formu çıktısı alır (Ek-5). Derste çizimlerdeki güçlü yönleri ve geliştirilmesi gereken alanları belirleyecekleri
+bir akran değerlendirmesi yapılacağını sınıfa duyurur.
+Matematiksel doğrulama veya ispat yapma, Matematiksel temsillerden yararlanma,
+5. Ders (Sınıf) Matematiksel temsilleri değerlendirme, Matematiksel çözümler geliştirme,
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+Öğretmen uzun cevaplı sorular içeren ve çevrim içi dergi, elektronik kitap, metin hazırlama
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital araçlarını kulla-
+bilgi üzerinden
+narak hazırladığı Öğrendiklerim etkinliğini etkileşimli tahtada açar (Ek-4). Ders için hazırlamış olduğu bu
+çıkarım yapmak
+çevrim içi kitapta öğrencilerden çizimleri ve hesaplamaları yapmalarını ister. Böylece öğrencilerin öğren-
+dikleri bilgileri pekiştirmeleri sağlanır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Soruları sırayla açan öğretmen, öğrencilere cevaplar için yeterli süre tanır ve her bir sorunun çözümünden
+sonra diğerine geçer. Çizimler yapılırken öğrencilerin eksik ya da hatalı bilgilerine yönelik geri bildirim-
+lerde bulunur. Gönüllü öğrenciler söz alarak etkileşimli tahtada çözümlerini paylaşır. Öğretmen, dersin son
+on dakikasını öğrencilerin akran değerlendirmesi yapması için ayırır. Her öğrenci yanında oturan arkada-
+şının defterindeki çizimleri inceler ve öğretmenin dağıttığı akran değerlendirme formunu doldurur (Ek-5).
+Sonra doldurduğu formu değerlendirdiği arkadaşıyla değiştirir ve çalışmasını arkadaşının gözünden inceler.
+Öğretmen, senaryo kapsamında işlediği derslerde öğrenci performanslarını gözlem formu kullanarak değer-
+lendirir (Ek-6).
+Çıkarım yapma, Muhakeme (akıl yürütme), Eleştirel düşünme, Matematiksel
+çözümler geliştirme, Matematiksel araç ve teknolojiden yararlanma, Empati, Bilgiyi
+özetleme, Dijital bilgiyi anlamlandırma
+
+LINKS:[["Zeugma Mozaik Müzesi Sanal Gezi Rehberi", "UJB20qV"], ["Zihin Haritası", "6P0UD7"], ["Sanal Müze Gezisi", "49cdRX"], ["Üçgenin Açıları", "5qp4f2"], ["Üçgen Çeşitleri", "Uo480sU"], ["Sınıflandır ve Hesapla", "U4qV13u"], ["Kare", "lZ0fZ9"], ["Dikdörtgen", "jLM7wY"], ["Çiziyorum", "UMMepBS"], ["Paralelkenar", "UeC5T4V"], ["Eşkenar Dörtgen", "bF6Ayf"], ["Problem Kartları", "UqNXPxJ"], ["Kuş Bakışı Geometrik Şehir", "ZXTMoF"], ["Yamuk", "8fecu8"], ["Özellikleri Belirle", "NR77cj"], ["Öğrendiklerim", "Nt06Wz"]]

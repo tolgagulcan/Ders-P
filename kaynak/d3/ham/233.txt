@@ -1,0 +1,154 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Escher Ile Matematigin Sanatsal Dili Cember.pdf
+SURE:5 KOD:M.6.3.3.1. M.6.3.3.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Bilim ve Teknik dergisindeki Mathart: Matematiksel Sanat yazısını öğrencilere ders öncesinde
+gönderir ve onlardan yazıyı okuyarak gelmelerini ister. Escher’in çember kullanarak yaptığı eserlerini
+etkileşimli sunum yapma araçları ile sunum hâline getirir.
+Ders 1 (Sınıf)
+Öğretmen, derse girişte “Mathart: Matematiksel Sanat” yazısını okumayan veya yazının içeriğini unutan
+öğrenciler için yazıyı okuyanlara söz vererek kısa bir özet yaptırır. Gerekli gördüğü yerlere ekleme yaparak
+yazının içeriği hakkında sınıfın bilgi sahibi olmasını sağlar. Özetin ardından matematiksel sanat ve
+Escher‘in eserleri ile ilgili öğrencilerin fikirlerini öğrenmek için onlara söz verir. Öğrencilerin fikir üretmesi
+açısından sınıfa aşağıdaki soruları sorar:
+• Müzik, görsel sanatlar ve mimari gibi farklı sanat dallarında matematiğin rolü nedir?
+• Matematiksel kavramlar ve ilkeler sanatın hangi yönlerini etkiler?
+• Sanatçılar matematikten nasıl ilham alır ve eserlerinde matematiği nasıl kullanır?
+Öğretmen, her öğrencinin konuşmasına fırsat verir ve Escher‘in sanat eserlerini içeren etkileşimli sunum
+araçları ile hazırladığı çalışmayı öğrencilere sunar. Görsellerde kullanılan simetri, döndürme ve öteleme
+üzerine konuşur. Çemberin günlük hayattaki yansımalarına da değindikten sonra dersi bitirir.
+İlgili Yetkinlikler/Beceriler: İletişim, İlişkilendirme, Matematiksel süreç becerileri
+Ders 2 (Sınıf)
+Öğretmen, EBA’da bulunan Çember videosu ile derse giriş yapar. Videoda çemberin dönerken oluşturduğu
+şekillerle Escher‘in sanat eserleri arasında bağlantı kurar. Video izlendikten sonra öğretmen, çemberin
+tanımını ve elemanları olan çap ve yarıçap kavramlarını tekrar eder. Etkileşimli beyaz tahta araçlarındaki
+pergeli kullanarak tahtaya farklı yarıçapa sahip çemberler çizer. Öğretmen, çizimi bitirdikten sonra
+öğrencilerin de pergelleri ile defterlerine 1-10 cm arasında yarıçap uzunluğuna sahip çemberler çizmelerini
+ister. Öğrencilere bu etkinliğin öğretmen gözlem formu ile değerlendirileceğini belirtir ve değerlendirme
+kriterleri ile ilgili bilgi verir (Ek-1).
+İlgili Yetkinlikler/Beceriler: İletişim, Psikomotor beceriler, İlişkilendirme, Akıl yürütme
+Ders 3 (Sınıf)
+Öğretmen, öğrencilerden bir önceki derste çizmiş oldukları çemberlerin çevresini ip yardımıyla ölçmelerini
+ardından yarıçap, çap ve çevreyi defterlerinde oluşturdukları tablolara not etmelerini ister. Çemberlerin
+çevresi ile çapı arasındaki ilişki üzerine öğrencilerle konuşur. Öğrencilere çap büyüdükçe çevrenin arttığını,
+çap küçüldükçe çevrenin azaldığını vurgular. Dinamik matematik ve geometri web aracı hesaplama
+tablosunu etkileşimli tahta aracılığıyla öğrencilerle paylaşır (Ek-2). Birkaç öğrenci seçer ve öğrencilerden
+deftere çizdikleri en az iki çemberin yarıçapını, çapını ve iple ölçülen çevre uzunluğunu tabloya yazmalarını
+ister. Öğretmen, öğrencilere tablonun son sütununu bir sonraki ders doldurmak üzere boş bırakmalarını
+söyler. Çemberin çevresi ve çapı arasındaki ilişkiyi tablo üzerinden bir kez daha pekiştirir ve dersi bitirir.
+İlgili Yetkinlikler/Beceriler: İletişim, Akıl yürütme, Matematiksel süreç becerileri
+Ders 4 (Sınıf)
+Öğretmen, bir önceki derste oluşturulmuş dinamik matematik ve geometri web aracı hesaplama tablosunu
+etkileşimli tahtada öğrencilerle paylaşır. Tablonun son sütununu öğrencilerle doldurur. Birlikte doldurulan
+sütundaki değerlerin oran olduğuna vurgu yapar ve bu özel oranın “ sayısı” olduğunu öğrencilere aktarır.
+Dinamik matematik ve geometri web aracı ile oluşturulmuş sürgü kullanılarak yapılan farklı çemberleri
+öğrencilere göstererek aynı sabit orana ulaşılıp ulaşılmadığını öğrencilerle tartışır. Öğretmen, gözlem
+formunu kullanarak öğrencilerin öğrenme süreçlerini değerlendirir (Ek-1). EBA’da bulunan Çemberin
+Çevre Uzunluğunun Çapına Oranı ve Pi Sayısı videolarını öğrencilere izleterek konuyu pekiştirir.
+Ödev
+Öğretmen, EBA’da bulunan Çemberin Çizimi-Temel Elemanları ve Özellikleri-Çevre Uzunluğunun Çapa
+Oranı ve Pi videosunu konu tekrarı için öğrencilerle paylaşır.
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler
+Ders 5 (BT Sınıfı)
+Öğrenciler EBA’da Çember alt konu testinde bulunan soruları öğretmen rehberliğinde çözer. Öğretmen,
+konuda anlaşılmayan yerleri bu sorular aracılığı ile tespit ederek giderir. Daha sonra sınıfı iki veya üç
+gruba ayırır. Oyunlaştırılmış ölçme ve değerlendirme araçları ile oluşturulmuş sorularla gruplar yarışır.
+Oluşturulan sorular kısa cevaplı, doğru-yanlış ve çoktan seçmeli olarak çeşitlendirilir (Ek-3). Öğretmen,
+en fazla soruya doğru cevap veren grup üyelerini ödüllendirir. Çözümü yapılamayan ya da yanlış yapılan
+soruları çözerek dersi bitirir.
+Ödev
+Öğretmen, EBA’da bulunan Çember konu testi ve Çember alıştırma soruları ile öğrencileri ödevlendirir.
+Ödev takibini yaparak varsa eksik öğrenmelerle ilgili yeni planlamalar yapar.
+İlgili Yetkinlikler/Beceriler: Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler, İletişim,
+İş birliği, Akıl yürütme
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + konu testi
+• EBA + alt konu testi
+• Öğretmen gözlem formu
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Matematiksel Sanat: Tanıdık Bir Sima: M. C. Escher: http://meb.ai/UPbVTum (Son erişim tarihi: 13.05.2024)
+2. EBA Çember: http://meb.ai/1KWAWS (Son erişim tarihi: 13.05.2024)
+3. EBA Çemberin Çevre Uzunluğunun Çapına Oranı: http://meb.ai/WKRkAe (Son erişim tarihi: 13.05.2024)
+4. EBA Pi Sayısı-6. Ünite: http://meb.ai/UcV3FkB (Son erişim tarihi: 13.05.2024)
+5. EBA Çemberin Çizimi-Temel Elemanları ve Özellikleri-Çevre Uzunluğunun Çapa Oranı ve Pi: http://meb.
+ai/U4nWHZ7 (Son erişim tarihi: 13.05.2024)
+6. EBA Çember Alt Konu Testi: http://meb.ai/UvfahDe (Son erişim tarihi: 13.05.2024)
+7. EBA Çember-Çember Konu Testi: http://meb.ai/U4VA8ws (Son erişim tarihi: 13.05.2024)
+8. EBA Çember-Alıştırmalar: http://meb.ai/CFcexg (Son erişim tarihi: 13.05.2024)
+Kaynakça
+Koç, S. (1995). Matematiksel sanat: tanıdık bir sima: M. C. Escher. Bilim ve Teknik. Son erişim tarihi 6 Ağustos
+2024, http://meb.ai/UPbVTum
+Menteş, D. & Küçükşen Öner, F. (2023). Disiplinlerarasılık bağlamında sanat ve pozitif bilimler. Sanat
+Tasarım ve Mimarlık Araştırmaları, 3(2).
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Öğretmen Gözlem Formu
+Ek-2: Dinamik Matematik ve Geometri Web Aracı Hesaplama Tablosu
+Ek-3: Oyunlaştırılmış Ölçme ve Değerlendirme Araçları İçin Örnek Sorular ve Soruların Cevapları
+EK-1
+Öğretmen Gözlem Formu
+Bu form, öğretmenin öğrencilerin çember konusundaki mevcut durumlarını belirlemesi için hazırlanmıştır. Her kriter için verilen puanlardan uygun olanın
+işaretlenmesi gerekmektedir.
+Puanlama detayları: 1-Geliştirilebilir, 2-Yeterli, 3-Çok İyi
+KRİTERLER
+Çizdiği Dinamik Çemberin
+Çemberin
+Pergel kullanarak çemberlerin matematik ve çevresinin
+tanımını ve temel TOPLAM
+ADI SOYADI farklı yarıçapa çevresini iple geometri web çapına oranının
+bileşenlerini PUAN
+sahip çemberler ölçerek yaklaşık aracında iple ( sayısı)
+(çap-yarıçap)
+oluşturmuştur. değerini yaptığı ölçümleri sabit olduğunu
+anlamıştır.
+bulmuştur. karşılaştırmıştır. anlamıştır.
+Escher ile Matematiğin Sanatsal Dili: Çember
+EK-2
+Dinamik Matematik ve Geometri Web Aracı Hesaplama Tablosu
+Aşağıda verilen tabloya belirlediğiniz çemberlerin sırasıyla yarıçap, çap ve iple ölçtüğünüz çevre uzunluğuna ait bilgilerini yazınız.
+DİNAMİK MATEMATİK VE GEOMETRİ WEB ARACI HESAPLAMA TABLOSU
+İple Ölçülen Çemberin
+Çember Numarası Yarıçapı (cm) Çapı (cm) Yaklaşık Çevre Çemberin Çevresi/Çapı
+Uzunluğu (cm)
+Escher ile Matematiğin Sanatsal Dili: Çember
+EK-3
+Oyunlaştırılmış Ölçme ve Değerlendirme Araçları
+İçin Örnek Sorular ve Soruların Cevapları
+Açıklama: Öğretmen, aşağıda verilen örnek soruları kullanarak veya kendisi yeni soru ekleyerek oyunlaştırılmış
+ölçme ve değerlendirme web araçlarından biri ile çalışma hazırlayabilir.
+Sorular ve Cevapları
+KISA CEVAPLI SORU ÖRNEKLERI VE SORULARIN CEVAPLARI
+1. Çemberin çevresinin çapına oranı hangi sayıya eşittir?
+Doğru Cevap: sayısı
+2. Yarıçapı 10 cm olan çemberin çapı kaç cm’dir?
+Doğru Cevap: 20 cm
+DOĞRU-YANLIŞ SORU ÖRNEKLERI VE SORULARIN CEVAPLARI
+1. (.....) Düzlemde sabit bir noktadan eşit uzaklıktaki noktaların oluşturduğu geometrik şekle çember denir.
+Doğru Cevap: Doğru
+2. (.....) Çemberin merkezinden geçen ve çember üzerindeki iki noktayı birleştiren doğru parçasına yarıçap
+denir.
+Doğru Cevap: Yanlış
+ÇOKTAN SEÇMELI SORU ÖRNEKLERI VE SORULARIN CEVAPLARI
+1. Uzunluğu 96 cm olan bir ip, uçları birleştirilerek çember şekline getiriliyor.
+Buna göre bu çemberin yarıçapı kaç cm’dir? ( =3 alınız.)
+A) 24 B) 16 C) 12 D) 8
+Doğru Cevap: B
+2. Yarıçapı 250 cm olan bir tekerlek 10 tur attığında kaç m yol alır? ( =3 alınız.)
+A) 150 B) 120 C) 100 D) 75
+Doğru Cevap: A
+Escher ile Matematiğin Sanatsal Dili: Çembe
+LINKS:[["Matematiksel Sanat: Tanıdık Bir Sima: M. C. Escher", "UPbVTum"], ["EBA Çember", "1KWAWS"], ["EBA Çemberin Çevre Uzunluğunun Çapına Oranı", "WKRkAe"], ["EBA Pi Sayısı-6. Ünite", "UcV3FkB"], ["EBA Çember Alt Konu Testi", "UvfahDe"], ["EBA Çember-Çember Konu Testi", "U4VA8ws"], ["EBA Çember-Alıştırmalar", "CFcexg"]]

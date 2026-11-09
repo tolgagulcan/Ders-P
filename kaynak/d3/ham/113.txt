@@ -1,0 +1,146 @@
+## 5. Sinif/Matematik/Sayilar ve Nicelikler (2) - Gecmisten Gunumuze Hayatimizin Parcasi- Kesirler.pdf
+SURE:5 KOD:MAT.5.1.3.
+KAV:Alan modellemesi, Ondalık gösterim, Sayı doğrusunda gösterim, Sembolik kesir gösterimi, Yüzde
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, ders öncesinde dijital pano ya da post-it oluşturma aracını kullanarak öğrencilere kesirlerin farklı
+gösterimlerini sorar ve öğrencilerden gelen yanıtları derste kullanmak üzere kaydeder.
+1. Ders (Sınıf)
+Öğretmen, öğrencilere “Kesirleri nasıl gösterebiliriz?” sorusunu yöneltir. Öğrencilerden gelen cevapları dijital
+pano ya da post-it oluşturma aracını kullanarak etkileşimli tahtada gösterir. Öğrencilerin yanıtlarının kesir-
+lerin farklı gösterimlerinin tamamını (alan modellemesi, sembolik, ondalık, yüzde, sayı doğrusu) içerdi-
+ğinden emin olur. Kesirlerin tarihsel süreçte çeşitli medeniyetler tarafından yaygın olarak kullanıldığını ve
+farklı biçimlerde gösterildiğini anlatan etkileşimli sunum aracında hazırlanmış Tarihsel Süreçte Kesirlerin
+Farklı Gösterimleri adlı sunuyu açar.
+Sunum sonrasında öğretmen, öğrencilerden ders başında ifade ettikleri kesirlerin farklı gösterimlerinin
+hangi durumlarda daha çok kullanıldığını düşünmelerini ister. “Farklı gösterimlere neden ihtiyaç duyuldu?”
+sorusuyla öğrencilerin düşünmelerini sağlar. Öğrencilerden farklı gösterimleri kullanışlılık açısından karşı-
+laştırmalarını, hangi gösterimin kesirlerin anlamını daha iyi yansıttığına ve daha kullanışlı olduğuna dair
+karar vermelerini ister. Kesirlerin farklı gösterimlerini günlük hayatta kullanışlılık, hesaplama veya görselleş-
+tirme kolaylığı gibi farklı ölçütler kullanarak değerlendirmeleri ve kararlarını gerekçelendirmeleri konusunda
+öğrencileri yönlendirir.
+Ardından öğretmen, sınıfa “Bir mağazada indirim olduğunu düşünün. Bu indirimi hesaplarken sizce ‘yarım
+1
+( 2 )’ olarak mı, ‘yüzde elli (%50)’ olarak mı yoksa ‘sıfır tam onda beş (0,5)’ olarak mı düşünmek daha kolay
+olur? Neden?” sorusunu yöneltir. Öğrencilerden gelen cevapları etkileşimli tahtaya yazar ve bu cevapları
+sınıfça tartışırlar.
+Dersin sonunda öğretmen; öğrencilerden kesirleri başka yollarla nasıl gösterebileceklerini düşünmele-
+rini, kendi gösterim fikirlerini geliştirmelerini ve tasarlamalarını ister. Farklı fikirler geliştiren öğrenciler, kendi
+düşündükleri kesir gösterim sistemlerini sınıfla paylaşır.
+Ders Sonrası
+Öğretmen, öğrencilerden ondalık ve yüzde gösterimlerin tarihsel süreçte nasıl ortaya çıktığını araştırmala-
+rını ister. Öğrencilere çalışmalarını poster ve afiş oluşturma web araçlarını kullanarak tasarlayabilecekle-
+rini belirtir. Öğrenciler araştırmalarını sınıf yönetim aracıyla paylaşır.
+Karar verme becerisi, Karşılaştırma becerisi, Matematiksel doğrulama veya ispat
+yapma, Matematiksel temsillerden yararlanma, Dijital araçlarla iş görme, Merak,
+Yaratıcılık
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, sınıf mevcuduna göre üçerli veya dörderli heterojen gruplar oluşturur. Her bir grup için çevrim
+içi dergi, elektronik kitap, metin hazırlama araçları ile hazırlanan Merdiven Oyunu oyun kartlarının ve merdi-
+venlerin çıktısını alır (Ek-1). Oyun kartlarını ve merdivenleri keserek derste kullanıma hazır hâle getirir.
+2. Ders (Sınıf)
+Öğretmen, kesirlerin farklı gösterimlerine yönelik bir grup oyunu oynayacaklarını söyleyerek derse başlar.
+Etkileşimli sunum aracıyla hazırlanmış Merdiven Oyunu yönergesini etkileşimli tahtada açarak oyunun kural-
+larını ve nasıl oynanacağını örneklerle açıklar (Ek-1). Oyunda amaç, kesirlerin farklı gösterimlerini içeren oyun
+kartlarını merdivenlerdeki bölümlere aşağıdan yukarıya doğru küçükten büyüğe yerleştirmektir. Öğretmen,
+her bir gruba oyun kartlarını ve merdivenleri dağıtır. Öğrenciler oyunu oynarken öğretmen sınıf içerisinde
+dolaşarak grupların oyun kurallarını doğru bir şekilde uygulayıp uygulamadıklarını kontrol eder ve ihtiyaç
+duyan gruplara yardımcı olur. Oyun tamamlandıktan sonra öğrencilerin oyun hakkındaki görüşlerini alır. Bu
+aşamada öğrencilerden kartları yerleştirirken aşağıdaki sorular üzerine kendi aralarında tartışmalarını ister:
+• Hangi kesir temsilini daha kolay buldunuz?
+• Hangi kesir temsili, anlamı daha net yansıtıyor?
+• Hangi kesir temsilini günlük yaşamda daha çok kullanıyorsunuz?
+Öğretmen, öğrencileri farklı temsilleri bu ölçütlerle karşılaştırmaları ve hangi gösterimin daha kullanışlı
+olduğuna karar vermeleri için yönlendirir. Ardından öğrencilere oyunu nasıl farklılaştıracaklarını sorar ve
+öğrencilerin oyunun geliştirilmesine yönelik önerilerini alır. Dersin sonunda öğrencilerden kesirlerin farklı
+gösterimleri ile ilgili kendi oyunlarını tasarlamalarını ister.
+Ders Sonrası
+Öğrenciler, tasarladıkları kesirlerin farklı gösterimleri ile ilgili oyunlarını sınıf yönetimi aracıyla paylaşır.
+Karşılaştırma becerisi, Karar verme becerisi, Tartışma becerisi Matematiksel
+muhakeme, Matematiksel temsilleri değerlendirme, Oyunseverlik, Kişi ve gruplarla
+iş birliği yapmak, Dijital ortamlar için içerik oluşturma ve paylaşma, Yaratıcılık
+Ders Öncesi
+Öğretmen, öğrencileri sınıf mevcuduna göre 3 veya 4 kişilik gruplara ayırır.
+3. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin dikkatini çekmek için “Sınıfımızda hangi harfle başlayan isimler çoğunluktadır? Peki,
+bu isimlerle kesir oluşturabilir miyiz?” sorularını sorarak derse başlar. Öğrencilerin yanıtları doğrultusunda
+örnek olarak belirlediği bir sınıftaki öğrenci isimlerinden yola çıkarak kesir, ondalık ve yüzde gösterimleriyle
+ilgili hesaplamalar yapacaklarını açıklar.
+Ardından gruplardan etkileşimli sunum aracı ile hazırlanan İsimlerimizdeki Kesirler, Ondalıklar ve Yüzdeler
+etkinliğini bilgisayarlarında açmalarını ister (Ek-2). Gruplar, etkinlikte yer alan soruları sırayla cevaplar.
+Öğrencilerden hesaplamaların yanı sıra bu üç gösterimi karşılaştırarak hangisinin durumu daha açık ve
+anlaşılır kıldığını, hangisinin günlük yaşamda daha kullanışlı olduğunu tartışmalarını ister. Öğretmen sınıf
+içinde dolaşarak gruplara rehberlik eder ve tartışmaları yönlendirir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Sonrasında öğretmen ve öğrenciler, soruları birlikte değerlendirirler. Yanıtlara ulaşamayan gruplara öğretmen
+yardım eder. Eğer hatalı yanıtlar varsa bu yanıtlar üzerinden sınıf genelinde tartışma yapılır. Tartışma sırasında
+öğrenciler farklı gösterimleri kullanışlılık açısından karşılaştırır ve gerekçeleriyle birlikte kararlarını ifade eder.
+Dersin sonunda öğretmen, her gruptan etkinlik kâğıtlarındaki sorulara benzer üç yeni soru hazırlamasını
+ister. Böylece öğrenciler, kendi sorularını üretirken hangi gösterimlerin hangi durumlarda tercih edilebile-
+ceğine dair karar verme becerilerini de pekiştirir.
+Ders Sonrası
+Gruplar, hazırladıkları soruları dijital pano ya da post-it oluşturma aracıyla diğer öğrencilerle paylaşır. Öğren-
+ciler, kendi gruplarının dışındaki soruları çevrim içi ortamda çözer ve yanıtlarını gönderir.
+Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardımlaşmak, Karar
+verme, Karşılaştırma, Matematiksel doğrulama veya ispat yapma, Matematiksel
+çözümler geliştirme, Matematiksel temsillerden yararlanma, Tartışma becerisi
+Ders Öncesi
+Öğretmen, öğrencileri sınıf mevcuduna göre 3 veya 4 kişilik gruplara ayırır. Her grup için MateBot etkinlik
+kâğıdının çıktısını alır (Ek-3).
+4. Ders (Sınıf)
+Öğretmen öğrencilere EBA’daki Robotlar isimli videoyu izleterek derse başlar. Ardından öğrencilere bir
+parkurda ilerlemek üzere tasarlanan MateBot isimli robot üzerinden kesir, ondalık ve yüzde gösterimle-
+riyle ilgili hesaplamalar yapacaklarını söyler. Daha sonra görsel düzenleme aracıyla hazırlanmış MateBot
+Parkuru şablonunu etkileşimli tahtada açar. MateBot isimli robotun 20 eş kareden oluşan bir parkurda A
+harfli kareden başlayarak P harfli kareye doğru ilerlediğini ifade eder. Öğrencilere MateBot’un parkurda
+ilerledikçe bulunduğu konuma karşılık gelen ifadeyi ekranında kesir, ondalık ve yüzde biçiminde göster-
+diğini ve aynı zamanda bu ifadelerin okunuşunu sesli olarak verdiğini belirtir. Her gruba etkinlik kâğıtlarını
+dağıtır (Ek-3). Gruplar, etkinlikte yer alan soruları sırayla cevaplar. Sorular öğrencilerin farklı temsilleri birbi-
+rine dönüştürmelerini, hangi temsilin hangi durumlarda daha kullanışlı olduğunu fark etmelerine yardımcı
+olur. Öğretmen sınıf içinde dolaşarak gruplara rehberlik eder ve tartışmaları yönlendirir.
+Daha sonra öğrenciler, etkinlik sorularını sınıfça değerlendirirler. Yanıtlara ulaşamayan gruplara öğretmen
+yardımcı olur. Öğrenciler, hatalı yanıtları sınıfça tartışır ve bu tartışmalar sonucunda farklı gösterimlerin hangi
+durumlarda daha kullanışlı olduğuna ilişkin karşılaştırmalar yaparlar. Öğretmen, öğrencilerden kararlarını
+gerekçeleriyle birlikte açıklamalarını ister.
+Dersin sonunda öğretmen, her gruptan etkinlik kâğıtlarındaki sorulara benzer üç yeni soru hazırlamalarını
+ister. Böylece öğrencilerin hem mevcut bilgilerini pekiştirmelerine hem de farklı gösterimlerin karşılaştırıl-
+ması ve seçilmesi konusunda karar verme becerilerini geliştirmelerine imkân tanır.
+Ders Sonrası
+Gruplar, hazırladıkları soruları dijital pano ya da post-it oluşturma aracıyla diğer öğrencilerle paylaşır. Öğren-
+ciler, kendi gruplarının dışındaki soruları çevrim içi ortamda çözer ve yanıtlarını gönderir.
+Grup iletişimine katılmak, Kişi ve gruplarla iş birliği yapmak, Karar verme becerisi,
+Oyunseverlik, Tartışma becerisi
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencilere kesirlerin farklı temsillerle gösterim becerilerini geliştirmeleri için EBA’daki Kartları
+Topla adlı oyunu önerir. Ayrıca, Kesirlerin Çoklu Temsilleri başlıklı eşleştirme etkinlik kâğıtlarının baskısını alır
+ve kartları keserek derste kullanmak üzere hazırlar (Ek-4). Etkinlik sonrasında uygulanılacak öz değerlen-
+dirme formunun da sınıf mevcudu kadar çıktısını alır ve değerlendirme kriterleri hakkında öğrencileri bilgi-
+lendirir (Ek-5).
+5. Ders (Sınıf)
+Öğretmen, öğrencilere “Kesirleri hangi farklı şekillerde temsil edebiliriz?” sorusunu yönelterek derse başlar.
+a
+Öğrencilerin sembolik gösterim ( biçiminde), alan modeli, sayı doğrusu, ondalık ve yüzde gösterimleri
+b
+gibi yanıtlar vermeleri için gerekli yönlendirmeleri yapar. Ardından bu temsilleri içeren bir eşleştirme etkin-
+liği yapacaklarını söyler.
+Öğretmen, önceden keserek hazırladığı eşleştirme kartlarından her öğrenciye birer tane dağıtır. Kartlarda
+bir kesrin farklı temsillerinden biri yer almaktadır (örneğin yalnızca ondalık ya da yalnızca alan modeli).
+Öğrencilerden kartlarını dikkatlice incelemelerini ister. Karttaki kesrin diğer temsillerini içeren eş kartların
+farklı öğrencilerde bulunduğunu belirtir. Öğrenciler, konuşmadan sınıf içinde dolaşarak kendi kartlarıyla eş
+değerdeki gösterim içeren öğrencileri bulur ve bir grup oluşturur.
+Etkinlik tamamlandıktan sonra öğretmen, öğrencilerden eşleştirmelerle ilgili kısa bir tartışma yapmalarını
+ister. Hangi temsillerin birbirine daha kolay dönüştürüldüğünü, hangilerinin daha açıklayıcı olduğunu sorgu-
+latır. Böylece öğrenciler, farklı temsilleri kullanışlılık açısından karşılaştırarak karar verir.
+Dersin sonunda öğretmen, öğrencilere öz değerlendirme formunu dağıtır (Ek-5). Öğrenciler formu doldu-
+rarak ders boyunca öğrendiklerini ve hangi temsilleri daha kullanışlı bulduklarını paylaşır.
+Ders Sonrası
+Öğretmen, öğrencilerin kesirlerin farklı temsilleri konusunda pratik yapmaları için oyunlaştırılmış ölçme ve
+değerlendirme web aracı ile hazırlanmış Kesirlerin Farklı Temsilleri isimli dijital oyunu öğrencilerle paylaşır
+(Ek-6).
+Sözlü ya da sözsüz olarak etkileşim sağlamak, Kişi ve gruplarla iş birliği yapmak,
+Matematiksel temsillerden yararlanma, Dijital araçlarla iş görme, Oyunseverlik,
+Tartışma becerisi, Karar verme becerisi, Karşılaştırma becerisi
+
+LINKS:[["Tarihsel Süreçte Kesirlerin Farklı Gösterimleri", "z5O7sa"], ["Merdiven Oyunu", "UjBUYI6"], ["İsimlerimizdeki Kesirler, Ondalıklar ve Yüzdeler", "UaTSMlv"], ["EBA Robotlar", "UzRm0hb"], ["MateBot Parkuru", "hI1ShU"], ["EBA Kartları Topla", "mkl6mq"], ["Kesirlerin Farklı Temsilleri Oyunu", "XgB5Mt"]]

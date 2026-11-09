@@ -1,0 +1,74 @@
+## 5. Sinif/Sosyal Bilgiler/Teknoloji ve Sosyal Bilgiler - Teknolojik Hayatim.pdf
+SURE:3 KOD:SB.5.6.1.
+KAV:EBA, Teknolojinin etkileri, Buluş, E-Nabız
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen öğrencileri 4-6 kişilik gruplara ayırır. Her gruba bir isim verir. “Teknolojik Ürünlerin Toplum Hayatına
+Etkileri” etkinlik kâğıdını gruplara dağıtır (Ek-1). Yazılı ve görsel kaynaklar üzerinden teknolojik gelişme-
+lerin kültür, ekonomi, eğitim, sağlık, iletişim ve ulaşım açısından toplum hayatına etkilerini dijital kaynak-
+lardan araştırmalarını öğrencilerden ister. Çevrim içi tartışma araçları ile öğrencilerin inceledikleri kaynak-
+lardan yola çıkarak teknolojik gelişmelerin toplum hayatına etkilerini gerekçeleriyle ortaya koymalarını
+onlara söyler. Yapılan çalışma sonunda grupların, iddiaları ile ilgili bir sunum yapacaklarını ve sunumun
+da “Teknolojik Ürünlerin Toplum Hayatına Etkileri Grup Değerlendirme Formu” ile arkadaşları tarafından
+değerlendirileceğini belirterek ilgili formu incelemelerini öğrencilere söyler (Ek-2). Öğrenciler, hazırladık-
+ları ürünleri öğretmenin dijital pano ya da post-it oluşturma araçları ile oluşturduğu Teknolojinin Hayatı-
+mıza Etkileri panosunda paylaşır.
+1. Ders (Sınıf)
+Bu ders öncesi, teknolojik ve bilimsel gelişmelerin insan hayatına etkileri, dijital ortamda uyulması gereken
+güvenlik kuralları, bilinçli teknoloji kullanımı, temel hak ve hürriyetler konularında öğrencilerin temel düzeyde
+bilgi sahibi oldukları kabul edilmektedir.
+Öğretmen sınıfa girince çantasını ve ceplerini kontrol eder. Kısa bir arayışın ardından panikle, “Eyvah, telefo-
+numu evde unutmuşum! Şimdi kimse bana ulaşamaz, birkaç havale işlemi de yapacaktım, onlar ne olacak?”
+diye kendi kendine söylenir. Etkileşimli tahta üzerinden zihin haritası oluşturma aracını açar ve öğrenci-
+lere hangi teknolojik araçlara sahip olduklarını sorar. Öğrencilerden gelen cevaplar doğrultusunda sınıfla
+Sahip Olduğunuz Teknolojik Araçlar örneğine benzer bir zihin haritası oluşturulur. Öğretmen, oluşturulan
+zihin haritasını ders sonunda EBA’da paylaşır ve zihin haritasına göre aşağıdaki soruları öğrencilere sorar:
+• Sahip olduğunuz teknolojik araçları hangi sıklıkla kullanıyorsunuz?
+• Sahip olduğunuz teknolojik araçları hangi amaçlarla kullanıyorsunuz?
+• Sahip olduğunuz teknolojik araçların kullanımı sırasında hangi problemlerle karşılaşıyorsunuz?
+Öğretmen, öğrencilerden gelen yanıtlara olumlu pekiştireçlerde bulunduktan sonra EBA’dan Buluşlar, Tekno-
+lojik Gelişmeler ve Yaşantımız başlıklı içeriği açar. Öğrencilerin bu canlandırmayı izleyerek buluşların ve
+teknolojik gelişmelerin günlük yaşam üzerindeki etkilerini fark etmelerini sağlar.
+Ders Sonrası
+Ders sonunda EBA’da yer alan Alıştırmalar-Teknoloji ve Toplum etkinliğini öğrencilere gönderir, verilen süre
+sonunda raporlar bölümünden öğrencilerin çalışmalarını değerlendirir.
+Bilgiyi toplama, Kişi ve gruplarla iş birliği yapmak, Sorumluluk, Tartışma, Gerçeği
+arama, Dijital bilgiye ulaşma ve dijital bilgiyi tanıma, Dijital araçlarla iş görme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (BT Sınıfı)
+Dersin başında öğretmen, etkileşimli tahtada Teknolojinin Hayatımıza Etkileri panosunu açar. Ardından her
+çalışma grubu sırayla araştırma iddialarını sunar ve arkadaşlarından gelen soruları yanıtlar. Öğretmen,
+gerektiğinde gruplara destek olur ve geri bildirimde bulunur. Her sunumun ardından dinleyici öğrenciler,
+“Teknolojik Ürünlerin Toplum Hayatına Etkileri Grup Değerlendirme Formu” ile sunumu değerlendirir (Ek-2).
+Değerlendirme formunun nasıl doldurulacağı öğrencilere önceden açıklanır.
+Öğretmen, tüm öğrencilere EBA mesajlar üzerinden anket araçları ile hazırlanan EBA Kullanım Anketi’ni
+gönderir (Ek-3). Öğrenciler, kişisel EBA adreslerine girerek anketi doldurur. Ardından, anket sonuçları etkile-
+şimli tahtada açılarak öğrencilerle incelenir.
+Öğretmen “EBA, eğitimde dijital dönüşümü destekleyen önemli bir platformdur. Öğrenciler; EBA sayesinde
+istedikleri zaman ve yerde ders tekrarı yapabilir, zengin içeriklere ulaşabilir ve öğretmenleriyle etkileşimde
+bulunabilirler. Öğretmenler ise EBA’yı kullanarak derslerini daha etkili hâle getirebilir, öğrencilerini daha
+kolay takip edebilir ve yeni materyallere kolayca ulaşabilirler. EBA hem öğrencilerin hem de öğretmen-
+lerin eğitim süreçlerini destekleyerek daha verimli bir öğrenme ortamı sunar.” açıklamasını yapar. EBA’nın
+eğitim hayatımızı kolaylaştıran bir teknolojik altyapı olduğunu belirtir.
+Bilgi ihtiyacını fark etme, İş birliği, Sorumlu karar verme, Yaratıcılık, Açık fikirlilik,
+Dijital araçlarla iş görme, İletişim kurma ve paylaşma, Dijital bilgiyi karşılaştırmak,
+Dijital araçlarda etkileşimi gözlemlemek ve çözümlemek
+3. Ders (Sınıf)
+Öğretmen, öğrencilere e-Nabız uygulamasını duyup duymadıklarını sorar ve kullanım amaçları ile sağla-
+dığı kolaylıklar hakkında onların fikirlerini alır. Gelen yanıtların ardından e-Nabız sayfasını açarak başvuru
+sürecini uygulamalı olarak öğrencilere anlatır. Devamında aynı sayfada yer alan “e-Nabız’da Neler Var?”
+içeriğini öğrencilerle izler ve e-Nabız hakkında kısa bir bilgilendirme yapar: “E-Nabız, Sağlık Bakanlığı
+tarafından geliştirilen ve vatandaşların sağlık bilgilerine dijital ortamda erişmelerini sağlayan kişisel sağlık
+sistemidir. Bu platform üzerinden kullanıcılar; laboratuvar sonuçları, reçeteler, radyoloji görüntüleri, doktor
+muayene geçmişi ve aşı bilgileri gibi sağlık verilerine ulaşabilir. Ayrıca randevu takibi yapabilir, ilaç hatır-
+latıcıları oluşturabilir ve sağlık verilerini doktorlarıyla paylaşabilirler. E-Nabız hem web sitesi hem de mobil
+uygulama üzerinden kullanılabilir.”
+Öğretmen, çıktısını aldığı “Teknolojinin Olumlu ve Olumsuz Yönleri” çalışma kâğıdını öğrencilerine dağıtır
+(Ek-4). Öğrencilerin çalışma kâğıdında yer alan metni okuyarak soruları cevaplamalarını ister. Dersin son
+Ders Sonrası
+Öğretmen, Buluşlar ve Teknolojik Gelişmelerin Toplum Hayatına Etkileri konulu oyunlaştırılmış ölçme ve
+değerlendirme web araçları ile hazırlanan etkinliği EBA mesajlar üzerinden öğrencilere gönderir (Ek-5). Bir
+sonraki ders ihtiyaç duyulan sorular ve cevaplar üzerine konuşulur.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["EBA Buluşlar, Teknolojik Gelişmeler ve Yaşantımız", "UxwoXSO"], ["EBA Alıştırmalar-Teknoloji ve Toplum", "UWr1hjx"], ["EBA Kullanım Anketi", "h2SMxM"], ["E-Nabız", "BuLRFv"], ["Teknolojinin Hayatımıza Etkileri", "03Lb1x"], ["Buluşlar ve Teknolojik Gelişmelerin Toplum Hayatına Etkileri", "UV5Lqpe"], ["Sahip Olduğumuz Teknolojik Araçlar", "UPAGl8b"]]

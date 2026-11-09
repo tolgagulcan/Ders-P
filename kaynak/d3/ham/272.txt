@@ -1,0 +1,80 @@
+## 6. Sinif/Turkce/Bilim ve Teknoloji - Newton'in Elmasi.pdf
+SURE:3 KOD:T.O.6.14. T.O.6.20. T.K.6.10.
+KAV:Bilim, Söz sanatları, Sunum
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, ders öncesinde yapay zekâ destekli araçlardan da yararlanarak Isaac Newton ile ilgili örnekte-
+kine benzer bir öyküleyici metin oluşturur (Ek-1). Metni öğrenci sayısı kadar çoğaltır. Oyunlaştırılmış ölçme
+ve değerlendirme web araçlarını kullanarak metni kavramaya yönelik sorulardan oluşan Okuyorum, Kavrı-
+yorum adlı bir etkinlik hazırlar (Ek-2). Ayrıca görsel düzenleme araçları yardımıyla bir Hikâye Haritası oluşturur
+ve bu haritayı yeterli sayıda basılı olarak çoğaltır (Ek-3).
+1. Ders (Sınıf)
+Öğretmen, öğrencilerde merak uyandırmak için etkileşimli tahtadan Isaac Newton’ın elma ağacının altında
+oturduğu bir görsel bulup açar. Öğrencilere görseldeki kişinin kim olduğunu bilip bilmediklerini sorar ve
+Newton hakkında kısa bir bilgilendirme yapar. Ardından ders öncesinde hazırladığı “Newton’ın Elması” adlı
+metni öğrencilere dağıtır (Ek-1). Örnek teşkil etmek için ilk okumayı kendisi yapar, ardından gönüllü birkaç
+öğrenciye metni okutur. Okuma yaparken öğrencilere bilmedikleri kelimeler varsa bağlamdan hareketle
+bu kelimelerin anlamlarını tahmin etmelerini ve ders sonrasında sözlük yardımıyla araştırmalarını söyler.
+Onlardan bu sözcükleri daha sonra tartışmak üzere not almalarını ister. Okuma tamamlandıktan sonra
+metni kavramaları için hazırladığı Okuyorum, Kavrıyorum adlı etkinliği açar ve soruların yanıtlanmasında
+öğrencilere rehberlik eder (Ek-2). Ardından ders öncesinde hazırladığı Hikâye Haritası görselini etkileşimli
+tahtada açar ve haritanın çıktısını öğrencilere dağıtarak hikâye unsurlarının ve unsurlar arasındaki bağlan-
+tıların belirlenmesinde onlara rehberlik eder (Ek-3).
+Ders Sonrası
+Öğretmen, öğrencileri dört gruba ayırır ve grup bilgilerini EBA’dan paylaşır. Bir sonraki derste yapacakları
+sözlü sunum için öğrencilerden gruplarına verilen konuyu araştırmalarını ister ve aşağıdaki konu başlıkla-
+rını onlarla paylaşır:
+• Birinci Grup: Newton’ın Çocukluğu ve Eğitimi
+• İkinci Grup: Yer Çekiminin Keşfi
+• Üçüncü Grup: Işık ve Renk Deneyi-Teleskobun İcadı
+• Dördüncü Grup: Hareket Yasaları
+Öğretmen, grup değerlendirme formunu hazırlar (Ek-4).
+Çözümleme, Merak, Okumayı yönetme, Anlam oluşturma, Duygu ve düşüncelerini ifade
+etmek, Bilgi ihtiyacını fark etmek, Dijital bilgiye ulaşma ve dijital bilgiyi tanıma, Dijital
+bilgiyi anlamlandırma
+Ders Öncesi
+Öğretmen, söz sanatlarıyla ilgili yapacağı çalışmaya hazırlık olması amacıyla EBA’da bulunan Söz Sanat-
+ları video içeriğini öğrencilerle paylaşır ve onlardan ders öncesi izlemelerini ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+Öğretmen; önceki derste yapılanları kısaca özetleyerek öğrencilerin Newton’un hikâyesindeki olayları ve
+unsurları incelediklerini, şimdi ise hikâyenin dilini ve anlatımını inceleyeceklerini söyler.Öğrencilerden geçmiş
+bilgilerinden yola çıkarak ders öncesinde izledikleri içerikten farklı söz sanatlarına dair örnekler vermele-
+rini ister. Ardından eşleştirme yapabilmeyi sağlayan web araçlarında hazırladığı Söz Sanatlarını Buluyorum
+etkinliğini etkileşimli tahtada açarak etkinliğin yapılmasında öğrencilere rehberlik eder (Ek-5). Bu ifade-
+lerin metne kattığı anlam üzerine sınıfta bir tartışma başlatır. Öğrencilere “Etkinlikteki ifadeler, söz sanatları
+olmadan kullanılabilir miydi?” sorusunu yöneltir. Aldığı cevapların ardından söz sanatlarının anlatımı daha
+etkileyici hâle getirdiğini ve anlatımı zenginleştirdiğini vurgular.
+Öğretmen, öğrencilerden gruplarıyla bir araya gelerek yapacakları sözlü sunum için hazırlık yapmalarını
+ister. Sunumda dikkat etmeleri gereken noktaları şu şekilde açıklar:
+• Sunum hazırlanırken ön bilgilerden yararlanılmalıdır.
+• Sunum süresi yaklaşık 5 dakika olmalıdır.
+• Her grup üyesi sunumda aktif rol (konuşma, görsel hazırlama, araştırma yapma, sorumluluk alma vb.)
+almalıdır.
+• Hazırlanan içerik, ders sonrasında görsel düzenleme araçları veya etkileşimli sunum araçlarından yarar-
+lanılarak dijital ortama aktarılmalıdır.
+• Sunum sırasında beden dili ve ses kullanımına dikkat edilmelidir.
+Öğrenciler, grup arkadaşlarıyla bir araya gelerek yaptıkları araştırma sonuçlarını paylaşır ve sunum için
+hazırlık yapar. Öğretmen de bu esnada grupları dolaşarak gerekli yönlendirmeleri yapar. Öğrencilere
+sunumun bir sonraki derste yapılacağını söyler. Sunumun ders sonrasında görsel düzenleme araçları veya
+etkileşimli sunum araçları kullanılarak hazırlanması gerektiğini hatırlatır. Hazırladığı grup değerlendirme
+formunun kriterleri hakkında öğrencileri bilgilendirir (Ek-4).
+Ders Sonrası
+Öğrenciler, iş birlikli çalışmayı destekleyen araçlar yardımıyla bir arada çalışıp etkileşimli sunum araçla-
+rıyla sunumlarını oluşturur.
+3. Ders (Sınıf)
+Öğretmen, son hazırlıklarını yapmaları için öğrencilere iki-üç dakika süre verir. Gruplar, kendi aralarında
+sunum provalarını yaptıktan sonra etkileşimli sunum araçlarıyla hazırladıkları içerikleri etkileşimli tahtada
+sunar. Sunumların ardından sınıf arkadaşlarının soruları varsa yanıtlar. Öğretmen her grubun sunumunu
+dikkatle dinler, gerekmedikçe sunumu bölmez. Süreyi yönetmek için zamanı nazikçe hatırlatabilir. Her sunum
+sonunda olumlu geri bildirim vererek sunum yapanların öz güvenini pekiştirir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, her sunumun ardından grup değerlendirme formunu doldurur ve ders sonunda öğrencilerle
+paylaşır (Ek-4). Süre dâhilinde sunumların sonunda kısa bir soru cevap etkinliğine de yer verebilir. Newton’ın
+bilime katkılarını kısaca hatırlatır ve “Bilim insanları, merakları sayesinde dünyayı değiştirdiler. Siz de merak
+edin, araştırın!” diyerek öğrencileri bilime ve teknolojiye ilgi duymaya teşvik eder.
+Yapılandırma, Kendine güvenme (öz güven), İçerik oluşturma, Kural uygulama, Kendini
+düzenleme (öz düzenleme), İş birliği, Görsel iletişim uygulamaları oluşturma, Dijital
+ortamlar için içerik oluşturma ve paylaşma
+
+LINKS:[["Okuyorum, Kavrıyorum", "nC0rPK"], ["Hikâye Haritası", "3q0OeT"], ["EBA Söz Sanatları", "UPTyRQ0"], ["Söz Sanatlarını Buluyorum", "UFDvkHh"]]

@@ -1,0 +1,167 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Gizemli Halkalar.pdf
+SURE:5 KOD:M.6.3.3.1. M.6.3.3.2.
+KAV:
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, etkileşimli tahtadan Su Halkaları görselini açar. Öğrencilere “Durgun bir suya taş atıldığında
+ne olur?” sorusunu sorarak onların dikkatini çeker. Öğrencilerden gelen cevapları dinler. Öğretmen, sesin
+de suda oluşan dalgalara benzer bir şekilde yayıldığını söyler. Sesin yayılması ve yansımasını kullanarak
+birçok canlının hayatını devam ettirdiğini ve insanların da sesin bu özellikleri sayesinde hayatımızı
+kolaylaştıran cihazlar geliştirdiğini vurgular. Bu konu ile ilgili Sesin Yansıması videosunu etkileşimli tahtadan
+açar. Öğrencilere ses ve su dalgaları ile çember arasında ilişki kurmalarını amaçlayan aşağıdaki soruları
+yöneltir:
+• Ses ve su dalgaları nasıl yayılır?
+• Ses ve su dalgaları yayılırken hangi şekli oluşturur?
+• Sizce ses ve su dalgaları neden bu şekilde yayılmaktadır? Bu yayılım şeklinin olumlu veya olumsuz
+yönleri nelerdir?
+Öğrencileri dörder ya da beşer kişilik gruplara ayırır. Gruplar bu sorulara ilişkin cevapları etkileşimli
+tahtaya yazar.
+Öğretmen, grupların verdiği cevapları sınıfa gösterir. Cevaplar arasından çember veya halka şekline dikkat
+çekerek çember hakkında öğrencilerin bilgilerini ortaya çıkarmak için sınıfa aşağıdaki soruları yöneltir:
+• Kusursuz bir çember nasıl çizilir?
+• Çemberin temel elemanları nelerdir?
+Gruplar cevaplarını tekrar etkileşimli tahtaya yazar. Öğretmen, öğrencilerin çember üzerinde düşünmelerini
+sağladıktan sonra EBA üzerinden çemberi günlük hayattan bir araçla ilişkilendiren ve çemberin temel
+elemanlarından bahseden Çember isimli videoyu sınıfa izletir.
+İlgili Yetkinlikler/Beceriler: Eleştirel düşünme, İletişim, Akıl yürütme
+Ders öncesi
+Öğretmen, öğrencilerden derse gelirken karton, pergel, ip ve cetvel getirmelerini ister. Çember ölçüm
+tablosunun yeterli sayıda çıktısını alarak sınıfa getirir (Ek-1).
+2. Ders (Sınıf)
+Dersin başında öğretmen, öğrencilere video düzenleme araçları ile oluşturulan Pergel Yardımı ile Çember
+Çizme videosunu izletir. Buna ek olarak çizecekleri çemberin yarıçapını belirlemek için cetvel kullanarak
+pergelin açıklığını istenilen ölçüye ayarlamaları gerektiğini söyler. Öğrencileri dörder veya beşer kişilik
+gruplara ayırır. Gruplara çemberin temel elemanları olan yarıçap ve çemberin merkezini tekrar hatırlatır.
+Videoda gördükleri şekilde pergel, cetvel, karton ve kalem kullanarak çemberler çizmelerini öğrencilerden
+ister. Öğrencilerin çizdikleri çemberlerle ilgili ölçüleri not etmeleri için çember ölçüm tablosunu gruplara
+verir (Ek-1). Ölçümlerini yaparak çizdikleri çemberlere göre son iki sütun dışındaki bölümleri doldurmalarını
+öğrencilerden ister. Öğretmen, çalışma öncesinde öğrencilere yaptıkları çalışmaların grup değerlendirme
+formu ile değerlendirileceği bilgisini verir ve değerlendirme kriterlerini açıklar (Ek-2). Bu süreçte öğretmen,
+öğrencilere rehberlik eder. Bu çalışmanın tamamlanmasının ardından öğretmen, etkileşimli tahtada
+dinamik matematik ve geometri araçları uygulamasını açar. Uygulama üzerinden merkezi ve yarıçapı
+belirleyerek nasıl çember oluşturulacağını öğrencilere gösterir.
+Sonra her grup, etkileşimli tahtada dinamik matematik ve geometri araçları yardımıyla en az bir çember
+oluşturur ve bu çemberin de ölçülerini tabloya işler (Ek-1). Öğretmen, grupların çizimlerini ve oluşturdukları
+tabloları grup değerlendirme formu ile değerlendirir (Ek-2).
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Matematiksel gösterim, iş birliği
+Ders öncesi
+Öğretmen, öğrencilerden derse gelirken ip, cetvel ve hesap makinesi (isteğe bağlı) getirmelerini ister.
+3. ve 4. Ders (Sınıf)
+Öğretmen, bir önceki derste oluşturdukları grupları tekrar oluşturmalarını öğrencilerden ister. Bir önceki
+derste çizdikleri çemberlerin uzunluğunu ve çemberlerin uzunluğunun çapına oranını hesaplayacaklarını
+öğrencilere söyler. Elde ettikleri sonuçları verilen çember ölçüm tablosundaki son iki sütuna yazmalarını
+ister. Öğrenciler çemberlerin uzunluğunu ip ve cetvel yardımıyla hesaplar.
+Ondalık gösterimlerle işlemleri daha önce öğrendikleri için çemberin uzunluğunun çapına bölünmesi
+işlemini kolaylıkla yapabileceklerdir. Ancak isteyen öğrenciler bu hesaplamalar için hesap makinesi
+kullanabilirler. Gruplar, tabloya yazdığı sonuçları öğretmenin etkileşimli tahtada açtığı grafik ve tablolama
+araçlarına yazarlar. Öğretmen, grupların etkileşimli tahtada yazdıkları sonuçlara dikkat çekerek bu
+sonuçların birbirine çok yakın olduğunu, farklı çemberler için neden bu şekilde birbiri ile benzer sonuçlar
+elde edildiğini öğrencilere sorar. Öğrencilerin bu soruya ilişkin beyin fırtınası yapmalarını ister. Öğrencilerin
+cevaplarını beyin fırtınası yapmayı sağlayan web araçları yardımıyla toplar.
+Öğretmen, beyin fırtınasının ardından konuya açıklık getirmek için çemberin çevresinin çapına oranı olan
+sabit sayıyı (pi sayısı) tanıtan Pi Sayısı isimli videoyu EBA’dan öğrencilere izletir. Video sonrası öğrencilere
+ek açıklamalar yapar.
+İlgili Yetkinlikler/Beceriler: İletişim, Eleştirel düşünme, Matematiksel süreç becerileri, çıkarımda
+bulunma
+5. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin önceki derste tanıştıkları pi sayısıyla ilgili zihinlerinde meydana gelecek olan
+çağrışımları gözlemlemek için birer zihin haritası oluşturmalarını ister. Zihin haritası oluşturma araçlarını
+kullanarak öğrencilerden pi sayısı denilince akıllarına neler geldiğini, bu sayının onlarda neler çağrıştırdığını
+yazmalarını ister. Oluşturulan zihin haritaları, etkileşimli tahtadan sınıfa gösterilir. Öğretmen, çember
+ve pi sayısı konuları ile ilgili değerlendirme yapmak için oyunlaştırılmış ölçme ve değerlendirme web
+araçları üzerinden hazırlanan Soru Çarkı etkinliğini sınıfa uygular. “Nedir?” başlığı ile çarkta gelen soruları
+kendi cümleleri ile açıklamalarını öğrencilerden ister. Her öğrenci, etkileşimli tahtada çarkı sırayla çevirir
+ve gelen ifadenin ne olduğunu açıklar. Bu etkinliğin ardından öğretmen, çember konusu ile ilgili çoktan
+seçmeli testlerden oluşan Çember alt konu testini EBA üzerinden sınıfa uygular.
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel süreç becerileri, Matematiksel araç ve teknolojiden
+yararlanma
+Değerlendirme Yöntemleri/Araçları
+• EBA + alt konu testi
+• Beyin fırtınası yapmayı sağlayan web araçları
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Grup değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Su Halkaları: https://meb.ai/o1PrLG (Son erişim tarihi: 10.12.2024)
+2. EBA Sesin Yansıması: https://meb.ai/5dLHrN (Son erişim tarihi: 02.06.2024)
+3. EBA Çember: http://meb.ai/ZKN3bq (Son erişim tarihi: 02.06.2024)
+4. Pergel Yardımıyla Çember Çizme: https://meb.ai/UzDs8U5 (Son erişim tarihi: 10.12.2024)
+5. EBA Pi Sayısı: https://meb.ai/UV8nUN0 (Son erişim tarihi: 02.06.2024)
+6. Soru Çarkı: https://meb.ai/UljsCQq (Son erişim tarihi: 12.12.2024)
+7. EBA Alt Konu Testi Çember: http://meb.ai/45xyQu (Son erişim tarihi: 02.06.2024)
+Kaynakça
+Canva. (2024). Gizemli halkalar-su halkaları. Son erişim tarihi 12 Aralık 2024, https://www.canva.com/
+design/DAGY4huzYQE/wXb2kW4ltK3Gs-lNsBtpHA/view?utm_content=DAGY4huzYQE&utm_
+campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc9b99f507
+Canva. (2024). Gizemli halkalar-pergel yardımıyla çember çizme. Son erişim tarihi 12 Aralık 2024, https://www.
+canva.com/design/DAGYzG5ocEo/r1wHbUZgHl5K9sJTK1Cfag/watch?utm_content=DAGYzG5ocEo&utm_
+campaign=designshare&utm_medium=link&utm_source=editor
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Eylül 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Ren, X. (2024). Understanding sound wave analogy: bridging concepts in physics and everyday
+experience [Ses dalgası analojisini anlamak: fizikteki kavramlar ile günlük deneyimler arasında köprü
+kurmak]. Advanced Materials Science Research 7(3), 161-162. Son erişim tarihi 12 Aralık 2024, https://
+www.openaccessjournals.com/articles/understanding-sound-wave-analogy-bridging-concepts-in-
+physics-and-everyday-experience.pdf
+Wordwall. (2024). Gizemli halkalar-soru çarkı. Son erişim tarihi 12 Aralık 2024, https://wordwall.net/tr/
+resource/83720950/matematik/gizemli-halkalar-soru-ark
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Çember Ölçüm Tablosu
+Ek-2: Grup Değerlendirme Formu
+Ek-3: Oyunlaştırılmış Ölçme ve Değerlendirme Web Araçları Soru Çarkı İçeriği
+Ek-1
+Çember Ölçüm Tablosu
+Aşağıda verilen tabloyu çizdiğiniz çemberlerin özelliklerine göre doldurunuz.
+Çemberin Yarıçap Uzunluğu Çemberin Çap Uzunluğu Çemberin Uzunluğu Çemberin Uzunluğunun Çap
+Çemberin Merkez Noktası
+(cm) (cm) (cm) Uzunluğuna Oranı
+3,14 Gizemli Halkalar
+Ek-2
+Grup Değerlendirme Formu
+Bu form grupların hazırladıkları çemberler ve çemberlerin özelliklerine göre doldurdukları tabloların değerlendirilmesinde kullanılacaktır. Her grup için
+kriterlere uygun 1 ila 5 arasında verilen derecelerden uygun olan derecenin puanı yazılarak toplam puan belirlenecektir.
+DERECELER:
+Geliştirilebilir: 1, Kısmen Yeterli: 2, Yeterli: 3, İyi: 4, Çok İyi: 5
+1. Grup Adı 2. Grup Adı 3. Grup Adı 4. Grup Adı 5. Grup Adı
+KRİTERLER
+....................... ....................... ....................... ....................... .......................
+Grup üyeleri arasındaki iş birliği
+Grup üyeleri arasındaki iletişim
+Grup üyelerinin zaman yönetimi
+Grup üyelerinin çember çizim adımlarını
+uygulaması ve çemberleri oluşturması
+Grup üyelerinin dinamik matematik ve
+geometri araçlarını amacına uygun kullanması
+Grup üyelerinin çemberlerin özelliklerini doğru
+bir şekilde belirleyip tabloya işlemesi
+TOPLAM PUAN
+Gizemli Halkalar
+Ek-3
+Oyunlaştırılmış Ölçme ve Değerlendirme
+Web Araçları Soru Çarkı İçeriği
+Açıklama: Öğretmen, aşağıdaki tabloda yer alan ifadeleri kullanarak oyunlaştırılmış ölçme ve değerlendirme web araçlarından biri ile “Nedir?”
+soru çarkı etkinliği hazırlar.
+GÖSTERGE METNİ ÇARK METNİ
+Çemberin merkezi
+Yarıçap
+Çap
+Çemberin uzunluğu
+Pi sayısı
+Nedir? Daire
+Çemberin iç bölgesi
+Çemberin dış bölgesi
+Pergel
+Çemberin uzunluğunun çapına oranı
+Düzlemde sabit bir noktaya eşit uzaklıkta bulunan noktalar kümesi
+Not: Verilen ifadeleri öğrenciler kendi cümleleri ile açıklayacakları için cevap anahtarına yer verilmemiştir.
+Gizemli Halkala
+LINKS:[["Su Halkaları", "o1PrLG"], ["EBA Sesin Yansıması", "5dLHrN"], ["EBA Çember", "ZKN3bq"], ["Pergel Yardımıyla Çember Çizme", "UzDs8U5"], ["EBA Pi Sayısı", "UV8nUN0"], ["Soru Çarkı", "UljsCQq"], ["EBA Alt Konu Testi Çember", "45xyQu"]]

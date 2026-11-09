@@ -1,0 +1,51 @@
+## Turkce Dil Kursu/Diger/Temel Ihtiyaclarimiz - Sahane Pazar.pdf
+SURE:4 KOD:YTÖ.D.A1.T2.1. YTÖ.O.A1.T1.2. YTÖ.K.A1.T3.3. YTÖ.Y.A1.T2.3.
+KAV:Pazar, Sebze, Meyve, Alışveriş, Liste
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, öğrencilerin dikkatini konuya çekmek için EBA’da bulunan Kıpırdak ile Şıpırdak (Tanımalıyım
+Besinleri) isimli şarkıyı açar ve içeriği ihtiyaca göre birkaç kez tekrar dinletir. Şarkıda geçen her sebze,
+meyve isminden sonra şarkıyı durdurur ve öğrencilerden ilgili sebze veya meyvenin ismini tekrarlama-
+larını ister. Bu çalışmanın ardından etkileşimli tahtayı açarak şarkıda geçen meyve ve sebzeleri listeler.
+Etkileşimli tahtadan listedeki meyve ve sebzelerin görsellerini öğrencilerine gösterir. Bu etkinliğin ardından
+EBA’da yer alan Yapboz (Meyveler) içeriğini etkileşimli tahtadan açar ve gönüllülerden başlayarak öğren-
+cileri bu yapbozu farklı seviyelerde tamamlamaları için görevlendirir.
+Seçme, Belirleme, Başkalarını etkin şekilde dinlemek, Dijital bilgiyi oluşturan parçaları
+tanımlamak
+Ders Öncesi
+Öğretmen, okuma yaptırmak üzere hazırladığı Yaz-Kış Sebzeleri/Meyveleri metninin çıktısını alarak sınıfa
+getirir (Ek-1).
+2. Ders (Sınıf)
+Öğretmen öğrencilere Yaz-Kış Sebzeleri/Meyveleri isimli metni örnek olarak okur (Ek-1). Sonra öğrencilerden
+birkaç kez sessiz okuma yapmalarını ister. Etkileşimli tahta aracılığıyla eşleştirme yapmayı sağlayan web
+araçları ile hazırlanan Yaz ve Kış Meyvelerini/Sebzelerini Eşleştir isimli etkinliği açar (Ek-2). Öğretmen etkinlik
+için öğrencileri iki gruba ayırır. Her iki gruba iki ayrı sıra hâlinde tahtaya gelmelerini söyler. Birinci gruptan
+yaz meyve ve sebzelerini, ikinci gruptan ise kış meyve ve sebzelerini eşleştirmelerini ister.
+Ders Öncesi
+Öğretmen, sınıfa çeşitli sebze ve meyveler getirerek bunları masanın üzerine koyar.
+3. Ders (Sınıf)
+Öğretmen, sınıfa “Sizce masadaki sebze ve meyveler ile hangi yemekler yapılabilir?” diye sorar. Öğrenci-
+lerin cevaplarını etkileşimli tahtaya yazar. Sonuçları etkileşimli tahtaya yansıtır ve öğrencilerin sonuçlar
+üzerinde konuşmaları için onlara rehberlik eder.
+Öğretmen, EBA’da yer alan Sipariş-Salata Yapıyoruz, Dikte Çalışması videosunu etkileşimli tahtada açar
+ve videonun 8 dakika 5. saniyesi ile 12 dakika 48. saniyesi aralığını sınıfa izletir. Aşağıdaki soruları sorarak
+öğrencilere konuşma etkinliği yaptırır:
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+• Salatada hangi sebze ve meyveler bulunur?
+• Marul sebzesinden sonra salataya eklenen ilk sebze hangisidir?
+• Siz bir salata hazırlayacak olsanız hangi sebze ve meyveleri kullanırsınız?
+Çözümleme becerisi, Yorumlama becerisi, Duygu ve düşüncelerini ifade etmek, Dijital
+bilginin nasıl oluştuğunu anlamak, Görseli anlama
+4. Ders (Sınıf)
+Öğretmen, dersin başında oyunlaştırılmış ölçme ve değerlendirme web araçları yardımıyla hazırlanan
+Sebze-Meyveler bulmaca etkinliğini etkileşimli tahtadan açar. Bütün öğrencilerin etkinliğe katılımını sağlamak
+ve motivasyonunu yüksek tutmak amacıyla öğrencileri rastgele seçer. Bulmaca etkinliği tamamlandıktan
+sonra öğrencilere “Şu an bir pazar yerinde olsaydınız hangi meyve ve sebzeleri alırdınız?” sorusunu yöneltir.
+Cevapları önce sözlü olarak alan öğretmen, ardından her öğrenciden kendi defterine almak istediği meyve
+ve sebzeleri liste olarak yazmasını ister. Listede en az beş meyve ve en az beş sebze isminin olması gerektiğini
+belirtir. Bu listelerin öğrenci değerlendirme formu ile değerlendirileceğini söyleyerek onlara form hakkında
+bilgi verir (Ek-3). Öğretmen değerlendirmelerin ardından dönüt ve düzeltme vererek dersi tamamlar.
+Yazma, Bulma, Seçme, Sınıflandırma, Oyunseverlik, Dijital bilginin nasıl oluştuğunu
+anlamak
+
+LINKS:[["Kıpırdak ile Şıpırdak (Tanımalıyım Besinleri)", "PT8R12"], ["Yapboz (Meyveler)", "UG6PdUO"], ["Yaz ve Kış Meyvelerini/Sebzelerini Eşleştir", "z08q6z"], ["Sipariş-Salata Yapıyoruz, Dikte Çalışması", "UPDasSv"], ["Sebze-Meyveler", "UqvcDra"]]

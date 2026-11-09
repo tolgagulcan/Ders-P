@@ -1,0 +1,47 @@
+## 5. Sinif/Turkce/Ataturk'u Tanimak - Tahmin Edelim, Kontrol Edelim!.pdf
+SURE:3 KOD:T.O.5.4. T.O.5.5. T.Y.5.8.
+KAV:Atatürk, Millî mücadele, Tarih bilinci, Vatanseverlik, Tahmin
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, dersin başında öğrencilerine Atatürk ile ilgili bir anı okuyacaklarını belirterek onlara metnin başlı-
+ğının “Şarapnel Parçası” olduğunu belirtir. Öğrencilerden metnin başlığından yola çıkarak içeriği hakkında
+tahminde bulunmalarını isteyen öğretmen, her öğrencinin tahminini defterine not etmesini ister. Daha
+sonra EBA’da yer alan Metin Anlama ve Çözümleme-Atatürk’ün Anıları-Alıştırma içeriğini açarak buradaki
+metni okumaya başlayan öğretmen, “…ona parmağımla susmasını emrettim.” cümlesinden sonra metni
+okumayı yarıda keser ve öğrencilerden başlangıçtaki tahminlerini kontrol etmelerini söyler. Kontrol tamam-
+landıktan sonra öğretmen; bu kez de sınıf mevcudunu dikkate alarak 5, 6 veya 7 kişilik gruplar oluşturur.
+Her gruba metindeki olayların nasıl geliştiğine dair tahminde bulunmalarını ve grupların bunu bir parag-
+raflık animasyon senaryosu hâline getirmelerini ister. Öğretmen, hazırlanan senaryoların bir sonraki derste
+animasyonlara dönüştürüleceğini ve bunların kendileri tarafından grup değerlendirme formu aracılığıyla
+değerlendirileceğini belirtir (Ek-1). Form hakkında bilgi verip dersi tamamlar.
+Ders Sonrası
+Öğretmen, ders sonrası çalışmalar kapsamında öğrencileri EBA’daki Metin Anlama ve Çözümleme-Ata-
+türk’ün Anıları-Alıştırma içeriğindeki metni anlama ve çözümleme bölümlerine yönlendirir.
+İnceleme ve görüş oluşturmak, İçerik oluşturma, Anlam oluşturma, Mevcut bilgiye/
+veriye dayalı tahmin etme becerisi, Bilgiyi toplama, Bilgiyi sentezleme, Öz düzenleme
+becerisi, Odaklanma
+2. Ders (BT Sınıfı)
+Öğretmen, BT sınıfında öğrencilere grup çalışmasına uygun bir şekilde oturma düzeni kurarak derse başlar.
+Öğrencilerinden animasyon oluşturma araçlarını açmalarını ve senaryolarından hareketle kısa animas-
+yonlar oluşturmalarını ister. Gruplar çalışmasını tamamladıktan sonra onlardan animasyonlarını iş birlikli
+çalışmayı destekleyen araçlarla paylaşmasını isteyen öğretmen, böylece tüm sınıfın hazırlanan animas-
+yonları görmesini sağlar. Bu çalışmadan sonra öğretmen, öğrencilerden animasyon sürecindeki kendi
+gruplarının çalışmasını grup değerlendirme formunu kullanarak değerlendirmelerini ister (Ek-1).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+3. Ders (Sınıf)
+Öğretmen, bu dersin başında ilk derste öğrencilerine okuttuğu “Şarapnel Parçası” adlı anıyı etkileşimli tahtada
+yeniden açarak öğrencilerden metinde geçen anlamını bilmedikleri kelimeleri listelemelerini ister. Tüm
+öğrenciler listesini tamamladıktan sonra öğretmen listelenen ortak kelimeleri belirler. Etkileşimli tahtadan
+açtığı zihin haritası oluşturmayı sağlayan web araçlarının merkezine bu kelimeleri yazan öğretmen, öğren-
+cilerinden bu kelimelerin anlamını bulmaya yarayacak metinde geçen ipuçlarını yazmalarını ister. Sorduğu
+sorularla öğrencilerin ön bilgilerini harekete geçiren öğretmen, öğrencilerinden kelimelerin anlamlarını
+tahmin etmelerini ve bu tahminleri defterlerine yazmalarını ister. Bu etkinlikten sonra etkileşimli tahtadan
+Güncel Türkçe Sözlük genel ağ sayfasını açar ve kelimelerin anlamlarını öğrencileriyle buradan öğrenerek
+defterlerine yazdıkları tahminleri kontrol etmelerini ister.
+Ders Sonrası
+Öğretmen, ders sonu çalışmaları kapsamında eşleştirme yapabilmeyi sağlayan web araçları aracılığıyla
+hazırlanmış Bilinmeyen Kelimeler Etkinliği adlı etkileşimli içeriğin bağlantısını öğrencileriyle paylaşarak
+onların bu konuda daha fazla alıştırma yapmasını sağlar (Ek-2).
+Tahmin etmek, Kural uygulamak, Bilgi toplama becerisi, Öz düzenleme becerisi
+
+LINKS:[["Metin Anlama ve Çözümleme-Atatürk’ün Anıları-Alıştırma", "U27bWJs"], ["Güncel Türkçe Sözlük", "UZ7Va4K"], ["Bilinmeyen Kelimeler Etkinliği", "uIorTC"]]

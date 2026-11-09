@@ -1,0 +1,75 @@
+## 5. Sinif/Turkce/Duygularimi Taniyorum - Duygularimiz Uzerine Konusalim.pdf
+SURE:4 KOD:T.D.5.7. T.K.5.7. T.K.5.8.
+KAV:Duygu yönetimi, Hazırlıksız konuşma, Yaratıcı konuşma
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, duyguları (üzüntü, şaşkınlık, öfke, korku, sevinç, güven, beklenti vb.) temsilen duygu durum
+kartları oluşturur ve derse bu materyallerle gelir.
+1. Ders (Sınıf)
+Öğretmen, dikkat çekmek amacıyla sınıfa duygu durum kartları ile girer ve öğrencilerine elinde bazı duygu-
+ları ifade eden kartlar olduğunu söyler. Bu kartları sınıfın tamamına göstermeden gönüllü olacak öğrenci-
+lere rastgele bir kart vereceğini, o öğrencinin de jest ve mimiklerle karttaki duygu durumunu sınıfa aktara-
+cağını söyler.
+Etkinlik sonrasında sınıfta duygularımızın jest ve mimiklerimize olan etkisi üzerine tartışma ortamı oluşturan
+öğretmen, daha sonra EBA’da yer alan Biraz Duygularımızdan Bahsedelim mi? adlı dinleme metnini açar.
+Öğrencilerinden metni dinleme kurallarına uygun dinlemelerini isteyen öğretmen, metni 40. saniyede
+durdurur ve onlara metinde geçen “Duygularımız içinde bizi en zorlayan ve belki de bizi zor durumda bırakan
+duygu…” ifadesini ön bilgilerinden ve deneyimlerinden hareketle tamamlamalarını ister. Bunun için etkile-
+şimli tahtadan kelime bulutu oluşturma araçlarından birini açar ve öğrenci cevaplarını buraya aktararak
+öğrencilerin en çok belirttiği duyguları vurgular. Ortaya çıkan kelime bulutu aracılığıyla bu görüşleri görsel-
+leştirmiş olur.
+Öğretmen, öğrencilerden cevapların içinde en çok belirtilen duyguyu akıllarında tutmalarını ister. Daha
+sonra dinleme metnini kaldığı yerden devam ettirerek tamamlatır. Metnin tamamlanmasıyla metinde belir-
+tilen duygu ile öğrencilerin belirttiği duyguyu karşılaştırarak sınıfta öğrencileriyle değerlendirme yapar ve
+dersi tamamlar.
+Ders Sonrası
+Öğretmen, doğru-yanlış soruları oluşturmayı sağlayan web araçlarıyla hazırlanmış Çıkarım Yapma adlı
+etkileşimli içeriği öğrencilerine ders sonrası çalışma olarak gönderir (Ek-1). Çalışmaların kontrolünü yapar
+ve öğrencilere gerekli dönütleri iletir.
+2. Ders (Sınıf)
+Öğretmen, bir önceki ders dinlettiği metinden yola çıkarak öğrencilere “Öfkelendikten sonra pişman olaca-
+ğımız şeyler yapmamak için ne yapmalıyız?” sorusunu sorarak derse giriş yapar. Öğrencilere bu sorunun
+cevabını hazırlıksız konuşma şeklinde vermeleri gerektiğini ifade eder. Öğrencilerden konuşmalarını
+yapmadan önce kısa süreli zihinsel planlama yapmalarını ve doğaçlama şekilde konuşurken bir taraftan
+da odağı dağıtmadan konuşmalarını tamamlamaya özen göstermelerini ister. Bu kriterleri dikkate alarak
+ders sonunda konuşmalarını öz değerlendirme yapmayı sağlayan web araçlarıyla hazırlanmış Hazırlıksız
+Konuşma Öz Değerlendirme Formu ile değerlendireceklerini belirtir (Ek-2).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, ders süresini de göz önüne alarak olabildiğince fazla öğrenciye hazırlıksız konuşma yaptırır ve
+öğrencilerin kendi konuşmalarını değerlendirmelerini sağlayarak dersi tamamlar.
+Ders Sonrası
+Öğretmen; sınıfta hazırlıksız konuşma yapma fırsatı bulamayan öğrencilerden ses düzenleme araçlarını
+kullanarak hazırlıksız konuşmalarını kaydedip getirmelerini ve öz değerlendirme formunu doldurmalarını
+ister (Ek-2). Bunları bir sonraki ders öncesi kontrol edeceğini söyler.
+Ders Öncesi
+Öğretmen, bir önceki derste süreden kaynaklı hazırlıksız konuşmasını yapamayan öğrencilerin konuşma-
+larını ses düzenleme araçları yardımıyla dinler ve öz değerlendirme formlarını inceler.
+3. Ders (BT Sınıfı)
+Öğretmen, bir önceki derste yapılan hazırlıksız konuşma ve öz değerlendirme sürecine yönelik değerlen-
+dirmelerini sınıfla paylaşarak derse başlar. Değerlendirmelerin ardından sınıfı gruplara ayırır ve BT (Bilişim
+Teknolojileri) sınıfındaki oturma düzenini bu gruplara uygun şekilde düzenler.
+Gruplara sonraki derste yaratıcı konuşma yapacakları bilgisini veren öğretmen, bu derste öğrencilerin
+kendi gruplarıyla çalışarak bir konuşma taslağı hazırlamaları gerektiğini belirtir (Öğrenciler, çalışmalarını
+yaparken genel ağ ve yapay zekâ destekli araçlardan faydalanabilirler.). Her grup, oluşturduğu konuşma
+taslağına bağlı kalarak etkileşimli sunum araçları ile 3 dakikalık bir sunum hazırlar. Öğretmen, öğrencilere
+bu çalışma için grupta görev dağılımı yapmaları gerektiğini belirtir. Ayrıca grup üyelerinin iş birlikli çalışmayı
+destekleyen araçları kullanarak konuşma taslağı ve sunum üzerinde ortak çalışmaları gerektiğini vurgular.
+Öğretmen, yaratıcı konuşma için seçilen konunun “Duyguların İletişim Üzerindeki Etkileri” olduğunu öğren-
+cileriyle paylaşır. Onlardan konuşma taslaklarını hazırlarken deneyim ve gözlemlerini kullanmalarını, günlük
+hayatta karşılaşılabilecek bir sorunu ele alarak bu sorun ekseninde özgün çözümler, karakterler ve diyaloglar
+üretmelerini ister. Karakter ve olay örgülerini farklı açılardan ele alabilecek ve farklı anlatı yapılarını kulla-
+nabilecek şekilde bir konuşma tasarlamaları gerektiğini belirtir.
+Sonraki derste grupların sunum yapacaklarını belirten öğretmen, çalışmaların değerlendirileceği yaratıcı
+konuşma dereceli puanlama anahtarında yer alan kriterler hakkında öğrencileri bilgilendirir (Ek-3). Grup
+çalışmalarına rehberlik ederek dersi tamamlar.
+Yapılandırma, Yorumlama, Karar verme, Problem çözme, Eleştirel düşünme, İçerik
+oluşturma, Yaratıcılık, Analitik düşünme, Özgün düşünme, Öz düzenleme, İş birliği, Dijital
+iletişimi anlama, İletişim kurma ve paylaşma, Dijital araçlarla iş görme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+4. Ders (Sınıf)
+Öğretmen, bir önceki ders hazırlanan taslaklardan yola çıkarak gruplardan birer öğrenciye söz hakkı verir
+ve 3 dakika içinde konuşmasını yapmasını ister. Yapılan konuşmalardan hareketle her grubu yaratıcı
+konuşma dereceli puanlama anahtarı çerçevesinde değerlendirir ve gerekli dönütleri sağlayarak dersi
+tamamlar (Ek-3).
+
+LINKS:[["EBA Biraz Duygularımızdan Bahsedelim mi?", "Us2eI1e"], ["Çıkarım Yapma", "U8nyuoA"], ["Hazırlıksız Konuşma Öz Değerlendirme Formu", "1gY43Q"]]

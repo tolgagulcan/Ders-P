@@ -1,0 +1,190 @@
+## 8. Sinif/Matematik/Cebir - Butcemi Planliyorum.pdf
+SURE:5 KOD:M.8.2.2.3.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 (BT Sınıfı)
+Öğretmen, etkileşimli sunum araçlarını kullanarak hazırladığı Bütçe Yönetimi sunumunu etkileşimli
+tahtadan açarak öğrencilerin dikkatini konuya çeker. Sonra bütçe yönetimi ve bütçe yönetiminde
+matematik kullanımı konusuna yönelik soru cevap etkinliği yapar. Öğretmen etkinliğe yönelik aşağıdaki
+soruları öğrencilere ayrı ayrı yöneltir:
+• Bütçe yönetiminin günlük hayatımıza ne gibi faydaları olabilir?
+• Bütçe yönetimi becerilerimizi geliştirmek için hangi adımları atabiliriz?
+• Bütçe yönetimi için hangi matematiksel modelleri kullanabiliriz?
+• Gelecekteki finansal durumumuzu tahmin etmek için hangi matematiksel yöntemleri kullanabiliriz?
+Öğretmen, her soru için öğrencilerden gelen cevapları toplar ve her soru için en sık tekrar eden cevapları
+belirler. Bu sayede öğrencilerin sunumla ilgili öğrenme eğilimlerini gözlemler; öğrencileri bütçe yönetimi,
+finansal okuryazarlık ve matematiksel modellerle ilişkileri anlamaya yönlendirir.
+Etkinlik aracılığıyla bütçe yönetimi ve bütçe yönetiminde matematik kullanımının nasıl olduğu öğrencilerle
+tartışılır ve matematiksel modellerin bütçe yönetiminde kritik olduğu sonucuna ulaşılır. Öğretmen, uygun
+gördüğü bir yöntemle öğrencileri heterojen gruplara ayırır ve etkileşimli beyaz tahta araçlarını kullanarak
+hazırladığı Etkinlik Panosunu gruplarla paylaşır. Her grup kendisi için belirlediği grup ismini panoya,
+hesapladığı tasarruf miktarını da panodaki sonuç bölümüne yazar. Gruplar sonraki etkinliklerini de pano
+üzerinden takip eder (Ek-1). Öğretmen, aynı gelir miktarını seçen grupların çalışmalarındaki farklılık ve
+benzerlikleri gözlemleyerek öğrencilere geri bildirimlerde bulunur.
+İlgili Yetkinlikler/Beceriler: İletişim, İş birliği, Bilgi ve iletişim teknolojileri (BİT), Matematiksel süreç
+becerileri
+Ders 2 (BT Sınıfı)
+Öğretmen tarafından hazırlanan Etkinlik Panosundaki hesaplama tablosu bir önceki derste bulunan
+sonuçlardan hareketle doldurulur. Gruplardan tasarrufları sabit tutarak 6 ay sonundaki birikimlerini
+tablolar aracıyla hesaplamaları ve hesaplama cetvelini doldurmaları istenir (Örneğin sabit tasarruf 1000
+TL ise birinci ay 1000 TL, ikinci ay 2000 TL, üçüncü ay 3000 TL olarak birikim toplamı altı ay için belirlenir.).
+Gruplar bulduğu verileri etkileşimli beyaz tahta araçlarını kullanarak panodaki ilgili bölüme kaydeder. Sonra
+bu verileri panodaki grafik şablonuna işleyerek doğrusal ilişkiyi çizgi grafikle göstermiş olur (Grafiklerin
+üzerine çift tıklandığında tablolardaki verilerin girilebildiği bir tablo açılacaktır.).
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Matematiksel yetkinlik ve bilim/teknolojide
+temel yetkinlikler, Dijital yeterlilik, İletişim
+Ders 3 (Sınıf)
+Bir önceki derste doldurulan tablo ve çizilen grafik, etkileşimli tahta ile Etkinlik Panosundan açılarak
+öğrencilerin bunu nasıl denkleme dönüştürecekleri üzerine konuşulur (Bu aşamada 7. sınıftaki örüntünün
+genel teriminin nasıl bulunduğu hatırlatılabilir.). Denklemler, öğretmen yönlendirmesiyle tablo ve grafikte
+bulunan veriler referans alınarak defterlere yazılır. En yüksek ve en düşük birikim miktarları grafikler
+aracılığıyla gözlemlenir. Sabit miktarda artış ve azalışın olduğu durumlarda tablo ve grafiklerin nasıl
+oluşturulacağı pekiştirilir.
+Ders Sonrası
+Öğretmen; gruplardan kendine ait tablo, grafik ve denklemleri etkileşimli sunum araçlarını kullanarak sunum
+hâline getirmelerini ister. Oluşturulan sunumların sınıftaki diğer öğrenciler tarafından grup değerlendirme
+yapmayı sağlayan web aracı ile hazırlanmış grup değerlendirme formu ile değerlendirileceği bilgisini
+verir ve kriterler hakkında konuşur (Ek-2). EBA’da bulunan Doğrusal İlişki etkileşimli içeriğini konunun
+pekiştirilmesi için öğrencilere gönderir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri
+Ders 4 (Sınıf)
+Gruplar, kendine ait verileri ve grafikleri etkileşimli sunum araçları ile sunar. Grupların sunumundan sonra
+sunumları değerlendirmek için hazırlanmış grup değerlendirme formu dağıtılır (Ek-2). Formda sunum
+tekniği, içerik ve iletişim kriterlerine yönelik maddelerin olduğu ve tüm sürecin göz önünde tutularak
+doldurulması gerektiği öğretmen tarafından vurgulanır. Gruptaki öğrencilerin performansı sınıftaki diğer
+öğrenciler tarafından değerlendirilir. Konu öğretmen tarafından özetlenir. Öğrencilerin soruları alınır ve
+konunun net bir şekilde anlaşılması sağlanır.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, İş birliği, İnisiyatif alma ve girişimcilik,
+Dijital yeterlilik
+Ders 5 (Sınıf)
+EBA’da Alıştırmalar-Doğrusal İlişki içeriğindeki sorular, rastgele seçilen öğrencilerin aktif katılımıyla çözülür.
+Öğretmen, görsel düzenleme aracıyla hazırladığı Doğrusal İlişki-Problemler içeriğinde yer alan beş
+beceri temelli soruyu etkileşimli tahtada açar. Öğrencilerin soruları sırasıyla çözmelerine rehberlik ederek
+çözüm yollarını açıklamalarını ve gerekçelendirmelerini sağlar. Süreç boyunca öğrencilerin yanıtlarını
+değerlendirir ve gerekli durumlarda geri bildirim vererek öğrenme eksikliklerinin giderilmesini destekler.
+Soru çözümünün ardından ders bitirilir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Matematiksel yetkinlik ve
+bilim/teknolojide temel yetkinlikler
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + etkileşimli içerik
+• EBA + beceri temelli sorular
+• Grup değerlendirme yapmayı sağlayan web araçları
+• Bütçe yönetimi etkinliği
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Bütçe Yönetimi: https://meb.ai/F92Dd9 (Son erişim tarihi: 03.03.2025)
+2. Etkinlik Panosu: https://meb.ai/wzwiDF (Son erişim tarihi: 05.01.2025)
+3. EBA Etkileşimli İçerik Doğrusal İlişki: https://meb.ai/UqmtE2K (Son erişim tarihi: 05.01.2025)
+4. EBA Alıştırmalar Doğrusal İlişki: https://meb.ai/UcBv2iY (Son erişim tarihi: 05.01.2025)
+5. Doğrusal İlişki-Problemler: https://meb.ai/DL2LZ1 (Son erişim tarihi: 08.10.2026)
+Kaynakça
+Canva. (2026). Bütçemi planlıyorum-doğrusal ilişki-problemler. Son erişim tarihi 21 Eylül 2026, https://
+www.canva.com/design/DAHV0eTBCf8/J795Cw2Us0T3sCfWRRPFXQ/edit
+Canva. (2024). Bütçemi planlıyorum-etkinlik panosu. Son erişim tarihi 05 Ocak 2025, https://www.canva.
+com/design/DAGbUgC7aYY/eepevuqfnaEIRJKbTsOdAQ/view?utm_content=DAGbUgC7aYY&utm_
+campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+Genially. (2025). Bütçemi planlıyorum-bütçe yönetimi. Son erişim tarihi 03 Mart 2025, https://view.genially.
+com/67c5335d38aa198f9e804795/presentation-butcemi-planliyorum-butce-yonetimi
+Köroğlu, H. (2021). Ortaokul öğrencilerinin finansal okuryazarlık becerilerinin çeşitli değişkenler açısından
+incelenmesi. [Yüksek lisans tezi, Aydın Adnan Menderes Üniversitesi]. Yükseköğretim Kurulu Ulusal Tez
+Merkezi.
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve
+Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Bütçe Yönetimi Etkinliği Kartları ve Hesaplama Tablosu
+Ek-2: Grup Değerlendirme Formu (Öğrenci İçin)
+Ek-1
+Bütçe Yönetimi Etkinliği Kartları ve Hesaplama Tablosu
+Etkinlik Kartları
+Aşağıda verilen durumlardan birini seçerek tasarruf miktarını hesaplayınız.
+A GRUBU B GRUBU C GRUBU
+GELİR: 18 000 TL GELİR: 22 000 TL GELİR: 25 000 TL
+Mutfak: Gelirin %20’si Mutfak: Gelirin %30’u Mutfak: 9000 TL
+Ulaşım: 2400 TL Ulaşım: Gelirin %10’u Ulaşım: Gelirin %20’si
+Faturalar: Gelirin %30’u Faturalar: Gelirin %25’i Faturalar: 5000 TL
+Tasarruf: Kalan ücret Tasarruf: Kalan ücret Tasarruf: Kalan ücret
+Bulunan Tasarruf Miktarı: …………………….……. Bulunan Tasarruf Miktarı: …………………….……. Bulunan Tasarruf Miktarı: …………………….…….
+Gelir ve Gider Hesaplama Tablosu
+Etkinlik kartları bölümünde bulduğunuz tasarruf miktarını kullanarak aşağıda verilen hesaplama tablosunu doldurunuz (Örneğin tasarruf
+sonucu 1000 TL ise ilk ay 1000 TL, ikinci ay 2000 TL ... şeklinde doldurulmalıdır.).
+AYLAR A GRUBU B GRUBU C GRUBU
+1. Ay
+2. Ay
+3. Ay
+4. Ay
+5. Ay
+6. Ay
+Bütçemi Planlıyorum
+Ek-2
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, arkadaşlarınızın yapmış olduğu sunumları değerlendirmeniz amacıyla hazırlanmıştır. Her
+bir kriter için “Evet”, “Kısmen”, “Hayır” değerlendirme seçeneklerinden uygun olanı işaretleyiniz.
+Grubun Adı: ………………………………………………...
+Grup Üyeleri: ……………………………………………….
+KRİTERLER SEÇENEKLER
+o Evet
+Sunum içeriği anlaşılır ve düzenli miydi? o Kısmen
+o Hayır
+o Evet
+Konuyla ilgili önemli bilgiler doğru ve eksiksiz bir şekilde aktarıldı
+o Kısmen
+mı? o Hayır
+İçerik
+o Evet
+Sunumda kullanılan örnekler konuyu anlamanıza yardımcı oldu
+o Kısmen
+mu? o Hayır
+o Evet
+Sunum, konuyu daha iyi anlamanıza katkıda bulundu mu? o Kısmen
+o Hayır
+o Evet
+Sunum yapan kişinin sesi ve konuşma hızı uygun muydu? o Kısmen
+o Hayır
+o Evet
+Sunum Tekniği
+Sunum yapan kişi tarafından slayt veya görsel araçlar etkili bir
+o Kısmen
+şekilde kullanıldı mı? o Hayır
+o Evet
+Sunum yapan kişi, sunum sırasında izleyiciyle göz teması kurdu
+o Kısmen
+mu? o Hayır
+o Evet
+Sunum yapan kişinin konuya hâkimiyeti yeterli miydi? o Kısmen
+o Hayır
+o Evet
+Grup üyeleri arasındaki iş birliği ve uyum yeterli miydi? o Kısmen
+Topluluk İletişimi
+o Hayır
+o Evet
+Grup üyeleri sunum boyunca birbirine destek oldu mu? o Kısmen
+o Hayır
+o Evet
+Sunum sonrasında sorulan sorulara uygun ve etkili cevaplar
+o Kısmen
+verilebildi mi? o Hayır
+Bütçemi Planlıyorum
+Cevap Anahtarı
+Ek-1
+Tasarruf Miktarları
+A GRUBU B GRUBU C GRUBU
+Hesaplama Tablosu
+AYLAR A GRUBU B GRUBU C GRUBU
+1. Ay 6600 TL 7700 TL 6000 TL
+2. Ay 13 200 TL 15 400 TL 12 000 TL
+3. Ay 19 800 TL 23 100 TL 18 000 TL
+4. Ay 26 400 TL 30 800 TL 24 000 TL
+5. Ay 33 000 TL 38 500 TL 30 000 TL
+6. Ay 39 600 TL 46 200 TL 36 000 TL
+Bütçemi Planlıyoru
+LINKS:[["Bütçe Yönetimi", "F92Dd9"], ["Etkinlik Panosu", "wzwiDF"], ["EBA Etkileşimli İçerik Doğrusal İlişki", "UqmtE2K"], ["EBA Alıştırmalar Doğrusal İlişki", "UcBv2iY"], ["Doğrusal İlişki-Problemler", "DL2LZ1"]]

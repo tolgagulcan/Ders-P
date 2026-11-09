@@ -1,0 +1,176 @@
+## 6. Sinif/Matematik/Istatiksel Arastirma Sureci - Veri Pesinde.pdf
+SURE:5 KOD:MAT.6.5.1.
+KAV:Araştırma sorusu, Değişebilirlik, Kategorik veri, Nicel (kesikli) veri
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin istatistiksel araştırma süreciyle ilgili ön bilgilerini değerlendirmek amacıyla 5.
+Tema-Tema Değerlendirme isimli etkileşimli içeriği EBA’dan paylaşır ve takibini yapar. Öğrencileri 3 veya 4
+kişilik gruplara ayırır.
+1. Ders (BT Sınıfı)
+Öğretmen, günlük yaşamda araştırma gerektiren durumlara dikkat çekmek amacıyla Millî Eğitim Bakanlığı
+tarafından yayımlanan Dijital Dünyada Ekran Kullanımı Araştırması haberini (MEB, 2025) etkileşimli tahtada
+açarak derse başlar. Öğrencilerden haberi incelemelerini ister. Bu araştırmanın neden yapıldığını, hangi
+bilgileri ortaya koyduğunu ve bu bilgilerin kimler için yararlı olabileceğini öğrencilere sorar. Öğrencilerin
+yanıtlarını aldıktan sonra sınıfa “Her merak ettiğimiz durum, araştırma gerektirir mi?” sorusunu yöneltir ve
+öğrencilerden fikirlerini paylaşmalarını ister.
+Öğretmen, öğrencilere bir grup çalışması yapacaklarını söyler ve “Size verilen durumları grup olarak incele-
+yiniz. Her bir durumun araştırma gerektirip gerektirmediğine karar veriniz. Eğer araştırma gerektiriyorsa bu
+durumun hangi veri türüne dayandığını belirleyiniz.” yönergelerini verir. Etkinlik öncesinde kategorik ve nicel
+(kesikli) veri kavramlarını kısaca ve somut örnekler vererek açıklar.
+Öğretmen, gruplardan eşleştirme yapabilmeyi sağlayan web aracıyla oluşturulmuş Araştırma Gerektirir
+mi? isimli etkinliği bilgisayarlarında açmalarını ister (Ek-1). Gruplar etkinlikteki durumları tartışarak sınıf-
+landırır ve kararlarını gerekçelendirir. Öğretmen, sınıf içinde dolaşarak yönlendirici sorular sorar ve gerek-
+tiğinde açıklamalar yapar. Öğrencilere çalışma esnasında genel ağdan yararlanabileceklerini söyler.
+Etkinlik tamamlandığında birkaç gruptan sınıflandırma sonuçlarını ve gerekçelerini kısaca paylaşmala-
+rını ister. Grupların sundukları örneklerden “Araştırma gerektiren durumlar, belirli ölçütlere göre tanımlanır.”
+sonucuna ulaşmalarını sağlar.
+Tartışmayı derinleştirmek için öğrencilere “Bir durumun araştırma gerektirdiğini anlamak için hangi soruları
+sorabiliriz?” sorusunu yöneltir. Öğrencilerden fikirlerini, dijital pano ya da post-it oluşturma aracıyla oluştu-
+rulan “Araştırma Soruları Oluşturma Kriterleri” başlıklı bir etkinlikte toplamalarını ister. Öğrenciler dijital pano
+ya da post-it oluşturma aracında belirtilen bölüme fikirlerini yazarak iyi bir araştırma sorusunun sahip olması
+gereken temel ölçütleri belirler. Öğretmen, bu süreci yönlendirerek “amacın açık olması, değişkenlerin belir-
+lenebilir olması, veri toplanarak cevaplanabilir olması ve değişebilirlik göstermesi” gibi ölçütleri netleştirir.
+Dersin sonunda öğretmen, bir sonraki derse kadar yapacakları görevi öğrencilere açıklar. Gruplara hem
+araştırma gerektiren hem de gerektirmeyen birer örnek durum oluşturacaklarını ve bu örnekleri dijital
+pano ya da post-it oluşturma aracı üzerinden paylaşacaklarını belirtir. Diğer grupların paylaştığı durum-
+ları inceleyeceklerini ve akran değerlendirme yapmayı sağlayan web aracıyla hazırlanmış Akran Değer-
+lendirme Formu’nu kullanarak değerlendireceklerini söyler (Ek-2). Öğretmen, değerlendirmeyi şu ölçütlere
+göre yapacaklarını açıklar:
+• Durumun araştırma gerektirip gerektirmediğinin belirlenmesi
+• Veri türünün (kategorik/nicel) belirlenmesi
+• Gerekçedeki açıklamaların anlaşılır ve uygun olması
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Her grup, araştırma gerektiren ve gerektirmeyen birer örnek durum oluşturarak dijital pano ya da post-it
+oluşturma aracında paylaşır. Gruplar, diğer grupların paylaşımlarını inceleyerek Akran Değerlendirme Formu
+ile değerlendirme yapar (Ek-2).
+İstatistiksel araştırma gerektiren gerçek yaşam durumunu belirlemek, Gerek-
+Analitiklik, Dijital bilgiyi anlamlandırma
+Ders Öncesi
+Öğretmen, öğrencilerin dijital pano ya da post-it oluşturma aracındaki paylaşımlarını inceler. Akran değer-
+lendirmelerinden yola çıkarak öğrencilerin kararlarında öne çıkan düşünme biçimlerini not eder ve derste
+tartışılacak noktaları belirler. Sınıfı 3 veya 4 gruba ayırır. Görsel düzenleme aracıyla oluşturulmuş Araştırma
+Durum Kartları görselinin çıktısını alarak sınıfta kullanıma hazır hâle getirir (Ek-3).
+2. Ders (Sınıf)
+Öğretmen, grupların dijital pano ya da post-it oluşturma aracındaki paylaşımlarını etkileşimli tahtada açar.
+Akran değerlendirmelerini temel alarak araştırma sorusunun sahip olması gereken ölçütleriyle ilgili kısa bir
+sınıf tartışması başlatır. Ardından “Bir durumun araştırma gerektirdiğine karar verdikten sonra bu duruma
+yönelik nasıl araştırma soruları yazabiliriz?” sorusunu öğrencilere yöneltir. Öğrencilerden gelen yanıtlar doğrul-
+tusunda betimleyici ve karşılaştırmalı araştırma sorularının örneklerini sınıfla birlikte tartışır. Bu kısa tartış-
+manın sonunda “Betimleyici sorular bir durumu tanımlar, karşılaştırmalı sorular iki veya daha fazla durumu
+karşılaştırır. Bu sorular bazen kategorik, bazen de nicel verilere dayanır.” diyerek aralarındaki ayrımı vurgular.
+Öğretmen, öğrencilere araştırma soruları oluşturma sürecine yönelik bir grup oyunu oynayacaklarını belirtir.
+Ardından etkileşimli sunum aracıyla hazırlanmış İstatistiksel Araştırma Atölyesi Oyun Yönergesi sunumunu
+etkileşimli tahtada açar ve oyun kurallarını açıklar (Ek-4). Gruplardan birer öğrenci sırayla tahtaya gelerek
+oyunlaştırma web aracıyla hazırlanmış Araştırma Soru Türleri çarkını çevirir ve Araştırma Durum Kartları
+arasından rastgele bir tane seçer. Gruplar kısa bir sürede bu şartları sağlayan bir araştırma sorusu oluştur-
+maya çalışır. Süre dolduğunda her grup hazırladığı soruyu sınıfla paylaşır. Öğretmen, öğrencilerden gelen
+yanıtlar üzerinden dersin ana çıktılarını özetler. Böylece öğrencilerin konuyu pekiştirmelerini sağlar.
+Ders Sonrası
+Öğretmen, öğrencilerden örnek bir durum belirleyerek bu duruma yönelik dört farklı araştırma sorusu (katego-
+rik-betimleme, nicel-betimleme, kategorik-karşılaştırma, nicel-karşılaştırma) hazırlamalarını ister. Öğren-
+ciler hazırladıkları soruları dijital pano ya da post-it oluşturma aracıyla paylaşır. Ayrıca her sorunun türüne
+ve bu soru türünün hangi veri toplama aracına uygun olduğuna yönelik kısa bir açıklama ekler.
+Gerekçeli yargıda bulunmak, Karşılaştırma, Tartışma, Bağlam içerisinde veriye
+birliği yapmak, Başkalarının duygularını, düşüncelerini ve bakış açılarını anlamak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencilerin dijital pano ya da post-it oluşturma aracından paylaştıkları araştırma sorularını
+inceler. Soruların hangi tür veriye ihtiyaç duyduğunu belirler ve derste tartışılmak üzere temsil gücü yüksek
+birkaç örnek seçer. Ayrıca veriye ulaşmanın farklı yollarını gösterebilmek için hazır veri kaynaklarının [örneğin
+Türkiye İstatistik Kurumu (TÜİK)] tanıtımını içeren Hazır Veri ve Hazır Veri Kaynakları isimli videoyu EBA’dan
+paylaşır. Sınıfı 3 veya 4 kişilik gruplara ayırır.
+3. Ders (BT Sınıfı)
+Dersin başında öğretmen, öğrencilerin oluşturduğu araştırma sorularından birkaç örneği etkileşimli tahtada
+açar. Öğrencilerden bu sorulara yanıt bulmak için ihtiyaç duyulan verilere nasıl ulaşılacağını düşünmele-
+rini ister. Öğrenciler fikirlerini paylaşırken öğretmen, veriye ulaşmanın iki farklı yolu olduğunu fark ettirir: hazır
+veriye ulaşmak ve kendi verisini toplamak. Araştırma sürecinde her iki yöntemin de önemli olduğunu vurgular.
+Öğretmen, önce hazır veriye ulaşmanın ne anlama geldiğini açıklar. Resmî kurumların (TÜİK vb.) hangi tür
+verileri topladığını sorarak öğrencileri düşünmeye sevk eder. Öğrencilerin yanıtlarından hareketle bu tür
+verilerin araştırma sorularını yanıtlamada ve karar verme süreçlerinde kullanılan değerli ve güvenilir bilgiler
+olduğunun altını çizer.
+Öğretmen, hazır veriyle yanıtlanamayacak araştırma sorularında verinin doğrudan toplanması gerekti-
+ğini belirtir ve veriye ulaşmanın ikinci yolu olan kendi verisini toplama sürecine geçer. Öğrencilerden anket
+oluşturmayı sağlayan web aracıyla hazırlanmış Öğrencilerin Gözünden Matematik çevrim içi anketini bilgi-
+sayarlarında açmalarını ister (Ek-5). Bu örnek üzerinden kelime bulutu, derecelendirme ölçeği veya açık uçlu
+sorularla dijital ortamda nasıl veri toplanacağını gösterir. Daha sonra her gruptan aynı araştırma konusu
+doğrultusunda kendi veri toplama planlarını oluşturmalarını ister. Her grubun konuyu farklı açılardan ele
+alabileceğini belirtir. Bazı gruplar matematik başarısını etkileyen etmenleri, bazıları öğrencilerin matema-
+tiğe yönelik tutumlarını, bazıları ise günlük yaşamda matematiğin kullanımını araştırabilir.
+Gruplar, anket oluşturmayı sağlayan web aracıyla hangi soru türlerini kullanacaklarına birlikte karar
+verir. Tercih ettikleri soru türlerinin araştırma sorularını nasıl desteklediğini ve bu tercihleri hangi gerek-
+çelere dayandırdıklarını açıklar. Ayrıca kullanmayı düşünmedikleri soru türlerini neden tercih etmedikle-
+rini de paylaşırlar. Bu süreçte öğretmen sınıf içinde dolaşarak rehberlik eder ve gruplara anket oluşturmayı
+sağlayan web araçlarıyla hazırlanan Veri Toplama Planı Kontrol Listesi ile çalışmalarını şekillendireceklerini
+söyler (Ek-6). Gruplar planlarını tamamladıktan sonra sınıfla paylaşır. Her grup, kendi araştırma planını ve
+seçtiği soru türlerini tanıtır. Diğer öğrencilerden gelen sorular ve öneriler doğrultusunda planlarını gözden
+geçirirler. Dersin sonunda öğretmen, yapılan paylaşımları özetler ve bir sonraki derste gruplara kendi planları
+doğrultusunda anket sorularını hazırlayacaklarını belirtir. Gruplar çalışmalarını etkileşimli sunum araçla-
+rıyla tamamlar ve sınıfla paylaşır.
+Ders Sonrası
+Her grup, araştırma sorusuna yönelik veri toplama planını dijital pano ya da post-it oluşturma aracında
+paylaşır.
+İstenen bilgiye ulaşmak için kullanacağı araçları belirlemek, Grup iletişimine
+katılmak, Kişi ve gruplarla iş birliği yapmak, Dijital araçlarla iş görme, Gerekçeli
+yargıda bulunmak, Tartışma, İhtiyaçlarını karşılamaya yönelik hedef belirlemek
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, bir önceki derste öğrencilerin oluşturduğu veri toplama planlarını inceler. Her grubun belirle-
+diği araştırma sorusu, veri türü (kategorik/nicel) ve planlanan soru türleri arasındaki ilişkiyi gözden geçirir.
+Öğrencilerin seçtikleri soru türlerinin araştırma sorularını yanıtlamaya uygun olup olmadığını değerlendirir.
+4. Ders (Sınıf)
+Öğretmen, öğrencilere önceki derste veri toplama planlarını oluşturduklarını hatırlatır ve bu derste belirledik-
+leri soru türlerine uygun anket soruları hazırlayacaklarını açıklayarak derse başlar. Öğrencilere, “Bir anketin
+iyi tasarlanmış olduğunu nasıl anlarız?” sorusunu yönelterek öğrencilerden fikirlerini paylaşmalarını ister.
+Öğrencilerin yanıtlarından hareketle iyi bir anket sorusunun üç temel özelliğini vurgular: açık ve anlaşılır
+olması, araştırma amacına uygunluk göstermesi ve katılımcı profiline hitap etmesi. Ardından öğrencilerden
+hazırlayacakları her bir anket sorusunun araştırma sorusuyla ilişkisini açıklamalarını ister. Bu süreçte aşağı-
+daki yönlendirici soruları kullanır:
+• Hazırladığınız bu soru araştırma probleminize nasıl katkıda bulunuyor?
+• Bu soru, araştırma sorusuna yanıt bulmak için gerekli veriyi toplamanıza yardımcı olur mu?
+• Soru türü, elde etmek istediğiniz veri türüyle (kategorik veya nicel) uyumlu mu?
+Öğrenciler, bu sorular doğrultusunda kendi araştırma konularına uygun anket taslaklarını oluşturmaya
+başlar. Her grup, hazırladığı anket sorularının açık, anlaşılır, amaca uygun ve katılımcı profiline hitap edecek
+nitelikte olmasına dikkat eder. Ayrıca oluşturdukları soruların araştırma sorularını yanıtlamaya nasıl hizmet
+ettiğini açıklayarak çalışmalarını derinleştirirler.
+Öğretmen sınıf içinde dolaşarak gruplara rehberlik eder; ifadelerin açıklığı, yönlendiricilikten kaçınma ve
+araştırma amacına uygunluk konularında geri bildirimde bulunur. Dersin sonunda her grup oluşturduğu
+anket sorularını sınıfla paylaşır. Diğer öğrenciler, her bir sorunun araştırma sorusuyla ilişkisi üzerine görüş-
+lerini belirtir. Öğretmen, paylaşımları özetleyerek etkili bir anketin yalnızca uygun soru türlerinden değil aynı
+zamanda araştırma amacına hizmet eden açık ve anlamlı ifadelerden oluştuğunu vurgular.
+Ders Sonrası
+Öğretmen, öğrencilerden hazırladıkları anket sorularını anket araçlarından birini kullanarak dijital ortama
+aktarmalarını ve EBA’dan paylaşmalarını ister.
+Tartışma, Gerekçeli yargıda bulunmak, Dijital ortamlar için içerik oluşturma ve
+Yeni durumlara uyum sağlamak
+Ders Öncesi
+Öğretmen, öğrencilerin oluşturduğu dijital anketleri inceler. Soruların açık, anlaşılır ve amaca uygunluğunu
+ve soru türlerinin araştırma sorusuyla uyumunu değerlendirir. Öğrencilerin geliştirmesi gereken noktaları
+not alır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+5. Ders (Sınıf)
+Dersin başında öğretmen, bir önceki derste hazırlanan anket taslaklarının güçlü ve geliştirilebilir yönleri
+hakkında geri bildirim verir. Ardından öğrencilerin dikkatini verinin duyarlılık ve gizlilik boyutlarına çeker.
+“Anket hazırlarken bir katılımcıdan T.C. kimlik numarasını istemek doğru mudur? Nedenleri ile açıklayınız.”
+diyerek somut bir örnekle tartışmayı başlatır. Öğrencilerden fikirlerini alır ve buradan yola çıkarak kişisel veri
+ile gizlilik kavramlarını basit ve anlaşılır bir dille açıklar.
+Öğretmen etkileşimli tahtada EBA’daki Gizlilik ve Güvenlik etkileşimli içeriğini açar. Öğrenciler kişisel verilerin
+korunması, gizlilik ihlalleri ve bu ihlallerin sonuçlarını inceler. Etkileşimli içerikten edindikleri bilgiler doğrul-
+tusunda anket sorularını ve veri toplama yöntemlerini gözden geçirerek gerekli önlemleri alır. Anketlerini
+tasarlarken kişisel verilerin gizliliğine özen gösterir ve veri toplama sürecinde mahremiyet ilkelerini gözetir.
+Bu farkındalıkla birlikte öğretmen, her gruptan gizlilik ve mahremiyet açısından uygun olan ve olmayan soru
+örnekleri belirlemesini ister. Ardından şu yönlendirici sorularla süreci destekler:
+• Katılımcılardan hangi bilgileri istemek kişisel veri ihlaline yol açar?
+• Sorularınız katılımcıların kendilerini rahatsız hissetmesine neden olur mu?
+• Katılımcı gizliliğini korumak için anketinizi nasıl düzenlersiniz?
+Ders sonunda her grup, hazırladığı örnek anket sorularını sınıfla paylaşır. Öğretmen, birkaç örnek anket
+sorusunu etkileşimli tahtada açarak sınıfla birlikte değerlendirir. Öğrenciler, bu örnekler üzerinden anket
+sorularının mahremiyet duyarlılığına ilişkin geri bildirimde bulunurlar.
+Ders Sonrası
+Öğretmen, öğrencilerin öğrenme kanıtlarını değerlendirmek amacıyla EBA’daki Kategorik ve Nicel (Kesikli)
+Veri Dağılımları-1 etkileşimli içeriğini paylaşır. EBA raporlar bölümünden çalışmanın takibini yapar.
+Tartışma, Gerekçeli yargıda bulunmak, Karşılaştırma, Verileri toplama için plan
+yapmak, Grup iletişimine katılmak, Kişi ve gruplarla iş birliği yapmak, Dijital ortamda
+kimliğini ve mahremiyetini korumak
+
+LINKS:[["EBA 5. Tema–Tema Değerlendirme", "UHGKy4x"], ["Dijital Dünyada Ekran Kullanımı Araştırması", "UuxTVDA"], ["Araştırma Gerektirir mi?", "1BQLT7"], ["Akran Değerlendirme Formu", "UTW5ypN"], ["Araştırma Durum Kartları", "YDy15I"], ["İstatistiksel Araştırma Atölyesi Oyun Yönergesi", "UGh0yLc"], ["Araştırma Soru Türleri", "bxLaNv"], ["EBA Hazır Veri ve Hazır Veri Kaynakları", "2pnIbO"], ["Öğrencilerin Gözünden Matematik", "UJ0tnZc"], ["Veri Toplama Planı Kontrol Listesi", "UfXQSmX"], ["EBA Gizlilik ve Güvenlik", "b3eSWJ"], ["EBA Kategorik ve Nicel (Kesikli) Veri Dağılımları-1", "UETgca6"]]

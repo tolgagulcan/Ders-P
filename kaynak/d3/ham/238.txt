@@ -1,0 +1,186 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Topraksiz Tarim.pdf
+SURE:5 KOD:M.6.3.2.3. M.6.3.2.4.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 (Sınıf)
+Öğretmen, alan ölçme birimleriyle ilgili ilginç istatistikleri etkileşimli tahtada açarak derse giriş yapar
+(Ek-1). Burada yer alan ölçü birimlerinin ne ifade ettiğini öğrencilere sorar ve cevapları öğrencilerle
+değerlendirir. Alan Ölçme Birimleri konu anlatımı videosunu açar ve video desteği ile aşamalar hâlinde
+konuyu anlatır. Öğretmen, oyunlaştırılmış ölçme ve değerlendirme web aracı kullanarak hazırladığı
+Topraksız Tarım-Alan Ölçü Birimleri Dönüşümleri isimli etkinliği etkileşimli tahtada öğrencilere yaptırır
+(Ek-2). Etkinlikte hazırlanan sorular kutulara yerleştirilmiştir. Öğrenci, seçtiği herhangi bir kutudan çıkan
+soruyu tahtada cevaplar ve konuyu pekiştirir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Akıl yürütme, İlişkilendirme,
+Dijital yeterlilik
+Ders 2 (Sınıf)
+Öğretmen, alan ölçme birimlerinin arazi ölçü birimleriyle ilişkisini göstermek için Arazi Ölçme Birimleri
+konu anlatımını açar. Öğrenciler, alan ölçü birimlerinin arazi ölçü birimlerine nasıl dönüştüğünü gösteren
+konu anlatımını izledikten sonra öğretmenin açtığı Alan ve Arazi Ölçme Birimleri etkinliğini yapar. Etkinlikte
+aynı büyüklükteki alanların bulunması istenmektedir. Öğrencilerin gönüllü olarak katıldığı bu etkinliğin
+sonunda öğretmen, doğru cevabı veren öğrencileri eğlenceli etiketlerle ödüllendirir.
+Ödev
+Dersin sonunda Alan ve Arazi Ölçme Birimleri alt konu testi ödev olarak verilir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Akıl yürütme, Dijital yeterlilik
+Ders 3 (Sınıf)
+Öğretmen, derse başlamadan önce öğrencileri 2-3 kişilik gruplara ayırır. Öğrenciler, önceki derste
+öğrendikleri alan ve arazi ölçü birimlerini tekrar edecek şekilde birkaç alıştırma yapar. Öğretmen, konunun
+daha iyi anlaşılması için Alan Ölçme Birimleri Arasındaki Dönüşümleri çalışmasını yaptırır. Öğretmen,
+öğrencilere topraksız tarım etkinlikleri hakkında bilgilerinin olup olmadığını sorar ve konuyla ilgili öğrencilere
+etkileşimli tahta aracılığıyla Tarımın Gelişmesi adlı videoyu izletir. Öğretmen ayrıca öğrencilere Topraksız
+Tarımla İlgili Görseli gösterir. Konuyla ilgili gerekli bilgilendirmeleri yaptıktan sonra öğrencilere etraflarında
+bulunan arazilerin büyüklükleri ile ilgili yorum içeren aşağıdaki örnek soruları sorabilir:
+1. 1 dekar arazinin büyüklüğü sizce ne kadardır? Çevrenizden örnekler veriniz.
+2. Sizce büyük arazilerin alanlarını nasıl ölçeriz?
+Öğretmen, daha sonra öğrencilere problem durumunu etkileşimli tahtadan sunar (Ek-3). Grupların sunulan
+probleme yönelik çalışma yapacakları bilgisini verir. Etkinliğin amacı, öğrencilerin arazi ölçme birimlerini
+birbirine dönüştürebilmeleri ve elde ettikleri verileri sütun grafiğinde gösterebilmelerini sağlamaktır.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Akıl yürütme, İlişkilendirme
+Ders 4 ve 5 (BT Sınıfı)
+Öğretmen, öğrencilerinden bir önceki derste verdiği problem durumuyla ilgili çözüm önerilerinin ne
+olduğunu açıklamalarını ve yazmalarını ister. Öğrenciler hesaplamaları grup olarak yapar. Öğretmen
+bu süreçte öğrencilere sözlü geri bildirimler vererek çalışmalara rehberlik eder. Öğrenciler, gerekli
+dönüştürmeleri yaparak metrekarede kaç boru olduğunu ve bu borularda kaç tane marul üretildiğini
+görsel ve infografik web aracı kullanarak sıklık tablosunda gösterirler (Ek-4). Öğretmen, öğrencilerden
+oluşturdukları sıklık tablosunu sütun grafiğinde göstermelerini ister. Etkinliği tamamlayan her grup, kendi
+oluşturduğu sıklık tablosunu ve sütun grafiğini öğretmen ve sınıfla paylaşır. Grup sözcüsü, etkileşimli
+tahtada etkileşimli sunum araçlarını kullanarak yapılan çalışmanın kısa bir sunumunu yapar. Her grubun
+sunumda verdiği bilgiler sınıfça tartışılır. Öğretmen, grup değerlendirme formuna göre değerlendirme
+yapar (Ek-5). Öğrenciler, istenildiği takdirde uygun 3D Model oluşturmayı sağlayan web araçları kullanarak
+topraksız tarım yapılmak istenen küçük alanın 3 boyutlu modelini oluşturabilir. Bu sayede öğrenciler,
+hangi uygulama türünden daha fazla verim elde edebileceklerini görsel olarak deneyimlemiş olurlar.
+İlgili Yetkinlikler/Beceriler: Matematiksel yetkinlik, İletişim, Eleştirel düşünme, Matematiksel süreç
+becerileri, İş birliği, Dijital yeterlilik
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerik
+• EBA + alt konu testi
+• EBA + öğretmene özel alıştırma
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Alan Ölçme Birimleri Konu Anlatımı: http://meb.ai/UKdLicF (Son erişim tarihi: 09.05.2024)
+2. Topraksız Tarım-Alan Ölçü Birimleri Dönüşümleri: https://meb.ai/Umhtn2i (Son erişim tarihi: 25.11.2024)
+3. EBA Arazi Ölçme Birimleri Konu Anlatımı: http://meb.ai/UJis3R1 (Son erişim tarihi: 09.05.2024)
+4. EBA Alan ve Arazi Ölçme Birimleri Etkinliği: http://meb.ai/pprjST (Son erişim tarihi: 09.05.2024)
+5. EBA Alan ve Arazi Ölçme Birimleri Alt Konu Testi: http://meb.ai/DOtuvO (Son erişim tarihi: 09.05.2024)
+6. EBA Alan Ölçme Birimleri Arasındaki Dönüşümler: https://meb.ai/0tNQ9M (Son erişim tarihi: 09.05.2024)
+7. EBA Tarımın Gelişmesi: https://meb.ai/TtzZ4s (Son erişim tarihi: 09.05.2024)
+8. Topraksız Tarım Görseli: http://meb.ai/UXnOK5o (Son erişim tarihi: 09.05.2024)
+Kaynakça
+Kahraman, Ö. (2014). Topraksız tarım yöntemiyle sternbergia lutea soğanlarını büyütme. ÇOMÜ Ziraat
+Fakültesi Dergisi, 2(2), 35-39.
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 25 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+T.C. Tarım ve Orman Bakanlığı. (2020). 13 bin 360 dekarda topraksız tarım yapılıyor. Son erişim tarihi 28
+Ağustos 2024, http://www.turktarim.gov.tr/Haber/507/13-bin-360-dekarda-topraksiz-tarim-yapiliyor
+The World Bank. (2021). Surface area. Son erişim tarihi 28 Ağustos 2024, https://data.worldbank.org/
+indicator/AG.SRF.TOTL.K2
+Wordwall. (2024). Topraksız tarım-alan ölçü birimleri dönüşümleri. Son erişim tarihi 25 Kasım 2024,
+https://wordwall.net/tr/resource/82626685
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Alan Ölçü Birimleri ile İlgili İlginç İstatistikler
+Ek-2: Alan Ölçü Birimleri Dönüşümleri Etkinliği Yönergesi
+Ek-3: Problem Durumu
+Ek-4: Sıklık Tablosu
+Ek-5: Grup Değerlendirme Formu
+EK-1
+Alan Ölçü Birimleri ile İlgili İlginç İstatistikler
+1. Dünya Yüz Ölçümü
+• Dünya yüzölçümü yaklaşık olarak 510 milyon kilometrekareye denk gelmektedir.
+2. Ülkelerin Yüz Ölçümü
+• Rusya, dünyanın en geniş ülkesi olarak yaklaşık 17,1 milyon kilometrekarelik bir alanı kaplamaktadır.
+• Monako, dünyanın en küçük ülkesi olup sadece 2,02 kilometrekarelik bir alana sahiptir.
+3. Tarım Alanları
+• Dünya genelinde tarım arazileri yaklaşık olarak 48 milyar dönümdür.
+• Brezilya, dünya genelindeki en büyük tarım alanlarına sahip ülkelerden biridir ve toplam arazi
+alanının %29’unu tarım için kullanmaktadır.
+4. Şehirlerin Yüz Ölçümü
+• Konya şehri 38,873 kilometrekarelik bir alanı kaplayarak Türkiye’nin en büyük şehridir.
+• Ürdün’ün başkenti Amman, 1680 kilometrekarelik bir alana sahip olup Orta Doğu’daki en büyük
+şehirlerden biridir.
+5. Doğal Koruma Alanları
+• Dünya genelinde korunan doğal alanların toplam yüz ölçümü yaklaşık olarak 27 milyon
+kilometrekaredir.
+• Ayvalık Adaları Tabiat Parkı, Türkiye’nin en büyük korunan doğal alanı olup 196,2427
+kilometrekarelik bir alana sahiptir.
+Topraksız Tarım
+EK-2
+Alan Ölçü Birimleri Dönüşümleri Etkinliği
+Soruları ve Yönergesi
+Aşağıda yer alan sorular ile oyunlaştırma web araçlarından biri kullanılarak bir kutu açma
+oyunu hazırlanabilir.
+Sorular:
+1. Bir bahçenin alanı 1 200 cm²dir.
+Bu bahçenin alanını m² cinsinden yazınız.
+Cevap: 0,12 m²
+2. Dikdörtgen şeklinde bir odanın tabanı 5 m uzunluğunda ve 4 m genişliğindedir.
+Bu odanın taban alanını dm² cinsinden yazınız.
+Cevap:5 m x 4 m =20 m²
+3. Bir yüzme havuzunun alanı 4 000 000 cm²dir.
+Bu havuzun alanını m² cinsinden yazınız.
+Cevap: 400 m²
+4. Bir basketbol sahasının alanı 420 000 000 mm²dir.
+Bu sahanın alanını m² cinsinden yazınız.
+Cevap: 420 m²
+5. Bir tenis kortunun alanı 237 m²dir.
+Bu kortun alanını dm² cinsinden yazınız.
+Cevap: 23 700 dm²
+6. Bir tarlanın alanı 30 000 m²dir.
+Bu tarlanın alanını cm² cinsinden yazınız.
+Cevap: 300 000 000 cm²
+7. Bir bahçenin alanı 50 000 m²dir.
+Bu bahçenin 1/4’lük kısmını dm² cinsinden yazınız.
+Cevap: 50 000 : 4 = 12 500 m² 12500 m² = 1 250 000 dm²
+Topraksız Tarım
+EK-3
+Problem Durumu
+Ziraat Mühendisi Ferdi Bey, emekli olunca babadan kalma 2 dönüm arazisini değerlendirmek istiyor.
+Bunun için marul yetiştirmeyi planlıyor ancak yetiştireceği alan küçük olduğu için maliyetinin fazla
+olacağını, masrafları çıkarınca kâr etmesi için en az 5-6 dönüme daha ihtiyacı olduğunu biliyor. Bu
+yüzden bir sera kurarak son yıllarda popüler olan topraksız tarım uygulaması yapmayı planlıyor.
+Topraksız tarım uygulaması yapabilmesi için yatay veya dikey borular kullanması gerekiyor. 1
+metrekare alanda daha fazla kullanılabileceği için dikey borular tercih ediyor. Maliyet hesabı
+yapabilmesi için kullanılacak boru sayısını ve buradan elde edeceği ürün miktarını gösteren bir
+tabloya ihtiyaç duyuyor. Bu durumda Ferdi Bey’e yardımcı olabilir misiniz?
+Sınırlamalar
+• Maliyet hesabına girilmeyecektir.
+• 1 metrekarede en az 2, en fazla 5 boru olabilir.
+• Her boruda ortalama 8 adet marul yetiştirilebilir.
+Topraksız Tarım
+EK-4
+Sıklık Tablosu
+Aşağıda verilen tabloda boş bırakılan bölümleri problem durumundaki cevaplarınıza göre doldurunuz.
+Miktarı
+Metrekarede kullanılan boru sayısı Metrekarede kullanılan ürün adedi
+(2 dekarda-adet)
+Topraksız Tarım
+EK-5
+Grup Değerlendirme Formu
+Bu form öğretmenin gruptaki öğrencilerin çalışmalarını değerlendirmesi için hazırlanmıştır. Bu ifadelere
+• Tamamen katılıyorsanız (2) puan,
+• Bazen katılıyorsanız (1) puan,
+• Hiç katılmıyorsanız (0) puan ile kutucukları doldurunuz.
+Grup Adı:
+1. Grup Üyesi 2. Grup Üyesi 3. Grup Üyesi 4. Grup Üyesi
+KRİTERLER
+............................. ............................. ............................. .............................
+Alan ölçü birimlerini birbirine dönüştürme sürecinde aktif rol almıştır.
+Alan ölçü birimlerini arazi ölçü birimlerine dönüştürme sürecinde aktif
+rol almıştır.
+Sıklık tablosu oluşturma sürecinde aktif rol almıştır.
+Sıklık tablosundaki verileri sütun grafiğine dönüştürme sürecinde aktif
+rol almıştır.
+Grup çalışmasını verimli bir şekilde yürütmüştür.
+Grup arkadaşlarının fikirlerine saygı duymuştur.
+TOPLAM PUAN
+Bu formdan alınabilecek puan en fazla 12 iken en az 0’dır.
+Topraksız Tarı
+LINKS:[["EBA Alan Ölçme Birimleri Konu Anlatımı", "UKdLicF"], ["Topraksız Tarım-Alan Ölçü Birimleri Dönüşümleri", "Umhtn2i"], ["EBA Arazi Ölçme Birimleri Konu Anlatımı", "UJis3R1"], ["EBA Alan ve Arazi Ölçme Birimleri Etkinliği", "pprjST"], ["EBA Alan ve Arazi Ölçme Birimleri Alt Konu Testi", "DOtuvO"], ["EBA Alan Ölçme Birimleri Arasındaki Dönüşümler", "0tNQ9M"], ["EBA Tarımın Gelişmesi", "TtzZ4s"], ["Topraksız Tarım Görseli", "UXnOK5o"]]

@@ -1,0 +1,129 @@
+## 7. Sinif/Matematik/Sayilar ve Islemler - Havanin Gucune Karsi Tasarimin Gucu.pdf
+SURE:3 KOD:M.7.1.4.6.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 (Sınıf)
+Öğretmen, öğrencileri sınıf mevcudunu göz önünde bulundurarak dörder veya beşer kişilik gruplara
+ayırır. Öğrencilere Formula 1 araçlarının görsellerini etkileşimli tahta üzerinden açarak “Formula 1 araçları
+neden bu şekilde tasarlanmıştır, bu tasarımların sizce bir amacı var mıdır?” sorularını sorar. Öğretmen,
+öğrencilerinden rüzgârın etkisini azaltmak ve aracın daha hızlı olmasını sağlama cevaplarını almak
+için öğrencilere yönlendirici sorular sorar. Öğrencilerin cevaplarını dijital pano ya da post-it oluşturma
+aracına yazar.
+Ardından 7. sınıf fen bilimleri dersinde işledikleri hava direnci konusunu öğrencilere hatırlatmak ve konuyla
+bağlantı kurmalarını sağlamak amacıyla EBA’dan Hava Direnci videosunu etkileşimli tahtadan açar.
+Videodan yola çıkarak öğrencilere hava direnci ile Formula 1 araçları arasında nasıl bir ilişki olduğunu
+sorar. Grup üyelerinin kendi aralarında tartışmalarını ve ortak bir sonuca varmalarını sağlar. Gruplar
+ulaştıkları sonuçları grup sözcüsü aracılığıyla sınıfa duyurur.
+İlgili Yetkinlikler/Beceriler: İş birliği, Eleştirel düşünme, İlişkilendirme
+Ders 2 (BT Sınıfı)
+Öğrenciler eşleştirme yapabilmeyi sağlayan web araçları ile hazırlanmış Farklı Araç Türlerinin Maruz
+Kaldıkları Hava Dirençleri isimli eşleştirme etkinliğini yapar. Öğretmen, öğrencilerin bu eşleştirmeleri
+yaparken nelere dikkat ettiğini kontrol eder. Bu bağlamda eşleştirme yaparken nelere dikkat ettiklerini,
+en büyük direncin hangi araca neden etki ettiğini vb. soruları öğrencilere sorar. Öğretmen ve öğrenciler
+eşleştirmeler üzerine tartışır.
+7. sınıf ters orantı konusunu dişli çarklarla ilişkilendirerek anlatan Ters Orantılı İki Çokluk Arasındaki İlişki
+adlı EBA videosunu açar ve öğrencilere izletir. Öğretmen, ters orantı kavramını sınıfa tekrar açıklayarak
+öğrencilerden ters orantı ile ilgili günlük hayattan örnekler vermelerini ister. Öğrenciler buldukları örnekleri
+dijital pano ya da post-it oluşturma araçlarını kullanarak sınıfla paylaşır. Öğretmen, bu örneklerden
+sonra ters orantı kavramının pekişmesi için EBA’dan EBA Soruları bölümünde yer alan ara kutucuğuna
+MT070315TCH006 ve TRM0203QT009Q04 soru kodlarını yazarak etkileşimli tahtadan bu soruları açar ve
+öğrencilerle çözer.
+Öğretmen, öğrencilere zihin haritası oluşturmayı sağlayan web aracı yardımıyla zihin haritası oluştura-
+caklarını belirtir. Öğrenciler zihin haritası oluşturma etkinliğinde haritanın merkezine “ters orantı” kavra-
+mını yerleştirirler. Daha sonra günlük yaşamlarından ters orantıya örnek teşkil eden durumları bularak
+bu örnekleri zihin haritasının kollarına yazarlar.
+İlgili Yetkinlikler/Beceriler: İş birliği, Eleştirel düşünme, Dijital yeterlilik
+Ödev
+Öğretmen, öğrencilere EBA üzerinden Ters Orantılı İki Çokluktan Biri Verildiğinde Diğerini Bulma adlı etkinliği
+çalışma olarak gönderir ve onlardan ders öncesinde tamamlamalarını ister. Öğrencilerin çalışmalarının
+değerlendirme sonuçlarını EBA’dan inceler.
+Bir sonraki derste kullanılmak üzere öğrencilerden oyuncak araba, cetvel, açıölçer, kâğıt ve kurşun kalem
+getirmelerini ister.
+Ders 3 (Sınıf)
+Öğretmen çarklardaki dişli sayıları ve dönme turları arasındaki ilişkiye benzer bir ilişkinin arabalardaki ön
+yüzeyin zeminle oluşturduğu açı ve araca etki eden hava direnci arasında var olup olmadığını öğrencilere
+sorar. Öğrenciler vardıkları sonuçları dijital pano ya da post-it oluşturma araçlarını kullanarak sınıfla
+paylaşır.
+Öğretmen, sınıfı dörder veya beşer kişilik gruplara ayırır. Öğrencilerin getirdiği materyalleri her grupta
+birden fazla olacak şekilde dağıtır.
+Bir araçta hava direncine etki eden birden çok faktör olduğunu ifade ederek bu çalışmada diğer faktörlerin
+sabit olduğu varsayılıp sadece araçların ön yüzlerinin zeminle yaptığı geniş açının hava direncine etkisinin
+inceleneceğini belirtir. Öğrenciler öğretmenin verdiği yönergeleri izleyerek etkinliğe başlar. Öğrencilerden
+oyuncak arabaların ön yüzlerinin zeminle yaptığı geniş açıyı cetvel ve açıölçer yardımıyla ölçmelerini
+ister. Gruplar, ellerinde bulunan oyuncak arabaların ön yüzeylerinin zeminle yaptığı açıları bulup bunları
+tabloda uygun yerlere yazar (Ek-1). Öğrencilerden tabloda her aracın karşısına motorun hava direnci için
+harcadığı gücü gösteren tahminî sayısal verileri girmelerini ister. Tablonun birinci satırında öğrencilerin
+referans olarak kulanabileceği örnek değerler yer almaktadır (Burada öğrenciler açı ile hava direnci
+arasında ters orantı olması gerektiğini dikkate almalıdır.). Ondalıklı sonuçlar en yakın birliğe yuvarlanarak
+tabloya yazılır. Gruplar elde ettikleri verileri grup sözcüsü aracılığı ile sınıfa sunar. Öğretmen, etkinliğin
+sonunda grupların çalışmalarını grup değerlendirme formu ile değerlendirir (Ek-2). Değerlendirme
+sonuçlarını sınıf yönetimi araçlarına puan olarak işler.
+İlgili Yetkinlikler/Beceriler: İş birliği yapma, Eleştirel düşünme, Dijital yeterlilik
+Ödev
+Dersin sonunda EBA’dan öğrencilere Ters Orantı alt konu testi çalışmasını gönderir. Öğrencilerden bu
+çalışmayı evde yapmalarını ister. Çalışmanın değerlendirme sonuçlarını EBA üzerinden inceler.
+Değerlendirme Yöntemleri/Araçları
+• EBA + alt konu testi
+• EBA + etkileşimli içerik
+• EBA + sorular
+• Zihin haritası oluşturmayı sağlayan web araçları
+• Eşleştirme yapabilmeyi sağlayan web araçları
+• Grup değerlendirme formu (öğretmen için)
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Hava Direnci: http://meb.ai/UJHo6yh (Son erişim tarihi: 09.05.2024)
+2. Farklı Araç Türlerinin Maruz Kaldıkları Hava Dirençleri: https://meb.ai/Rg7jGa (Son erişim tarihi: 19.09.2024)
+3. EBA Ters Orantılı İki Çokluk Arasındaki İlişki: http://meb.ai/htvgZI (Son erişim tarihi: 09.05.2024)
+4. EBA Sorular: http://meb.ai/AMYGpE (Son erişim tarihi: 09.05.2024)
+5. EBA Alıştırma-Ters Orantılı İki Çokluktan Biri Verildiğinde Diğerini Bulma: http://meb.ai/Ui4lZSq (Son
+erişim tarihi: 09.05.2024)
+6. EBA Alt Konu Testi-Ters Orantı: http://meb.ai/UwfwW6m (Son erişim tarihi: 09.05.2024)
+Kaynakça
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 12.07.2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Wordwall. (2024). Havanın gücüne karşı tasarımın gücü-farklı araç türlerinin maruz kaldıkları hava
+dirençleri. Son erişim tarihi 19 Eylül 2024, https://wordwall.net/tr/resource/78220572
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Oyuncak Arabalar ile Maruz Kaldıkları Hava Direnci Tablosu
+Ek-2: Grup Değerlendirme Formu (Öğretmen İçin)
+EK-1
+Oyuncak Arabalar ile Maruz Kaldıkları
+Hava Direnci Tablosu
+Aşağıdaki tabloya yaptığınız etkinlikte kullandığınız araba ismi veya numarasını, ön yüzünün
+zeminle yaptığı açıyı ve ön yüzüne etki eden tahminî hava direncini yazınız.
+Arabanın ön yüzünün Etki eden tahminî hava
+Araba ismi veya numarası zemin ile yaptığı açı direnci
+(derece) (Newton)
+Yarış arabası 190° 460 N
+Havanın Gücüne Karşı Tasarımın Gücü
+EK-2
+Grup Değerlendirme Formu (Öğretmen İçin)
+Bu form, grupların çalışmaları sonucu oluşturdukları Ek-1 tablosunun değerlendirilmesinde kullanılacaktır. Her grup için verilen derecelerden kriterlere
+uygun olanı işaretleyiniz.
+Grup Adı:
+Grup Üyeleri:
+DERECELER
+KRİTERLER
+Geliştirilmeli Kısmen Yeterli Yeterli İyi Çok İyi
+(1) (2) (3) (4) (5)
+Grup üyeleri arasındaki iş birliği
+Grup üyeleri arasındaki iletişim
+Grup üyelerinin zaman yönetimi
+Grup üyelerinin çalışmalara katkısı
+Yapılan sunumun grup çalışmasını yansıtma derecesi
+Tabloya yazılan değerlerin tutarlılığı
+TOPLAM PUAN
+Bu formdan alınabilecek puan en fazla 30 iken en az 6’dır.
+Eklemek istedikleriniz:
+...........................................................................................................................................................................................................................................................................................................................................................................
+Havanın Gücüne Karşı Tasarımın Güc
+LINKS:[["EBA Hava Direnci", "UJHo6yh"], ["Farklı Araç Türlerinin Maruz Kaldıkları Hava Dirençleri", "Rg7jGa"], ["EBA Ters Orantılı İki Çokluk Arasındaki İlişki", "htvgZI"], ["EBA Sorular", "AMYGpE"], ["EBA Alıştırma-Ters Orantılı İki Çokluktan Biri Verildiğinde Diğerini Bulma", "Ui4lZSq"], ["EBA Alt Konu Testi-Ters Orantı", "UwfwW6m"]]

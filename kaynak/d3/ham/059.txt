@@ -1,0 +1,111 @@
+## 5. Sinif/Fen Bilimleri/Kuvveti Taniyalim - Bir Yay, Bir Dunya.pdf
+SURE:4 KOD:FB.5.2.2.
+KAV:Dinamometre, Kuvvet, Kuvvetin ölçülmesi, Model tasarımı
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, öğrencilerin ön öğrenmelerini hatırlatmak amacıyla onlara günlük hayatta bir cisme uygulanan
+kuvvet ile nerelerde karşılaştıklarını ve bu kuvvetin büyüklüğünü nasıl belirleyebildiklerini sorar. Öğrenci-
+lerin cevaplarını dinler ve onlara geri bildirimlerde bulunur. Ardından öğrencileri 4-5 kişilik rastgele gruplara
+ayırır. Etkileşimli tahtada simülasyon araçları ile oluşturulan Kütleler ve Yaylar etkinliğini açar. Gruplardan
+simülasyon etkinliğinde yayların kalınlıklarını ve yaya takılacak cisimlerin kütlelerini değiştirerek yaylardaki
+değişimleri gözlemlemelerini ister. Tüm gruplar etkinliği tamamladığında öğretmen öğrencilere aşağıdaki
+soruları sorar:
+• Dinamometrede yay kalınlığı değiştikçe uygulanan kuvvet karşısında yayın uzama miktarında nasıl bir
+değişiklik gözlemlediniz?
+• Uygulanan kuvvet arttıkça yayın uzama miktarında nasıl bir değişiklik gözlemlediniz?
+Öğretmen; gruplardan önce kendi aralarında soruları tartışarak cevapları defterlerine yazmalarını, sonra
+yazdıkları cevapları arkadaşlarıyla paylaşmalarını ister. Her gruba söz hakkı vererek öğrencileri dinler ve
+onlara geri bildirimlerde bulunur. Öğrencilere etkinlikten hareketle dinamometrenin çalışma prensibini
+kavramalarını sağlamak amacıyla yönlendirici sorular sorar. Aldığı cevaplara geri bildirim verir. Öğretmen,
+simülasyon sonrasında öğrencilerle birlikte yayın uzaması ile kuvvet arasındaki orantı ilişkisini özetler ve
+dinamometrenin bu prensibe dayandığını vurgular. Ayrıca yayların kalınlığı ve kullanılan malzemenin esnek-
+liğinin dinamometrenin ölçüm aralığını ve hassasiyetini etkileyebileceğine dikkat çeker. Gruplara basit
+malzemelerle kuvveti ölçebilecek bir aracı nasıl tasarlayabileceklerini sorar. Gruplardan bu soruyu tartış-
+malarını ister. Gruplar tartışmaların sonucunda oluşan düşüncelerini defterlerine çizer. Öğretmen çizimleri
+inceleyerek onlara geri bildirimde bulunur. Gruplara bir sonraki derste kendi dinamometrelerini hazırlaya-
+caklarını ve dinamometrelerini yaparken simülasyon etkinliğinde gözlemledikleri değişkenlerin etkilerine
+dikkat etmeleri gerektiğini söyler. Dinamometre tasarlarken gözlem sonuçlarını hatırlamak için defterlerine
+not aldıkları cevaplardan yararlanarak fikir yürütebileceklerini belirtir. Öğrencilere tasarım sürecini planla-
+malarını, dinamometre modelini özgün ve bütüncül bir anlayışla tasarlamalarını, tasarım sürecini izleyerek
+gerektiğinde düzenlemeler yapmalarını söyleyerek dersi sonlandırır.
+Çıkarım yapma, Gözleme dayalı tahmin etme, Muhakeme (akıl yürütme), Tartışma,
+Yaratıcılık, Eleştirel bakma, Kendini düzenleme (öz düzenleme), İletişim, İş birliği, Bilgi
+ihtiyacını fark etme, Bilgiyi toplama, Dijital bilgiyi anlamlandırma
+Ders Öncesi
+Öğretmen; dinamometre yapımında kullanılacak yay/lastik, plastik bardak /pet şişe kapağı, ataş, ip, cetvel,
+karton/tahta çubuk, yapıştırıcı ve küçük ağırlıklardan oluşan malzemeleri her grup için yeterli miktarda
+sınıfta hazır bulundurur. Çevrim içi dergi, elektronik kitap, metin hazırlama araçlarından biriyle oluşturduğu
+Dinamometre Tasarım Yönergesi’nin grup sayısı kadar çıktısını alır (Ek-1).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+Öğretmen, öğrencilere bir önceki derste oluşturduğu grup arkadaşları ile bir araya gelmelerini söyler ve
+ders öncesinde hazırladığı malzemeleri gruplara dağıtır. Tasarımlarına uygun olan malzemeleri seçme-
+lerini gruplardan ister. Gruplara tasarımlarında kullanabilecekleri sınıf içerisinde başka malzemeler varsa
+bunları da alabileceklerini belirtir. Grup üyeleri arasında görev dağılımını belirlemek için öğrencilere malzeme
+sorumlusu, ölçüm yapan, kayıt tutan, sunum yapan olmak üzere görevler sunar. Grup üyeleri çalışma
+boyunca görev paylaşımı yapar, üstlendikleri görevleri yerine getirir ve ihtiyaç hâlinde grup arkadaşlarına
+yardımcı olurlar. Öğretmen, gruplardan bir önceki derste hazırladıkları çizimlere uygun birer dinamometre
+yapmalarını ister. Yapım esnasında ihtiyaç hissederlerse kullanmaları için Dinamometre Tasarım Yönerge-
+si’ni gruplara dağıtır (Ek-1). Gruplara dinamometre tasarımlarını değerlendirmek için grup değerlendirme
+yapmayı sağlayan web aracıyla hazırladığı Dinamometre Değerlendirme Formu’nu kullanacağını söyler
+(Ek-2). Formda yer alan maddeleri açıklar. Gruplardan hazırladıkları dinamometreyle silgi, kalem, uç kutusu,
+bant gibi materyalleri kullanarak dinamometredeki yayın uzama miktarlarını ölçmelerini ister. Gruplara
+ölçtükleri değerleri yönerge sonunda bulunan tabloya yazmalarını söyler. Gruplardan, yaptıkları ölçümleri
+değerlendirerek tasarımlarının işlevselliği hakkında hangi sonuçlara ulaştıklarını tartışmalarını ister. Tasarı-
+mını erken bitiren gruplar, diğer gruplara yardımcı olur. Gruplar tamamladıkları tasarımları kısaca sunar.
+Öğretmen süreç boyunca gruplara rehberlik ederek geri bildirimlerde bulunur.
+3. Ders (BT SınıfI)
+Öğretmen, bir önceki derste hazırlanan dinamometreleri öğrencilere hatırlatır. Öğrencilerden daha önce
+çalıştıkları gruplarla bir araya gelmelerini ve hazırladıkları mevcut dinamometrelerde hangi özelliklerin
+geliştirilmesi gerektiğini belirlemelerini ister. Gruplar, bir önceki derste elde ettikleri kendi ölçüm sonuçlarını
+ve diğer grupların ölçüm sonuçlarını çevrim içi tartışma araçlarını kullanarak inceler ve ulaştıkları sonuç-
+ları not alır. Öğretmen, gruplardan bir önceki derste yaptıkları ölçümlerden elde ettikleri verileri ve diğer
+grupların ölçüm sonuçlarını yeni kanıtlar olarak kullanmalarını ister. Gruplar; bu kanıtlardan yararlanarak
+kendi modellerindeki hata, eksiklik veya geliştirilmesi gereken özellikleri belirler ve yapacakları geliştirmelere
+karar verir. Öğretmen, grupların değerlendirme sürecine rehberlik eder ve öğrencilerin belirledikleri geliştir-
+melerin hangi ölçüm sonuçlarına veya gözlemlere dayandığını açıklamalarını sağlar. Ardından gruplardan
+bu tartışma sonucunda belirledikleri özellikleri kullanarak geliştirecekleri dinamometre modelini görselleş-
+tirmek için yapay zekâ destekli araçlarla bir görsel oluşturmalarını ister. Gruplara yol göstermesi amacıyla
+EBA üzerinden örnek bir istem paylaşır: "Bir ortaokul öğrencisi tarafından tasarlanmış el yapımı bir dinamo-
+metreyi gösteren detaylı bir çizim oluştur. Görselde şeffaf bir pet şişe, içinden geçen renkli bir yay, yayın
+ucuna bağlı bir ip ve ipte asılı bir silgi yer alsın. Şişenin yan tarafında cetvelle yapılmış ölçüm çizgileri ve bir
+kanca bulunsun. Arka planda sınıf ortamı ve deney yapan öğrenciler görünsün. Görsel; eğitim amaçlı, renkli
+ve anlaşılır bir şekilde hazırlanmış olsun."
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Gruplar kendi istemlerini yazarak belirledikleri geliştirme özelliklerini yansıtan görsellerini oluşturur. Bu
+görselleri EBA üzerinden paylaşarak diğer grupların tasarımlarını inceler ve onlara yorum yapar. Gruplar,
+aldıkları geri bildirimleri değerlendirerek geliştirilmiş modellerinde gerekli gördükleri son düzenlemeleri
+yapar. Öğretmen, gruplardan geliştirdikleri dinamometre modellerinde hangi özellikleri neden değiştir-
+diklerini ve bu değişikliğin hangi ölçüm sonucuna veya gözleme dayandığını açıklamalarını ister. Gruplar
+açıklamalarını paylaşır. Öğretmen, öğrencilerin açıklamalarını ve geliştirdikleri modelleri değerlendirerek
+onlara geri bildirimlerde bulunur. Dersin sonunda ise hazırlanan dinamometreleri Dinamometre Değer-
+lendirme Formu ile değerlendirerek sonuçları yine EBA üzerinden öğrencilerle paylaşır (Ek-2).
+Muhakeme (akıl yürütme), Tartışma, Yaratıcılık, Eleştirel bakma, Bilimsel model oluşturma,
+Kendine uyarlama (öz yansıtma), İletişim, İş birliği, Dijital bilgiye ulaşma ve dijital bilgiyi
+tanıma, Dijital bilgiyi kullanarak eleştirel düşünme, Görsel iletişim uygulamaları oluşturma
+Ders Öncesi
+Öğretmen, çevrim içi dergi, elektronik kitap, metin hazırlama araçlarını kullanarak PMI Değerlendirme
+Etkinliği: Dinamometrem içeriğinin öğrenci sayısı kadar çıktısını alır (Ek-3).
+4. Ders (BT Sınıfı)
+Öğretmen, dijital hikâye oluşturma araçları ile hazırladığı Yayı Çeken Bilim İnsanı hikâyesini etkileşimli
+tahtada açar ve hikâyeyi öğrencilere okur (Ek-4). Öğrencilerden kendi yaptıkları dinamometreyi anlatan
+bir mektup hazırlamalarını ve bu mektubu görsel düzenleme araçları ile tasarlayarak Robert Hooke'a
+(Rabırt Huk) hitaben yazmalarını ister. Mektuplarında aşağıdaki konulara değinmelerini ister:
+• Ders sürecinde hangi bilgileri (kuvvet, yayların uzama miktarı, ölçüm birimleri vb. kavramlar) öğrendiniz?
+• Dinamometreyi oluştururken hangi araç ve gereci (yay, pipet, ip, cetvel, kanca vb.) kullandınız?
+• Tasarım sürecinde nasıl bir dinamometre oluşturdunuz, hangi sorunlarla karşılaştınız ve bu sorunları
+nasıl çözdünüz?
+• Yaptığınız ölçümlerden elde ettiğiniz kanıtlar, tasarımınızı geliştirmenize nasıl katkıda bulundu?
+• Yaptığınız ölçümler sonucunda elde ettiğiniz veriler ve bu veriler üzerine yaptığınız tartışmalardan çıkar-
+dığınız sonuçlar nelerdir?
+Öğrenciler hazırladıkları mektupları EBA’da paylaşır. Etkinlik sonunda öğretmen ve öğrenciler mektup-
+ları okuyarak görüşlerini belirtir. Ardından öğretmen, öğrencilerden öğrendiklerini pekiştirebilmeleri için
+EBA'daki Kuvvetin Ölçülmesi alt konu testini yapmalarını ister. Testin kontrolünü çevrim içi yaparak onlara
+geri bildirimlerde bulunur.
+Ders Sonrası
+Öğretmen, PMI Değerlendirme Etkinliği: Dinamometrem etkinliğini EBA’dan gönderir ve öğrencilerden
+yapmalarını ister (Ek-3). Öğrenciler tamamladıkları etkinliği EBA üzerinden öğretmene gönderir. Öğretmen,
+öğrencilerin görevleri tamamlama durumlarını takip eder ve onlara geri bildirimlerde bulunur.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Kütleler ve Yaylar", "TfBi3H"], ["Dinamometre Tasarım Yönergesi", "qLSwVm"], ["Dinamometre Değerlendirme Formu", "UKFFkOu"], ["Yayı Çeken Bilim İnsanı", "mYtgig"], ["EBA Kuvvetin Ölçülmesi", "pk7d4m"], ["PMI Değerlendirme Etkinliği: Dinamometrem", "IC2hcz"]]

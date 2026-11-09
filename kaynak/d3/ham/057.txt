@@ -1,0 +1,107 @@
+## 5. Sinif/Fen Bilimleri/Gokyuzundeki Komsularimiz ve Biz - Hareketli Komsularimiz.pdf
+SURE:4 KOD:FB.5.1.4. OB.2.5. OB.2.6.
+KAV:Güneş, Dünya, Ay, Model oluşturma
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen; öğrencilerin Güneş, Dünya ve Ay’ın büyüklüklerine ilişkin tahminlerini toplamak amacıyla dijital
+pano ya da post-it oluşturma araçlarını kullanarak hazırladığı Göğe Bakalım etkinliğini EBA’dan paylaşır.
+Öğrencilerden önce talimatlar kısmındaki soruya cevap yazmalarını sonra konuyu öğrenmeden önce bildik-
+lerim kısmına bildiklerini yazmalarını ister. Etkinliğin kontrolünün derste yapılacağını söyler.
+1. Ders (Sınıf)
+Öğretmen; "Gece gökyüzüne baktığınızda hangi gök cisimlerini gözlemliyorsunuz? Gündüz gökyüzüne baktı-
+ğınızda neler görürsünüz? Bu gök cisimleri arasındaki ilişkiyi nasıl açıklarsınız?” sorularını sınıfa yönelterek
+öğrencilerin dikkatini konuya çeker. Öğrencilerin cevaplarını dinler ve onlara geri bildirim verir. Ardından
+ders öncesinde gönderdiği Göğe Bakalım etkinliğini etkileşimli tahtada açar ve öğrencilerden yazdıklarını
+okumalarını ister. Öğrencileri cesaretlendirerek onlara söz hakkı verir. Öğretmen; öğrencilere konu sonrası
+öğrendiğim bilgilerim bölümünü 4. derste tamamlayacaklarını ve böylece ön bilgileri ile süreç sonunda
+edindikleri bilgileri karşılaştıracaklarını belirtir. EBA’da yer alan Güneş, Dünya ve Ay etkileşimli içeriğini etkile-
+şimli tahtada açar. Öğrencilerden Güneş, Dünya ve Ay’ın büyüklüklerini karşılaştırmalarını ister ve etkinliği
+sıra ile öğrencilere yaptırır. Öğrenciler etkinlikteki büyükleri seçerken gerekçelerini açıklar. Öğretmen etkinlik
+süresince öğrencilere rehberlik ederek geri bildirimlerde bulunur. Ardından simülasyon araçlarıyla oluştu-
+rulmuş Yer çekimi ve Yörüngeler içeriğini etkileşimli tahtada açar. Güneş Sistemi'ndeki gerçek büyüklük ve
+uzaklık oranlarını öğrencilerle birlikte inceler. Öğrencilerden cisimler arasındaki muazzam boyut ve mesafe
+farkını simülasyon üzerinden deneyimlemelerini ister. Ders süresini ve eşit katılımı göz önünde bulundu-
+rarak etkinliği yaptırır ve gerekli yerlerde öğrencilere geri bildirimlerde bulunur.
+Ders Sonrası
+Öğretmen, EBA’da yer alan Dünya’mız ve Gökyüzündeki Komşularımız etkileşimli içeriğini öğrencilere gönderir.
+Öğrencilerden etkileşimli içeriği evde izlemelerini, içerikte yer alan sıra sizde etkinliklerini yapmalarını ister.
+Etkinliğin kontrolünü çevrim içi yapacağını belirtir.
+Ders Öncesi
+Öğretmen; grupların derste yapacağı fiziksel modelleme etkinliği için farklı boyutlarda strafor toplar, oyun
+hamuru, boya, pipet, iplik, makas, yapıştırıcı ve cetvel gibi malzemeleri grup sayısı kadar temin eder. Sınıf
+ortamını yapılacak etkinliğe göre düzenler ve gerekli güvenlik önlemlerini alır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+Öğretmen, öğrencilere grup olarak fiziksel modelleme etkinliği yapacaklarını söyler. Öğrencileri beşerli
+gruplara ayırır. Etkinliği akran değerlendirme yapmayı sağlayan web araçlarını kullanarak hazırladığı Akran
+Değerlendirme Formu ile değerlendireceğini belirtir ve değerlendirme kriterlerinden bahseder (Ek-1). Gruplara
+etkinlikte kullanacakları malzemeleri dağıtır ve yönergeyi açıklar: "Amacınız; Güneş, Dünya ve Ay'ın büyüklük
+oranlarını mümkün olduğunca doğru yansıtan ve Dünya'nın hem kendi ekseni hem de Güneş etrafındaki,
+Ay'ın ise Dünya etrafındaki hareketini gösteren bir model yapmaktır.” Öğretmen bu aşamada, madde-
+lerin boşlukta kapladıkları yerin hacim olarak tanımlandığını ve hacmin cm3, m3 gibi birimlerle ölçüldü-
+ğünü vurgular. Ardından öğrencilerden strafor ve oyun hamuru seçimlerini bu hacimsel boyutları dikkate
+alarak yapmalarını ve grup arkadaşlarıyla yardımlaşarak çalışmalarını ister. Öğrenciler, gruplar hâlinde
+tartışıp gök cisimlerinin büyüklük oranlarına da dikkat ederek modellerini planlar. Gruplar, model planla-
+rını öğretmenle paylaşarak olası yanlış oranlar ve hareket mekanizmalarına dair ilk geri bildirimleri aldıktan
+sonra model oluşturma sürecine geçer. Bu süreçte öğretmen planlarını ertelemeden, istikrarlı bir şekilde
+modellerini tamamlamalarını gruplardan ister. Her grup; strafor topları, oyun hamurlarını ve diğer malze-
+meleri kullanarak gök cisimlerini oluşturur ve bu cisimlerin özellikle büyüklük oranlarını doğru yansıtmaya
+odaklanır. Dünya'nın eksen eğikliğini de hesaba katmak için pipetleri veya iplikleri dikkatlice konumlandırır.
+Öğretmen, modelin hareket yönlerini ve hızlarını canlandırmak üzere grup üyeleri arasında görev dağılımı
+yapar. Öğrenciler; Güneş, Dünya ve Ay'ın birbirlerine göre hareketlerini canlandırma provaları gerçekleştirir.
+Bu aşamada öğrenciler, modelin gözlemsel gerçeklerle ne kadar uyumlu olduğunu sürekli tartışarak gerekli
+düzenlemeleri yapar. Öğretmen gruplara tamamladıkları modelleri sonraki derste sunacaklarını söyler.
+Ders Sonrası
+Öğretmen, etkileşimli sunum araçlarını kullanarak Güneş, Dünya ve Ay Sunum Şablonu hazırlar ve öğren-
+cilerle EBA’dan paylaşır. Gruplar, bu şablonu kullanarak modelleme etkinlikleri ile ilgili etkileşimli sunum
+hazırlar. Öğretmen ayrıca konuyu pekiştirmek amacıyla kavram haritası oluşturmayı sağlayan web araçla-
+rını kullanarak hazırladığı Güneş, Dünya ve Ay Kavram Haritası’nı da EBA’dan öğrencilere gönderir. Öğrenci-
+lerden bu haritayı tamamlayıp EBA’dan geri göndermelerini ister. Kontrol ve geri bildirimlerin yine EBA’dan
+gerçekleştirileceğini belirtir.
+Gözlemleme, Karşılaştırma, Tartışma, Sorumluluk, Bilimsel model oluşturma, İletişim, İş
+birliği, Dijital bilgiyi kullanarak eleştirel düşünme, Dijital ortamlar için içerik oluşturma
+ve paylaşma
+3. Ders (BT Sınıfı)
+Öğretmen, önceki derste oluşturulan grupların bir araya gelmesini ister ve öğrencilere "Sevgili bilim insan-
+ları; geçen dersimizde Güneş, Dünya ve Ay'ın boyutlarını anlamak için harika modeller tasarladınız. Peki,
+bu modelleri yaparken en çok neye şaşırdınız? İlk düşündüğünüzden farklı olan neydi?" sorularını yöneltir.
+Öğrencilere eşit söz hakkı vererek cevaplarını dinler.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, grupların görevlerini açıklamak için "Bilim insanları sadece keşfetmekle kalmaz, aynı zamanda
+bulgularını ve çalışma süreçlerini diğer insanlarla paylaşır. Bugün bizim görevimiz de tam olarak bu! Model-
+leme maceranızı anlatan kısa bir etkileşimli sunum hazırladınız. Şimdi ise amacınız ‘Nereden başladık,
+hangi kanıtları bulduk ve nasıl bir modele ulaştık?’ sorularının cevaplarını herkesle paylaşmak; Güneş,
+Dünya ve Ay'ın gerçek boyutları ile birbirlerine göre büyüklük oranları ve uzaklıklarına ait güncel verileri
+bilimsel kaynaklardan araştırmak; araştırma sonucunda elde ettiğiniz kanıtları mevcut modelinizle ve
+diğer grupların modelleriyle karşılaştırarak ölçeklendirme hatalarını belirlemek ve belirlediğiniz hatalara
+göre yeni model önerip geliştirmektir." der. Grupların bilimsel kaynaklardan araştırma yapabilmeleri için
+uygun dijital kaynaklardan ve araştırma ölçütlerinden bahseder. Gruplar Güneş, Dünya ve Ay’ın gerçek
+boyutlarına; birbirlerine göre büyüklük oranları ve uzaklıklarına ilişkin güncel verileri araştırır. Öğretmen
+gruplara sırayla söz hakkı verir ve her grubun sözcüsü, hazırladıkları sunumu sınıfa sunar. Sunum sırasında
+diğer öğrenciler sorular sorar. Gruplar, araştırmalarından elde ettikleri bilimsel verileri kendi modelleri ve
+diğer grupların modelleriyle karşılaştırarak modellerindeki ölçeklendirme ve hareket gösterimine ilişkin
+farklılıkları ve hataları belirler. Gruplar, belirledikleri hatalara ve elde ettikleri yeni kanıtlara göre model-
+lerini yeniden geliştirir. Geliştirdikleri modelleri sınıfa sunarak yaptıkları değişiklikleri ve bu değişikliklerin
+gerekçelerini açıklar. Öğretmen öğrencilere geri bildirimde bulunarak dersi sonlandırır.
+Yapılandırma, Sentezleme, Eleştirel düşünme, Sorumluluk, Bilimsel model oluşturma, İş
+birliği, İletişim, Bilgiyi kullanarak eleştirel düşünme, Dijital ortamlar için içerik oluşturma
+ve paylaşma
+4. Ders (BT Sınıfı)
+Öğretmen, grup çalışmalarını değerlendirmek amacıyla hazırlanan Akran Değerlendirme Formu’nu öğren-
+cilerle çevrim içi paylaşır, onlardan grup arkadaşlarını değerlendirmelerini ister (Ek-1). Öğrencilerin grup
+arkadaşlarını değerlendirirken adil ve tarafsız olmaları gerektiğini vurgular. Değerlendirmenin tamamlan-
+masının ardından öğrencilerin konuyu daha iyi öğrenmelerini sağlamak amacıyla çoktan seçmeli sorular
+hazırlamayı sağlayan web araçlarını kullanarak hazırladığı Öğrendiklerimizi Değerlendirelim etkinliğini
+öğrencilerle çevrim içi paylaşır (Ek-2). Öğrencilere soruları cevaplamalarını ister, etkinlik süresince onlara
+rehberlik ederek geri bildirimlerde bulunur. Ardından öğrencilerin eksik ve hatalı öğrenmelerinin gideril-
+mesi, öğrenmenin pekiştirilmesi için uzun cevaplı sorular oluşturmayı sağlayan web araçlarını kullanarak
+hazırladığı Açık Uçlu Sorular etkinliğini öğrencilerle çevrim içi paylaşır (Ek-3). Etkinlik sayesinde öğrenci-
+lerin doğru ve yanlışlarını anında görerek yanlış cevapları düzeltir. Gerekli açıklamaları yapar. Daha sonra
+Göğe Bakalım etkinliğini öğrencilerle tekrar paylaşarak onlardan etkinlikte yer alan konu sonrası öğren-
+diğim bilgilerim kısmını doldurmalarını ve konuyu öğrenmeden önceki bilgiler ile öğrendikten sonraki bilgi-
+leri karşılaştırmalarını ister. Öğrencileri dinler ve dersi sonlandırır.
+Ders Sonrası
+Öğretmen, Akran Değerlendirme Formu’nun sonuçları ile ilgili öğrencilere geri bildirimde bulunur (Ek-1).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Göğe Bakalım", "IPvijo"], ["EBA Güneş, Dünya ve Ay", "ZklM44"], ["Yer çekimi ve Yörüngeler", "5wpxoy"], ["EBA Dünya’mız ve Gökyüzündeki Komşularımız", "1d3BKS"], ["Güneş, Dünya ve Ay Sunum Şablonu", "Uiba6U2"], ["Güneş, Dünya ve Ay Kavram Haritası", "DaRQ9P"], ["Akran Değerlendirme Formu", "UxC9vtT"], ["Öğrendiklerimizi Değerlendirelim", "Ub0CGT7"], ["Açık Uçlu Sorular", "yMUuUt"]]

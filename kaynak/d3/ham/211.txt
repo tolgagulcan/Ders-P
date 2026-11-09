@@ -1,0 +1,105 @@
+## 6. Sinif/Fen Bilimleri/Maddenin Ayirt Edici Ozellikleri - Maddelerin Gizli Hareketi.pdf
+SURE:4 KOD:FB.6.5.1.
+KAV:Genleşme, Büzülme, Isı alışverişi
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, öğrencilerin ön bilgilerini hatırlatmak amacıyla görsel düzenleme araçlarını kullanarak hazırla-
+dığı Kütle ve Hacim içeriğini etkileşimli tahtadan açar. Ardından içerikle ilgili “Eşit kollu terazi ile taşın hangi
+özelliği ölçülmüştür? Dereceli silindir ile suyun hangi özelliği ölçülmüştür?” sorularını öğrencilere sorar.
+Gönüllü öğrencilere söz hakkı verir, cevaplarını dinleyerek geri bildirimde bulunur. Öğrencilerin dikkatini
+çekmek amacıyla dijital hikâye oluşturma araçlarıyla hazırladığı Güçlü Kiriş'in Hikâyesi’ni etkileşimli tahtada
+açar ve öğrencilere okutur (Ek-1). Hikâyenin olay örgüsünü ve temasını daha iyi kavramaları için öğrenci-
+lere şu soruları sorar:
+• Hikâyede genleşme olayının yaşandığı zamanlar ve bu olaydan etkilenen nesneler hangileridir?
+• Sizce maddeler ısı etkisiyle her zaman hâl değiştirir mi?
+• Maddenin ısı etkisiyle hâl değiştirmediği durumda tanecikler arasındaki mesafe değişir mi?
+Öğretmen, öğrencilerden soruları cevaplarken birbirlerini dikkatle dinlemelerini ister. Öğrencilerin cevapla-
+rını tahtaya yazar ve onlara geri bildirimde bulunur. Isı alışverişi sonucu maddelerin tanecikleri arasındaki
+mesafenin az da olsa değişebileceğini, buna bağlı olarak hacimsel büyüklüklerinde de değişiklikler olabile-
+ceğini söyler. Maddenin ortak özelliklerinden birinin hacim olduğunu ve hacmin maddenin boşlukta kapla-
+dığı yer olduğu bilgisini hatırlatır. EBA’daki Genleşme ve Büzülme etkileşimli içeriğini etkileşimli tahtada açar.
+Etkileşimli içerikte yer alan Isı ve Madde Etkileşimi bölümünü izleterek öğrencilerden genleşme ve büzül-
+menin özelliklerini belirlemelerini ister. Öğretmen, ortam sıcaklığının değişmesine bağlı olarak gerçekleşen
+genleşme ve büzülme olaylarına ilişkin günlük yaşamdan örneklerin yer aldığı etkileşimli sunum araçla-
+rıyla hazırladığı Genleşme-Büzülme Örnekleri sunumunu etkileşimli tahtada açar. Öğrencilerden daha önce
+karşılaştıkları benzer örnekleri paylaşmalarını ister. Paylaşımların ardından öğrencilere ön bilgi ve deneyim-
+lerinden yola çıkarak maddelerin genleşmesi ve büzülmesine ilişkin önerme oluşturmalarını söyler. Önerme
+oluşturma aşamasında öğrencilere “Kayalar neden ufalanır? Binalarda neden esneme payı bırakılır?” sorula-
+rını sorarak kısa bir tartışma başlatır. Öğrenciler tartışma sırasında birbirlerini dinler, birbirlerinin fikirlerine
+saygı gösterir ve öğretmenin yönlendirmeleri doğrultusunda önermelerini oluşturur. Ardından öğretmen,
+bu önermeleri öğrencilerle gözleme dayalı olup olmama durumuna göre karşılaştırır. Bir sonraki derste
+deney yapacaklarını, böylece oluşturulan önermelerin doğruluğunu gözlem ve deney yoluyla test edecek-
+lerini belirterek dersi sonlandırır.
+Ders Öncesi
+Öğretmen, etkinlikte kullanılacak malzemeleri ( eşit uzunluk ve kalınlığa sahip farklı saf katı metallerden
+oluşan metal çiftleri, tabla, destek kolu, ispirto ocağı, cetvel ve kronometre) hazırlar. Çevrim içi dergi, elekt-
+ronik kitap, metin hazırlama araçları ile Metal Çiftlerinde Genleşme Deneyi Yönergesi’ni hazırlar ve grup
+sayısı kadar yönergenin çıktısını alır (Ek-2).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Fen Laboratuvarı)
+Öğretmen, etkinlikte kullanılacak malzemeleri öğrencilere tanıtır. Öğrencileri dörderli gruplara ayırır.
+Ardından deney etkinliği yapmaları amacıyla hazırladığı Metal Çiftlerinde Genleşme Deneyi Yönergesi’ni
+gruplara dağıtır ve yönergede yer alan adımları takip ederek deneyi yapacaklarını söyler (Ek-2). Etkinlik
+öncesi gerekli güvenlik önlemlerini alır. Deneye başlamadan önce gruplardan etkinlik yönergesindeki
+hipotez sorusuna ilişkin tahminlerini “Tahmininiz” bölümüne yazmalarını ister. Öğrencilerden tahminlerini
+önceki bilgilerine, gözlemlerine veya deneyde kullanılan malzemelere dayandırarak kısaca gerekçelen-
+dirmelerini ister. Bu süreçte grup üyelerinin birbirleriyle iletişimde bulunmaları ve ekip çalışması yaparak
+yardımlaşmaları gerektiğini belirtir. Öğretmen, öğrencilere etkinlik yönergesini açıklayarak deneye başla-
+malarını söyler. Gruplardan deney sürecinde yaptıkları ölçüm ve gözlemleri yönergede bulunan tabloya
+kaydetmelerini ister. Etkinlik tamamlandığında gruplar; elde ettikleri verileri tabloya aktarır, gözlemlerine
+dayanarak değerlendirme ve sonuç sorularını cevaplar. Ardından çalışmalarını karşılıklı olarak incelerler.
+Öğretmen, öğrencilere “Farklı metal çiftlerinin genleşme miktarı neden farklı çıktı?” sorusunu yönelterek
+kısa bir tartışma ortamı oluşturur. Öğrencileri yönlendirerek bu durumun genleşmenin saf maddeler için
+ayırt edici bir özellik olmasıyla ilişkili olduğunu fark etmelerini sağlar. Ayrıca öğrencilerin genleşme ve
+büzülmeyle ilgili bilimsel çıkarımda bulunmalarına rehberlik eder. Maddeleri birbirinden ayırmaya yarayan
+niteliklerin, maddenin ayırt edici özellikleri olduğunu vurgular. Öğretmen, etkinlik yönergelerini toplar; tablo,
+değerlendirme ve sonuç sorularını kontrol eder. Daha sonra deneyle ilgili kısa bir değerlendirme yapar ve
+geri bildirimlerle öğrencilerin gözlem ve çıkarımlarını pekiştirir. Konuyu günlük hayatla ilişkilendirmek için
+öğrencilerden evde veya dışarıda fark ettikleri genleşme veya büzülme olaylarını gözlemlemelerini ister.
+Öğrencilere gözlemlerini aşağıda belirtilen adımları izleyerek defterlerine not etmelerini söyler:
+• Gözleminiz: Gerçekleşen olayı kısaca açıklayınız.
+• Tahmininiz: Bu değişimin nedeni ne olabilir?
+• Değişimin türü: Gözlemlediğiniz olay genleşme mi yoksa büzülme midir?
+Öğrencilerden gözlem sonuçlarını dördüncü dersten sonra EBA’dan paylaşmalarını ister. Paylaşımları
+EBA’dan kontrol edeceğini ve onlara geri bildirimde bulunacağını belirterek dersi sonlandırır.
+3. Ders (BT Sınıfı)
+Öğretmen, genleşme ve büzülme farklarını görselleştirmek amacıyla görsel düzenleme araçlarını kullanarak
+hazırladığı Genleşme-Büzülme İnfografiği’ni etkileşimli tahtadan açarak öğrencilerin dikkatini çeker. Öğren-
+cilere bir önceki derste bir araya geldikleri gruplarıyla görsel düzenleme araçlarını kullanarak genleşme
+ve büzülme ile ilgili bir infografik hazırlayacaklarını söyler. Ders sonrasında grupların infografik çalışmala-
+rını İnfografik Değerlendirme Formu ile değerlendireceğini belirtir ve değerlendirme kriterlerinden kısaca
+bahseder (Ek-3). Öğrenciler, genleşme ve büzülmenin farkları üzerine düşünerek fikirlerini grup içinde tartışır.
+Öğretmen bu tartışmalara rehberlik eder. Tartışma sonrasında gruplara görsel düzenleme aracının kulla-
+nımı ve iyi bir infografiğin temel ögeleri hakkında kısa bir bilgilendirme yapar. Ardından gruplar infografik
+tasarlama sürecine başlar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, tasarım sürecinde gruplara anlık geri bildirimde bulunur. Gruplardan iş birliği içinde çalışarak
+infografiklerini hazırlamalarını ve EBA’da paylaşmalarını ister. Öğrenciler hazırladıkları infografikleri EBA’da
+paylaşır. Ardından öğretmen dersi sonlandırır.
+Ders Sonrası
+Öğrenciler, EBA’da paylaşılan infografik çalışmalarını inceler ve birbirlerinin çalışmalarına yorum yaparlar.
+Öğretmen İnfografik Değerlendirme Formu’nu kullanarak grup çalışmalarını değerlendirir (Ek-3). Öğrenme
+sürecini pekiştirmek amacıyla her grubun infografik çalışmasının çıktısını alarak altına yapıcı bir geri bildirim
+notu ekler ve bu çalışmaları sınıf panosunda sergiler.
+Tartışma, Azim ve kararlılık, Sorumluluk, Açık fikirlilik, Bilimsel gözleme dayalı tahmin,
+kurmak ve etik ilkelere uygun iletişimi sürdürmek, Görseli anlama
+4. Ders (BT Sınıfı)
+Öğretmen, genleşme ve büzülme konusunu pekiştirmek için dijital pano ya da post-it oluşturma araçlarıyla
+hazırladığı Çalışma Panosu’nu EBA’dan öğrencilerle paylaşır. Öğrencilere daha önceki derslerde oluşturulan
+gruplarıyla bir araya gelmelerini söyler. Panodaki her bir soruyu farklı gruplara rastgele dağıtır. Gruplardan
+kendilerine verilen soruyu yapay zekâ araçlarını kullanarak cevaplamalarını ister. Bu süreçte iletişim ve iş
+birliği içinde çalışmaları gerektiğini belirterek gruplara rehberlik eder. Gruplar yapay zekâ destekli açıkla-
+maları, ürettikleri verileri ve görselleri panoda paylaşır; birbirlerinin paylaşımlarını inceler ve açıklamalarda
+bulunur. Öğretmen de paylaşımlara geri bildirimde bulunur. Öğrenilenleri pekiştirmek ve öğrenme eksiklik-
+lerini belirlemek amacıyla eşleştirme yapabilmeyi sağlayan web araçlarıyla hazırladığı Eşleştirme etkinliğini
+öğrencilerle EBA’dan paylaşarak onlardan etkinliği yapmalarını ister (Ek-4). Etkinlik sonrasında öğretmen
+öğrencilerle etkinliği değerlendirir ve onlara geri bildirimde bulunur.
+Ders Sonrası
+Öğretmen, öğrencilerin genleşme ve büzülme konusu ile ilgili paylaşmış oldukları gözlem sonuçlarını
+EBA’dan kontrol eder ve onlara geri bildirimde bulunur. Kavram yanılgılarını gidermek ve öğrenme eksik-
+liklerini belirlemek amacıyla birden fazla seçim yapmayı sağlayan web araçlarını kullanarak hazırladığı
+Yapılandırılmış Grid etkinliğini EBA’dan öğrencilerle paylaşır (Ek-5). Öğrencilerden soruları yanıtlamalarını
+ister ve geri bildirim verir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Kütle ve Hacim", "S3Kma1"], ["Güçlü Kiriş’in Hikâyesi", "U8jY8XW"], ["EBA Genleşme ve Büzülme", "Ij3t91"], ["Genleşme-Büzülme Örnekleri", "U3qCAxR"], ["Metal Çiftlerinde Genleşme Deneyi Yönergesi", "U3BpASg"], ["Genleşme ve Büzülme İnfografiği", "bvwQGz"], ["İnfografik Değerlendirme Formu", "CjPS1T"], ["Çalışma Panosu", "UwwH4eq"], ["Eşleştirme", "UMDLaDz"], ["Yapılandırılmış Grid", "MjNEbM"]]

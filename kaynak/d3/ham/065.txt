@@ -1,0 +1,84 @@
+## 5. Sinif/Fen Bilimleri/Yasamimizdaki Elektrik - Sembollerin Gucu.pdf
+SURE:4 KOD:FB.5.6.1.1.
+KAV:Elektrik, Devre eleman sembolleri, Devre, Devre şeması
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, etkileşimli sunum araçlarını kullanarak basit bir elektrik devresinde yer alan devre elemanları
+ve bu devre elemanlarının sembollerle gösterimi ile ilgili Elektrik Devre ve Sembolleri sunumunu hazırlar.
+1.Ders (Sınıf)
+Öğretmen, elektrik devre elemanları konusunun işleneceğine dair öğrencileri bilgilendirerek derse giriş
+yapar. Öğrencilerin basit bir elektrik devresi hazırlamak için gerekli devre elemanlarını bildiklerini kabul
+eder ve eksik öğrenmeleri gidermek için onlara kısa hatırlatmalarda bulunur. Elektriğin ve elektrik devrele-
+rinin günlük hayatımızdaki önemine değinir. Öğretmen öğrencilere “Elektrik denilince aklınıza ne geliyor?”
+sorusunu sorar. Öğrencilerden gelen cevaplarla kelime bulutu oluşturma araçlarını kullanarak kelime bulutu
+oluşturur. Kelime bulutuyla anlatılmak istenenlerle ilgili öğrencilere sorular sorarak onların derse aktif katılı-
+mını artırmayı hedefler. Öğrencilerden yorum yapmalarını ister ve onlardan gelen cevaplara göre açıkla-
+malarda bulunur. Öğretmen, etkileşimli sunum araçlarını kullanarak ders öncesinde hazırladığı Elektrik Devre
+Elemanları ve Sembolleri sunumunu öğrencilerle paylaşır. Öğretmen sunumda pil, ampul, anahtar, direnç,
+kablo gibi temel devre elemanları ve sembollerini tanıtır. Her bir elemanın sembolünü gösterir ve bu sembol-
+lerin ne işe yaradığını açıklar. Öğrencilere “Bu semboller neden standart hâle getirilmiş olabilir?” sorusunu
+sorar ve sınıf içi tartışma başlatır. Öğrenciler, öğretmenin sorusu üzerine düşünerek tahminlerde bulunur
+ve birbirlerinin düşüncelerine yorum yapar. Tartışma ortamında öğrenciler, elektrik devre elemanlarının
+sembollerinin standart olması ile ilgili farklı görüşleri dinleyerek kendi düşüncelerini sorgulama ve yeniden
+değerlendirme fırsatı bulur. Öğretmen, sınıfı beşerli gruplara ayırır ve sonraki ders elektrik devre elemanları
+ve sembolleri ile ilgili araştırma etkinliği yapacaklarını söyler. Öğretmen dersi sonlandırır.
+Ders sonrası
+Öğretmen, EBA’da yer alan Devre Elemanları ve Sembolleri etkileşimli içeriğini öğrencilerle paylaşır. Öğretmen;
+EBA üzerinden öğrencilerin çalışmalarını takip eder, inceler ve onlara geri bildirimde bulunur.
+Ders Öncesi
+Öğretmen, depolama ve dosyalama araçlarını kullanarak elektrik devre elemanları ve sembolleri konusu ile
+ilgili hazırlanan Elektrik Devre Elemanları ve Sembolleri Araştırma Bilgi Sayfasını öğrencilerle paylaşır (Ek-1).
+2. Ders (BT Sınıfı)
+Öğretmen, gruplara elektrik devre elemanları ve sembolleri ile ilgili araştırma etkinliği yapacaklarını belirtir.
+Öğretmen, EBA’dan Devre Elemanları ve Şeması etkileşimli içeriğini öğrencilere izleterek öğrencilerin araştırma
+öncesi fikir sahibi olmalarını ister. Grup çalışmasını daha organize hâle getirmek için her grupla Elektrik
+Devre Elemanları ve Sembolleri Araştırması Bilgi Sayfasını EBA üzerinden paylaşır ve yapacakları araştırma
+hakkında gruplara bilgi verir. Öğretmen, öğrencilerin rehberliğe ihtiyaç duydukları anlarda onları yönlendirir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Rehberlik etmek; öğrencilerin doğru kaynaklara ulaşmalarını sağlamak, araştırmayı daha derinlemesine
+yapmalarını teşvik etmek ve kritik noktalar hakkında düşünmelerini sağlamak için önemlidir.
+Öğrenciler, kendi araştırmalarını yaparak bilgiyi aktif bir şekilde keşfetme fırsatı bulurlar. Bu yöntem, öğren-
+cileri pasif bilgi alımı yerine bilgiyi araştırarak ve sorgulayarak öğrenmeye teşvik eder. Aynı zamanda
+öğrencilerin dijital okuryazarlık becerilerini geliştirmelerine yardımcı olurken onlara internette bilgi arama,
+değerlendirme ve uygun materyalleri seçme gibi becerileri de kazandırır. Öğrenciler, araştırma sonuçlarını
+arkadaşlarıyla paylaşıp bu sonuçlar üzerinde tartışır. Öğretmen dersi sonlandırır.
+Ders öncesi
+Öğretmen, öğrencilerin poster sunumlarını değerlendirmek için grup değerlendirme yapmayı sağlayan
+web aracı kullanılarak sunum değerlendirme formu hazırlar (Ek-2).
+3. Ders (BT Sınıfı)
+Öğretmen, gruplardan bir önceki derste yaptıkları araştırmalar sonucunda elde ettikleri bilgileri kullanarak
+bir poster tasarlamalarını ister. Poster hazırlama süreci, öğrencilerin öğrenme sürecini daha aktif hâle
+getirir. Öğrenciler kendi araştırmalarını organize edip postere dönüştürerek bilgiyi daha iyi anlamlandı-
+rırlar. Öğretmen, öğrencilere posterlerini sunacaklarını ve değerlendireceğini bildirir (Ek-2). Değerlendirme
+kriterleri hakkında bilgi verir. Grup çalışması sırasında öğrencilere rehberlik ederek gerekli yönlendirme-
+lerde bulunur. Bu etkinlik, öğrencilerin elektrik devre elemanları ve sembolleri hakkında derinlemesine bilgi
+sahibi olmalarını ve iş birlikli çalışmayla öğrenmeyi deneyimlemelerini sağlar. Öğrenciler posterlerini hazır-
+larken poster ve afiş oluşturma araçlarını kullanırlar. Bu süreçte öğrencilerin teknolojiyle etkileşim hâlinde
+olmaları onların dijital okuryazarlık becerilerini geliştirir. Gruplar, poster çalışmalarını EBA'dan paylaşarak
+sınıftaki diğer arkadaşlarına sunar. Sunum yaparken grup üyeleri bilgilerini nasıl organize edip aktaracak-
+larını öğrenirler. Ayrıca her grup diğer grupların poster sunumlarını izleyerek farklı bakış açılarıyla konuyu
+anlama fırsatı bulur.
+Ders sonrası
+Öğretmen, grup çalışmalarını yorumlar ve elektrik devre elemanları poster sunumunu sunum değerlen-
+dirme formunu kullanarak değerlendirir (Ek-2).
+Ders Öncesi
+Öğretmen bilgilerin tekrarlanması, eksik ve hatalı öğrenmelerin giderilmesi için eşleştirme yapabilmeyi-
+sağlayan web araçlarını kullanarak Elektrik Devre Elemanları Eşleştirme Etkinliği hazırlar (Ek-3). Öğretmen
+doğru-yanlış sorular oluşturmayı sağlayan web araçlarını kullanarak Elektrik Devre Elemanları Doğru-Yanlış
+Etkinliğini hazırlar (Ek-4).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+4. Ders (BT Sınıfı)
+Öğretmen, bir önceki ders yapılan poster sunumlarının değerlendirme sonuçlarıyla ilgili olarak gruplara
+geri bildirimde bulunur. Öğrencilerin eksik ve hatalı öğrenmelerinin giderilmesi ve/veya öğrenmenin pekiş-
+tirilmesi için eşleştirme yapabilmeyi sağlayan web araçlarını kullanarak hazırladığı Elektrik Devre Eleman-
+ları Eşleştirme Etkinliğini öğrencilerle çevrim içi paylaşır ve öğrencilerin etkinlikte yer alan soruları cevap-
+lamalarını ister (Ek-3). Öğrencilerin eğlenerek öğrenmelerini sağlar. Etkinlik sayesinde öğrenciler, doğru ve
+yanlışlarını anında görerek hatalarını düzeltme fırsatı bulur. Bu süreçte kendi hatalarını fark eden öğren-
+ciler sorumluluk alarak öğrenme sürecine daha aktif katılır.
+Ders Sonrası
+Öğretmen, doğru-yanlış sorular oluşturmayı sağlayan web araçlarını kullanarak ders öncesinde hazırladığı
+Elektrik Devre Elemanları Doğru-Yanlış Etkinliğini öğrencilerle çevrim içi paylaşır (Ek-4). Etkinliğin kontrolünü
+ve puanlamasını çevrim içi olarak yapar.
+Sorumluluk, İş birliği, Bilgiyi özetleme, İletişim, Dijital bilgiyi anlamlandırma
+
+LINKS:[["Elektrik Devre Elemanları ve Sembolleri", "UDasUq4"], ["EBA Devre Elemanları ve Sembolleri", "Yos5fV"], ["Elektrik Devre Elemanları ve Sembolleri Araştırması Bilgi Sayfası", "LDMyYQ"], ["EBA Devre Elemanları ve Şeması", "UpGtIEX"], ["Elektrik Devre Elemanları Eşleştirme Etkinliği", "SGXKqe"], ["Elektrik Devre Elemanları Doğru-Yanlış Etkinliği", "UhaCXgI"]]

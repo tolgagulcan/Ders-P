@@ -10,7 +10,8 @@ Netlify bu depoya bağlıdır; `main` dalına yapılan her gönderim siteyi otom
 | Yol | İçerik |
 |---|---|
 | `site/` | Yayınlanan sayfa (Netlify sadece bu klasörü yayınlar) |
-| `site/d3.html` | D3 öğrenme senaryoları özet sayfası (öğretmenler için; veri sayfanın içinde, `S` dizisi) |
+| `site/d3.html`, `site/d3/` | D3 örnek ders planı özetleri (üretilir, elle düzenlemeyin) |
+| `kaynak/d3/` | D3 kaynakları: `index.json` + `ham/` (PDF'lerden çıkarılan metin), `ozet/*.json` (yazılan özetler), `olustur.py` (sayfaları üretir: `python kaynak/d3/olustur.py`) |
 | `kaynak/sablon.html` | Sayfanın tasarımı ve kodu; `__DATA__` yerine program verisi konur |
 | `kaynak/data.json` | Ders programı verisi: `sınıf → [gün][ders saati] = [ders, [öğretmenler]]` |
 | `kaynak/olustur.py` | PDF'i okuyup `data.json` ve `site/index.html` üretir |

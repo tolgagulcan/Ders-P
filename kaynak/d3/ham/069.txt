@@ -1,0 +1,45 @@
+## 5. Sinif/Sosyal Bilgiler/Birlikte Yasamak - Birlikte Daha Gucluyuz.pdf
+SURE:3 KOD:SB.5.1.3.
+KAV:Birlik ve beraberlik, Dayanışma, Yardımlaşma
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+İlgili öğrenme çıktısı kapsamında toplumsal yaşamda yardımlaşma ve dayanışmanın önemi hakkında
+öğrencilerin temel düzeyde bilgi sahibi oldukları kabul edilmektedir. Öğretmen, dersin başında EBA’dan
+Yardımlaşma ve Dayanışma Faaliyetlerinin Toplumsal Birlikteliğe Etkisi etkileşimli içeriğini açar. Etkileşimli
+içerikte yer alan tüm etkinlikleri öğrencilerle adım adım gerçekleştirir. İçerikte yer alan haber okunur, öğren-
+cilerle yorumlanır. Öğretmen, LÖSEV’in projelerini öğrencilerle inceleyerek faaliyetler hakkında öğrencilerde
+farkındalık oluşturur. Bir yandan da konu ile ilgili varsa eksik öğrenmeleri tamamlar.
+MEB Temel Eğitimde İyi Örnekler sayfasında yer alan sosyal sorumluluk projelerinden bazılarını öğrenci-
+lerle inceler. Öğretmen, öğrencilerden yapılan incelemelerden hareketle yardımlaşma ve dayanışma faali-
+yetlerine ilişkin günlük hayattan ve yakın çevreden örnekler vermelerini ister. Yardımlaşma ve dayanışma
+faaliyetlerinin toplumsal birliği sürdürmeye etkisini örnek olay yöntemiyle sorgulatır. Öğrenciler, toplumsal
+birliği sürdürmeyi etkileyen yardımlaşma ve dayanışma faaliyetlerine ilişkin çıkarımlarda bulunur.
+Dijital bilgiyi anlamlandırma, Bilgiyi toplama, Görseli yorumlama
+Ders Öncesi
+Öğretmen, “Sosyal Sorumluluk Projem” etkinlik yönergesini ve dereceli puanlama anahtarı (rubrik) oluştur-
+mayı sağlayan web araçları kullanılarak geliştirilen Analitik Dereceli Puanlama Anahtarı’nı hazırlar. Etkinlik
+yönergesine uygun olarak iş birlikli çalışmayı destekleyen araçlarla Sosyal Sorumluluk Projem etkinlik sayfa-
+sını oluşturur.
+2. Ders (BT Sınıfı)
+Öğretmen; öğrencilerin öğrendikleri, kendi deneyimledikleri ve yakın çevresinden edindikleri bilgilerden yola
+çıkarak çocuklar, yaşlılar veya okullara yönelik sosyal sorumluluk projeleri için fikir üretmelerini onlardan ister.
+Bunun için öğrencileri sınıf mevcuduna göre 5-6 kişilik gruplara ayırır. “Sosyal Sorumluluk Projem” etkinlik
+yönergesini EBA’dan öğrencilere gönderir (Ek-1). Etkinliğin nasıl yapılacağı ile ilgili öğrencilere bilgi verir. İş
+birlikli çalışmayı destekleyen araçlarla hazırladığı Sosyal Sorumluluk Projem alanını öğrencilerle paylaşarak
+araçların nasıl kullanılacağı ile ilgili öğrencilere kısa bilgiler verir. Etkinliğin kendisi tarafından Analitik Dereceli
+Puanlama Anahtarı ile değerlendirileceği bilgisini öğrencilere vererek detayları onlarla paylaşır (Ek-2). Aynı
+zamanda her grubun kendi çalışmasını grup değerlendirme yapmayı sağlayan web aracı ile hazırlanan
+Kontrol Listesi ile değerlendireceğini belirtir (Ek-3). Varsa öğrencilerin sorularını cevaplar. Grup çalışma-
+larını yakından takip eder. Gerektiğinde öğrencileri yönlendirir. Projelerini bitiremeyen gruplar için iş birlikli
+çalışmayı desteleyen araçlar ile çalışmalarına evde devam edebilecekleri bilgisini öğrencilerle paylaşır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+3. Ders (BT Sınıfı)
+Bu derste öğrenciler, hazırladıkları sosyal sorumluluk projelerini etkileşimli tahtayı kullanarak sırayla arkadaş-
+larına sunar. Her sunumun ardından öğrenciler, sunum yapan gruba sosyal sorumluluk proje fikirlerine
+ilişkin merak ettiklerini sorar ve bir tartışma ortamı oluşturulur. Daha sonra öğrenciler, Kontrol Listesi’ni
+kullanarak grup olarak hazırladıkları sunumu ve grup çalışmalarını değerlendirir (Ek-3). Öğretmen, sunum
+yapan grupları Analitik Dereceli Puanlama Anahtarı ile değerlendirir (Ek-2). Çalışmaların sona ermesinin
+ardından değerlendirme sonuçları sınıfta tartışılır. En çok oyu alan sosyal sorumluluk proje fikri hayata
+geçirilebilir. Öğretmen öğrencilere geri bildirim vererek dersi sonlandırır.
+
+LINKS:[["EBA Yardımlaşma ve Dayanışma Faaliyetlerinin Toplumsal Birliğe Etkisi", "85o8U7"], ["MEB Temel Eğitimde İyi Örnekler", "U2LtNWR"], ["Sosyal Sorumluluk Projem", "UafN7Q6"], ["Kontrol Listesi (Grup Çalışması için)", "kU4vfr"], ["Analitik Dereceli Puanlama Anahtarı", "pKSrLC"]]

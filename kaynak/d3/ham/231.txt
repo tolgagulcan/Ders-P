@@ -1,0 +1,288 @@
+## 6. Sinif/Matematik/Cebir - Suyumu Tasarruflu Kullaniyorum.pdf
+SURE:5 KOD:M.6.2.1.2. M.6.2.1.3.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin bir ders öncesinde Temiz Su ve Sanitasyon, Temiz Su ve Sıhhi Koşullar ve
+TEMA-Su isimli içerikleri okumalarını sağlar.
+Ders 1 (BT Sınıfı)
+Öğretmen TEMA Vakfı Su Gönüllüsü Testini öğrencilere yaptırarak derse başlar. Tüm öğrencilerinin su
+gönüllüsü olmasını sağlar. Öğrencileri gruplara ayırır. Bilgisayar sayısını göz önüne alarak grup sayısını
+belirler.
+Öğrencilerin ilgisini çekmek için öğrencilere “temiz suya erişim ve su tasarrufu’’ kavramlarına yönelik şu
+soruları yöneltir:
+• Musluğunuzdan su akmadığında bu durumla ilgili nasıl bir çözüm üretebilirsiniz?
+• Su kaynaklarını bilinçli kullanmanın yolları sizce nelerdir?
+Öğretmen, beyin fırtınası yapmayı sağlayan web araçları ile fikirleri toplar. Temiz suya erişim ve su
+tasarrufu konularına yönelik topladığı fikirleri sınıfla paylaşır. Öğrencilerin bu konudaki bilinçlerini artırmak
+ve konunun matematik ile bağlantısını kavratmak amacıyla onlara EBA’da yer alan Çökeltme ile Temiz
+Su Elde Etme videosunu izletir.
+Öğrencilere videoya yönelik şu soruları yöneltir:
+• Az miktarda temiz su elde etmek için harcanan su miktarı hakkında ne düşünüyorsunuz?
+• Evlerimizde kullandığımız bir litre su için ortalama kaç litre çökelti gerekir?
+Öğretmen, beyin fırtınası yapmayı sağlayan web araçları ile fikirleri toplar. Ardından öğretmen ve
+öğrenciler, çok az miktarda temiz su elde etmek için çok fazla su arıtmak gerektiği sonucuna ulaşır.
+Öğretmen, sonraki ders üzerinde çalışacakları problem durumunu etkileşimli tahta aracılığıyla öğrencilerle
+paylaşır (Ek-1).
+İlgili Yetkinlikler/Beceriler: İletişim, İş birliği, Dijital yeterlilik, Yorumlama, Çıkarım yapma
+Ders 2 (Sınıf)
+Öğretmen, problem durumunu etkileşimli tahta aracında açar ve öğrencilerin doğru bir şekilde
+anlamalarını sağlar. Bu çerçevede verilen bölgelerde temiz su üretmek için arıtılması gereken su miktarının
+hesaplanacağını belirtir. Bu hesaplamayı yaparken kullanacakları dinamik matematik ve geometri aracı
+hesaplama tablosunu etkileşimli tahta aracılığıyla öğrencilerle paylaşır (Ek-2). İlk örneği öğretmen yapar.
+Hesaplama tablosu, rastgele seçilen öğrenciler tarafından doldurulur. Verilen tablo 1-10 litre su miktarları
+için çökelti miktarını hesaplamak üzere 40 örnek içermektedir. Sınıfın durumuna göre örnekler artırılıp
+azaltılabilir veya değerler değiştirilebilir. Tahtaya çıkan her öğrenci, öğretmen rehberliğinde bulduğu
+çözümü arkadaşlarıyla paylaşır. Tabloda örnekler çeşitli su miktarlarına karşılık gelen çökelti miktarlarını
+belirlemek amacıyla oluşturulmuştur. Öğretmen her bir öğrenciye tablodaki en az bir cebirsel ifadenin
+değerini hesaplatır. Konuda eksik kalan, anlaşılmayan kısımlar üzerinde durarak dersi bitirir.
+Ödev
+EBA’daki Cebirsel İfade Alıştırmalar çalışması ile öğrencileri ödevlendirir.
+İlgili Yetkinlikler/Beceriler: Akran öğrenmesi, Matematiksel yetkinlik ve bilim/teknolojide temel
+yetkinlikler, Matematiksel süreç becerileri, İletişim
+Ders 3 (Sınıf)
+Öğretmen, konuyu özetledikten sonra kısa cevaplı sorular oluşturmayı sağlayan web aracıyla hazırlanmış
+cevaplar. Öğrencilerin yapmakta zorlandığı sorular öğretmen rehberliğinde tekrar çözülür. Öğrencilerin
+farklı tipte soruları tanımaları için kısa cevaplı sorular oluşturmayı sağlayan web aracıyla hazırlanmış 15
+soruyu sınıfla paylaşır ve öğrencilerin çözmelerini sağlar (Ek-4). Öğrencilerin zorlandıkları soruları tekrar
+çözerek dersi bitirir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Dijital yeterlilik, Matematiksel yetkinlik ve
+bilim/teknolojide temel yetkinlikler, İletişim
+Ders 4 (Sınıf)
+Öğretmen EBA’daki Cebirsel İfadelerin Anlamı adlı konu anlatımı videosu ile derse giriş yapar. Bir önceki derste
+verilen cebirsel ifadelerin farklı gösterim biçimleri üzerinde durur (Örneğin X bölgesi: 5x+10=x+x+x+x+x+5+5,
+Y bölgesi: 10y-1: 5y+3y+2y-1 vb.). Eşleştirme yapabilmeyi sağlayan web araçlarından biri kullanılarak
+oluşturulan etkinlik ile cebirsel ifadeler modellenir ve böylece basit cebirsel ifadelerin anlamlandırılma
+süreci güçlenir (Ek-5). Öğretmen, öğrencilerine modellerin oluşturulması için dinamik matematik ve
+geometri aracından yararlanacaklarını söyler (Ek-6, Ek-7). Cebirsel ifadelerin görselleştirilmesi, konuyu
+kavrama sürecine katkıda bulunacağından öğrencilerin durumuna göre model sayıları artırılabilir.
+Gönüllü öğrencilerin oluşturduğu cebirsel ifadelerin dinamik matematik ve geometri aracı ile modellenmesini
+sağlar. Öğretmen, modelleme ile pekiştirme yaptıktan sonra konuyu özetleyerek dersi bitirir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Sunum, İletişim
+Ders Öncesi
+Öğretmen, EBA’daki Cebirsel İfadeler adlı beceri temelli testten seçtiği 8 cebirsel ifade sorusu ile
+oyunlaştırılmış ölçme ve değerlendirme web araçlarını kullanarak bir yarışma hazırlar.
+Ders 5 (BT Sınıfı)
+Öğretmen ilk dört derste anlattığı konuları kısaca özetler ve sınıfı gruplara ayırır. Oyunlaştırılmış ölçme
+ve değerlendirme web araçları ile hazırladığı çalışmayı gruplara gönderir. Grupların birbirleriyle uyumlu
+çalışmasına dikkat eder. Yarışmada en çok doğru cevaba ulaşan gruba puan verir. Çözülemeyen soruları
+öğrencilerle çözer.
+Ödev
+Öğretmen, öğrencilerin EBA’daki Özet-Cebirsel İfade adlı konu özeti ile tekrar yapmalarını sağlar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Dijital yeterlilik, İletişim, İş birliği
+Değerlendirme Yöntemleri/Araçları
+• EBA + beceri temelli sorular
+• EBA + alıştırmalar
+• Kısa cevaplı sorular oluşturmayı sağlayan web araçları
+• Eşleştirme yapabilmeyi sağlayan web araçları
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Beyin fırtınası yapmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Sürdürülebilir Kalkınma İçin Küresel Amaçlar-6 Temiz Su ve Sanitasyon: http://meb.ai/jf9ZLy (Son
+erişim tarihi: 13.05.2024)
+2. Global Compact Network Türkiye-Temiz Su ve Sıhhi Koşullar: http://meb.ai/0D0BKk (Son erişim tarihi:
+13.05.2024)
+3. TEMA-Su: http://meb.ai/jfUdZG (Son erişim tarihi: 13.05.2024)
+4. TEMA-Su Gönüllüsü Testi: http://meb.ai/SHpL3l (Son erişim tarihi: 13.05.2024)
+5. EBA Çökeltme ile Temiz Su Elde Etme: http://meb.ai/UFmrkHH (Son erişim tarihi: 13.05.2024)
+6. EBA Alıştırmalar-Cebirsel İfadeler: http://meb.ai/3eQg9M (Son erişim tarihi: 13.05.2024)
+7. EBA Cebirsel İfadelerin Anlamı: http://meb.ai/zjW2C7 (Son erişim tarihi: 13.05.2024)
+8. EBA Özet-Cebirsel İfadeler: http://meb.ai/Uj067aF (Son erişim tarihi: 13.05.2024)
+9. EBA Beceri Temelli Test-4. Ünite: http://meb.ai/Utvd3bZ (Son erişim tarihi: 17.05.2024)
+Kaynakça
+Birleşmiş Milletler Türkiye. (2024). Türkiye sürdürülebilir kalkınma amaçları çalışmalarımız. Son erişim
+tarihi 30 Temmuz 2024, https://turkiye.un.org/tr/sdgs
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+TEMA. (2024). Su gönüllüsü testi. Son erişim tarihi 30 Temmuz 2024, https://sutema.org/teste-basla
+Su TEMA. (2024). TEMA. Son erişim tarihi 30 Temmuz 2024, https://sutema.org/
+UN Global Compact Network Türkiye. (2023). Sürdürülebilir kalkınma için küresel hedefler-temiz su ve
+sıhhi koşullar. Son erişim tarihi 30 Temmuz 2024, https://www.globalcompactturkiye.org/temiz-su-ve-
+sihhi-kosullar/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Cebirsel İfade Konusu İçin Problem Durumu
+Ek-2: Cebirsel İfade Konusu Dinamik Matematik ve Geometri Aracı ile Oluşturulmuş Hesaplama Tablosu
+Ek-3: Cebirsel İfadenin Değerini Bulmak İçin Kısa Cevaplı Sorular
+Ek-4: Cebirsel İfadenin Değerini Değişkenin Alacağı Farklı Doğal Sayı Değerleri İçin Hesaplama
+Değerlendirme Soruları
+Ek-5: Cebirsel İfadeleri Eşleştirme Soruları
+Ek-6: Cebirsel İfade Modelleme Örnekleri
+Ek-7: Dinamik Matematik ve Geometri Aracında Cebirsel İfade Modelleme Yönergesi
+EK-1
+Cebirsel İfade Konusu İçin Problem Durumu
+Aşağıda 4 farklı bölgeye ait cebirsel ifadeler verilmiştir. Bu cebirsel ifadelerde yer alan değişkenler
+o bölgede elde edilecek temiz su miktarlarını göstermektedir. Cebirsel ifadeler ise elde edilecek
+temiz su miktarı için kullanılacak çökelti miktarını ifade etmektedir. Her bir bölgede farklı temiz su
+değerleri için kullanılması gereken çökelti miktarlarını hesaplamanız gerekmektedir.
+Y bölgesi
+10y-1
+X bölgesi
+5x+10
+Z bölgesi
+12z-5
+T bölgesi
+3t+5
+Suyumu Tasarruflu Kullanıyorum
+EK-2
+Cebirsel İfade Konusu Dinamik Matematik ve Geometri
+Aracı Hesaplama Tablosu
+Aşağıda verilen tabloda, elde edilebilecek her temiz su miktarı için dört bölgede ihtiyaç duyulan çökelti miktarlarını örnekteki gibi bulunuz.
+Elde edilecek temiz su
+X bölgesi Y bölgesi Z bölgesi T bölgesi
+miktarı (litre)
+Çökelti miktarı Çökelti miktarı Çökelti miktarı Çökelti miktarı
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Suyumu Tasarruflu Kullanıyorum
+EK-3
+Cebirsel İfadenin Değerini Bulmak İçin
+Kısa Cevaplı Sorular
+Aşağıda verilen cebirsel ifadelerin değerini yanında verilen değişkenin değerine göre hesaplayınız.
+SIRA DEĞİŞKENİN DEĞERİ CEBİRSEL İFADE CEBİRSEL İFADENİN DEĞERİ
+Suyumu Tasarruflu Kullanıyorum
+EK-4
+Cebirsel İfadenin Değerini Değişkenin Alacağı
+Farklı Doğal Sayı Değerleri İçin
+Hesaplama Değerlendirme Soruları
+Aşağıdaki soruları okuyarak cevaplarını altlarında verilen boşluklara yazınız.
+1. “Ali’nin boyu Oya’nın boyunun 2 katından 80 cm eksiktir.” sözel durumuna uygun
+cebirsel ifade yazınız.
+..........................................................................................................................................................
+..........................................................................................................................................................
+2. “Kilomun yarısının 5 kg fazlası” sözel durumuna uygun cebirsel ifade yazınız.
+..........................................................................................................................................................
+..........................................................................................................................................................
+3. “Yaşımın 5 fazlasının 3 katı” sözel durumuna uygun cebirsel ifade yazınız.
+..........................................................................................................................................................
+..........................................................................................................................................................
+4. “300 km’lik yolun bir kısmı gidiliyor. Kalan yolun km cinsinden ifadesi” sözel durumuna
+uygun cebirsel ifade yazınız.
+..........................................................................................................................................................
+..........................................................................................................................................................
+5. (4t-3) cebirsel ifadesine uygun sözel durum yazınız.
+..........................................................................................................................................................
+..........................................................................................................................................................
+6. (100-k) cebirsel ifadesine uygun sözel durum yazınız.
+..........................................................................................................................................................
+..........................................................................................................................................................
+EK-4
+7. 2(k-3) cebirsel ifadesine uygun sözel durum yazınız.
+..........................................................................................................................................................
+..........................................................................................................................................................
+8. (3x+5xy-10x+x2y) cebirsel ifadesindeki benzer terimleri belirleyiniz.
+..........................................................................................................................................................
+..........................................................................................................................................................
+9. 30-2y cebirsel ifadesinin y=5 için alacağı değer, y=1 için alacağı değerden kaç
+eksiktir?
+..........................................................................................................................................................
+..........................................................................................................................................................
+10. (3x+2) cebirsel ifadesinin x=6 için değerini bulunuz.
+..........................................................................................................................................................
+..........................................................................................................................................................
+11. (a-7) cebirsel ifadesinin a=12 için değerini bulunuz.
+..........................................................................................................................................................
+..........................................................................................................................................................
+12. 3k+5t cebirsel ifadesinin k=2 ve t=3 için değerini bulunuz.
+..........................................................................................................................................................
+..........................................................................................................................................................
+13. 8m-3n cebirsel ifadesinin m=5 ve n=4 için değerini bulunuz.
+..........................................................................................................................................................
+..........................................................................................................................................................
+14. 4r+3s-3 cebirsel ifadesinin r=9 ve s=1 için değerini bulunuz.
+..........................................................................................................................................................
+..........................................................................................................................................................
+15. 9e-5f+1 cebirsel ifadesinin e=6 ve f=5 için değerini bulunuz.
+..........................................................................................................................................................
+..........................................................................................................................................................
+EK-5
+Cebirsel İfadeleri Eşleştirme Soruları
+Aşağıda verilen cebirsel ifadeleri eşiti olan cebirsel ifade ile eşleştiriniz.
+x+2x-3
+3x+5
+x+x+2+3
+4x-1
+x+x+x+5
+5x+2
+x+x+2+1
+2x+3
+3x+2x+5-3
+3x-3
+2x+x-1+x
+Suyumu Tasarruflu Kullanıyorum
+EK-6
+Cebirsel İfade Modelleme Örnekleri
+x y +1 -1
+X bölgesi: 5x+10
+x +1 +1
+x +1 +1
+x +1 +1
+x +1 +1
+x +1 +1
+Y Bölgesi: 10y-1
+y y y y y -1
+y y y y y
+Suyumu Tasarruflu Kullanıyorum
+EK-7
+Dinamik Matematik ve Geometri Aracında
+Cebirsel İfade Modelleme Yönergesi
+Kılavuz çizgilerden yararlanarak birim kareyi düzgün çokgen sekmesinden seçerek
+6
+oluşturunuz.
+Kılavuz çizgilerden yararlanarak birim kareyi düzgün çokgen sekmesinden seçerek
+8
+oluşturunuz.
+Her cebir modelden yeteri kadar kopyalayınız ve tercih edilen cebirsel ifadelerin
+10
+oluşturulan modellerle gösterimini yapınız.
+Suyumu Tasarruflu Kullanıyorum
+Cevap Anahtarları
+Ek-2
+X bölgesi Y bölgesi Z bölgesi T bölgesi
+Elde edilecek temiz su
+miktarı (litre)
+5x+10 10y-1 12z-5 3t+5
+Suyumu Tasarruflu Kullanıyorum
+Cevap Anahtarları
+Ek-3
+DEĞİŞKENİN
+SIRA CEBİRSEL İFADENİN DEĞERİ
+DEĞERİ
+Ek-4
+SORULAR CEVAPLAR SORULAR CEVAPLAR
+30-2 . 5=30-10=20
+kullanılıyor. Kalan benzin
+miktarının litre cinsinden
+ifadesi
+Suyumu Tasarruflu Kullanıyorum
+Cevap Anahtarları
+Ek-5
+x+2x-3
+3x+5
+x+x+2+3
+4x-1
+x+x+x+5
+5x+2
+x+x+2+1
+2x+3
+3x+2x+5-3
+3x-3
+2x+x-1+x
+Suyumu Tasarruflu Kullanıyoru
+LINKS:[["Sürdürülebilir Kalkınma İçin Küresel Amaçlar-6 Temiz Su ve Sanitasyon", "jf9ZLy"], ["Global Compact Network Türkiye-Temiz Su ve Sıhhi Koşullar", "0D0BKk"], ["TEMA-Su", "jfUdZG"], ["TEMA-Su Gönüllüsü Testi", "SHpL3l"], ["EBA Çökeltme ile Temiz Su Elde Etme", "UFmrkHH"], ["EBA Alıştırmalar-Cebirsel İfadeler", "3eQg9M"], ["EBA Cebirsel İfadelerin Anlamı", "zjW2C7"], ["EBA Özet-Cebirsel İfadeler", "Uj067aF"], ["EBA Beceri Temelli Test-4. Ünite", "Utvd3bZ"]]

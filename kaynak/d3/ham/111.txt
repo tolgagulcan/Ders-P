@@ -1,0 +1,101 @@
+## 5. Sinif/Matematik/Sayilar ve Nicelikler (1) - Cok Basamakli Sayilarin Yolculugu.pdf
+SURE:5 KOD:MAT.5.1.1.
+KAV:Doğal sayılar, Basamak, Bölük
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin altı basamaklı sayıları hatırlamalarını sağlamak ve bu sayıları okuma-yazma beceri-
+lerini geliştirmek için beş farklı ülkenin nüfus bilgilerini içeren bir etkinlik kâğıdını EBA üzerinden öğrencilere
+gönderir (Ek-1). Öğrencilerden etkinlik kâğıdındaki tabloyu deftere çizip ilgili yerleri doldurmalarını ister.
+1. Ders (Sınıf)
+Öğretmen, öğrencileri heterojen gruplara ayırır ve öğrencilere altı basamaklı sayılarla ilgili temel bilgi-
+leri hatırlatmak için sanal gerçeklik uygulamaları ile hazırladığı Atatürk’ün Fotoğrafları Sergisi’ni etkileşimli
+tahtada açar. Bu sergide Atatürk’ün önemli anlarına ait fotoğraflarının bulunduğunu söyler. Öğrencilerin bu
+fotoğrafların kaç kişi tarafından beğenildiğini, beğeni sayılarının büyüklüklerini ve yazılış biçimlerini incele-
+melerini sağlar. Her gruptan fotoğrafların beğeni sayılarını tabloya kaydetmelerini ve tabloların altında yer
+alan soruları çözmelerini ister (Ek-2). Soruların cevaplarının sınıfça tartışılmasını sağlar ve gerekli yerlerde
+geri bildirimlerde bulunur. Öğretmen ders öncesinde öğrencilerin cevaplandırmaları için EBA’dan gönder-
+diği etkinlik kâğıdındaki soruların istekli öğrencileri sırasıyla tahtaya kaldırarak cevaplandırılmasını sağlar.
+Öğrenciler defterlerine yazdıkları cevapları kontrol eder.
+2. Ders (Sınıf)
+Öğretmen, öğrencilerin temel bilgilerini pekiştirmek ve çok basamaklı sayıların bölük ve basamaklarını daha
+iyi anlamalarını sağlamak amacıyla EBA’daki Doğal Sayılarda Bölükleri ve Basamakları Tanıma videosunu
+açar. Videodaki örnekler üzerinden altı basamaklı sayılarla ilgili bilgileri, çok basamaklı sayılara genellemek
+için yönlendirmeler yapar. Öğrencilere tahtada birkaç sayıyı basamak ve bölüklerine ayırıp okuma etkinliği
+yaptırır. Ardından kısa cevaplı sorular oluşturmayı sağlayan web aracı ile hazırladığı Çok Basamaklı Sayılar
+Alıştırma Soruları’nı etkileşimli tahtada açar (Ek-3). Öğrencilere soruları gönüllülük esasına göre tahtada
+sırayla yaptırır. Bu etkinlikte öğretmen, sayı yazılmayan tüm basamakların yerine 0 (sıfır) rakamı eklenmesi
+gerektiğini öğrencilere hatırlatır. Öğrencilerin verdiği cevaplara ilişkin geri bildirimde bulunur.
+Ders Sonrası
+Öğretmen, çok basamaklı sayılar konusundaki bilgileri pekiştirmek amacıyla öğrencilere yapılandırılmış grid
+etkinliğini ödev olarak verir (Ek-4). Öğrencilere etkinlik sorularını bir sonraki derste sınıfta cevaplandıracak-
+larını, eksik veya hatalı noktalar üzerinde birlikte değerlendirme yapacaklarını söyler.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, istatistik ve veri kavramlarını örneklerle kısaca açıklar ve Türkiye İstatistik Kurumu (TÜİK) hakkında
+öğrencilere bilgi verir. Türkiye İstatistik Kurumu Tanıtım Filmi’ni EBA üzerinden öğrencilere gönderir ve onlardan
+izlemelerini ister. Öğrencileri eşit sayıda olacak şekilde gruplara ayırır ve her gruba bir isim verir. Çalışma
+sonrası öğrencilere dağıtılacak olan öz değerlendirme formu ile grup çalışmasındaki 2 ve 3. etkinliklerin
+çıktısını sınıf mevcudu kadar alarak derse getirir (Ek-5 ve Ek-6).
+Öğretmen, bir önceki ders verdiği ödevi kontrol etmek için öğrencileri sırayla tahtaya kaldırır ve öğrenci-
+lerin soruları cevaplandırmalarını sağlar. Öğrencilerin çözümler ile ilgili sorularının olup olmadığını sorar,
+soruları varsa cevaplandırır yoksa bir sonraki soruya geçer. Böylece etkinliğin kontrolünü sağlar. Öğrenci-
+lere altı basamaklı ve daha fazla basamağa sahip sayılarla çalışacaklarını söyler. Bu sayılarla ilgili verilen
+çeşitli görevleri yerine getireceklerini belirtir. Konunun günlük yaşamla bağlantısını vurguladıktan sonra
+öğrencilere yapılacak grup çalışmasını açıklar ve bu çalışmalarla görevleri tamamlayacaklarını anlatır.
+Ders öncesi gönderdiği videodan bahsederek veri kavramını kısaca tekrar eder. Etkileşimli tahtadan Türkiye
+İstatistik Kurumu (TÜİK) Veri Tabanı’na girer ve bir veri örneği seçer. Örnek olarak 2023 yılı nüfus verilerinden
+İstanbul ve Ankara’nın nüfus bilgilerini gösterir. Öğrencilerden bu iki şehrin nüfuslarını karşılaştırmalarını, nüfus
+büyüklüklerine ve basamak sayılarına bakarak hangi şehrin daha kalabalık olduğunu belirlemelerini ister.
+Öğretmen, her gruptan kendi bilgisayarlarıyla verilen uygulama adımlarını takip etmelerini, TÜİK veri tabanına
+girip belirlenen iki şehrin nüfus verilerini bulmalarını ister (Ek-7). Gruplara TÜİK’e giriş yapma, veri arama
+ve örnek oluşturma konularında rehberlik eder. Ardından öğrencilerin tamamlaması gereken görevleri ve
+her görevin içeriğini açıklar (Ek-6). Her grup, araştırma sonuçlarını etkileşimli beyaz tahta aracındaki Grup
+Çalışmaları Panosu’na kaydeder. Çalışma süresi boyunca öğretmen, gruplara rehberlik eder. Tüm gruplar
+görevlerini tamamladıktan sonra yapılan çalışmalar sınıfça değerlendirilir. Öğretmen bu aşamada öğren-
+cilere aşağıdaki soruları yöneltir:
+• Hangi görevleri tamamladınız?
+• Hangi sonuçlara ulaştınız?
+• Çok basamaklı sayılar günlük hayatta neden önemlidir?
+Son olarak grupların genelleme ve analiz sonuçlarını sınıfta tartışmaya açar. Eksik veya yanlış noktaları
+düzeltir ve öğrencilere çalışmalarını özetleme fırsatı verir. Etkinlik hem öğrenci katılımını hem de anlamlı
+öğrenmeyi destekleyecek şekilde tamamlanır. Öğretmen etkinliğin sonunda öğrencilerden öz değerlen-
+dirme formunu doldurmalarını ister (Ek-5).
+Tartışma, Çözümleme,
+Matematiksel doğrulamaÇıkarım yapma,
+veya ispat Muhakeme
+yapma, (akıl
+Matematiksel yürütme), yararlanma,
+temsillerden Genelleme,
+Matematiksel
+Matematikseltemsillerden yararlanma, Matematiksel
+temsilleri değerlendirme, çözümler
+Matematiksel çözümlergeliştirme Veri
+geliştirme,
+İlgili
+Beceriler ile çalışma ve
+Yorumlama, veriye dayalı
+Yansıtma, karar
+İş birliği, verme,
+Sözlü Bulgulara
+ya da ulaşma,
+sözsüz olarak Matematiksel
+etkileşim sağlamak,araç ve
+Grup
+teknolojiyi
+iletişimine kullanmak, Grup iletişimine
+katılmak, Analitik düşünme, katılmak, Dijital araçlarla
+Empati, Oyunseverlik, iş görme,
+Dijital Düzen-
+bilgi üzerinden
+lemek
+çıkarımve paylaşmak, Sorumluluk, İş birliği
+yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+5. Ders (Sınıf)
+Öğretmen, konunun pekişmesi amacıyla öğrencilere oyunlaştırılmış ölçme ve değerlendirme web aracı ile
+hazırladığı Çok Basamaklı Sayılar Testi’ni açar ve yarışma yapacaklarını söyler (Ek-8). Öğrencilerden cevap-
+larını defterlerine not etmelerini ister. Öğrenciler test şeklinde hazırlanan soruları bireysel olarak yanıtlar.
+Öğretmen verdiği süre sonunda en çok doğru yapan öğrencileri neşeli etiketlerle ödüllendirir. Öğrencilerin
+eksik veya yanlış öğrenmelerini gidermek amacıyla geri bildirimde bulunarak dersi tamamlar.
+
+LINKS:[["Atatürk Fotoğrafları Sergisi", "rNTyDo"], ["EBA Doğal Sayılarda Bölükleri ve Basamakları Tanıma", "U3bdMdk"], ["Çok Basamaklı Sayılar Alıştırma Soruları", "zZXIQI"], ["Türkiye İstatistik Kurumu Tanıtım Filmi", "Uh26W4p"], ["Türkiye İstatistik Kurumu (TÜİK) Veri Tabanı", "XkdnLE"], ["Grup Çalışmaları Panosu", "UGsjQXC"], ["Çok Basamaklı Sayılar Testi", "oqMHYB"]]

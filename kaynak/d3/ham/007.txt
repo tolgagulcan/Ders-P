@@ -1,0 +1,162 @@
+## 8. Sinif/Matematik/Geometri ve Olcme - Dikkat Matematik Cikabilir!.pdf
+SURE:3 KOD:M.8.3.3.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 (BT Sınıfı)
+Öğretmen Yapay Zekâ Uygulamaları Öğretmen El Kitabı 21. sayfada yer alan “İnternetteki Büyük Tehlike”
+başlıklı metni öğrencilere okutur. “Büyük Tehlike: Deepfake” isimli videoyu öğrencilere izletir. Ardından
+öğrencilere “Bu karışıklığın önlenmesi için siz olsaydınız nasıl bir yol izlerdiniz?” diye sorar ve onlardan
+cevaplarını dijital pano ya da post-it oluşturma aracını kullanarak belirtmelerini ister. Öğrenciler cevapları
+sınıfça değerlendirir. En kullanışlı yöntem ile ilgili slogan hazırlar. Öğretmen, öğrencileri 3 veya 5 kişilik
+gruplara ayırır ve gruplardan poster ve afiş oluşturma araçlarından birini kullanarak poster hazırlamalarını
+ister. Hazırlanacak posterleri dereceli puanlama anahtarı (rubrik) hazırlamayı sağlayan web araçlarından
+birini kullanarak oluşturduğu rubrik ile değerlendireceğini belirtir ve kriterler hakkında öğrencileri bilgilendirir
+(Ek-1). Öğrenciler posterleri oluşturur ve sınıf ortamında paylaşır. Paylaşılan posterleri öğretmen, poster
+dereceli puanlama anahtarı ile dersten sonra değerlendirir (Ek-1). Değerlendirme sonuçlarını bir sonraki
+ders öğrenciler ile paylaşarak geri bildirimde bulunur. Posterlerde varsa gerekli düzenlemeleri yaptıktan
+sonra posterlerin sınıf panosunda sergilenmesini sağlar.
+EBA’da yer alan Yüz Tanıma Teknolojileri adlı videoyu öğrencilere izletir ve öğrencilerin video hakkındaki
+görüşlerini alır.
+İlgili Yetkinlikler/Beceriler: İletişim, İş birliği, Teknoloji okuryazarlığı
+Ders 2 (Sınıf)
+Öğretmen, EBA’da yer alan eş çokgenlerle ilgili Yüz Eşleştirme etkileşimli içeriğinde yer alan etkinlikleri
+öğrencilerin yapmalarını sağlar. Öğrencilere eş şekillerin hem kenar uzunluklarının hem de açı ölçülerinin
+eşit olduğunu fark ettirir. Benzer çokgenlerle ilgili Uzaktan Yüz Tanıma etkileşimli içeriğini öğrencilere
+yaptırır. Verilen yamuk şeklinin kaç oranında büyütülerek istenen boyuta geldiğini öğrencilere sorar ve
+benzer çokgenlerin kenar uzunlukları arasında bir oran olduğunu fark ettirir. Benzer çokgenlerde açıların
+ölçülerinin birbirine eşit, kenar uzunluklarının ise orantılı olduğu bilgisini öğrencilere verir. EBA’da yer alan
+Benzer Üçgen ve Çokgenleri Bulma etkileşimli içeriğini etkileşimli tahtada açar ve etkinlikleri sırasıyla
+öğrencilere yaptırır.
+Öğretmen öğrencileri 3 veya 5 kişilik gruplara ayırır. Gruplara geometri tahtalarını ve lastikleri dağıtır.
+Geometri tahtasında bir çokgen oluşturur. Öğrencilerden bu çokgene eş ve kenar uzunlukları kendisi
+tarafından verilecek orana sahip çokgenler oluşturmalarını ister. Örneğin belirlenecek oran 3 veya 1/3
+olabilir. Gruplar istenen çokgenleri oluştururken öğretmen de bu etkinlikleri kontrol eder ve hatalı yapılan
+etkinlikler için dönüt verir (Sınıftaki öğrencilerin etkinliği yardımsız gerçekleştirme durumuna göre etkinlik
+sayısı artırılabilir.).
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İş birliği, İletişim, Matematiksel yetkinlik
+Ders 3 (BT Sınıfı)
+Öğretmen öğrenmelerin pekiştirilmesi için istasyon tekniğini kullanır. Öğrencileri sınıf mevcuduna göre
+dört gruba ayırır. Gruplara verilen görevler için gerekli olan malzemeleri temin eder.
+1. Grup: 3D model oluşturmayı sağlayan araçları kullanarak geometrik şekiller ve bu şekillere eş ve benzer
+şekiller oluşturur.
+2. Grup: Dinamik matematik ve geometri aracını kullanarak geometrik şekiller ile bu şekillere eş ve benzer
+çokgenler oluşturur.
+3. Grup: Geometrik çokgenler ile bu çokgenlere eş ve benzer çokgenlerle resim yapar.
+4. Grup: Eşlik ve benzerlik ile ilgili şiir yazar.
+Öğrenciler her bir grupta 7 dakika çalışır. Ardından çalıştıkları malzemeleri masada bırakarak saat yönünde
+dönüp bir sonraki masaya geçer ve yeni masalarındaki etkinliği devam ettirirler. Öğretmen öğrencilerin
+her istasyonda 7 dakika geçirmesini sağladıktan sonra etkinliği sonlandırır. Öğrenciler, yapılan etkinlikleri
+sınıfça inceler ve grup değerlendirme yapmayı sağlayan web aracı ile hazırlanmış grup değerlendirme
+formu ile grup arkadaşlarını ve kendilerini değerlendirir (Ek-2). Öğretmen öğrencilere ortak ürün olan
+şiiri okutur, resimde yer alan geometrik şekilleri yorumlatır. Şiir ve resmin sınıf panosunda sergilenmesini
+sağlar.
+Ödev
+Öğretmen, öğrenilen konuyu pekiştirmek amacıyla öğrencilere EBA’da yer alan Eş Çokgen ve Üçgenleri
+Bulma adlı etkileşimli içeriği ile Eşlik ve Benzerlik alt konu testini ödev olarak verir. Ödev takibini EBA
+üzerinden yaparak varsa eksik öğrenmeler ile ilgili ek çalışmalar planlar.
+İlgili Yetkinlikler/Beceriler: Matematiksel yetkinlik, İş birliği, Yaratıcılık, İletişim, Teknoloji okuryazarlığı
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerikler
+• EBA + alt konu testi
+• Grup değerlendirme yapmayı sağlayan web araçları
+• Dereceli puanlama anahtarı (rubrik) hazırlamayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Yüz Tanıma Teknolojileri: http://meb.ai/xV1qTl (Son erişim tarihi: 08.05.2024)
+2. EBA Yüz Eşleştirme: http://meb.ai/U7ihaiQ (Son erişim tarihi: 08.05.2024)
+3. EBA Uzaktan Yüz Tanıma: http://meb.ai/Mmd7Hs (Son erişim tarihi: 08.05.2024)
+4. EBA Benzer Üçgen ve Çokgenleri Bulma: http://meb.ai/7Ea4dj (Son erişim tarihi: 08.05.2024)
+5. EBA Eş Çokgen ve Üçgenleri Bulma: http://meb.ai/CoP7jY (Son erişim tarihi: 08.05.2024)
+6. EBA Eşlik ve Benzerlik: http://meb.ai/MF7Yta (Son erişim tarihi: 08.05.2024)
+Kaynakça
+DÖGM Projeler. (2021). Yapay zekâ uygulamaları öğretmen el kitabı. Son erişim tarihi 11 Mayıs 2024, https://
+dogmprojeler.meb.gov.tr/upload/feyza/YapayZeka.pdf
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Poster Dereceli Puanlama Anahtarı (Öğretmen İçin)
+Ek-2: Grup Değerlendirme Formu
+EK-1
+Poster Dereceli Puanlama Anahtarı (Öğretmen İçin)
+Bu dereceli puanlama anahtarı, öğretmenin öğrencilerin yaptığı posterleri değerlendirmesi amacıyla geliştirilmiştir. Her kategori için uygun
+olan puanı ilgili boşluğa yazınız.
+Verilen
+Kategori 4 puan 3 puan 2 puan 1 puan
+Puan
+Poster zorunlu olan tüm
+Zorunlu Poster sadece gerekli bilgileri Gerekli bilgilerin ve elementlerin Birçok zorunlu bilgi ve element
+Elementler elementleri ve bilgileri kapsıyor
+ve Bilgiler veriyor. birkaçı verilmiyor. postere dâhil edilmemiş.
+ve ek bilgiler veriyor.
+Poster üzerindeki maddelerin Poster üzerindeki maddelerin Poster üzerindeki maddelerin Etiketler, uzaktan okunmayacak
+tümü etiketlendirilmiş ve en az 2 birçoğu etiketlendirilmiş ve en az bazıları etiketlendirilmiş ve en az kadar küçük hazırlanmış ve
+Etiketler
+metreden okunacak büyüklükte 2 metreden okunacak büyüklükte 2 metreden okunacak büyüklükte etiketlerde eksik etiketlendirilmiş
+hazırlanmış. hazırlanmış. hazırlanmış. maddeler bulunuyor.
+Posterde kullanılan tüm grafikler, Posterde kullanılan grafiklerin Posterde kullanılan grafiklerin Posterde kullanılan grafiklerin
+konu ile yakından ilgili görünüyor birçoğu konu ile yakından birçoğu, konu ile yakından hemen hemen hiçbiri, konu ile
+Grafikler
+ve grafiklerin kaynakları tam ilgili görünüyor ve grafiklerin ilgili görünmüyor ve grafiklerin yakından ilgili değil ve hiçbir
+olarak belirtilmiş. kaynakları tam olarak belirtilmiş. kaynaklarında eksiklikler var. kaynak gösterilmemiş.
+Hazırlanan poster, görsel
+Poster görsel olarak iyi
+Hazırlanan poster, görsel içerik ve içerik olarak yeterli seviyede Poster görsellik, içerik ve kolaylık
+hazırlanmış fakat içerik açısından
+Çekicilik kolaylık bakımından çok çekici ve hazırlanmış fakat kolaylık açısından iyi hazırlanmamış ve
+posterde ciddi eksiklikler
+öğrenmeyi çekici hâle getiriyor. ve kullanılabilirlik açısından öğrenmeyi çekici hâle getirmiyor.
+bulunuyor.
+eksiklikler var.
+Poster içeriğinde hiçbir imla Poster içeriğinde 1 veya 2 tane Poster içeriğinde 3 veya 4 tane Poster içeriğinde 4’ten fazla imla
+İmla
+hatası bulunmuyor. imla hatası bulunuyor. imla hatası bulunuyor. hatası bulunuyor.
+TOPLAM
+PUAN
+Dikkat Matematik Çıkabilir!
+EK-2
+Grup Değerlendirme Formu
+Bu form, grup olarak çalışmalarınızı değerlendirmek üzere hazırlanmıştır. Her kriter için “Evet”, “Kısmen”, “Hayır” olacak şekilde önce kendinizi
+sonra da gruptaki arkadaşlarınızı değerlendiriniz.
+Grup Adı: ……….....…………………………………..…………………………………..…………………………………..…………………....……….....……………………..…………………………………………………………………………
+Ben 1. öğrencinin 2. öğrencinin 3. öğrencinin 4. öğrencinin 5. öğrencinin 6. öğrencinin
+adı adı adı adı adı
+adı
+KRİTERLER
+……………..... ……………..... ……………..... ……………..... ……………..... ……………..... …………….....
+Çalışma süresince etkili bir
+iletişim kurdum/kurmuştur.
+Konu ile ilgili temel
+kavramları bilirim/
+bilmektedir.
+Çalışmada aktif olarak yer
+aldım/almıştır.
+Çalışma süresince
+zamanı verimli kullandım/
+kullanmıştır.
+Ürünü doğru bir şekilde
+hazırladım/hazırlamıştır.
+Sunumda açık ve anlaşılır bir
+dil kullandım/kullanmıştır.
+EK-2
+Grup çalışmasının en sevdiğim yanları:
+...............................................................................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................
+Grup çalışmasının beni zorlayan yönleri:
+...............................................................................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................
+Aynı çalışmayı tekrar yapacak olsam değiştireceklerim:
+................................................................................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................
+LINKS:[["EBA Yüz Tanıma Teknolojileri", "xV1qTl"], ["EBA Yüz Eşleştirme", "U7ihaiQ"], ["EBA Uzaktan Yüz Tanıma", "Mmd7Hs"], ["EBA Benzer Üçgen ve Çokgenleri Bulma", "7Ea4dj"], ["EBA Eş Çokgen ve Üçgenleri Bulma", "CoP7jY"], ["EBA Eşlik ve Benzerlik", "MF7Yta"]]

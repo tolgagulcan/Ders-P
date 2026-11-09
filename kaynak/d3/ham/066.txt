@@ -1,0 +1,108 @@
+## 5. Sinif/Bilisim Teknolojileri/Bilisim Teknolojilerinin Hayatimizdaki Yeri - Bilisimde Bilincli Tercihler.pdf
+SURE:3 KOD:BTY.5.1.2.
+KAV:Bilişim teknolojileri, Ergonomi, Ekran süresi, Teknoloji bağımlılığı, Beden ve ruh sağlığı
+Öğrenme Etkinlikleri
+1. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin ön bilgilerini harekete geçirmek amacıyla “Günlük yaşamınızda en sık kullandığınız
+bilişim teknolojileri hangileridir?” ve “Bu teknolojilerin olumlu ve olumsuz yönleri nelerdir?” sorularını sınıfa
+yöneltir. Öğrenciler, tartışma tekniğini kullanarak görüşlerini sözlü paylaşır. Öğretmen; öğrencilerin düşün-
+celerini gerekçelendirmelerine, farklı görüşleri dinlemelerine ve konuya eleştirel bir bakış açısıyla yaklaş-
+malarına rehberlik eder. Ardından öğrencilerin farklı bilişim teknolojilerinin olumlu ve olumsuz yönlerine
+yönelik ön bilgilerini görmek amacıyla uzun cevaplı sorular oluşturmayı sağlayan web araçları ile hazırla-
+dığı Bilişim Terazisi etkinliğini öğrencilerle paylaşır (Ek-1). Öğrenciler; telefon, tablet, sosyal medya platform-
+ları, bulut teknolojileri ve yapay zekâ gibi bilişim teknolojileriyle ilgili soruları bireysel olarak cevaplandırır. Bu
+teknolojilerin olumlu ve olumsuz yönleri ile birey ve toplum üzerindeki etkilerine ilişkin düşüncelerini etkin-
+likteki ilgili alanlara yazar.
+Etkinlik tamamlandıktan sonra öğretmen, cevapları etkileşimli tahtada açar ve öğrencilerin belirttiği olumlu
+ve olumsuz yönleri listeler. Öğrenciler, tahtadaki görüşleri inceleyerek farklı bakış açılarını değerlendirir.
+Gönüllü öğrenciler, kendi fikirlerini gerekçeleriyle sınıfla paylaşır. Öğretmen; yönlendirici sorularla öğrenci-
+lerin dijital bağımlılık, oyun bağımlılığı, aşırı ekran süresi ve gizlilik sorunları gibi durumların birey ve toplum
+üzerindeki etkilerini karşılaştırmalarını sağlar. Bu süreçte öğrenciler, bilişim teknolojilerinin bilinçsiz kullanı-
+mının insan sağlığı üzerindeki olumsuz etkileri üzerine düşünerek kontrollü teknoloji kullanımının önemine
+ilişkin çıkarımlarda bulunur.
+Öğretmen, öğrencilerin bilişim teknolojilerinin beden ve ruh sağlığı üzerindeki etkilerini belirlemelerini
+sağlamak amacıyla uzun cevaplı sorular oluşturmayı sağlayan web araçları ile hazırladığı Beden ve Ruh
+Sağlığı etkinliğini öğrencilerle paylaşır. Öğrenciler, kendi deneyimlerinden hareketle bilişim teknolojilerinin
+beden ve ruh sağlığı üzerindeki etkilerini bireysel olarak belirler ve ilgili alanlara yazar. Ardından belirledik-
+leri etkilerden birini seçerek bu etkinin neden ortaya çıktığını ve günlük yaşamlarında hangi sonuçlara yol
+açabileceğini neden-sonuç ilişkisi kurarak açıklar. Etkinlik tamamlandıktan sonra öğretmen, öğrenci cevap-
+larını etkileşimli tahtada açar. Öğrenciler, farklı bakış açılarından hareketle teknoloji kullanımının beden
+ve ruh sağlığı üzerindeki etkileri arasında ilişki kurar ve çıkarımlarda bulunur. Gönüllü öğrenciler, görüş-
+lerini sınıfla paylaşır. Öğretmen, söz almak isteyen öğrencilere eşit söz hakkı tanır ve paylaşılan görüşlere
+ilişkin geri bildirimde bulunur.
+Özetleme, Karşılaştırma, Tartışma, Muhakeme, Açık fikirlilik, Bilişim teknolojilerini
+sınıflandırma, İletişim, Bilgiyi kullanarak eleştirel düşünme, Dijital bilgi üzerinden
+çıkarım yapmak, Dijital bilgiyi kullanarak eleştirel düşünme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+Öğretmen, “Dijital ekranlar karşısında bir gün içinde ne kadar zaman geçirdiğinizi hiç düşündünüz mü?”
+sorusunu öğrencilere yöneltir. Öğrencilerin cevaplarını aldıktan sonra ekran süresi kavramını tanımlar, yaş
+düzeyine uygun günlük ekran kullanım süreleri ve bilinçli teknoloji kullanımının önemi üzerinde durur. Daha
+sonra EBA’daki Bilişim Teknolojilerinin Etkileri içeriğinde bulunan “Ergonomik Çalışma Ortamı ile Ergonomik
+Alışkanlıklar videolarını etkileşimli tahtada açar ve ergonomi kavramını tanımlar. Bilişim teknolojilerinin
+kullanımında ergonomiye uygun davranışların beden sağlığı üzerindeki önemini açıklar. Öğrenciler; içerikte
+yer alan doğru oturuş pozisyonu, ekran uzaklığı, ekran yüksekliği, oturma düzeni, çalışma ortamı ve mola
+verme gibi ergonomik kuralları inceleyerek kendi oturdukları masa ve sandalyelerde ergonomiye uygun
+oturuş pozisyonunu uygular. Öğretmen, öğrencilerin bilişim teknolojilerinin kullanımında alınabilecek fiziksel
+güvenlik önlemlerini sınıflandırmalarını sağlamak amacıyla oyunlaştırma web araçları ile hazırladığı Fiziksel
+Güvenlik Önlemleri etkinliğini etkileşimli tahtada açar. Gönüllü öğrencilere söz hakkı vererek öğrencileri sırayla
+tahtaya davet eder. Öğrenciler; bilişim teknolojilerinin kullanımında alınabilecek fiziksel güvenlik önlem-
+lerini ergonomi, elektrik, işitme ve göz sağlığı ile cihaz güvenliği başlıkları altında uygun alanlarla eşleşti-
+rerek sınıflandırır. Etkinlik sonunda öğretmen, öğrencilerin sınıflandırmalarını birlikte değerlendirerek fiziksel
+güvenlik önlemlerinin bilişim teknolojilerinin güvenli kullanımındaki önemini vurgular. Daha sonra öğrenci-
+lerin sağlık ve güvenlik açısından uygun olmayan bilişim teknolojisi kullanım örneklerini analiz ederek doğru
+kullanım yöntemlerini belirlemelerini sağlamak amacıyla görsel düzenleme araçları ile hazırladığı Hataları
+Fark Ediyorum etkinliğini öğrencilerle paylaşır. Öğrenciler, sunumda yer alan görselleri analiz ederek kullanım
+hatalarını belirler ve bu kullanım hatalarının olası etkilerini empati kurarak değerlendirir. Görsellerde yer
+alan kullanım hatalarının beden ve ruh sağlığı üzerindeki kısa ve uzun vadeli etkileri ile bu etkilerin günlük
+yaşama yansımaları üzerine çıkarımlarda bulunur. Gönüllü öğrenciler, belirledikleri kullanım hatalarından en
+az birini ve buna ilişkin çıkarımlarını kendi cümleleriyle sınıfla paylaşır. Öğretmen, verilen cevaplar doğrul-
+tusunda doğru kullanım yöntemlerini vurgular ve eksik ya da hatalı değerlendirmeler konusunda öğrenci-
+lere geri bildirimlerde bulunur. Bu süreçte öğrenciler, sağlık ve güvenlik açısından uygun olmayan teknoloji
+kullanımının olası sonuçlarını fark eder; fiziksel güvenlik ve ergonomi açısından doğru kullanım alışkanlık-
+ları geliştirmenin önemini kavrar.
+Ders Sonrası
+Öğretmen; öğrencilerin günlük yaşamlarındaki teknoloji kullanımını analiz etmelerini, bu kullanımın sağlık
+ve yaşamları üzerindeki etkilerini bireysel günlük tutma etkinliğiyle değerlendirmelerini sağlamak amacıyla
+grafik ve tablolama araçları ile hazırladığı Teknoloji Günlüğüm etkinliğini EBA’dan sınıfla paylaşır. Öğren-
+cilerden bir sonraki derse kadar günlük yaşamlarında kullandıkları bilişim teknolojilerini, kullanım sürele-
+rini, kullanım amaçlarını ve bu kullanımın yaşamları üzerindeki etkileri bireysel olarak kaydetmelerini ister.
+Öğrenciler, oluşturdukları kayıtları inceleyerek teknoloji kullanım alışkanlıklarını değerlendirir; kullanım
+süreleri ile beden ve ruh sağlığı arasındaki ilişkiyi kurar ve öz değerlendirme bölümünü kendi cümleleriyle
+tamamlar. Öğretmen, öğrencilere teknoloji kullanım alışkanlıklarını daha yakından takip edebilmeleri ve
+sağlıklı teknoloji kullanımını alışkanlık hâline getirebilmeleri amacıyla değerlendirmelerini düzenli olarak
+sürdürmelerini önerir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ayrıca öğrencilerin derste öğrendikleri bilişim teknolojilerinin kullanımında alınabilecek fiziksel güvenlik önlem-
+lerini tekrar ederek bilgilerini pekiştirmelerini sağlamak amacıyla Fiziksel Güvenlik Önlemleri etkinliğini EBA’dan
+öğrencilerle paylaşır. Öğrenciler, etkinliği bireysel olarak tamamlar. Takıldıkları noktaları EBA’nın mesajlar
+bölümünden öğretmenleriyle paylaşır. Öğretmen, öğrencilerin sorularına EBA’dan geri bildirimde bulunur.
+Özetleme, Karşılaştırma, Sorgulama, Değerlendirme, Empati, Bilişim teknolojilerini
+sınıflandırma, Kendini düzenleme, İletişim, Sorumlu karar verme, Dijital bilgi üzerinden
+çıkarım yapmak, Dijital bilgiyi kullanarak eleştirel düşünme, Görseli yorumlama
+3. Ders (Sınıf)
+Öğretmen, dijital hikâye oluşturma araçları ile hazırladığı Ekranın Ötesinde Güzel Bir Gün adlı dijital hikâye
+kitabının kapağını etkileşimli tahtada gösterir. Öğrencilerden hikâyenin adı ve kapak görseline bakarak
+olay akışına dair tahminde bulunmalarını ister. Sonrasında dijital sağlık ve esenlik bilincini geliştirmek
+üzere hikâye metnini sınıfla birlikte analiz eder. Her sayfasını farklı bir öğrenciye yüksek sesle okutur. Hikâye
+boyunca belirli sayfalarda durarak öğrencilerin karakterin yaşadığı durumlar üzerine düşünmelerini sağlar
+ve buradaki soruları onlara yöneltir. Öğrencilere görüşlerini sözlü olarak paylaşma fırsat verir. Öğrenciler;
+hikâyede yer alan ekran süresi yönetimi, doğru oturuş pozisyonları, dijital göz yorgunluğu, göz sağlığı için
+dijital alışkanlıklar, bildirim yorgunluğu, dikkat dağınıklığı, aşırı teknoloji kullanımının uyku düzenine etkisi,
+siber zorbalık, çevrim içi nezaket, empati ve dijital detoks farkındalığına ilişkin durumları kendi günlük yaşam
+deneyimleriyle ilişkilendirerek ifade eder. Öğretmen, öğrencilerin cevaplarına yönelik geri bildirimlerde
+bulunur ve farklı bakış açılarının paylaşılmasına ortam hazırlar. Süreç sonunda öğrenciler; bilişim teknolo-
+jilerinin beden, ruh ve sosyal yaşam üzerindeki etkileri arasında bağlantı kurarak sağlıklı ve dengeli tekno-
+loji kullanımının önemine ilişkin çıkarımlarda bulunur.
+Ders Sonrası
+Öğretmen, bilişim teknolojilerinin sağlığa etkileri konusunda öğrencilerin kendi öğrenme süreçlerini değer-
+lendirmeleri amacıyla öz değerlendirme yapmayı sağlayan web araçlarını kullanarak hazırladığı Öz Değer-
+lendirme Formu’nu EBA’dan sınıfla paylaşır (Ek-2). Öğrenciler, formu doldurarak bilişim teknolojilerinin
+sağlığa etkileri konusundaki öğrenme süreçlerini değerlendirir. Bu konudaki güçlü yönleri ile gelişime açık
+yönlerine ilişkin öz değerlendirme yapar. Öğretmen, öğrencilerin form yanıtlarını inceleyerek onlara EBA’dan
+bireysel geri bildirimlerde bulunur.
+Özetleme, Sorgulama, Değerlendirme, Empati, Muhakeme, Açık fikirlilik, Bilişim
+teknolojilerini sınıflandırma, Kendini düzenleme, İletişim, Dijital bilgi üzerinden
+çıkarım yapmak, Dijital bilgiyi kullanarak eleştirel düşünme
+
+LINKS:[["Bilişim Terazisi", "Us4uqeH"], ["Beden ve Ruh Sağlığı", "U6dAtQv"], ["EBA Bilişim Teknolojilerinin Etkileri", "6bJvnP"], ["Fiziksel Güvenlik Önlemleri", "YcSkd9"], ["Hataları Fark Ediyorum", "MiFZap"], ["Teknoloji Günlüğüm", "UUk8R52"], ["Ekranın Ötesinde Güzel Bir Gün", "D8hICp"], ["Öz Değerlendirme Formu", "UlODYrC"]]

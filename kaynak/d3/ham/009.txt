@@ -1,0 +1,92 @@
+## 8. Sinif/Matematik/Geometri ve Olcme - Geometri Bilmeyen Giremez.pdf
+SURE:3 KOD:M.8.3.1.1.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 (BT Sınıfı)
+Platon’un milattan önce felsefe, siyaset, sanat gibi alanlarda faaliyet göstermesi için bir akademi kurduğu
+söylenir. Bu akademinin girişinde “Geometri bilmeyen girmesin.” ifadesinin yazdığı vurgulanır. Öğrencilere
+“Fikirleri günümüze kadar ulaşmış Platon gibi bir düşünür kurduğu okulun girişine neden böyle bir ifade
+yazdırmış olabilir?” “Farklı disiplinlerde konuların çalışıldığı bu akademinin girişinde neden diğer derslerle
+ilgili değil de matematiğin şekillerle ilgili alanını temsil eden ve yeryüzünü ölçmek anlamında kullanılan
+geometriyle ilgili bir ifade vardır?” soruları sorularak öğrencilerden bu iki soruyu düşünmesi ve fikirlerini
+çevrim içi tartışma araçlarını kullanarak belirtmeleri istenir.
+Gelen cevaplarla birlikte geometrinin hem gündelik hayatta hem de diğer alanlarda sıkça kullanılan bir
+alan olduğu belirtilir.
+Gerekli dikkat çekme ve konu tanıtımı yapıldıktan sonra üçgenlerin çizimi ve elemanları konusu için dörder
+kişilik gruplar oluşturulur ve kullanılacak dinamik matematik ve geometri aracı tanıtılarak sonraki ders
+tüm grupların kendi üçgenlerini çizecekleri söylenir.
+İlgili Yetkinlikler/Beceriler: İletişim, Bilgi ve iletişim teknolojileri (BİT), Akıl yürütme
+Ders 2 (Sınıf)
+EBA’dan Üçgende Kenarortay, Açıortay ve Yükseklik isimli içerik izlenir. İçerik üzerinden üçgenin yardımcı
+elemanlarıyla ilgili bilgiler öğrencilere sunulur. Öğretmen, üçgenin yardımcı elemanlarının gündelik
+hayatta kullanım durumları ile ilgili öğrencilerden örnekler vermesini ister ve ardından bu konu hakkında
+bilgi verir. Öğrenciler, geometrik bilginin önemini kavrar; üçgenin yardımcı elemanları arasındaki ilişkiyi
+kurarak kenarlarına ve açılarına göre üçgen çeşitlerinde yükseklik, açıortay ve kenarortay elemanlarını
+tanır. Üçgenin yardımcı elemanlarının nasıl çizileceğini keşfeder. Dörderli ayrılan gruplar, etkileşimli
+tahtadan açılan dinamik matematik ve geometri aracını kullanarak yardımcı elemanların çizileceği
+açının ve bu açının gördüğü kenar uzunluğunun çift tamsayı olduğu bir üçgen oluşturur. Bu üçgende
+açının bulunduğu köşeye ait açıortay, kenarortay ve yükseklik elemanlarını çizerek aynı üçgende bir
+köşeden çizilen yardımcı elemanların arasındaki farkı belirlemiş olur. Açılarına ve kenarlarına göre farklı
+üçgen türlerinde aynı işlemi yapar.
+Ödev
+Tüm çizimler kaydedilir, bir sonraki ders için etkileşimli sunum araçları kullanılarak sunum oluşturma
+ödevi verilir. Gruplar sunumları okulun BT sınıfında çalışarak tamamlayabilir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Dijital yeterlilik
+Ders 3 (BT Sınıfı)
+Ders süresi, grup sayısına eşit olarak paylaştırılır. Ders sonuna akran değerlendirmesi için en az on
+dakikalık bir süre bırakılır. Her grup, oluşturduğu üçgenleri ve elemanlarını sunar. Tüm öğrenciler, akran
+değerlendirme yapmayı sağlayan web araçlarını kullanarak ekte sunulan akran değerlendirme formunu
+doldurur (Ek-1) . Böylece öğrenciler derse aktif olarak katılıp web araçlarını etkin bir biçimde kullanmış olur.
+Ödev
+Ders, öğretmenin EBA’da bulunan Üçgende Kenarortay, Açıortay ve Yükseklik alıştırmalarını ödev olarak
+göndermesiyle biter.
+İlgili Yetkinlikler/Beceriler: Akıl yürütme, İnisiyatif alma ve girişimcilik, Bilgi ve iletişim teknolojileri,
+İletişim
+Değerlendirme Yöntemleri / Araçları
+• EBA + alıştırmalar
+• Akran değerlendirme yapmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Üçgende Kenarortay, Açıortay ve Yükseklik: http://meb.ai/UEooDvS (Son erişim tarihi: 08.05.2024)
+2. EBA Üçgende Kenarortay, Açıortay ve Yükseklik Alıştırmalar: http://meb.ai/Us4I9y4 (Son erişim tarihi:
+08.05.2024)
+Kaynakça
+Karaman, Y. (2021). Platon’un “Geometri bilmeyen girmesin” sözü ve Popper’in bununla ilgili kestirimi, Dört
+Öge, 19, 75-94. Son erişim tarihi 12 Temmuz 2024, https://dergipark.org.tr/tr/pub/dortoge.
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Akran Değerlendirme Formu
+EK-1
+Akran Değerlendirme Formu
+Bu form arkadaşlarınızın sunumlarını değerlendirmeniz amacıyla hazırlanmıştır. Her bir kriter için verilen
+derecelerden uygun olanı işaretleyiniz.
+Grup üyeleri:
+DERECELER
+KRİTERLER
+Geliştirilmeli Kısmen Yeterli İyi Çok İyi
+(1) Yeterli (3) (4) (5)
+(2)
+Sunumun, derslerde öğrenilen
+üçgen elemanlarının hepsini
+kapsaması
+Üçgen çeşitlerine göre açıortay,
+kenarortay ve yükseklik
+çizimlerinin yapılması
+Web aracının, üçgen çizilirken
+etkin bir şekilde kullanılması
+Sunumun, akıcı ve etkili bir
+şekilde yapılması
+Derste öğrenilen kuralların
+yapılan sunuma yansıtılması
+Geometri Bilmeyen Gireme
+LINKS:[["EBA Üçgende Kenarortay, Açıortay ve Yükseklik", "UEooDvS"], ["EBA Üçgende Kenarortay, Açıortay ve Yükseklik Alıştırmalar", "Us4I9y4"]]

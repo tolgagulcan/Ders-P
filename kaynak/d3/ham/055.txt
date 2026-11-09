@@ -1,0 +1,41 @@
+## Turkce Dil Kursu/Diger/Yakin Cevrem - Nasil Giderim-.pdf
+SURE:3 KOD:YTÖ.D.A2.T5.2. YTÖ.O.A2.T5.3. YTÖ.K.A2.T6.4. YTÖ.Y.A2.T4.4.
+KAV:Trafik levhaları, Adres tarifi, Toplumsal uyum
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen ders öncesinde Mekânları Buluyorum etkinlik kâğıdını öğrenci sayısı kadar çoğaltır(Ek-1).
+1. Ders (Sınıf)
+Öğretmen, dersin girişinde oyunlaştırılmış ölçme ve değerlendirme web araçlarıyla hazırlanmış İşaretleri
+Tanıyorum içeriğini etkileşimli tahtadan açar. Öğrenciler, bu içerikteki cümleleri dinleyerek basit yol tarif-
+lerini anlamak için görsel/işitsel unsurlardan yararlanır ve tahminlerde bulunur. Bu çalışmanın ardından
+öğretmen, Mekânları Buluyorum etkinlik kâğıdını öğrencilere dağıtır ve etkinliğin yapılmasına rehberlik eder
+(Ek-1). Öğrencilerden etkinlikteki mekânlardan hareketle bir yerden bir yere gitmek için birbirlerine basit
+yönergeler vermelerini ister. Bu uygulama için aktif öğrenme tekniklerinden top taşıma tekniğine uygun
+olarak öğrencilerden sınıfın ortasında iç içe iki çember oluşturur. Bu çemberde birbirine denk gelen öğren-
+ciler görselden hareketle yol tarifi yapar. Ardından öğretmen, çemberdeki öğrencilerin yerlerini değiştirir ve
+farklı öğrencileri eşleştirerek birbirlerine yol tarif etmelerini sağlar. Ders bu etkinlikle tamamlanır.
+Anlam oluşturma, Nesne, olgu ve olaylara ilişkin parçaları belirlemek, Sorumluluk, Ekip
+(takım) çalışması yapmak ve yardımlaşmak, Görseli anlama
+2. Ders (BT Sınıfı)
+Öğretmen; bu derste öğrencilerinden yaşamak istedikleri bir mahalleyi düşünmelerini ve o mahalledeki
+insanları, mekânları, mekânların konumlarını içeren bir hikâye oluşturmalarını ister. Öğrencilere bu çalışma
+için dijital hikâye oluşturma araçlarından birini kullanacaklarını belirtir. Bu etkinlik için daha önceden hazır-
+ladığı Parka Gidiş Yolum etkinliğinin bağlantısını örnek olması açısından öğrencilerle paylaşır. Hikâyelerin
+dereceli puanlama anahtarı ile değerlendirileceğini belirtir ve öğrencileri kriterler hakkında bilgilendirir
+(Ek-2). Hikâye yazma sürecine rehberlik ederek çalışmaların tamamlanmasını ve her öğrencinin hikâye-
+sini EBA üzerinden paylaşmasını sağlar.
+Ders Sonrası
+Öğretmen, öğrencilerin EBA üzerinden paylaştıkları hikâyelerini dereceli puanlama anahtarına göre değer-
+lendirir (Ek-2). Çalışmalara yönelik düzeltme ve dönütlerini yine EBA üzerinden öğrencilerle paylaşır.
+3. Ders (Sınıf)
+Öğretmen, bu derste iş birlikli bir çalışma gerçekleştireceklerini belirterek sınıfı dört gruba ayırır. Oyunlaştı-
+rılmış ölçme ve değerlendirme web araçları ile oluşturulmuş Ne, Nerede? etkinliğini açar. Her grup kendine
+yöneltilen soruyu cevaplar. Öğretmen, gruplardan içerikteki görselden hareketle diğer gruplara benzer
+sorular sormalarını isteyerek grup çalışmasını devam ettirir. Yönlendirmeleriyle her grubun en az iki soru
+hazırlamasını ve bu soruları farklı gruplara yöneltmesini sağlar. Grup çalışmalarına rehberlik ederek dersi
+bu çalışmayla tamamlar.
+Problem çözme becerisi, Soru sorma, Grup iletişimine katılmak, Dijital bilgiyi anlamlan-
+dırma, Görseli anlama
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["İşaretleri Tanıyorum", "4MkfNo"], ["Parka Gidiş Yolum", "bLm1Zn"], ["Ne, Nerede?", "YZq7qm"]]

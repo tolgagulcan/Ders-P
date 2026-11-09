@@ -1,0 +1,72 @@
+## 5. Sinif/Sosyal Bilgiler/Ortak Mirasimiz - Anadolu’da Hayat Nasil Basladi-.pdf
+SURE:3 KOD:SB.5.3.2.
+KAV:Anadolu’da ilk yerleşim, Milat, Kültürel miras
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerden web sitesi hazırlamak üzere 4-6 kişilik gruplar oluşturmalarını ister. Ders tarihinden
+1-2 hafta önce Anadolu’nun İlk Yerleşim Yerlerinde Sosyal Hayat Web Sitesi Tasarımı (örnek web sitesi)
+görevini öğrencilere verir (Ek-1). Web sayfası düzenleme araçlarıyla öğrencilerin hazırlayacakları web sitele-
+rinde kriterlere göre nelere dikkat etmeleri gerektiği, hangi araçlardan nasıl yararlanabilecekleri konusunda
+ön bilgilendirme yapar. Süreç boyunca hem kendisinden hem de bilişim teknolojileri öğretmenlerinden
+yardım alabileceklerini belirtir. Yaptıkları çalışmayı grup değerlendirme yapmayı sağlayan web araçla-
+rıyla hazırladığı Web Sitesi Tasarımı Değerlendirme Formu ile değerlendireceğini söyler ve değerlendirme
+kriterlerini açıklar (Ek-2).
+1. Ders (Sınıf)
+Öğretmen, “Haydi, şimdi zaman makinesine binelim! Takvimler MÖ 8000 yılını gösteriyor. Gözlerinizi kapatın
+ve hayal edin. Telefon yok, araba yok, okul yok… Ama insanlar yine de hayatta kalıyor, yemek buluyor, ev
+yapıyor. Peki, sence insanlar o dönemde yaşamak için nasıl bir yer arardı? Sen olsan nerede yaşardın? Bir
+mağarada mı yaşardın, bir tepenin yamacında mı? Hadi, bunu birlikte keşfedelim!” sözleriyle derse giriş
+yapar. Ardından etkileşimli tahtadan EBA 3. Öğrenme Alanı Göbeklitepe belgeseli S. 114 videosunu açar ve
+“Sizce insanlar neden dağın tepesine tapınak yapar?” sorusuyla tartışma açar. Öğrencilerin videoda dikkat-
+lerini çeken detaylar hakkında konuşmalarını sağlar.
+Öğretmen, etkileşimli tahta üzerinden tartışma sonrası Şanlıurfa–Göbeklitepe Örenyeri sanal müze gezisi
+yapar. Sanal gezi sırasında öğrencilerin soruları olursa cevaplar.
+Öğretmen, sınıfı yeniden rastgele bir şekilde 4-6 kişilik gruplara ayırır ve gruplara “Anadolu İnsanlarının
+Yaşamı” konulu drama etkinliğini çıktı olarak verir (Ek-3). Her gruba bu etkinlikten sadece bir başlık verir
+ve hazırlık için de 5-10 dk. süre tanır. Sunumlarını yapmaları için de gruplara 5 dk. süre verileceğini açıklar.
+Ayrıca her grubun etkinlik sonrası grup değerlendirme yapmayı sağlayan web araçlarıyla hazırlanan Drama
+Grup Değerlendirme Formu’nu dolduracağını ifade eder (Ek-4).
+Belirlediği aracı kullanarak olay, konu ve durum ile ilgili bilgileri bulmak, Dijital
+bilgiye ulaşma ve dijital bilgiyi tanıma, Dijital araçlarla iş görme, İletişim,
+Merak, Odaklanma
+Ders Öncesi
+Drama etkinliği sonrası web siteleri incelemesine geçileceği için ders öncesi hazırlanan web siteleri öğretmen
+rehberliğinde etkileşimli tahtada ayrı ayrı sekmelerde açılır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+“Anadolu İnsanlarının Yaşamı” drama etkinliği için gruplar sırayla sahneye çıkar. Öğretmen her sunum
+sonrası sınıftaki öğrencilere Anadolu’da yaşamın hangi alanında canlandırma yapıldığını sorar (Öğrenciler
+bu esnada drama çalışması öncesi verilen başlıklardan diğer grupların hangisini canlandırdığını tahmin
+etmeye çalışır.). Gelen cevaplar sonrası düzeltmeler yaparak pekiştireçler verir. Her grup sunum sonrası
+etkileşimli tahtadan Drama Grup Değerlendirme Formu’nu doldurur (Ek-4). Etkinlik sonunda öğretmen;
+Anadolu’da insanların beslenme, barınma, sanat vb. alanlarda nasıl yaşam sürdüklerini özetler ve varsa
+öğrencilerin sorularını cevaplar.
+Öğrenciler; tarihî bilgiler, görseller ve metin içerikleri ekleyerek grupça hazırladıkları web sitelerini etkile-
+şimli tahtada sırayla sunarlar. Sunumlar sırasında öğrenciler hem bilgi verir hem de tasarımlarını tanıtır.
+Öğretmen, sunum süresini verimli kullanmak amacıyla her gruba belirli bir süre tanır.
+3. Ders (BT Sınıfı)
+Web sitesi tasarım sunumlarına kaldığı yerden devam edilir. Sunumların ardından öğretmen; öğrenci-
+lerin içerik, tasarım, takım çalışması, sunum vb. becerilerini Web Sitesi Tasarımı Değerlendirme Formu ile
+değerlendirir (Ek-2). Değerlendirme sonucunda öğretmen, her grubun güçlü yönlerini belirtir ve geliştiril-
+mesi gereken alanlarını yapıcı bir dille ifade eder. Gruplar, sunumlarını tamamladıktan sonra web sitelerinin
+bağlantı adreslerini EBA’ya ekler. Etkinlik sonunda öğretmen, öğrencilerin teknolojiyi tarih bilgisiyle birleş-
+tirme becerilerini takdir ederek çalışmalarını paylaşır ve tüm grupları tebrik eder.
+Öğretmen, sınıftaki bilgisayar sayısına göre öğrencileri eşit bir şekilde dağıtır. EBA’da paylaştığı oyunlaş-
+tırılmış ölçme ve değerlendirme web araçlarıyla hazırlanan Karışık Harflerden Doğru Kelimeler etkinli-
+ğini açmalarını söyler (Ek-5). Öğretmen, etkinlikte konu ile ilgili kavramların karışık verildiğini ve bu karışık
+harflerden anlamlı kelimeler oluşturmaları gerektiğini söyler. Öğretmen, tüm gruplardan etkinliği tamam-
+lamasını ve etkinlik sonunda zorlandıkları ya da bilmedikleri kelimeleri belirlemelerini ister. Öğrenciler, bu
+kelimeleri sınıf içinde tartışarak anlamlarını bulmaya çalışır. Tartışmalar sırasında öğrenciler birbirlerine
+açıklamalar yapar, örnekler verir ve kelimeleri bağlam içinde değerlendirmeye çalışır. Öğretmen, gerekli
+gördüğünde açıklamalar yapar ve öğrencilerin öğrenme sürecini destekler. Etkinlik sonunda öğretmen;
+öğrencilerin aktif katılımını ve kelime bilgisindeki gelişimini gözlemleyerek sınıfla paylaşır, gerekli pekişti-
+reçleri verir.
+Ders Sonrası
+Öğretmen, EBA’dan öğrencilere Anadolu’nun İlk Yerleşim Yerlerinde Sosyal Hayat etkileşimli içeriğini gönderir.
+Öğrenciler bir sonraki derse kadar içeriği izler, “Öğrendiğimi Kanıtlıyorum” bölümündeki etkinlikleri yapar.
+Öğretmen, EBA raporlar bölümünden öğrencilerin gelişimini izleyerek gerekli pekiştireçleri verir.
+Dijital araçlarla iş görme, Dijital ortamlar için içerik oluşturma ve paylaşma, Soru
+katılmak, Dijital bilgiyi sınıflandırmak, İş birliği, Odaklanma.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["EBA Anadolu’nun İlk Yerleşim Yerlerinde Sosyal Hayat", "y3OMFz"], ["EBA 3. Öğrenme Alanı Göbeklitepe Belgeseli S. 114", "UxU07ZY"], ["Sanal Müze Şanlıurfa Göbeklitepe Ören Yeri", "Lv1L8t"], ["Drama Grup Değerlendirme Formu (Öğrenci)", "Uc7PfCv"], ["Web Sitesi Tasarımı Değerlendirme Formu", "N8tmX9"], ["Çatalhöyük (Örnek Web Sitesi)", "UovuZT0"]]

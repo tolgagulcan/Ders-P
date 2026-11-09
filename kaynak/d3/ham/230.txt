@@ -1,0 +1,110 @@
+## 6. Sinif/Matematik/Cebir - Kelimeleri Matematige Donusturmek.pdf
+SURE:4 KOD:M.6.2.1.1.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 ve 2 (Sınıf)
+Siz de Bir Ağaç Dikin! isimli afişi öğretmen, etkileşimli tahta üzerinden öğrenciler ile paylaşır. Afişten yola
+çıkarak öğrencilerden daha yeşil bir dünya için ağaç dikmenin önemi ile ilgili fikirlerini belirtmelerini
+ister. Öğrenciler, fikirlerini ifade ettikten sonra afişte belirtilen gönüllü ağaç dikme projesinden bahseder.
+Öğretmen, “İlimizde bulunan ağaç sayısını arttırmak için gönüllüler ile her ay yapılacak düzenli ağaç
+dikiminde ayda 30 ağaç dikimi hedeflenmektedir. İlimizde bulunan yeni kent ormanında 85 ağaç olduğu
+saptanmıştır. Bundan sonra her ay yapılacak ağaç dikimleri ile kent ormanındaki toplam ağaç sayısının
+ne kadar olacağını belirlemenizi istiyorum.” diye belirtir. Öğretmen, sınıf mevcudunu gözeterek öğrencileri
+4-5 kişilik gruplara ayırır ve zamana bağlı toplam ağaç sayısı tablosunun çıktısını gruplara dağıtır (Ek-1).
+Yönergeleri etkileşimli tahtadan açar.
+Öğretmen, 1. adımda her gruptan dijital pano ya da post-it oluşturma araçlarını kullanarak verilen tabloya
+buldukları ağaç sayılarını sırasıyla yazmalarını ister. Her grup cevaplarını yazdıktan sonra öğretmen
+yanıtları kontrol eder. 2. adımda gruplara yapılan işlemler sırasında nasıl bir yöntem izlediklerini gruplara
+sorar. Gruplar 2. adımda istenileni yaparak tabloya ekler. 3. adımda ise öğrencilerden herhangi bir
+zamandaki toplam ağaç miktarını verecek olan sözel ifadeyi sembol kullanarak yazmalarını ister.
+Daha sonra öğretmen, cebirsel ifade ve değişken kavramlarının tanımlandığı Cebirsel İfadeler konu
+anlatımını etkileşimli tahtadan açar. Öğretmenin dersin girişinde verdiği problem durumunda öğrencilerin
+sembol kullanarak yazmasını istediği ifadeler tekrar incelenir. Öğretmen, öğrencilerin ilk 5 aydaki toplam
+ağaç miktarını belirlerken elde edilen sonuçtaki sabit terimi ve değişkeni fark etmelerini sağlar.
+Öğrencilerin bir cebirsel ifadeyi oluşturan terimleri, terimlerin katsayılarını, sabit terimi ve benzer terimi
+nasıl belirleyeceklerini Cebirsel İfadelerde Katsayı ve Terim konu anlatımı videosunu izleterek gösterir.
+Öğretmen, EBA konu anlatım videosunu gerekli yerlerde durdurarak öğrencilere yeni öğrenilen kavramlar
+hakkında sorular sorar ve geri bildirim verir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İş birliği, Akıl yürütme, İletişim, Dijital
+yeterlilik
+Ders 3 (BT Sınıfı)
+Öğretmen, bir sözel ifadenin cebirsel bir ifadeye nasıl çevrilebileceğinin anlatıldığı Sözel Duruma Uygun
+Cebirsel İfade Yazma konu anlatımı videosunu etkileşimli tahtadan açar. EBA konu anlatım videosunu
+gerekli yerlerde durdurarak öğrencilere sorular sorar ve geri bildirim verir.
+Farklı cebirsel ifadelerin verildiği ve öğrencilerin verilen cebirsel ifadelerle gösterilebilecek çeşitli sözel
+durumları pekiştirecekleri yapacakları Cebirsel İfadeye Uygun Sözel Durum Yazma etkileşimli içeriğini
+yapmak için öğrencileri gruplara ayırır. Gruptaki her öğrenciden EBA cebirsel ifadeye uygun sözel durum
+yazma etkinliğini gerçekleştirmesini ister. Öğretmen, süreçte öğrencilerin çalışmasını takip eder ve onlara
+yol gösterir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Akıl yürütme
+Ders 4 (Sınıf)
+Bu derste öğretmen, öğrenilen bilgileri pekiştirmek ve farklı soru tarzlarını göstermek için Cebirsel İfadeler
+çalışma sorularının çıktısını alıp öğrencilere dağıtır. Öğrenciler, çalışma sorularını bireysel olarak çözerler.
+Bireysel çalışmalar tamamlandıktan sonra öğrencilerin aktif katılımı ile etkileşimli tahta üzerinden çalışma
+sorularının çözümüne yer verilir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Akıl yürütme
+Ders Sonrası
+Öğretmen öğrendikleri yeni kavram ve terimleri içeren kavram haritası oluşturmalarını ister. EBA’ dan
+ödev takibini yapar ve öğrencileri bilgilendirir.
+Değerlendirme Yöntemleri/Araçları
+• EBA + çalışma soruları
+• EBA + etkileşimli içerik
+• Kavram haritası oluşturmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Siz de Bir Ağaç Dikin!: http://meb.ai/UMTUCQC (Son erişim tarihi: 08.05.2024)
+2. EBA Cebirsel İfadeler: http://meb.ai/5tLxa6 (Son erişim tarihi: 08.05.2024)
+3. EBA Sözel Duruma Uygun Cebirsel İfade Yazma: http://meb.ai/UJu1wkc (Son erişim tarihi: 08.05.2024)
+4. EBA Cebirsel İfadelerde Katsayı ve Terim: http://meb.ai/U4UXMS5 (Son erişim tarihi: 08.05.2024)
+5. EBA Cebirsel İfadeye Uygun Sözel Durum Yazma: http://meb.ai/UU4SlXy (Son erişim tarihi: 08.05.2024)
+6. EBA Cebirsel İfadeler Öğretmene Özel Çalışma Soruları: http://meb.ai/P5celi (Son erişim tarihi: 08.05.2024)
+Kaynakça
+Canva. (2024). Kelimeleri matematiğe dönüştürmek-siz de bir ağaç dikin!. Son erişim tarihi 08 Mayıs
+2024, https://www.canva.com/design/DAF6QaVVYSg/B_Du5mWeAAijHv84Qin7gg/view
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 26 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Zamana Bağlı Toplam Ağaç Sayısı Tablosu
+EK-1
+Zamana Bağlı Toplam Ağaç Sayısı Tablosu
+1. Aşağıda verilen tablo zamana bağlı toplam ağaç sayısını ifade etmektedir.
+Zaman (Ay) Toplam Ağaç Sayısı
+1. ay
+2. ay
+3. ay
+4. ay
+5. ay
+Herhangi bir ayda
+a) Kent ormanında ilk 5 ayda bulunan toplam ağaç sayısına göre yukarıdaki tabloyu doldurunuz.
+b) Herhangi bir zaman diliminde kent ormanında bulunan ağaç sayısını nasıl belirtirsiniz?
+İstenilen herhangi bir zaman diliminde toplam ağaç miktarını verecek sözel ifadeyi oluşturunuz
+ve tablonun en alt satırını doldurunuz.
+.....................................................................................................................................................................................
+2. Elde ettiğiniz sözel ifadeleri matematik diline nasıl çevirirsiniz?
+.....................................................................................................................................................................................
+.....................................................................................................................................................................................
+.....................................................................................................................................................................................
+Kelimeleri Matematiğe Dönüştürmek
+Cevap Anahtarı
+Ek-1
+1. Zamana Bağlı Toplam Ağaç Sayısı Tablosu
+1a, 1b
+Zaman (Ay) Toplam Ağaç Sayısı
+1. ay 30.1+85=115
+2. ay 30.2+85=145
+3. ay 30.3+85=175
+4. ay 30.4+85=205
+5. ay 30.5+85=235
+Herhangi bir ayda Ay sayısının 30 katının 85 fazlası
+2. 30x+85
+Kelimeleri Matematiğe Dönüştürme
+LINKS:[["Siz de Bir Ağaç Dikin!", "UMTUCQC"], ["EBA Cebirsel İfadeler", "5tLxa6"], ["EBA Sözel Duruma Uygun Cebirsel İfade Yazma", "UJu1wkc"], ["EBA Cebirsel İfadelerde Katsayı ve Terim", "U4UXMS5"], ["EBA Cebirsel İfadeye Uygun Sözel Durum Yazma", "UU4SlXy"], ["EBA Cebirsel İfadeler Öğretmene Özel Çalışma Soruları", "P5celi"]]

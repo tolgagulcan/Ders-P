@@ -1,0 +1,64 @@
+## 6. Sinif/Turkce/Bilim ve Teknoloji - Bilim Yolculugu.pdf
+SURE:3 KOD:T.D.6.2. T.K.6.23. T.Y.6.8. E.1.1.
+KAV:Bilim, Teknoloji, Bilim insanları, Açık ve örtük ifade
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, görsel düzenleme araçları ile hazırladığı İzleyiş Notlarım etkinlik kâğıdını öğrenci sayısı kadar
+çoğaltır (Ek-1).
+1. Ders (Sınıf)
+Öğretmen; metre, cetvel, mezura gibi fiziksel ölçüm araçları ile sınıfa girer. Öğrencilere elindeki nesneleri
+göstererek “Elimdeki bu araçlar, uzunluk ölçmek için kullanılıyor.” der ve “Sizce insanlar binlerce yıl önce bir
+piramidin boyunu, bir nehrin genişliğini nasıl ölçüyorlardı?” sorusunu sorar. Öğrencilerden gelen cevap-
+ları etkileşimli tahtaya yazarak sınıfta bir beyin fırtınası oluşturur. Ardından EBA’dan Bilimin Yıldızı videosunu
+sınıfa izletir. Öğrenciler videoyu izledikten sonra İzleyiş Notlarım içeriğini açar (Ek-1). Ders öncesinde basılı
+hâle getirdiği etkinlik kâğıdını öğrencilere dağıtır.
+Öğretmen, öğrencilerden etkinlikteki İlk İzleyiş Notlarım kısmına videonun ana fikrini yazmalarını ister.
+Ardından öğrencilerden video içeriğindeki ayrıntılara -Thales’in (Tales) buluşları ve yöntemleri gibi bilgi-
+lere- odaklanarak videoyu not alarak dinleme, seçici dinleme, katılımsız dinleme gibi etkileşimli dinleme
+yöntemlerinden birini seçerek izlemelerini ister. Bu yöntemlerle ilgili sınıfa bilgi verir ve video içeriğini öğren-
+cilere tekrar izletir. Öğrenciler etkinlikteki İkinci İzleyiş Notlarım kısmına notlarını yazar. Ardından öğretmen,
+sınıfa “İkinci izleyişte aldığınız notlar, ilk izleyişteki bilgilerinizi nasıl tamamladı?” sorusunu yöneltir. Öğren-
+cilerin cevaplarını aldıktan sonra “Hangi izleme stratejisi sizin için faydalı oldu?” sorusunu sorar. Böylece
+öğrencilerin izlemeye yönelik üst bilişsel stratejileri fark ederek düzenlemeler yapmalarını sağlar. Öğrenci-
+lerin cevaplarını aldıktan sonra dersi sonlandırır.
+Ders Sonrası
+Öğretmen, öğrencilerden suyun akış hızı ve yönünün nasıl değiştirilebileceğine yönelik araştırma yapma-
+larını ister.
+2. Ders (BT Sınıfı)
+Öğretmen, bir önceki derste anlattıklarını öğrencilere hatırlatarak derse başlar. Öğrencilerden yakın gelecekte
+yaşanabilecek teknolojik ve bilimsel gelişmelere ilişkin tahminlerini söylemelerini ister. Ardından dijital hikâye
+oluşturma araçları ile hazırlanan Akıllı Tarım içeriğini açar (Ek-2). Öğrencilerden içeriği incelemelerini ve
+“yaşadığı köydeki nehrin taşarak ekinlere zarar verdiğini gören bir çocuğun buna yönelik çözümü” konulu
+bir dijital hikâye oluşturmalarını ister. Öğrencilere, hikâyelerini oluştururken ders dışı çalışmalarda yaptık-
+ları araştırmalardan, önceki gözlemlerinden ve dersin başında gelecekteki teknolojik ve bilimsel gelişme-
+lere ilişkin yaptıkları tahminlerden yararlanmaları gerektiğini açıklar. Ardından öğrencilerin dijital hikâyeleri
+EBA’da paylaşacaklarını ve öğrencilerin çalışmalarını dereceli puanlama anahtarı ile değerlendireceğini
+söyler (Ek-3). Değerlendirme kriterleri ile ilgili bilgi verir. Dijital hikâyelerini bitiren öğrenciler metinlerini okur
+ve öğretmen dersi sonlandırır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğrenciler dijital hikâyelerini EBA’dan paylaşır. Öğretmen, dereceli puanlama anahtarı ile öğrencilerin çalış-
+malarını değerlendirir (Ek-3). Değerlendirme ile ilgili geri bildirimleri EBA’dan öğrencilere verir.
+Yapılandırma, Yorumlama, Seçicilik, Yaratıcılık, Merak, Gerçeği arama, Eleştirel bakma,
+Yazmayı yönetme, İçerik oluşturma, Kural uygulama, İletişim, Dijital ortamlar için içerik
+oluşturma ve paylaşma
+Ders Öncesi
+Öğretmen, derste altı şapkalı düşünme tekniğini kullanacağı için sınıfı altı kişilik gruplara ayırır.
+3. Ders (Sınıf)
+Öğretmen, dersin başında etkileşimli sunum araçları ile hazırladığı Altı Şapkalı Düşünme Tekniği etkinliğini
+açarak kullanılacak teknikle ilgili öğrencilere bilgi verir. Her şapkanın temsil ettiği düşünme biçimini öğren-
+cilere açıklar. Ardından sınıfı altı gruba ayırır ve her grubu rastgele bir şapkayla eşleştirir. Öğrencilerden,
+kendilerine verilen şapkaya ilişkin taslak ifadeden hareketle “Bir mutfak robotu olsaydınız, yaşadığınız bir
+günü nasıl anlatırdınız?” sorusunu yanıtlayacak şekilde kendilerini bir mutfak robotunun yerine koymalarını
+ve bu bakış açısıyla yaşadıkları bir günü anlatan bir konuşma hazırlamalarını ister. Konuşmalarında açık ve
+örtük ifadeleri kullanmalarını söyler ve konu hakkında öğrencileri kısaca bilgilendirir. Öğretmen, grup üyele-
+rinin konuşmayı birlikte planlamaları, konuşma sırasında her üyenin söz alarak konuşmanın bir bölümünü
+sunması gerektiğini belirtir. Konuşmaların grup değerlendirme yapmayı sağlayan web araçları ile hazır-
+lanan Grup Değerlendirme Formu ile değerlendirileceğini söyler ve kriterler ile ilgili öğrencilere bilgi verir
+(Ek-4). Ardından her grup, kendilerine verilen şapkanın bakış açısını yansıtacak şekilde sunumunu gerçek-
+leştirir. Öğretmen, gruplar sunumlarını tamamladıktan sonra dersi sonlandırır.
+Ders Sonrası
+Öğretmen, Grup Değerlendirme Formu’nu sınıf yönetimi araçlarıyla öğrencilere gönderir (Ek-4). Öğrenciler
+değerlendirmelerini yaptıktan sonra öğretmen, sınıf yönetimi araçları aracılığıyla onlara geri bildirimler verir.
+
+LINKS:[["EBA Bilimin Yıldızı", "UxTMgPY"], ["İzleyiş Notlarım", "80LzkO"], ["Akıllı Tarım", "Uzj5oCG"], ["Altı Şapkalı Düşünme Tekniği", "V8NGlc"], ["Grup Değerlendirme Formu", "m1xib4"]]

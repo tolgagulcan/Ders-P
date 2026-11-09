@@ -1,0 +1,262 @@
+## 8. Sinif/Matematik/Cebir - Engelsiz Okul.pdf
+SURE:5 KOD:M.8.2.2.6.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, yapay zekâ destekli araçları kullanarak eğim konusunu günlük hayatla ilişkilendirdiği bir
+hikâye oluşturur. Hikâye bedensel engeli olan bir insanın engelli rampası bulunmayan yerlerde yaşadığı
+sorunları anlatır (Okulu ziyarete gelen fiziksel engelli bir misafirin hareket etmesini sağlayacak bir engelli
+rampası olmadığı için yaşadığı zorluklar vb. anlatılabilir.).
+Öğretmen, EBA’da yer alan Eğim videosunu dersten önce izlemeleri için öğrencilere gönderir.
+Ders 1 (BT Sınıfı)
+Öğretmen, derse Bedensel Engelli Çocukların Temel Eğitim Okullarında Eğitim Alabilmesi İçin Gereken
+Mimari Düzenlemeler isimli makalenin özet kısmını okuyarak başlar. Makalenin özetini okuduktan sonra
+öğrencilere “Sizce sınıfımızı daha kullanışlı ve güvenli hâle getirmek için neler yapabiliriz?” sorusunu
+sorar. Öğrencilerden düşüncelerini dijital pano ya da post-it oluşturma aracını kullanarak belirtmelerini
+ister. Öğrenciler fikirlerini belirttikten sonra etkileşimli tahtada tüm fikirleri tek tek okur. Hep birlikte,
+uygulanabilecek ve uygulandığında yararlı olacak fikirleri (sıralar arasında yeterli boşluk bırakmak,
+çöp kovasını duvara sabitlemek, yüksek raflı kitaplıklarda sık kullanılan eşyaları alt raflara koymak vb.)
+belirlerler. Bu fikirler doğrultusunda öğrenciler sınıf düzeninde değişiklikler yapar.
+Yapay zekâ destekli araç ile oluşturulmuş hikâyeyi gönüllü bir öğrenci okur. Öğretmen, hikâye içerisinde
+bahsedilen eğimin nasıl bulunacağını öğrencilere sorar. Cevap vermeye istekli öğrencilere söz hakkı verir
+ve fikirlerini dinler. Bir doğrunun eğimini bulmak için dikeydeki değişimin yataydaki değişime bölünmesi
+gerektiğini söyler. Eğimin tanımını verdikten sonra EBA’da yer alan Grafiği Verilen Doğrunun Eğimi etkileşimli
+içeriğini açar ve içerikteki soruları öğrencilerle cevaplar.
+Ders Sonrası
+Öğretmen, öğrencilere “Haydi siz de okulumuzun girişinde bulunan engelli rampasının eğimini bulun
+ve bulduğunuz sonucun kabul edilebilir değerler arasında (%4-%6) olup olmadığını araştırın (Okulun
+girişinde engelli rampası yoksa öğretmen öğrencilerden engelli rampası için en uygun eğimin hangi
+değerler arasında olduğunu araştırmalarını ister.). Rampayı siz yapsaydınız misafirin okulu rahat bir
+şekilde gezmesi için nereye yapmanız uygun olurdu?” sorularını sorar ve onlardan etkileşimli sunum
+araçlarından biri ile cevapları içeren birer sunum hazırlamalarını ister. Hazırlanan sunum çalışmalarının
+3. derste yapılacağını söyler ve oluşturduğu değerlendirme formunu kullanarak kendi grup çalışmalarını
+değerlendireceklerinden ve değerlendirme kriterlerinden bahseder (Ek-1). Böylece öğrencileri araştırma
+yapmaya ve sunum hazırlamaya yönlendirir. Bu etkinlik için sınıf mevcudunu göz önünde bulundurarak
+öğrencileri 5-8 kişilik 4 gruba ayırır. Grupların yapması gereken görevler aşağıda belirtilmektedir:
+• Engelli rampasının eğimi için en uygun olan eğim değerini araştırmak,
+• Okul içerisindeki merdivenlerin ve diğer yüksekliklere kurulabilecek rampaların eğimlerini hesaplamak,
+• Okulun dışında bulunan kaldırım benzeri yüksekliklere kurulabilecek rampaların eğimlerini hesaplamak,
+• Araştırmalar sonucunda elde edilen verileri kullanarak sunum hazırlamaktır.
+Öğretmen, EBA’daki Denklemi Verilen Doğrunun Eğimi adlı etkileşimli içeriği öğrencilere EBA’dan ders
+sonrası pekiştirme çalışması olarak gönderir ve takibi yapar.
+İlgili Yetkinlikler/Beceriler: Bilgi ve iletişim teknolojileri, Matematiksel süreç becerileri
+Ders 2 (Sınıf)
+Öğretmen, EBA’daki Eğimin İşareti adlı etkileşimli videoyu öğrencilere izletir ve onlardan gerekli yerlerde
+etkileşimleri doğru bir şekilde uygulamalarını ister. Video tamamlandıktan sonra öğrenmeleri pekiştirmek
+için tahtaya doğrusal denklem grafikleri çizer ve öğrencilerden bu doğrusal denklem grafiklerinin
+eğimlerini bulmalarını ister (Ek-2). Sorular için öğrencilere 10 dakika süre verir. Süre tamamlandıktan sonra
+öğrencilere sınıf oturma düzenlerine göre söz hakkı tanır. Öğrenci soruyu cevaplayamaz ise öğretmen
+gerekli geri bildirimleri vererek öğrencinin soruyu cevaplamasını sağlar. Öğretmen, öğrencilere EBA’da
+yer alan Eğimi Kullanarak Doğru Denklemini Oluşturma etkileşimli içeriğini izletir. Video içerisinde gerekli
+yerlerde öğrencilere söz hakkı vererek onların fikirlerini alır. Video tamamlandıktan sonra öğrencilerden
+eğimi ve geçtiği bir noktası verilen doğru denklemini oluşturma konusu ile ilgili oluşturduğu soruları
+cevaplandırmalarını ister (Ek-3).
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Matematiksel gösterim
+Ders Öncesi
+Gruplar birer sözcü belirler. Öğretmen dağıtacağı grup değerlendirme formu hakkında öğrencileri
+bilgilendirir.
+Ders 3 (Sınıf)
+Öğretmen “okula engelli rampası yapma” ile ilgili sunum bağlantısını tahtada açar. Grup sözcülerini
+sunumlarını yapmaları için tahtaya çağırır. Sunum yapma sırasını, araştırma sonuçlarını bağlantıya en
+erken yükleyenden en son yükleyene doğru belirler. Öğretmen, sunum yapmak için sırasını bekleyen
+gruplara grup değerlendirme formunu dağıtır ve onlardan sunum yapan arkadaşlarını değerlendirmelerini
+ister (Ek-1).
+İlgili Yetkinlikler/Beceriler: İletişim, İş birliği, Sunum
+Ders 4 (BT Sınıfı)
+Öğretmen sınıf mevcudunu göz önünde bulundurarak öğrencileri 2-4 kişilik gruplara ayırır. Her grup bir
+bilgisayarın olduğu masaya geçer. Öğretmen, dijital pano ya da post-it araçlarından birini kullanarak
+denklemlerin eğimlerini bulmalarını daha sonra ise dinamik matematik ve geometri aracında doğrusal
+denklemlerin grafiğini çizerek eğimlerini doğrulamalarını ister. Öğrenciler her iki durumda buldukları
+eğimleri karşılaştırır. Öğretmen; öğrencilere bir soruda eğimlerin değerleri aynı ise diğer denkleme
+geçmelerini, farklı ise işlemlerini kontrol etmelerini söyler. Gruplar arasında gezerek hatalı işlem yapan
+öğrencilere geri bildirimlerde bulunur.
+İlgili Yetkinlikler/Beceriler: İş birliği, İletişim, Matematiksel süreç becerileri, Bilgi ve iletişim teknolojileri,
+Matematiksel modelleme
+Ders 5 (BT Sınıfı)
+Öğretmen, EBA’da yer alan eğim konusu ile ilgili Grafiği Verilen Doğruların Eğimleri etkileşimli içeriğini
+ve Doğrunun Eğimi alt konu testlerindeki soruları EBA üzerinden öğrencilerle paylaşır. Öğrencilerden
+soruları cevaplandırmalarını ve cevaplarını dijital pano ya da post-it aracı bağlantısına yazmalarını
+ister. Etkileşimli tahta üzerinden dijital pano kullanarak öğrencilerin cevaplarını takip eder. Anında verdiği
+geri bildirimlerle öğrencilerin ihtiyaçlarına yönelik rehberlik etmiş olur. Bu uygulama, öğrencilerin kendi
+hızlarında öğrenmelerini sağlarken onları öğrenme sürecinin aktif birer katılımcısı yapar.
+İlgili Yetkinlikler/Beceriler: Bilgi ve iletişim teknolojileri, Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerikler
+• EBA + alt konu testi
+• Grup değerlendirme formu
+• Doğru denklemi ve grafiğini kullanarak eğim bulma etkinliği
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Eğim: http://meb.ai/UcJSF7V (Son erişim tarihi: 22.05.2024)
+2. EBA Grafiği Verilen Doğrunun Eğimi: http://meb.ai/u6oy7yq (Son erişim tarihi: 22.05.2024)
+3. EBA Denklemi Verilen Doğrunun Eğimi: http://meb.ai/u2ooubw (Son erişim tarihi: 22.05.2024)
+4. EBA Eğimin İşareti: http://meb.ai/uwhpmr6 (Son erişim tarihi: 22.05.2024)
+5. EBA Eğimi Kullanarak Doğru Denklemini Oluşturma: http://meb.ai/u47mwb8 (Son erişim tarihi: 22.05.2024)
+6. EBA Etkileşimli İçerik Grafiği Verilen Doğruların Eğimi: http://meb.ai/gQ1hQZ (Son erişim tarihi: 22.05.2024)
+7. EBA Alt Konu Testi Doğrunun Eğimi: http://meb.ai/3dyrdr (Son erişim tarihi: 22.05.2024)
+Kaynakça
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Yılmaz, B. (2005). Bedensel engelli çocukların temel eğitim okullarında eğitim alabilmesi için gereken
+mimari düzenlemeler. Selçuk Üniversitesi Mühendislik, Bilim ve Teknoloji Dergisi, 20 (3), 73-84. Son erişim
+tarihi 30 Mayıs 2024, https://dergipark.org.tr/tr/pub/sujest/issue/23275/248437
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Grup Değerlendirme Formu (Öğrenci İçin)
+Ek-2: Eğimin İşareti ve Değeri ile İlgili Örnek Sorular
+Ek-3: Eğimi ve Geçtiği Bir Noktası Verilen Doğru Denklemini Oluşturma Örnek Soruları
+Ek-4: Doğru Denklemi ve Grafiğini Kullanarak Eğim Bulma Etkinliği
+EK-1
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, grup olarak yaptığınız sunum çalışmanızı değerlendirmeniz için hazırlanmıştır. Altta verilen kriterlere göre “Evet”, “Kısmen”, “Hayır” şekilde kendinizi
+ve gruptaki arkadaşlarınızı değerlendiriniz.
+Grup Adı:
+GRUP ÜYELERİ
+KRİTERLER Ben 1. Grup Üyesi 2. Grup Üyesi 3. Grup Üyesi 4. Grup Üyesi 5. Grup Üyesi 6. Grup Üyesi 7. Grup Üyesi
+....................... ....................... ....................... ....................... ....................... ....................... ....................... .......................
+Çalışma süresince etkili bir
+iletişim kurdum/kurdu.
+Konu ile ilgili temel kavramları
+öğrendim/öğrendi.
+Çalışmada aktif olarak yer
+aldım/aldı.
+Çalışma süresince zamanı
+verimli kullandım/kullandı.
+Sunumu uygun bir şekilde
+hazırladım/hazırladı.
+Sunumda açık ve anlaşılır bir dil
+kullandım/kullandı.
+(Bu kriter için sadece grup
+sözcüsünü değerlendiriniz.)
+Engelsiz Okul
+EK-2
+Eğimin İşareti ve Değeri ile İlgili Örnek Sorular
+Aşağıda grafikleri verilen doğruların eğimlerinin işaretlerini ve değerlerini bulup belirtilen bölümlere yazınız.
+1. Soru 2. Soru 3. Soru 4. Soru
+y y
+1
+2
+x 1
+1
+-1 x
+x 0 1 2 3
+-1 0 1 x
+-1 0 1 2
+-1
+-2
+-1 -1
+-2
+y
+y
+Eğimin İşareti: Eğimin İşareti: Eğimin İşareti: Eğimin İşareti:
+Eğim: Eğim: Eğim: Eğim:
+Engelsiz Okul
+EK-3
+Eğimi ve Geçtiği Bir Noktası Verilen
+Doğru Denklemini Oluşturma Örnek Soruları
+Aşağıda eğimi ve bir noktası verilen doğruların denklemlerini yazınız.
+1. Doğru 2. Doğru 3. Doğru 4. Doğru
+Eğimi 2 -1 1 -2
+2
+Geçtiği Nokta (1,2) (2,3) (-1,1) (0,0)
+Doğrunun Denklemi
+Engelsiz Okul
+EK-4
+Doğru Denklemi ve Grafiğini Kullanarak
+Eğim Bulma Etkinliği
+Aşağıda verilen doğru denklemlerinin eğimlerini önce hesaplama yaparak, daha sonra çizdiğiniz grafiği
+kullanarak bulunuz. Bulduğunuz sonuçları karşılaştırınız. İki sonuç birbirine eşit olduğunda diğer denkleme
+geçiniz. Sonuçlar birbirinden farklı ise işlemlerinizi kontrol ediniz.
+Grup Adı:
+Grafik
+Hesaplama ile Bulduğunuz
+Denklem Numarası Doğru Denklemi Yardımıyla
+Bulunan Eğim Eğimler Eşit Mi?
+Bulunan Eğim
+Evet
+1. Denklem y=5x−7
+Hayır
+Evet
+2. Denklem y=−3x−1
+Hayır
+Evet
+3. Denklem y=7x−7
+Hayır
+Evet
+4. Denklem y=−9x−2
+Hayır
+Evet
+5. Denklem y=−7x+5
+Hayır
+Evet
+6. Denklem -2y=-6x+10
+Hayır
+Evet
+7. Denklem 8y=−7x−6
+Hayır
+Evet
+8. Denklem 8y=10x−8
+Hayır
+Evet
+9. Denklem −7y=4x+6
+Hayır
+Evet
+10. Denklem 10y=−3x+10
+Hayır
+Evet
+11. Denklem 2y=10x+5
+Hayır
+Evet
+12. Denklem −5y=6x+1 Hayır
+Evet
+13. Denklem −2y=5x+4
+Hayır
+Evet
+14. Denklem 6y=10x−7
+Hayır
+Evet
+15. Denklem −3y=3x+3 Hayır
+Engelsiz Okul
+CEVAP ANAHTARLARI
+EK-2 CEVAP ANAHTARI
+SORULAR CEVAPLAR
+1
+2
+EK-3 CEVAP ANAHTARI
+DOĞRULAR DOĞRUNUN DENKLEMİ
+1. Doğru y=2x
+2. Doğru y=-x+5
+3. Doğru 2y=x+3
+4. Doğru y=-2x
+EK-4 CEVAP ANAHTARI
+DENKLEMLER EĞİM DENKLEMLER EĞİM
+4
+1. Denklem 5 9. Denklem -
+7
+3
+2. Denklem -3 10. Denklem -
+10
+3. Denklem 7 11. Denklem 5
+6
+4. Denklem -9 12. Denklem -
+5
+5
+5. Denklem -7 13. Denklem -
+2
+5
+6. Denklem 3 14. Denklem 3
+7
+7. Denklem - 15. Denklem -1
+8
+5
+8. Denklem 4
+Engelsiz Oku
+LINKS:[["EBA Eğim", "UcJSF7V"], ["EBA Grafiği Verilen Doğrunun Eğimi", "u6oy7yq"], ["EBA Denklemi Verilen Doğrunun Eğimi", "u2ooubw"], ["EBA Eğimin İşareti", "uwhpmr6"], ["EBA Eğimi Kullanarak Doğru Denklemini Oluşturma", "u47mwb8"], ["EBA Etkileşimli İçerik Grafiği Verilen Doğruların Eğimi", "gQ1hQZ"], ["EBA Alt Konu Testi Doğrunun Eğimi", "3dyrdr"]]

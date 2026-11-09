@@ -1,0 +1,223 @@
+## 6. Sinif/Matematik/Oran - Inovasyonumun Koruyucusu Patentim.pdf
+SURE:5 KOD:M.6.1.7.1. M.6.1.7.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğrencilerin bir ders öncesinden İnovasyon 1 ve İnovasyon 2 videolarını izlemeleri, Yaratıcılık ve İnovasyon
+belgesini okumaları sağlanır. İlgili içeriklerden önemli gördükleri yerleri not alarak sınıfa gelmeleri istenir
+ve derste buna yönelik sorular sorulacağı bildirilir.
+Ders 1 (BT Sınıfı)
+Öğretmen öğrencileri gruplara ayırır. Öğrencilerin ilgisini çekmek için uzun cevaplı sorular oluşturmayı
+sağlayan web araçları ile hazırlanmış patent ve inovasyon kavramına yönelik soruları gruplara yöneltir
+(Ek-1). Gruplar soruların cevaplarını tartışarak yanıtlar.
+Öğrencilerin verdiği cevaplar sırayla etkileşimli tahta üzerinden sınıfla paylaşılır. İnovasyon ve patent
+kavramları, sorulara verilen cevaplarla netleştirilir. Patent ve inovasyon ilişkisinin nasıl olduğu öğrencilerle
+tartışılır, öğretmen bu tartışmayla öğrencilerin patentin inovasyonu koruduğu sonucuna ulaşmalarına
+rehberlik eder. Patentlerin inovasyon süreçlerine ve ülke ekonomisine sağladığı olumlu katkılara dikkat
+çeker.
+İlgili Yetkinlikler/Beceriler: İletişim, Dijital yeterlilik
+Ders 2 (Sınıf)
+Öğretmen tarafından hazırlanan patent ve inovasyon sayılarından oluşan grafik ve tablolama araçlarından
+biri ile oluşturulmuş hesaplama tablosu, etkileşimli tahta aracılığıyla öğrencilerle paylaşılır (Ek-2).
+Tablodaki veriler gruptaki öğrencilerle birlikte incelenir. Yıllara göre patent ve inovasyon sayıları arasındaki
+ilişki sayısal olarak incelenir, sayısal-oransal artış ve azalışlara dikkat çekilir.
+Grafik ve tablolama web aracı ile oluşturulmuş hesaplama tablosunun üçüncü sütununa oran değerleri
+hesaplanarak eklenir. Öğretmen, patent sayısının inovasyon sayısını artırdığı yıllar arasında karşılaştırma
+yaparak oranın kıyaslama anlamını vurgular. Sayısal olarak azalışın olduğu durumların oransal olarak
+arttığını göstererek bu durumlara dikkat çeker. Çoklukları kıyaslarken oranın anlamı üzerinde durur.
+İlgili Yetkinlikler/Beceriler: İletişim, Dijital yeterlilik, Matematiksel yetkinlik ve bilim/teknolojide
+temel yetkinlikler, Akıl yürütme
+Ders 3 (Sınıf)
+Teknoloji firmasında patent sayısının artmasının inovasyon yapmaya eğilimi artırdığı kabulüne öğrencilerle
+birlikte ulaşılır. Bu kabule uygun grafik ve tablolama web aracı ile yeni veriler oluşturulur ve gruplarla
+paylaşılır (Ek-3). Gruplar tabloda eksik olan değerleri bulur. Sınıfın durumuna göre örneklerin sayısı
+artırılabilir. Konu kavrandıktan sonra tablolama aracının sunduğu imkânlara göre otomatik hesaplama
+işlemi etkileşimli tahtada öğrenciler ile paylaşılır.
+Ödev
+Öğretmen, EBA’da bulunan 6. sınıf Oran videosunu konu tekrarı, 6. sınıf Oran/Birimli ve Birimsiz Oran
+videosunu da konuya hazırlık için öğrencilere gönderir.
+Öğrencilere bir sonraki ders grup etkinliği yapılacağı bilgisi verilir ve günlük hayatta karşılaştıkları bir
+oranı araştırıp gelmeleri istenir.
+İlgili Yetkinlikler/Beceriler: İletişim, Dijital yeterlilik, Matematiksel yetkinlik ve bilim/teknolojide temel
+yetkinlikler, Akıl yürütme, Matematiksel süreç becerileri
+Ders 4 (BT Sınıfı)
+Öğretmen, birimli ve birimsiz oran konusunu öğrenciler videodan izledikleri için onlara kısaca tekrar
+anlatır. Öğrencilerden birimli ve birimsiz orana örnekler vermelerini ister. Öğretmen gelen cevaplara
+yorumlar yaparak geri bildirimde bulunur. Öğretmenin hazırladığı etkinlikleri yapmak üzere öğrenciler 3
+gruba ayrılır (Ek-4). Sınıf mevcuduna göre etkinlikler çeşitlendirilebilir. Daha sonra öğretmen bu etkinliği
+iş birlikli çalışmayı destekleyen araçlardan birini kullanarak öğrencilerle paylaşır. Etkinliği 10 dakikada
+tamamlaması beklenir. Gruplar tamamladıkları etkinlikten sonra diğer etkinliğe geçer. Yapılan etkinliklerin
+gözlem formuna göre değerlendirileceği belirtilir. Dersin sonunda yapılan paylaşımlar etkileşimli tahta
+aracılığıyla paylaşılır.
+Ödev
+EBA’da bulunan Oran çalışma soruları, konu tekrarı için öğrencilere ödev olarak gönderilir. Öğretmen,
+EBA’dan ödev takibini yapar ve öğrencileri bilgilendirir.
+İlgili Yetkinlikler/Beceriler: İletişim, Dijital yeterlilik, Matematiksel yetkinlik ve bilim/teknolojide temel
+yetkinlikler, Akıl yürütme, Matematiksel süreç becerileri, İş birliği
+Ders 5 (BT Sınıfı)
+Öğretmen EBA oturumunu açar. EBA’da bulunan Oran öğretmene özel alt konu testini gruplara gönderir. Her
+gruptan bir öğrenci EBA oturumunu açar. Her grubun teste eriştiğinden emin olduktan sonra gruplara 20
+dakika süre verir. Sürenin bitiminden sonra gruplar zorlandıkları soruları paylaşırlar. Öğrencilerin zorlandığı
+sorular birlikte çözülür. Öğretmen, test istatistiğine bakarak sınıfta ilk üçe giren grup üyelerini ve soru
+çözmek için tahtaya çıkan öğrencileri ödüllendirir. Süreci öğretmen gözlem formu ile değerlendirir (Ek-5).
+Ödev
+EBA’da yer alan Oran konusuna ait alıştırmalar ödev olarak gönderilir.
+İlgili Yetkinlikler/Beceriler: İletişim, Dijital yeterlilik, Matematiksel yetkinlik ve bilim/teknolojide temel
+yetkinlikler, Matematiksel süreç becerileri, İş birliği, Akran öğrenmesi
+Değerlendirme Yöntemleri/Araçları
+• EBA + öğretmene özel alt konu testi
+• EBA + alıştırmalar
+• EBA + çalışma soruları
+• Günlük hayat problemleri
+• Uzun cevaplı sorular oluşturmayı sağlayan web araçları
+• Öğretmen gözlem formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA İnovasyon 1: https://meb.ai/U6rD1dY (Son erişim tarihi: 13.05.2024)
+2. EBA İnovasyon 2: https://meb.ai/U7lGvJ9 (Son erişim tarihi: 13.05.2024)
+3. EBA Patentin Önemi: http://meb.ai/4Rwc2A (Son erişim tarihi: 13.05.2024)
+4. EBA Oran: http://meb.ai/W255Sr (Son erişim tarihi: 13.05.2024)
+5. EBA Oran/Birimli ve Birimsiz Oran: http://meb.ai/QEta06 (Son erişim tarihi: 13.05.2024)
+6. EBA Oran Çalışma Soruları: http://meb.ai/Zg7s0R (Son erişim tarihi: 13.05.2024)
+7. EBA Oran Öğretmene Özel Alt Konu Testi: http://meb.ai/3bZuHV (Son erişim tarihi: 13.05.2024)
+8. EBA Alıştırmalar Oran: http://meb.ai/Um8jidB (Son erişim tarihi: 13.05.2024)
+Kaynakça
+Keleşoğlu, S., & Kalaycı, N. (2017). Dördüncü sanayi devriminin eşiğinde yaratıcılık, inovasyon ve eğitim
+ilişkisi. Yaratıcı Drama Dergisi, 12(1)
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Patent ve İnovasyon Kavramına Yönelik Sorular
+Ek-2: 2019 Yılında Kurulan Teknoloji Firmasına Ait Patent ve İnovasyon Verileri-1
+Ek-3: 2019 Yılında Kurulan Teknoloji Firmasına Ait Patent ve İnovasyon Verileri-2
+Ek-4: Oran Konusu İçin Grup Etkinlikleri
+Ek-5: Öğretmen Gözlem Formu
+EK-1
+Patent ve İnovasyon Kavramına Yönelik Sorular
+Aşağıda verilen açık uçlu soruların cevabını boş bırakılan alanlara yazınız.
+1. Sizce yeni ve farklı bir şey yapmak ne demektir?
+.....................................................................................................................................................................................................................................................
+2. Sizce inovasyon neden önemlidir?
+.....................................................................................................................................................................................................................................................
+3. Günlük hayatınızda gördüğünüz inovasyonlara örnek veriniz.
+.....................................................................................................................................................................................................................................................
+4. Bir buluşu korumak için neler yapılabilir?
+.....................................................................................................................................................................................................................................................
+5. Patent almak neden önemlidir?
+.....................................................................................................................................................................................................................................................
+6. Kimler patent alabilir?
+.....................................................................................................................................................................................................................................................
+7. Patenti olan bir ürün ne gibi haklara sahiptir?
+.....................................................................................................................................................................................................................................................
+8. Patent ve inovasyon kavramları arasında nasıl bir ilişki vardır?
+.....................................................................................................................................................................................................................................................
+9. Bildiğiniz patentli ürünler nelerdir? Örnek veriniz.
+.....................................................................................................................................................................................................................................................
+İnovasyonumun Koruyucusu Patentim
+EK-2
+ve İnovasyon Verileri-1
+PATENT İNOVASYON PATENT/İNOVASYON
+YIL
+SAYISI SAYISI ORANI
+Not: Bu tabloda verilen sayılar öğretmen tarafından yazılmıştır. Gerçek veriler değildir.
+İnovasyonumun Koruyucusu Patentim
+EK-3
+ve İnovasyon Verileri-2
+PATENT İNOVASYON PATENT/İNOVASYON
+YIL
+SAYISI SAYISI ORANI
+Not: Bu tabloda verilen sayılar öğretmen tarafından yazılmıştır. Gerçek veriler değildir.
+İnovasyonumun Koruyucusu Patentim
+EK-4
+Oran Konusu İçin Grup Etkinlikleri
+Açıklama: Her grup, her etkinliği 10 dakikada tamamlar ve gruplar tamamladıkları etkinlikten sonra diğer etkinliğe geçer.
+1. Etkinlik: Oranları Günlük Hayatta Bulma
+Örneğin bir öğrenci; bir nesnenin boyu ile eni arasındaki oranı bulabilir, bir reçetedeki veya bir karışımdaki malzemelerin oranlarını hesaplayabilir. Öğrenciler,
+buldukları oranları iş birlikli çalışmayı destekleyen araçlar ile aşağıdaki tabloya kaydederek paylaşır ve birlikte öğrenir. Öğretmen, grup üyelerine rehberlik
+ederek geri dönütler verir.
+Grubun Adı Bulduğu Oranın Sözel İfadesi Bulduğu Oranın Sayısal İfadesi Öğretmen Geri Bildirimi
+Örnek: A grubu A4 kâğıdının eni/A4 kâğıdının boyu 210 mm/297 mm
+2. Etkinlik: Birimli ve Birimsiz Oran
+Bu etkinlikte öğrenciler, verilen oranları birimli ve birimsiz oran olarak sınıflandırır. Verilen oran birimli ise birimli oran sütununa değil ise birimsiz oran sütununa
+(+) koyulur. Her grup 3 tane oranı sınıflayacaktır.
+Örnek sorular
+Öğretmen Geri
+Grubun Adı Oranın Sözel İfadesi Oranın Sayısal İfadesi Birimli Oran Birimsiz Oran
+Bildirimi
+EK-4
+Oran Konusu İçin Grup Etkinlikleri
+3. Etkinlik: Oranlarla Problem Çözme
+Bu etkinlikte öğrencilere oranlarla ilgili farklı günlük hayat problemleri verir. Öğrenciler problemleri okur ve çözümlerini “Çözüm” bölümüne yazar. Öğretmen,
+cevapları yorumlar ve geri bildirimde bulunarak öğrencilere rehberlik eder.
+Grubun Adı Problem Çözüm Öğretmen Geri Bildirimi
+1. Bir bahçede 20 meyve ağacı ve 15 çam ağacı vardır.
+Meyve ağaçlarının toplam ağaçlara oranı nedir?
+2. Bir kutuda 2 kırmızı kalem, 3 mavi kalem ve 4 sarı kalem
+bulunmaktadır.
+Kırmızı kalemlerin toplam kalemlere oranı nedir?
+3. 5 saatte 150 km yol alan aracın gittiği yolun geçen zamana oranı
+nedir?
+4. Bir garajda A marka otomobilden 40 tane bulunmaktadır. B marka
+otomobil A marka otomobilden 10 fazladır.
+A marka otomobil sayısının B marka otomobil sayısına oranı nedir?
+EK-5
+Öğretmen Gözlem Formu
+Bu form, öğretmenin grubu ve grup üyelerini değerlendirmesi amacıyla hazırlanmıştır. Verilen her bir kriter için uygun olan derecelerden sadece birini (X)
+ile işaretleyiniz.
+Grup Adı:
+Grup Üyeleri:
+DERECELER
+KRİTERLER Geliştirilmeli Kısmen Yeterli İyi Çok İyi
+Yeterli
+(1) (2) (3) (4) (5)
+Çoklukları karşılaştırmada oran kullandı ve oranı farklı biçimlerde gösterdi.
+Bir bütünün iki parçaya ayrıldığı durumlarda iki parçanın birbirine veya her bir
+parçanın bütüne oranını belirledi.
+Problem durumlarında oranlardan biri verildiğinde diğerini buldu.
+Öğrenme sürecinde gruplar iş birliği içindeydi.
+Her bir grup etkinlikte yeteri kadar zaman geçirdi.
+TOPLAM PUAN
+Bu formdan alınabilecek toplam puan en fazla 25 iken, en az 5’tir.
+Eklemek istediklerim:..........................................................................................................................................................................................
+İnovasyonumun Koruyucusu Patentim
+Cevap Anahtarları
+Ek-2
+PATENT İNOVASYON
+YIL PATENT/İNOVASYON ORANI
+SAYISI SAYISI
+3
+10
+2
+6
+5
+10
+8
+12
+Ek-3
+PATENT İNOVASYON
+YIL PATENT/İNOVASYON ORANI
+SAYISI SAYISI
+Ek-4 / 2. Etkinlik
+Oranın Sözel İfadesi Oranın Sayısal İfadesi Birimli Oran Birimsiz Oran
+Ek-4 / 3. Etkinlik
+Problem Çözüm
+1. Bir bahçede 20 meyve ağacı ve 15 çam ağacı vardır. 20 4
+=
+Meyve ağaçlarının toplam ağaçlara oranı nedir? 35 7
+2. Bir kutuda 2 kırmızı kalem, 3 mavi kalem ve 4 sarı kalem bulunmaktadır. 2
+Kırmızı kalemlerin toplam kalemlere oranı nedir? 9
+3. 5 saatte 150 km yol alan aracın gittiği yolun geçen zamana oranı nedir? ( 150 km )/(5 sa)  = 30 km/sa
+4. Bir garajda A marka otomobilden 40 tane bulunmaktadır. B marka otomobil A marka 40+10=50
+otomobilden 10 fazladır. 40 4
+A marka otomobil sayısının B marka otomobil sayısına oranı nedir? =
+İnovasyonumun Koruyucusu Patenti
+LINKS:[["EBA İnovasyon 1", "U6rD1dY"], ["EBA İnovasyon 2", "U7lGvJ9"], ["EBA Patentin Önemi", "4Rwc2A"], ["EBA Oran", "W255Sr"], ["EBA Oran/Birimli ve Birimsiz Oran", "QEta06"], ["EBA Oran Çalışma Soruları", "Zg7s0R"], ["EBA Oran Öğretmene Özel Alt Konu Testi", "3bZuHV"], ["EBA Alıştırmalar Oran", "Um8jidB"]]

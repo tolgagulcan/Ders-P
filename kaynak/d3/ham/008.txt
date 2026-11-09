@@ -1,0 +1,258 @@
+## 8. Sinif/Matematik/Geometri ve Olcme - Donusum Geometrisine Yolculuk.pdf
+SURE:3 KOD:M.8.3.2.3.
+KAV:
+Öğrenme Etkinlikleri
+1. Ders (BT Sınıfı)
+Öğretmen, etkileşimli sunum aracı ile hazırladığı Öteleme ve Yansıma sunumunu dersin başında sınıfa
+izleterek öğrencilerin dikkatini çeker. Öğrencilerin sunumda yer alan mimari eserlerdeki öteleme ve
+yansıma hareketleri hakkındaki fikirlerini alır. Öğrencilerin fikirlerini dinledikten sonra bu dönüşümlerin,
+mimaride nasıl kullanıldığını ve bu hareketlerin matematiksel açıdan nasıl açıklanabileceğini belirtir.
+Böylece öğrenciler, matematiksel dönüşümlerin gerçek dünyadaki yapılarla ilişkisini daha iyi anlar.
+Ardından öğretmen; etkileşimli tahtada dinamik matematik ve geometri aracı ile hazırlanan, öteleme
+ve yansıma içeren Örnek Soruyu açar. Öğrencilere içerikte verilen soruları sorarak onların oluşan kırmızı
+şekil hakkında akıl yürütmelerini sağlar.
+Öğretmen, öğrencilerden etkileşimli tahtada dinamik matematik ve geometri aracı kullanarak sıralı bir
+şekilde soruları cevaplamalarını ister. Ardından öğrencilerin cevaplarını değerlendirerek varsa hatalarını
+düzeltir ve doğru adımları tekrar eder. EBA’dan Ötelemeli Yansıma konu anlatım videosunu açar ve
+bir şekle ötelemeli yansıma hareketi uygulandığında ortaya çıkacak yeni şekli gösterir. Öğrencilerin
+bu süreci gözlemlemelerini sağlar. Beş sorudan oluşan çalışma kâğıdını EBA üzerinden sınıfla paylaşır
+ve soruları dinamik matematik ve geometri aracında modelleyerek öğrencilere çözdürür (Ek-1). Sınıfta
+yeterli bilgisayar varsa öğrencilerin bireysel olarak çalışmalarını, yeterli bilgisayar yoksa bilgisayar
+sayısına göre gruplar oluşturarak grup içinde sırayla soruları çözmelerini sağlar. Soruların çözümünü
+sınıfla tartışan öğretmen, rastgele seçtiği öğrencilerden soruları etkileşimli tahtada çözmelerini ister.
+Öğretmen, öğrencilerin çözümlerindeki doğru adımları tekrar eder ve anlaşılmayan noktaları açıklayarak
+konunun pekişmesini sağlar.
+Ders Sonrası
+Dersin sonunda öğretmen; EBA’da yer alan Dönüşüm Geometrisi konu testini belirlenen gün ve saate
+kadar yapmaları koşuluyla öğrencilere gönderir, süre bitiminde öğrencilerin çalışmalarının kontrolünü
+EBA üzerinden yapar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Bilgi ve iletişim teknolojileri,
+Akıl yürütme, Yorumlama, Dijital yetkinlik
+Ders Öncesi
+Öğretmen, sınıf mevcuduna göre ardışık dönüşümler etkinliğinin ve kareli kâğıdın çıktısını alarak derse
+getirir (Ek-2).
+2. ve 3. Ders (BT Sınıfı)
+Öğretmen, öğrencileri sınıftaki bilgisayar sayısına göre gruplara ayırır. Öğrencilere grup çalışmalarının
+ardından grup arkadaşlarını değerlendireceklerini belirtir ve değerlendirme formunun kriterleri hakkında
+onları bilgilendirir (Ek-3). Öğrencilerden EBA’da yer alan Ardışık Dönüşümler Sonucu Oluşan Görüntüyü
+Belirleme etkileşimli etkinliğini yapmalarını ister. Bu etkinlikte öğretmen, öğrencilerden verilen düzlemsel
+şekillerin istenen ardışık dönüşüm hareketleri sonucunda oluşan görüntülerini koordinat sistemi üzerinde
+göstermelerini veya oluşacak şeklin köşe koordinatlarını belirlemelerini istemektedir. Etkinlikte sunulan
+seçeneklere göre öğrenciler ilerlemelidir. Her seferinde yeni bir soruyla devam eden etkinlik, gruptaki
+bütün öğrenciler için tekrarlanır. Öğretmen her öğrencinin etkileşimli etkinliği tamamlamasını sağlar.
+Ardından eğlenceli bir öğrenme ortamı oluşturmak adına bir yarışma yapacaklarını söyler. EBA’dan
+Öteleme ve Yansıma öğretmene özel çalışma sorularından rastgele seçerek görsel düzenleme aracı ile
+hazırladığı Ardışık Dönüşüm Sorularını gruplara dağıtır (Ek-2). Soruları grup üyelerinin birlikte çözmesi
+gerektiğini belirtir. Oyunun sonunda en çok doğru cevabı olan grubu/grupları ödüllendirir. Öğrenciler
+grup değerlendirme formuna göre grup arkadaşlarını değerlendirir (Ek-3). Öğretmen anlaşılmayan
+noktaları tekrar eder ve dersi tamamlar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, İş birliği, Bilgi ve iletişim teknolojileri,
+Akıl yürütme, Dijital yetkinlik
+Değerlendirme Yöntemleri/Araçları
+• EBA + konu testi
+• EBA + çalışma soruları
+• EBA + etkileşimli içerik
+• Grup değerlendirme formu
+• Yansıma ve öteleme çalışma kâğıdı
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Öteleme ve Yansıma Sunumu: https://meb.ai/U5d46fM (Son erişim tarihi: 09.12.2024)
+2. Öteleme ve Yansıma-Örnek Soru: https://meb.ai/U32jYdc (Son erişim tarihi: 05.12.2024)
+3. EBA Ötelemeli Yansıma: http://meb.ai/UaAxXJO (Son erişim tarihi: 05.12.2024)
+4. EBA Dönüşüm Geometrisi Konu Testi: http://meb.ai/UFK1rbo (Son erişim tarihi: 05.12.2024)
+5. EBA Ardışık Dönüşümler Sonucu Oluşan Görüntüyü Belirleme: http://meb.ai/Q6sO0L (Son erişim tarihi:
+05.12.2024)
+6. EBA Öteleme ve Yansıma Öğretmene Özel Çalışma Soruları: http://meb.ai/B6k7QN (Son erişim tarihi:
+05.12.2024)
+7. Ardışık Dönüşüm Soruları: https://meb.ai/RoPz1F (Son erişim tarihi: 05.12.2024)
+Kaynakça
+Canva. (2024). Dönüşüm geometrisine yolculuk-ardışık dönüşümler. Son erişim tarihi 4 Aralık 2024, https://
+www.canva.com/design/DAGYUb_DFC0/4k6iKK07qLSFO5LUbUqYwQ/view?utm_content=DAGYUb_
+DFC0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+Canva. (2024). Dönüşüm geometrisine yolculuk-öteleme ve yansıma. Son erişim tarihi 9 Aralık 2024,
+https://www.canva.com/design/DAGYx5JH6Qo/L6FsQEYy40LzQb-Ysj8cPg/view?utm_content=DAGYx5JH6Qo&utm_
+campaign=designshare&utm_medium=link&utm_source=editor
+GeoGebra. (2024). Dönüşüm geometrisine yolculuk-örnek soru. Son erişim tarihi 4 Aralık 2024, https://
+www.geogebra.org/classic/qj55jd6k
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Eylül 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Yansıma ve Öteleme Çalışma Kâğıdı
+Ek-2: Ardışık Dönüşümler Etkinlik Soruları
+Ek-3: Grup Değerlendirme Formu (Öğrenci İçin)
+Ek-1
+Yansıma ve Öteleme Çalışma Kâğıdı
+Aşağıda verilen soruları okuyarak çözümlerini altlarında verilen noktalı alanlara yapınız.
+SORULAR
+1. P(3,2) noktasını 4 birim sola öteleyiniz ve ardından x eksenine göre yansıtınız.
+Oluşan yeni noktanın koordinatlarını bulunuz.
+...........................................................................................................................................................................................................................
+...........................................................................................................................................................................................................................
+2. Köşe noktaları K(1,1), L(4,1), M (4, 4) ve N(1,4) olan bir kareyi 2 birim yukarı öteleyiniz ve
+ardından y eksenine göre yansıtınız.
+Oluşan yeni karenin köşe koordinatlarını bulunuz.
+...........................................................................................................................................................................................................................
+...........................................................................................................................................................................................................................
+3. Köşe noktaları A(2,3), B(5,3) ve C(4,6) olan bir üçgeni 3 birim sağa öteleyiniz ve ardından
+x eksenine göre yansıtınız.
+Oluşan yeni üçgenin köşe koordinatlarını bulunuz.
+...........................................................................................................................................................................................................................
+...........................................................................................................................................................................................................................
+4. Köşe noktaları D(2,5), E(5,5) ve F(3,8) olan bir üçgeni 1 birim aşağı öteleyiniz ve ardından y
+eksenine göre yansıtınız.
+Oluşan yeni üçgenin köşe koordinatlarını bulunuz.
+...........................................................................................................................................................................................................................
+...........................................................................................................................................................................................................................
+5. Köşe noktaları G(0,0), H(3,0), I(3,3) ve J(0,3) olan bir kareyi 4 birim sağa öteleyiniz ve ardından
+x eksenine göre yansıtınız.
+Oluşan yeni karenin köşe koordinatlarını bulunuz.
+...........................................................................................................................................................................................................................
+...........................................................................................................................................................................................................................
+Dönüşüm Geometrisine Yolculuk
+Ek-2
+Ardışık Dönüşümler Etkinlik Soruları
+Aşağıda verilen soruları okuyarak çözümlerini noktalı kâğıt üzerinde yapınız.
+1. Aşağıda verilen koordinat sistemindeki şeklin x-eksenine göre yansıması
+altındaki görüntüsünü çiziniz.
+9
+8
+7
+G A
+6
+F
+E
+B
+D C
+-9 -8 -7 -6 -5 -4 -3 -2 -1 6 7 8 9
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+2. Aşağıda verilen koordinat sisteminde KLMN dörtgeninin y-eksenine göre
+yansıması ve ABCD karesinin x-eksenine göre yansımasının kesişiminin alanı
+kaç birimkaredir?
+9
+8
+7
+6
+K L
+N M
+-9 -8 -7 -6 -5 -4 -3 -2 -1 6 7 8 9
+-1
+-2
+-3 A B
+-4
+-5
+-6
+-7
+D C
+-8
+-9
+Ek-2
+3. Aşağıda verilen birimkareli kâğıttaki A noktası 4 br sağa, 2 br aşağı; B noktası
+aşağı öteleniyor.
+Son durumdaki noktalar birleştirildiğinde oluşan dörtgeni çiziniz ve adlandırınız.
+A
+B
+C
+D
+4. Aşağıdaki kareli kâğıtta verilen 1 ve 2 numaralı şekillerle A harfi oluşturabilmemiz
+için 2 numaralı şekli hangi yönde kaç birim ötelememiz gerekir?
+1
+2
+5. Aşağıda koordinat sisteminde verilen KLM üçgeni 3 birim yukarıya ötelenerek
+K’L’M’ üçgeni oluşturuluyor.
+K’L’M’ üçgeninin x-eksenine göre yansıması altındaki görüntüsünü çiziniz.
+9
+8
+7
+K 6
+M L
+-9 -8 -7 -6 -5 -4 -3 -2 -1 6 7 8 9
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+Ek-3
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, grup olarak yaptığınız çalışmada grup arkadaşlarınızı ayrı ayrı değerlendirmeniz için hazırlanmıştır. Arkadaşlarınızı kriterleri karşılama durumuna
+göre “Evet (E)”, “Bazen (B)”, “Hayır (H)” olacak şekilde değerlendiriniz.
+Değerlendirme Yapan Öğrenci:
+Grup Adı:
+GRUP ÜYELERİ
+KRİTERLER
+1. Grup Üyesi 2. Grup Üyesi 3. Grup Üyesi 4. Grup Üyesi
+.................................. .................................. .................................. ..................................
+Koordinatları verilen noktalara göre oluşan şekillerin öteleme hareketini
+7
+doğru şekilde gerçekleştirdi.
+Koordinatları verilen noktalara göre oluşan şekillerin yansıma hareketini
+8
+doğru şekilde gerçekleştirdi.
+GENEL DEĞERLENDİRME
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Dönüşüm Geometrisine Yolculuk
+Cevap Anahtarları
+Ek-1
+SORU CEVAPLAR
+Ek-2
+CEVAPLAR
+1. 2.
+-9 -8 -7 -6 -5 -4 -3 -2 -1 6 7 8 9 -9 -8 -7 -6 -5 -4 -3 -2 -1 6 7 8 9
+-1 -1
+-2 -2
+-3 D’ C’ -3
+B’ -4
+-4
+E’
+-5 -5
+-6 F’ -6
+-7 -7
+G’ A’ -8
+-8
+-9 -9
+3. 4. Verilen şekil 2 br yukarı, 3 br sola ötelenmelidir.
+A
+B
+C A’ B’
+D
+C’ D’
+A’B’D’C’
+5.
+9
+8
+7
+6
+-9 -8 -7 -6 -5 -4 -3 -2 -1 6 7 8 9
+-1
+-2
+-3
+M’ L’ -4
+-5
+-6
+-7
+-8
+-9
+K’
+Dönüşüm Geometrisine Yolculu
+LINKS:[["Öteleme ve Yansıma Sunumu", "U5d46fM"], ["Öteleme ve Yansıma-Örnek Soru", "U32jYdc"], ["EBA Ötelemeli Yansıma", "UaAxXJO"], ["EBA Dönüşüm Geometrisi Konu Testi", "UFK1rbo"], ["EBA Ardışık Dönüşümler Sonucu Oluşan Görüntüyü Belirleme", "Q6sO0L"], ["EBA Öteleme ve Yansıma Öğretmene Özel Çalışma Soruları", "B6k7QN"], ["Ardışık Dönüşüm Soruları", "RoPz1F"]]

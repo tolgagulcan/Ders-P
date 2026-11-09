@@ -1,0 +1,178 @@
+[
+ {
+  "id": 99,
+  "unite": "Geometrik Şekiller",
+  "ad": "Açılar Benden Kaçamaz",
+  "ozet": "Açı çeşitleri (dar, dik, geniş, doğru, tam) bahçe oyunu, dijital çizim, istasyon etkinliği ve EBA'daki 3D açı materyaliyle pekiştirilir.",
+  "ozu": "<p>0°–90° arası dar, 90° dik, 90°–180° arası geniş, 180° doğru, 360° tam açıdır. Açılar açıölçerle ölçülür ve çizilir.</p>",
+  "dersler": [
+   [
+    "Açı oyunu (bahçe)",
+    "Öğrenciler daire olur, her birine bir açı çeşidi verilir. Ebe bir açı ölçüsü söyler (ör. 65°); o açı çeşidindeki öğrenciler yer değiştirir, ebe boşta kalan yere geçmeye çalışır."
+   ],
+   [
+    "Dijital açı çizimi",
+    "Öğrenciler şekil-çizim aracında, içindeki açıölçeri kullanarak her açı çeşidine bir örnek çizer; gruptaki herkes farklı bir açı çizer, öğretmen geri bildirim verir."
+   ],
+   [
+    "Açı istasyonları",
+    "Üç masa kurulur: zihin haritası, açı temalı resim ve “açı dedektifi” rozeti tasarımı. Gruplar 10'ar dakikada masa değiştirir, ürünler panoya asılır."
+   ],
+   [
+    "3D açı materyali",
+    "EBA'daki Açılar Materyali 3D videoları izlenir; parçalarla 75°, 105°, 135° gibi hangi açıların oluşturulabileceği tartışılır. Gruplar benzer materyali dinamik geometri aracında tasarlar ve etkinlik kâğıdını doldurur."
+   ],
+   [
+    "Sunum ve açıölçer",
+    "Gruplar materyallerini tanıtır; en çok açı oluşturan grup rozeti kazanır. Öğrenciler defterlerine açıölçerle her açı çeşidinden birer tane çizer; EBA alt konu testiyle biter."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, açıölçer, cetvel"
+ },
+ {
+  "id": 101,
+  "unite": "Geometrik Şekiller",
+  "ad": "Doğrulardan Açılara",
+  "ozet": "Türkiye haritası üzerindeki çizimlerden yola çıkarak paralel, dik ve kesişen doğrular ile tümler, bütünler ve ters açılar keşfedilir.",
+  "ozu": "<p>İki doğru paralel, dik ya da kesişen olabilir. Toplamı 90° olan açılar tümler, 180° olanlar bütünlerdir. Kesişen iki doğrunun oluşturduğu karşılıklı (ters) açılar eşittir.</p>",
+  "dersler": [
+   [
+    "Harita üzerinde çizim",
+    "Ders kitabındaki Türkiye ve komşuları haritası üzerinde cetvel ve açıölçerle çizim etkinliği yapılır. 4'erli gruplar oluşan şekiller ve açılar hakkında varsayımlarını dijital panoya yazar."
+   ],
+   [
+    "Dinamik geometriyle anlatım",
+    "Öğretmen dinamik geometri aracında tümler-bütünler açıları ve paralel iki doğrunun kesenle yaptığı açıları gösterir; öğrenciler önceki çizimlerini araçla karşılaştırır."
+   ],
+   [
+    "Gruplar uygulama yapar",
+    "Her grup dinamik geometri aracında paralel/dik doğruları ve tümler, bütünler, ters açıları gösteren bir uygulama hazırlar, bağlantısını panoya ekler. Son 10 dakikada yansıtıcı günlük doldurulur."
+   ],
+   [
+    "Etkinlik zamanı",
+    "Tahtadaki “Etkinlik Zamanı” soruları gönüllülerle çözülür. Gruplar panodaki varsayımlarını gözden geçirip her öğrenci bir önerme yazar. Ödev: grup sunumu hazırlamak."
+   ],
+   [
+    "Sunumlar ve değerlendirme",
+    "Gruplar sunumlarını yapar; grup değerlendirme formu ve öğretmen kontrol listesi doldurulur, geri bildirim verilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, cetvel, açıölçer, ders kitabındaki harita"
+ },
+ {
+  "id": 102,
+  "unite": "Geometrik Şekiller",
+  "ad": "Göllerimizdeki Çokgenler",
+  "ozet": "Türkiye'deki göller oluşumlarına göre haritada işaretlenir, aynı tür göller birleştirilerek çokgenler oluşturulur; öğrenciler 3D tasarımla çokgen kurabiye kalıbı yapar.",
+  "ozu": "<p>Doğru parçalarıyla çevrelenmiş kapalı şekillere çokgen denir; kenar sayısına göre üçgen, dörtgen, beşgen… diye adlandırılır.</p>",
+  "dersler": [
+   [
+    "Türkiye'nin gölleri",
+    "EBA'dan Göller videosu izlenir; göller tektonik, karstik, volkanik, buzul diye sınıflandırılır. Öğrenciler etkinlik kâğıdındaki haritada gölleri türüne göre renklendirir."
+   ],
+   [
+    "Göllerden çokgenler",
+    "Aynı renkteki göller doğrularla birleştirilip en fazla yedi kenarlı çokgenler oluşturulur; gruplar bulduklarını karşılaştırır."
+   ],
+   [
+    "3D çokgen tasarımı",
+    "Her grup 3D model aracında içi boş bir çokgen tasarlayıp sunar ve EBA'da paylaşır. Oylamayla seçilen üç çokgenden kurabiye kalıbı yapılır."
+   ],
+   [
+    "Dinamik geometride çokgenler",
+    "Öğrenciler sırayla dinamik geometri aracında birer çokgen çizip adını ve kendi adını yazar; öğretmen anlık geri bildirim verir."
+   ],
+   [
+    "Bahçede kapanış",
+    "Bahçede çember olup “Kapalı Şekiller” oyunu oynanır; kalıplarla yapılan kurabiyeler paylaşılır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, cetvel, Türkiye'nin Gölleri etkinlik kâğıdı çıktısı"
+ },
+ {
+  "id": 103,
+  "unite": "Geometrik Şekiller",
+  "ad": "Şekillerin Büyüsü: Geometrik Keşifler",
+  "ozet": "Platonik cisimler üzerinden düzgün çokgenler keşfedilir; köşegenler, üçgen çeşitleri ve üçgenin iç açıları toplamı incelenir.",
+  "ozu": "<p>Tüm kenarları ve tüm açıları eşit olan çokgen düzgün çokgendir. Üçgenler kenarlarına (çeşitkenar, ikizkenar, eşkenar) ve açılarına (dar, dik, geniş açılı) göre sınıflandırılır; iç açıları toplamı 180°'dir.</p>",
+  "dersler": [
+   [
+    "Platonik cisimler ve düzgün çokgenler",
+    "Platon sunumu izlenir, gruplar masadaki platonik cisimlerin yüz, kenar ve köşe sayılarını tabloya yazar. Çalışma kâğıdındaki çokgenlerin kenar ve açıları ölçülerek düzgün çokgen kavramına ulaşılır; EBA'daki 3D modeller incelenir. Ödev: çokgenler konulu dijital sunum.",
+    "1-2"
+   ],
+   [
+    "Köşegenler",
+    "A4 kâğıtla köşegen etkinliği yapılır; kenar sayısı arttıkça köşegen sayısının nasıl değiştiği tartışılır ve dinamik geometri uygulamasında gösterilir."
+   ],
+   [
+    "Üçgen çeşitleri",
+    "EBA'daki etkileşimli Üçgen Çeşitleri etkinliğinde öğrenciler kenar ve açıları değiştirip üçgenin adının nasıl değiştiğini gözlemler."
+   ],
+   [
+    "Üçgenin iç açıları",
+    "Doğa yürüyüşü rotası problemiyle başlanır: “Her köşede kaç derece dönmeli?” EBA içeriğiyle üçgenin iç açıları toplamının 180° olduğu keşfedilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, cetvel, açıölçer, platonik cisim seti, A4 kâğıt"
+ },
+ {
+  "id": 104,
+  "unite": "Geometrik Şekiller",
+  "ad": "Temel Geometrik İnşalar",
+  "ozet": "Doğru, ışın, doğru parçası, dikme ve paralel kavramları sudoku oyunu, Öklid'in tarihi ve cetvel-gönye-pergelle çizimlerle öğrenilir.",
+  "ozu": "<p>Doğru iki yönde sonsuz, ışın tek yönde sonsuz, doğru parçası iki ucu belli çizgidir. Bir noktadan doğruya en kısa uzaklık dikmedir. Paralel doğrular hiç kesişmez. Bu çizimler ölçüsüz cetvel, gönye ve pergelle yapılır.</p>",
+  "dersler": [
+   [
+    "Geometrik sudoku",
+    "Ders öncesi 6x6 sudoku oynatılır. Derste geometrik sembollerle hazırlanmış sudoku çözülür, temel çizimler (doğru, ışın, doğru parçası) gösterilir.",
+    "1-2"
+   ],
+   [
+    "Öklid ve Elemanlar",
+    "“Bir matematik kitabının ömrü ne kadar olabilir?” sorusuyla Öklid ve Elemanlar kitabı anlatılır. Gruplar matematiğin zaman çizelgesinde Öklid'in aksiyomlarını inceler; EBA'dan dikme ve paralel doğru içerikleri izlenir."
+   ],
+   [
+    "Çalışma kâğıdı",
+    "Gruplar ölçüsüz cetvel, gönye ve pergelle çalışma kâğıdındaki çizim sorularını çözer; öğretmen rehberlik eder."
+   ],
+   [
+    "Dinamik geometride sanat",
+    "Öğrenciler dinamik geometri aracında yönergeye göre çizimler yapar, geometrik şekillerle sanatsal tasarımlar oluşturup EBA'da paylaşır; grup değerlendirme formu doldurulur."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, ölçüsüz cetvel, gönye, pergel, sudoku çıktıları"
+ },
+ {
+  "id": 105,
+  "unite": "İşlemlerle Cebirsel Düşünme",
+  "ad": "Algoritmaların Dünyasına Yolculuk",
+  "ozet": "Bahçedeki “robot” oyunuyla başlayıp günlük işlerden algoritma, sözde kod ve akış şeması yazmaya, basit bir oyun kodlamaya kadar algoritmik düşünme geliştirilir.",
+  "ozu": "<p>Algoritma, bir işi yapmak için sıralı ve açık adımlardır; sıra yanlışsa sonuç da yanlış olur. Algoritmalar doğal dille, sözde kodla ya da akış şemasıyla gösterilebilir.</p>",
+  "dersler": [
+   [
+    "Robot oyunu (bahçe)",
+    "Öğretmen bazı öğrencilere yanlış sıralı komutlar verir, hedefe ulaşamazlar. Ardından gruplar parkurda bir arkadaşlarını “robot” gibi doğru komutlarla hedefe götürür ve komutlarını kâğıda yazar."
+   ],
+   [
+    "Günlük hayatta algoritma",
+    "ATM'de işlem sırası örneğiyle sıralamanın önemi tartışılır; algoritma kavramı anlatılır, algoritma çalışma kâğıdı yapılır."
+   ],
+   [
+    "Oyun tasarlama",
+    "Akış şeması eşleştirme etkinliği yapılır. Öğretmenin kodladığı basketbol oyunu oynanıp kodları incelenir; gruplar kendi temalarıyla basit bir oyun kodlayıp birbirlerinin oyunlarını test eder. Ödev: algoritma soruları."
+   ],
+   [
+    "Algoritma istasyonları",
+    "EBA Algoritma Oyunları ile tekrar yapılır. İstasyonlarda gruplar günlük bir işi (çay demleme gibi) adım adım yazar, sözde koda çevirir, akış şemasını çizer ve kodlama aracında test eder. Öz değerlendirme formu doldurulur.",
+    "4-5"
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, bahçede parkur, kâğıt",
+  "link_ders": {
+   "6": 4,
+   "7": 4,
+   "8": 4
+  }
+ }
+]

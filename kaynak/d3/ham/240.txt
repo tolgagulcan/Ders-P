@@ -1,0 +1,157 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Zaviyeden Aciya.pdf
+SURE:5 KOD:M.6.3.1.1. M.6.3.1.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, görsel düzenleme aracı ile Osmanlı Türkçesinde üçgenin alan formülü olan “Bir müsellesin
+mesaha-i sathiyesi, kaidesiyle irtifaının hasılı darbının nısfına müsavidir.” cümlesinin yer aldığı bir Yapboz
+hazırlar. Yapboz, ders süresi dikkate alınarak sayısı 20-40 parça arası seçilmelidir.
+Ders 1 (BT Sınıfı)
+Öğretmen, öğrencilerde merak uyandırmak amacıyla yapboz oyununu etkileşimli tahtada açarak
+derse başlar. Sınıf mevcudunu göz önünde bulundurarak öğrencilerin her birine parçaları doğru yerlere
+yerleştirmeleri için 1-3 dakika arası süre vereceğini söyler. Sırası gelen öğrenciden bu süre içerisinde
+parçaları birleştirmesini ister. Tahtadaki öğrencinin süresi tamamlandığında sırası gelen diğer öğrenci
+tahtaya kalkar ve arkadaşının kaldığı yerden etkinliği yapmaya devam eder. Etkinlik tamamlandıktan
+sonra öğretmen, öğrencilere “Bu cümle matematik dersindeki bir konudan bahsediyor, sizce bu hangi
+konu ile ilgili olabilir?” sorusunu sorar ve öğrencilerden cevaplarını dijital pano ya da post-it oluşturma
+aracı ile belirtmelerini ister. Öğrencilerin cevapları sınıfça incelendikten sonra öğretmen, öğrencilere
+cümlede üçgenin alan formülünün verildiğini söyler. Günümüzde kullandığımız birçok matematik teriminin
+Atatürk’ün yapmış olduğu düzenlemeler sonucunda Türkçeye kazandırıldığını ve böylece matematik
+dersi konularını anlamanın kolaylaştığını belirtir. Atatürk’ün Türkçeye kazandırmış olduğu kelimelerin
+Geometri isimli kitapta bir araya getirildiğini öğrencilere söyler ve “Matematik Terimlerini Türkçeleştirme
+Hareketleri” isimli Tezin 97. sayfasını etkileşimli tahtada açarak bu sayfadaki bilgileri okur.
+Ardından öğrencilere EBA’da bulunan Atatürk ve Matematik videosunu izletir. Videoda yer alan “zaviye”
+kelimesinin ne demek olduğunu öğrencilere sorar ve öğrencilerden “açı” cevabını söylemelerini bekler
+(Cevabın gelmemesi durumunda video tekrar izletilebilir.). Açı cevabının gelmesinden sonra öğretmen
+“Bugünkü dersimizde açı konusunu öğreneceğiz.” diyerek EBA’da yer alan Açı videosunu öğrencilere
+izletir ve video içerisinde yer alan soruları videoyu durdurarak öğrencilere sorar. Cevap vermeye istekli
+öğrencilerin cevapları dinlenir. Cevapların doğru olup olmamasına göre öğrencilere gerekli geri bildirimler
+verir.
+Dersin sonunda öğretmen öğrencilere bir sonraki derste kullanmak üzere cetvel, pergel ve açıölçer
+getirmelerini söyler.
+Ödev
+Öğretmen, öğrencileri EBA’da yer alan Eş Açılar videosunu izlemeleri için ödevlendirir ve EBA’dan ödev
+takibini yapar.
+İlgili Yetkinlikler/Beceriler: Sorgulama ve düşünme, İş birliği, Eleştirel düşünme, Karar verme,
+Dijital yeterlilik
+Ders 2 (Sınıf)
+Öğretmen, etkileşimli tahtadan Pergel Kullanarak Verilen Bir Açıya Eş Bir Açı Çizme ve Açıölçer Kullanarak
+Verilen Bir Açıya Eş Bir Açı Çizme adlı videoları öğrencilere izletir. Öğrencileri iki gruba ayırır. Pergelleri
+birinci gruba, açıölçerleri ikinci gruba verir. Tahtaya bir açı çizer ve bu açıya eş bir açıyı birinci gruptaki
+öğrencilerden pergel, ikinci gruptaki öğrencilerden ise açıölçer kullanarak çizmelerini ister. Öğrencilerin
+çizdiği açıları kontrol ederek çizimde zorluk yaşayanlara öğretmen rehberlik eder. Her öğrencinin
+çizimini kontrol edip gerekli geri bildirimleri verdikten sonra gruplardan malzemelerini değiştirmelerini
+ister. Öğretmen, tahtaya başka bir açı çizer ve öğrencilerden bu açıya eş bir açı çizmelerini ister. Etkinlik
+esnasında öğrencilerin çizimlerini kontrol eder ve hatalı çizimlerde onlara anında geri bildirim verir.
+İlgili Yetkinlikler/Beceriler: İş birliği, Akıl yürütme, Matematiksel süreç becerileri, İletişim
+Ders Öncesi
+Öğretmen, EBA’da yer alan “Sınavlarım” sekmesini kullanarak öğrencilerinin seviyesine uygun gördüğü
+sorulardan oluşan 20 soruluk bir sınav hazırlar.
+Ders 3 (Sınıf)
+Öğretmen, EBA platformunda yer alan Eş Açılar etkinliğini öğrencilerin tamamlamasını ister ve öğrencileri
+bu süreçte gözlemler.
+Öğretmen, kalan süreyi göz önünde bulundurarak ders öncesinde hazırladığı soruları etkileşimli tahtada
+açar ve öğrencilere sırasıyla çözdürür. Sınıf yönetimi aracından rastgele seçilen öğrencilerin soruları
+cevaplandırmaları sağlanır. Her bir soru için yeterli süre verdikten sonra sorular etkileşimli tahtada
+istekli öğrenciler tarafından cevaplandırılır. Soruların tamamı ders süresi içerisinde cevaplandırılamaz
+ise öğretmen, soruları EBA’dan öğrencilere gönderir ve ödev kontrolünü gerçekleştirir.
+İlgili Yetkinlikler/Beceriler: Sorgulama ve düşünme, Akıl yürütme, Sorumluluk
+Ders 4 (BT Sınıfı)
+Öğretmen öğrencileri sınıf mevcuduna göre 2-5 kişilik gruplara ayırır. Her gruba bir bilgisayar verir.
+Gruplardaki öğrencilerden dinamik matematik ve geometri araçlarını kullanarak birer dar, dik ve geniş
+açı oluşturmalarını ister. Gruplar açılarını oluşturduktan sonra her gruptan yanındaki grubun etkinliğini
+incelemesini ve yanlışları varsa bunu akran değerlendirme formu ile arkadaşlarına bildirmesini ister
+(Ek-1). Ardından gruptaki öğrencilerden çizdikleri açılara eş bir açı oluşturmalarını ister. Aynı gruptaki
+öğrencilerin birbirleriyle yardımlaşmalarını teşvik eder. Böylece akran öğretimi ile öğrenmede kalıcılığı
+artırır.
+İlgili Yetkinlikler/Beceriler: İş birliği, İletişim, Yaratıcılık, Dijital yeterlilik
+Ders öncesi
+Öğretmen, anlık geri bildirim sağlayan web aracını kullanarak çoktan seçmeli 10 sorudan oluşan bir
+yarışma etkinliği hazırlar. Yarışma için kullanılabilecek örnek üç soru verilmiştir (Ek-2).
+Ders 5 (BT Sınıfı)
+Öğretmen, EBA platformunda yer alan Açı Kavramı ve Eş Açılar adlı alıştırmayı ve Açı Kavramı ve Eş Açılar
+adlı alt konu testini öğrencilerin cevaplamasını sağlar.
+Öğrencileri 3-6 kişilik gruplara ayırır ve her grubun bir bilgisayarı olacak şekilde sınıfta düzenleme
+yapar. Öğretmen, anlık geri bildirim sağlayan web aracı ile hazırladığı etkinliği uygulayarak öğrencilerin
+öğrenmelerini pekiştirir. Eksik veya yanlış öğrenmesi olan öğrenciler var ise geri bildirimlerle öğrenmelerini
+tamamlar.
+İlgili Yetkinlikler/Beceriler: Akıl yürütme, Karar verme, Sorgulama ve düşünme
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + alt konu testi
+• Anlık geri bildirim sağlayan web araçları
+• Akran değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Yapboz Etkinlik Örneği: http://meb.ai/Ue1vYu0 (Son erişim tarihi: 14.08.2024)
+2. EBA Atatürk ve Matematik: http://meb.ai/UxglFUZ (Son erişim tarihi: 09.05.2024)
+3. EBA Açı: http://meb.ai/XouifQ (Son erişim tarihi: 09.05.2024)
+4. EBA Eş Açılar: http://meb.ai/Q4bGJP (Son erişim tarihi: 09.05.2024)
+5. EBA Pergel Kullanarak Verilen Bir Açıya Eş Bir Açı Çizme: http://meb.ai/UjJO2nL (Son erişim tarihi:
+09.05.2024)
+6. EBA Açıölçer Kullanarak Verilen Bir Açıya Eş Bir Açı Çizme: http://meb.ai/UqFTy87 (Son erişim tarihi:
+09.05.2024)
+7. EBA Eş Açılar Etkinlik Örneği: http://meb.ai/o8M7sg (Son erişim tarihi: 09.05.2024)
+8. EBA Alıştırmalar/Açı Kavramı ve Eş Açılar: http://meb.ai/UoBtXci (Son erişim tarihi: 09.05.2024)
+9. EBA Alt Konu Testi/Açılar: http://meb.ai/U4Ebbdb (Son erişim tarihi: 09.05.2024)
+Kaynakça
+Canva. (2024). www.canva.com
+Güngör, B. (2013). Matematik Terimlerini Türkçeleştirme Hareketleri. Yüksek lisans tezi. İstanbul Üniversitesi
+Sosyal Bilimler Enstitüsü. Son erişim tarihi 14 Ağustos 2024, https://nek.istanbul.edu.tr/ekos/TEZ/51279.pdf
+Jigsaw Planet. (2024). Zaviyeden açıya-yapboz. Son erişim tarihi 14 Ağustos 2024, https://www.jigsawplanet.
+com/?rc=play&pid=33ab308d6b0c
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 28 Ağustos 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Akran Değerlendirme Formu
+Ek-2: Anlık Geri Bildirim Sağlayan Araçta Yer Verilecek Örnek Sorular ve Cevapları
+EK-1
+Akran Değerlendirme Formu
+Arkadaşlarınızın etkinliğini inceleyerek formu doldurunuz. Arkadaşlarınız etkinlikte belirtilen açının özelliğini doğru yapmış ise “+”, yanlış yapmışsa veya
+yapmamışsa “-” koyunuz.
+Grup Adı:
+KRİTERLER
+AÇILAR
+Açının köşe noktası doğru Açının isimlendirmesi doğru
+Açının kolları doğru çizilmiş Açının ölçüsü doğru belirtilmiş
+belirtilmiş yapılmış
+Dar Açı
+Dik Açı
+Geniş Açı
+(Bu form, teknoloji odaklı öğrenme senaryoları içerik geliştiricisi tarafından hazırlanmıştır.)
+Zaviyeden Açıya
+EK-2
+Anlık Geri Bildirim Sağlayan Araçta Yer Verilecek
+Örnek Sorular ve Cevapları
+Açıklama: Öğretmen, aşağıda verilen örnek soruları çeşitlendirerek anlık geri bildirim sağlayan web
+araçlarından birinde içeriği hazırlayabilir.
+1. Dik açıdan 42° küçük olan açı aşağıdakilerden hangisidir?
+A) 38°
+B) 48°
+C) 128°
+D) 138°
+Doğru Cevap: B
+2. İki eş açının toplamı 120° olduğuna göre, bu açılardan birinin ölçüsü kaç derecedir?
+A) 60
+B) 50
+C) 40
+D) 30
+Doğru Cevap: A
+3. Aşağıdaki kareli kâğıtta verilen KLM açısına eş bir açı çizilecektir.
+Buna göre çizilecek açının ismi aşağıdakilerden hangisi olabilir?
+A) ABC açısı
+B) ADE açısı
+C) BDE açısı
+D) CDE açısı
+Doğru Cevap: D
+Zaviyeden Açıy
+LINKS:[["Yapboz Etkinlik Örneği", "Ue1vYu0"], ["EBA Atatürk ve Matematik", "UxglFUZ"], ["EBA Açı", "XouifQ"], ["EBA Eş Açılar", "Q4bGJP"], ["EBA Pergel Kullanarak Verilen Bir Açıya Eş Bir Açı Çizme", "UjJO2nL"], ["EBA Açıölçer Kullanarak Verilen Bir Açıya Eş Bir Açı Çizme", "UqFTy87"], ["EBA Eş Açılar Etkinlik Örneği", "o8M7sg"], ["EBA Alıştırmalar/Açı Kavramı ve Eş Açılar", "UoBtXci"], ["EBA Alt Konu Testi/Açılar", "U4Ebbdb"]]

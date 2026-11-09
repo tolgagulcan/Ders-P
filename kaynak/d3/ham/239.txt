@@ -1,0 +1,110 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Ulkemize Nefes Olalim.pdf
+SURE:3 KOD:M.6.3.2.5.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 (BT Sınıfı)
+UNESCO Türkiye Millî Komisyonunun web sitesinde yayımlanan ülkemizde gerçekleşen orman yangınları
+ile ilgili basın açıklaması okunarak derse başlanır. Metnin okunmasından sonra öğretmen, öğrencilere
+“Sizce orman yangınlarından sonra ormanlarımızı geri kazanmak için neler yapabiliriz?” sorusunu sorar
+ve bağlantısını paylaştığı dijital pano ya da post-it oluşturma aracını kullanarak fikirlerini yazmalarını
+öğrencilerden ister. Elde edilen fikirler sonucunda doğaya faydalı olmak için okul bahçesinde ağaç
+dikme etkinliği yapabileceklerini söyler. Çalışmalarında kullanmak üzere EBA’da yer alan Çokgensel
+Bölgelerin Alanları videosunu öğrencilerine izletir. Video içerisindeki etkileşimli etkinlikler istekli öğrenciler
+ile birlikte etkileşimli tahtada yapılır. Video tamamlandıktan sonra öğretmen, Çokgensel Bölgelerin Alanını
+Hesaplama ve Düzlemsel Bölgelerin Alanları ile İlgili Problem Çözme etkileşimli içeriklerde yer alan soruları
+istekli öğrencilerin cevaplandırmalarını sağlar.
+Öğretmen, öğrencileri sınıf mevcuduna göre 5-8 kişilik gruplara ayırır. Her gruptan bir sonraki derse
+kadar okul bahçesinde ağaç dikimi için en uygun yeri belirlemelerini ister. Belirledikleri yerin alanını
+bulmalarını ve bir fidanın kaç metrekarelik alana dikilmesi gerektiğini araştırmalarını, bu araştırmaların
+sonucunda elde ettikleri bilgileri etkileşimli sunum aracında hazırlamalarını ister. Sunum sonrasında grup
+değerlendirme formu ile öğrencileri değerlendireceğini söyler ve öğrencilere değerlendirme kriterleri
+hakkında bilgi verir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Dijital yeterlilik, İş birliği
+Ders Öncesi
+Öğretmen Alan Ölçme 1 ve 2 Kazanım Kavrama Testlerindeki kazanım kavrama soruları ile anlık geri
+bildirim sağlayan web aracı kullanarak Yarışma hazırlar. Grup değerlendirme formunu grup sayısı kadar
+çoğaltır.
+Ders 2 (BT Sınıfı)
+Öğretmen, gruplardan sunum yapması için bir arkadaşlarını seçmelerini ister. Seçilen öğrenciler, sırayla
+tahtaya kalkarak sunumlarını yapar. Öğretmen, grup çalışmaları boyunca öğrencileri gözlemler ve
+gruplar sunumlarını yaparken grup değerlendirme formunu doldurarak değerlendirme yapar (Ek-1).
+Değerlendirme sonuçlarını öğrenciler ile paylaşarak süreçten haberdar olmalarını sağlar. Değerlendirme
+sonucu en yüksek puanı alan grubun belirlemiş olduğu fidan sayısı kadar fidanı okul idaresinden talep
+eder ve sene boyunca fidanların bakımını yapmaları için bütün gruplardan öğrenciler görevlendirir.
+Öğretmen, anlık geri bildirim sağlayan web aracında hazırlamış olduğu yarışmayı uygular.
+İlgili Yetkinlikler/Beceriler: Sorumluluk, İş birliği, İletişim, Dijital yeterlilik
+Ders öncesi hazırlık
+Öğretmen, EBA’da yer alan “Sınavlarım” sekmesini kullanarak öğrencilerinin seviyesine uygun gördüğü
+soruları seçer ve 20 soruluk bir sınav olarak Alan Ölçme çalışmasını hazırlar.
+Ders 3 (Sınıf)
+Öğretmen, EBA’da yer alan Alan Problemleri testini etkileşimli tahtada açar ve sırayla öğrencilerin soruları
+cevaplandırmalarını sağlar. Tahtada açılan soruyu cevaplandıramayan öğrenci olursa istekli öğrencilere
+söz hakkı vererek öğrencilerin tahtada çözümü bulmasını sağlar. Tüm sorular cevaplandırıldıktan sonra
+öğretmen, dersin bitmesine kalan süreyi göz önünde bulundurarak hazırlamış olduğu Alan Ölçme soruları
+sırasıyla öğrencilerine sorar. Soruların tamamı ders süresi içerisinde cevaplandırılamaz ise öğretmen,
+soruları EBA üzerinden öğrencilere gönderir ve ödev kontrolünü gerçekleştirir.
+İlgili Yetkinlikler/Beceriler: Eleştirel düşünme, Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + alt konu testi
+• EBA + konu testi
+• EBA + etkileşimli içerikler
+• Anlık geri bildirim sağlayan web araçları
+• Öğretmen grup değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Çokgensel Bölgelerin Alanları: http://meb.ai/biuAvl (Son erişim tarihi: 09.05.2024)
+2. EBA Çokgensel Bölgelerin Alanını Hesaplama: http://meb.ai/UmlmGhz (Son erişim tarihi: 09.05.2024)
+3. EBA Düzlemsel Bölgelerin Alanları ile İlgili Problem Çözme: http://meb.ai/Uwg0ZSK (Son erişim tarihi:
+09.05.2024)
+4. Meb Kazanım Kavrama Testi: http://meb.ai/UZXlOvk (Son erişim tarihi: 09.05.2024)
+5. Yarışma: http://meb.ai/U4rA6wJ (Son erişim tarihi: 09.05.2024)
+6. EBA Alan Ölçme Sınavlarım: http://meb.ai/UTCd1V9 (Son erişim tarihi: 09.05.2024)
+7. EBA Alan Problemleri: http://meb.ai/UaMzDy9 (Son erişim tarihi: 09.05.2024)
+Kaynakça
+Kahoot!. (2024). Ülkemize nefes olalım-alan ölçme problemleri. Son erişim tarihi 9 Eylül 2024, https://
+create.kahoot.it/share/alan-olcme-problemleri/c9e5a463-0c23-4ab8-bb73-3465db77439d
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı (2023). 6. sınıf matematik kazanım testleri. Ölçme, Değerlendirme ve Sınav Hizmetleri
+Genel Müdürlüğü. https://odsgm.meb.gov.tr/www/6-sinif-kazanim-testleri/icerik/850
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+UNESCO Türkiye Millî Komisyonu. (2021). Orman yangınları ve can kayıplarımız ile ilgili basın açıklaması.
+Son erişim tarihi 28 Ağustos 2024, https://www.unesco.org.tr/Home/AnnouncementDetail/5793
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Öğretmen Grup Değerlendirme Formu
+EK-1
+Öğretmen Grup Değerlendirme Formu
+Bu form, öğretmenin grupların sunumlarını değerlendirmek üzere hazırlanmıştır. Verilen kriterlerde “3:
+Çok iyi, 2: Yeterli, 1: Geliştirilebilir” olacak şekilde grupları değerlendiriniz. Verdiğiniz puanın gerekçesini
+açıklama kısmına yazabilirsiniz.
+Grup Adı:
+Grup Üyeleri:
+DEĞERLENDİRME
+KRİTERLER AÇIKLAMA
+PUANI
+Grubun okul bahçesinde belirlediği yer ağaç dikimi
+için uygundur.
+Grup, belirlediği bölgenin alanını doğru hesaplamıştır.
+Bir fidanın dikimi için gerekli alan ve hakkında yapılan
+araştırmalar yeterlidir.
+Araştırmalar sonucunda belirlenen alana kaç tane fi-
+dan dikilebileceği doğru bir şekilde bulunmuştur.
+Gruptaki öğrenciler verilen görevleri yerine getirmiştir.
+Grup, çalışmalarını iletişim ve iş birliği içerisinde yap-
+mıştır.
+Sunumda açık ve anlaşılır bir dil kullanılmıştır.
+Sunumda kullanılan görseller konuya uygundur.
+TOPLAM PUAN
+Bu formdan alınabilecek toplam puan en fazla 24 iken, en az 8’dir.
+(Form, Teknoloji Odaklı Öğrenme Senaryoları Projesi senaryo geliştirme ekibinde yer alan senaryo yazarı
+tarafından hazırlanmıştır.)
+Ülkemize Nefes Olalı
+LINKS:[["EBA Çokgensel Bölgelerin Alanları", "biuAvl"], ["EBA Çokgensel Bölgelerin Alanını Hesaplama", "UmlmGhz"], ["EBA Düzlemsel Bölgelerin Alanları ile İlgili Problem Çözme", "Uwg0ZSK"], ["Meb Kazanım Kavrama Testi", "UZXlOvk"], ["Yarışma", "U4rA6wJ"], ["EBA Alan Ölçme Sınavlarım", "UTCd1V9"], ["EBA Alan Problemleri", "UaMzDy9"]]

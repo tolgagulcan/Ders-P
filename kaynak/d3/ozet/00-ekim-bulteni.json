@@ -1,0 +1,248 @@
+[
+ {
+  "id": 100,
+  "unite": "Geometrik Şekiller",
+  "ad": "Çemberden Üçgene",
+  "ozet": "Öğrenciler, kesişen iki çemberin merkezlerinden ve bir kesişim noktasından eşkenar, ikizkenar ve çeşitkenar üçgen oluşturmayı keşfeder.",
+  "ozu": "<p>İki çember iki noktada kesiştiğinde, iki merkez ve kesişim noktalarından biri birleştirilince bir üçgen oluşur. Kenarlar yarıçaplara eşittir; üçgenin türü çemberlerin nasıl çizildiğine bağlıdır. Böylece cetvelle ölçmeden, sadece pergelle istenen türde üçgen çizilebilir.</p> <table><tr><th>Çemberler</th><th>Oluşan üçgen</th></tr> <tr><td>Yarıçaplar eşit, biri diğerinin merkezinden geçiyor</td><td><b>Eşkenar</b></td></tr> <tr><td>Yarıçaplar eşit, merkezlerden geçmiyor</td><td><b>İkizkenar</b></td></tr> <tr><td>Yarıçaplar farklı, biri diğerinin merkezinden geçiyor</td><td><b>İkizkenar</b></td></tr> <tr><td>Yarıçaplar farklı, merkezlerden geçmiyor</td><td><b>Çeşitkenar</b></td></tr></table>",
+  "dersler": [
+   [
+    "Çemberle ısınma",
+    "Sınıf 6–7 kişilik gruplara ayrılır, her grup bahçede el ele tutuşup çember olur. Önce kelime zinciri oynanır: her öğrenci bir öncekinin son harfiyle yeni kelime söyler. Öğretmen sorar: “Kelimeden yeni kelimeler türettik; bir şekilden yeni şekiller türetebilir miyiz?” İki grup kesişen iki çember kurar, öğrenciler bu yapıdan hangi şekillerin çıkabileceğini tartışır."
+   ],
+   [
+    "Çemberli logolar",
+    "Akıllı tahtada çemberlerle yapılmış marka logoları gösterilir; çemberin bayraklardan otomobil tasarımına kadar her yerde kullanıldığı anlatılır. Her öğrenci çevrim içi bir logo aracıyla çemberlerden kendi logosunu tasarlar, logolar tahtada birlikte incelenir."
+   ],
+   [
+    "GeoGebra'da keşif",
+    "“Her türlü üçgen çemberlerle çizilebilir mi?” sorusuna öğrenciler Evet/Hayır deyip gerekçe söyler. Öğretmen dinamik geometri aracında 4 adımı gösterir: birinci çemberi çiz → onu kesen ikinci çemberi çiz → kesişim noktalarını işaretle → iki merkez ve bir kesişim noktasıyla üçgen oluştur. 4'erli gruplarda her öğrenci bir adımı yapar, grup üçgenin türünü tahmin eder; öğretmen kenar uzunluklarını göstererek kontrol eder. Yukarıdaki tablonun doldurulduğu etkinlik kâğıdıyla biter."
+   ],
+   [
+    "“Bu Üçgen Kimin?” istasyon etkinliği",
+    "Sınıfta Eşkenar, İkizkenar ve Çeşitkenar adlı üç masa kurulur. Gruplar kendi masasındaki üçgeni pergel ve cetvelle çizmeye başlar; 5 dakikada bir masa değiştirip bir önceki grubun yarım bıraktığı çizimi tamamlar. Herkes başladığı masaya dönünce biter. Öğrenciler öz değerlendirme formunu doldurur."
+   ],
+   [
+    "Değerlendirme",
+    "Wordwall'da 7 soruluk test (doğru-yanlış, çoktan seçmeli, çevre hesabı) yapılır; sonuçlar sınıfla incelenir, yanlışlar tahtada çözülür. Ders sonrası EBA'dan 4 soruluk ödev gönderilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar, pergel, ölçüsüz cetvel, kareli A4 kâğıt",
+  "pdf": "6943de1aa54808.45676203"
+ },
+ {
+  "id": 258,
+  "unite": "Sayılar ve Nicelikler (2)",
+  "ad": "Devirli Ondalıkların PISA Macerası",
+  "ozet": "PISA sorularından yola çıkarak kesrin aslında bir bölme işlemi olduğu keşfedilir; kesirler ondalık gösterime çevrilir, devirli ondalık gösterim öğrenilir ve yapay zekâ destekli bir araçla kesir hesap makinesi yapılır.",
+  "ozu": "<p>Bir kesrin payı paydasına bölünerek ondalık gösterim bulunur. Paydası 10, 100, 1000'e genişletilebilen kesirlerin ondalık kısmı sonludur (7/4 = 1,75). Genişletilemeyenlerde ondalık kısım sürekli tekrar eder ve tekrar eden rakamların üstüne çizgi konur (1/3 = 0,333… = 0,3̅).</p>",
+  "dersler": [
+   [
+    "PISA ile tanışma, kesir = bölme",
+    "Öğretmen ulusal ve uluslararası sınavları (TIMSS, PISA, ICILS) sorar, PISA 2022'nin Güneş Sistemi sorusunu tahtada birlikte çözer. Tahtaya 5/2 yazar: “Neden ‘beş bölü iki’ diyoruz?” İkişerli vızıltı gruplarında 3 dk tartışılır. EBA videolarıyla kesir–bölme ilişkisi ve ondalık gösterim izlenir; 7/4 tahtada bölünüp hesap makinesiyle kontrol edilir. “Kesirler Aslında Birer Bölme” etkinliği yapılır. Ödev: PISA hakkında araştırma ve açıklanan soruları inceleme."
+   ],
+   [
+    "PISA benzeri problemler",
+    "“Bardağımı Ver” çalışma kâğıdı bireysel çözülür, gönüllüler tahtada çözer. Ardından Musluk Problemi: 3 m'lik duvara eşit aralıklı 7 musluk takılacak, aradaki mesafe kaç m? Öğrenciler çözüp musluk konumlarını tahtadaki etkileşimli etkinlikte yerleştirir."
+   ],
+   [
+    "Yapay zekâ ile kesir hesaplayıcı",
+    "Öğrenciler yapay zekâ destekli bir kodlama aracına girip yönergedeki adımlarla kesri ondalık gösterime çeviren “Kesir Hesaplayıcısı” yapar. 5/8 hem tahtada bölünerek hem hesaplayıcıyla bulunup karşılaştırılır. “Problemi Çöz Ondalığı Sırala” etkinliğiyle problemler çözülüp sonuçlar sıralanır. (Not: Öğrenci hesaplarında yapay zekâ izni kapalıysa “Ayarlar”dan açılmalı.)"
+   ],
+   [
+    "Hazine Haritası: devirli ondalık",
+    "3–4 kişilik gruplar “Hazine Haritası” oyununda 1 kg altını farklı sayıda kişiye paylaştırır. 1 kg'ı 3 kişiye bölünce sonuca ulaşamazlar; neden zorlandıklarını tartışırlar. EBA'dan Devirli Ondalık Gösterim videosu izlenir, 1÷3 = 0,3̅ tahtada gösterilir. 10 kg/9 kişi sorusu çözülür, sonlu ve devirli ondalık farkı genellenir. Eşleştirme etkinliğiyle pekiştirilir."
+   ],
+   [
+    "Kavram haritası ve Kesir Hesap Makinesi",
+    "“Kavramlar Yerli Yerinde” kavram haritası tamamlanır. Önceki hesaplayıcı geliştirilerek devirli ondalığı da gösteren “Kesir Hesap Makinesi” yapılır; 7/6 tahtada ve makinede karşılaştırılır. “Efe'nin Odası” çoktan seçmeli problemleriyle ders biter."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, sınıf yönetim aracı (EBA vb.), Bardağımı Ver çalışma kâğıdı çıktısı",
+  "pdf": "69e0bd01d6a496.56801738"
+ },
+ {
+  "id": 114,
+  "unite": "Atatürk'ü Tanımak",
+  "ad": "Atatürk'ün Çocukluğu",
+  "ozet": "“Atatürk” metni üzerinden metnin yüzey anlamı belirlenir, geçiş ve bağlantı ifadeleri öğrenilir ve öğrenciler kendi okuma süreçlerini değerlendirir.",
+  "ozu": "<p>Metinde doğrudan verilen bilgileri bulma, “ve, ile, hem…hem de, ayrıca, hatta” gibi bağlantı ifadelerini doğru kullanma ve öğrencinin okur olarak güçlü/gelişmeye açık yönlerini fark etmesi.</p>",
+  "dersler": [
+   [
+    "Metni okuma, Kelime Avı",
+    "Sınıftaki Atatürk köşesi üzerinden Atatürk'ün çocukluğuna dair sorular sorulur. Tahtada “Atatürk” içeriğinin ilk üç sayfasındaki görseller konuşulur. Öğretmen metni örnek olarak okur, sonra gönüllüler okur. Metnin yüzey anlamı için “Kelime Avı” oyunu EBA'dan paylaşılır ve cevaplar birlikte değerlendirilir."
+   ],
+   [
+    "Geçiş ve bağlantı ifadeleri",
+    "EBA'daki Geçiş ve Bağlantı İfadeleri içeriğinin etkinlikleri yapılır. “Atatürk” metnindeki bağlantı ifadeleri bulunur. “Doğru İfadeyi Bul” boşluk doldurma etkinliği yapılır (geri dönüşüm temalı paragraf). Öğrencilere bir sonraki derse hikâye kitabı getirmeleri söylenir, öz değerlendirme formunun kriterleri açıklanır."
+   ],
+   [
+    "Okuma süreci öz değerlendirme",
+    "Öğrenciler 10 dakika sessiz okuma yapar. Ardından çevrim içi Okuma Süreci Öz Değerlendirme Formu'nu doldurur: güçlü yönlerim, zorlandıklarım, alacağım önlemler, okur olarak hedefim. Öğretmen okur kimliğini geliştirme üzerine konuşarak bitirir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, öğrencilerin hikâye kitapları",
+  "pdf": "697b52bad58600.27043492"
+ },
+ {
+  "id": 268,
+  "unite": "Bağımsızlık Yolu",
+  "ad": "Büyük Bağımsızlık Savaşı",
+  "ozet": "Büyük Taarruz ve Başkomutanlık Meydan Muharebesi metni üzerinden bilinmeyen kelimelerin anlamı tahmin edilir, ön bilgilerle yazı yazılır ve metne yazılı tepki verilir.",
+  "ozu": "<p>Anlamı bilinmeyen kelimeyi bağlamdan tahmin edip sözlükle doğrulama; ön bilgiden yararlanarak yazı planlama; okunan metne yorum, mektup, teşekkür yazısı veya röportaj biçiminde uygun yazılı tepki verme.</p>",
+  "dersler": [
+   [
+    "Kelime ilişkilendirme ve okuma",
+    "Atatürk köşesi incelenir. Kelime İlişkilendirme Testi'nde “bağımsızlık, mücadele, zafer” için akla gelen kelimeler yazılır, cümle içinde kullanılır. “Büyük Taarruz ve Başkomutan Meydan Muharebesi” metni önce öğretmen, sonra öğrenciler tarafından okunur. Bilinmeyen kelimeler tahtaya yazılır, anlamları tahmin edilip TDK Güncel Türkçe Sözlük'ten kontrol edilir. Ödev: EBA'dan Tanılayıcı Dallanmış Ağaç."
+   ],
+   [
+    "Ön bilgiyle yazma",
+    "“Yazımı Yapılandırıyorum” beyin fırtınasıyla her öğrenci bir yazma amacı ve konusu belirler. “Kelime ve Kavram Havuzum” zihin haritası sınıfça oluşturulur. Öğrenciler havuzdan en az beş kavram kullanarak yazılarını ders sonuna kadar tamamlar. Ders sonrası öz değerlendirme formu gönderilir."
+   ],
+   [
+    "Metne yazılı tepki",
+    "Metin yeniden okunur, “Metni Anlama Haritası” sınıfça doldurulur (bilgi, kişi, olay, durum). Sınıf dört gruba ayrılır; her grup farklı bir tepki yazar: yorum paragrafı, kısa mektup, teşekkür yazısı, karakterlerden biriyle hayalî röportaj. Yazılar sınıfta okunur ve geri bildirim verilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, Kelime İlişkilendirme Testi çıktısı",
+  "pdf": "6ac52ed2ac0109.71085029"
+ },
+ {
+  "id": 57,
+  "unite": "Gökyüzündeki Komşularımız ve Biz",
+  "ad": "Hareketli Komşularımız",
+  "ozet": "Öğrenciler Güneş, Dünya ve Ay'ın büyüklüklerini ve birbirlerine göre hareketlerini simülasyonlarla inceler, gruplar hâlinde fiziksel model yapar, araştırıp modelini geliştirir.",
+  "ozu": "<p>Güneş, Dünya ve Ay'ın hacimsel büyüklük oranları ve hareketleri (Dünya'nın kendi ekseni ve Güneş etrafında, Ay'ın Dünya etrafında dönmesi) bilimsel bir modelle temsil edilir; model, araştırılan gerçek verilere göre düzeltilir.</p>",
+  "dersler": [
+   [
+    "Gökyüzü ve büyüklükler",
+    "Ders öncesi “Göğe Bakalım” dijital panosuna öğrenciler ön bilgilerini yazar. Derste “Gece ve gündüz gökyüzünde neler görürsünüz?” sorularıyla başlanır, panodaki cevaplar okunur. EBA'daki Güneş, Dünya ve Ay etkileşimli içeriğinde büyüklükler karşılaştırılır. Yer Çekimi ve Yörüngeler simülasyonunda gerçek boyut ve uzaklık oranları incelenir. Ödev: EBA içeriği."
+   ],
+   [
+    "Fiziksel model yapımı",
+    "5'erli gruplar strafor top, oyun hamuru, pipet, iplik vb. ile Güneş, Dünya ve Ay'ın büyüklük oranlarını ve hareketlerini gösteren bir model yapar; hacim kavramı vurgulanır. Gruplar planlarını öğretmene gösterip geri bildirim alır, eksen eğikliğini de ekler ve hareketleri canlandırmayı prova eder. Ödev: sunum şablonu ve kavram haritası."
+   ],
+   [
+    "Araştır, sun, geliştir",
+    "Gruplar “En çok neye şaşırdınız?” sorusuyla başlar. Güneş, Dünya ve Ay'ın gerçek boyut ve uzaklıklarını bilimsel kaynaklardan araştırır, sunumlarını sınıfa yapar. Verileri kendi modelleri ve diğer grupların modelleriyle karşılaştırıp ölçek hatalarını bulur, modeli yeniden geliştirip değişiklikleri gerekçesiyle anlatır."
+   ],
+   [
+    "Değerlendirme",
+    "Akran değerlendirme formu doldurulur. Çoktan seçmeli “Öğrendiklerimizi Değerlendirelim” ve açık uçlu sorular çevrim içi yapılır. “Göğe Bakalım” panosu yeniden açılır, öğrenciler konu sonrası bildiklerini yazıp önceki bilgileriyle karşılaştırır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları; model için strafor toplar, oyun hamuru, boya, pipet, iplik, makas, yapıştırıcı, cetvel",
+  "pdf": "6ac35a10a31836.41631637"
+ },
+ {
+  "id": 209,
+  "unite": "Kuvvetin Etkisinde Hareket",
+  "ad": "Dengedeyim",
+  "ozet": "Dengelenmiş ve dengelenmemiş kuvvetler simülasyonla öğrenilir; gruplar hipotez kurup kendi deneylerini tasarlar, uygular ve sonuçlarını sunar.",
+  "ozu": "<p>Bileşke kuvvet sıfırsa kuvvetler dengelenmiştir ve cismin hareket durumu değişmez (duruyorsa durur, sabit hızla gidiyorsa öyle devam eder). Bileşke sıfırdan farklıysa cisim hızlanır, yavaşlar ya da yön değiştirir. Dengeleyici kuvvet, bileşkeyle eşit büyüklükte ve zıt yöndedir.</p>",
+  "dersler": [
+   [
+    "Kuvvet ve denge",
+    "“Duran bir araba nasıl hareket eder, hareket eden nasıl durur?” sorularıyla başlanır. EBA'daki Dengelenmiş ve Dengelenmemiş Kuvvetler içeriği ve “sıra sizde” etkinlikleri yapılır. Düşün-eşleş-paylaş ile örnekler verilir. PhET “Kuvvet ve Hareket” simülasyonunda dengeleyici kuvvet keşfedilir. Araştırma problemi verilir: “Kuvvetlerin dengeli olup olmaması hareketi nasıl etkiler?”"
+   ],
+   [
+    "Hipotez ve deney tasarımı",
+    "5'erli gruplara oyuncak araba, dinamometre, kitap, ağırlıklar, pet bardak, lastik bant ve ip dağıtılır. Gruplar Hipotez ve Deney Tasarım Formu'na hipotezlerini, malzemelerini, değişkenlerini ve deney adımlarını yazar. Ödev: çevrim içi yansıtıcı günlük."
+   ],
+   [
+    "Deneyi yapma",
+    "Güvenlik kuralları hatırlatılır. Gruplar tasarladıkları düzeneği kurar, cisme dengelenmiş ve dengelenmemiş kuvvet uygular, gözlemlerini veri tablosuna kaydeder, analiz sorularını ve sonuç bölümünü doldurur."
+   ],
+   [
+    "Sunum ve değerlendirme",
+    "Grup sözcüleri düzeneklerini, verilerini ve sonuçlarını sunar; öğretmen genellemeyi yapar. Anlık geri bildirimli “Çalışma Seti” (doğru-yanlış, boşluk doldurma, çoktan seçmeli) ve “Beni Eşleştir” etkinliğiyle kavram yanılgıları giderilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, bilgisayar; oyuncak araba, cetvel, dinamometre, kitap, küçük ağırlıklar, pet bardak, geniş lastik bant, ip; Hipotez ve Deney Tasarım Formu çıktısı",
+  "pdf": "6ac35a41db4784.17105712"
+ },
+ {
+  "id": 80,
+  "unite": "Evimiz Dünya",
+  "ad": "Yaşadığım İlin Özellikleri",
+  "ozet": "Öğrenciler yaşadıkları ilin göreceli konum özelliklerini belirler ve kavram haritası, oyun ve afişle görselleştirir.",
+  "ozu": "<p>Göreceli konum; bir ilin komşu illerine, yeryüzü şekillerine, su ve yer altı kaynaklarına, tarihî mekânlarına ve doğal güzelliklerine göre tarif edilmesidir. Bir yeri tarif ederken farkında olmadan göreceli konumu kullanırız.</p>",
+  "dersler": [
+   [
+    "Göreceli konum nedir?",
+    "“Okulumuzun yerini, öğretmen masasının yerini tarif edebilir misiniz?” sorularıyla göreceli konumun tanımına ulaşılır. EBA'dan iki video izlenir, tarifte kullanılan unsurlar tahtaya yazılır, videodaki etkinlikler yapılır. Ödev: göreceli konum ögeleriyle kelime bulutu hazırlayıp EBA'da paylaşmak."
+   ],
+   [
+    "Kavram haritası ve gruplandırma",
+    "“Göreceli Konumu Oluşturan Ögeler” kavram haritası etkinliği EBA'dan yapılıp sınıfça değerlendirilir. Ardından “Göreceli Konum Özelliklerini Gruplandırma” oyununda mağara, göl, müze, maden, ova gibi kavramlar beş başlık altında hızla gruplandırılır."
+   ],
+   [
+    "Bil Bakalım Hangi Şehirim?",
+    "Tahtada hafıza kartı oyunu: kartta ipuçları okunur (ör. “Türkiye'nin en büyük gölü sınırlarımda, kahvaltım meşhur”), öğrenci şehri bulup çevrim içi haritada gösterir. Bulunan şehirler haritada kaydedilip slayt gösterisine dönüşür. Ödev: Türkiye'nin dünyadaki göreceli konumunu anlatan afiş tasarlayıp EBA'da paylaşmak."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları",
+  "pdf": "69a93c865d1068.64525602"
+ },
+ {
+  "id": 223,
+  "unite": "Evimiz Dünya",
+  "ad": "Dünya Üzerindeki Konumum",
+  "ozet": "Türkiye'nin, kıtaların ve okyanusların mutlak ve göreceli konumu; paraleller, meridyenler ve Mavi Vatan oyunlar, balon yerküre ve dilsiz haritayla işlenir.",
+  "ozu": "<p>Mutlak (matematik) konum, bir yerin paralel ve meridyenlerle (coğrafi koordinatlarla) belirtilmesidir; göreceli (özel) konum ise çevresindeki yerlere göre tarifidir. Türkiye'nin üç tarafının denizlerle çevrili olması jeopolitik önemini artırır.</p>",
+  "dersler": [
+   [
+    "Mutlak ve göreceli konum",
+    "Öğrenciler isim yazmadan sınıftaki yerlerini kâğıda tarif eder, diğerleri tarifin kime ait olduğunu bulur; bazı tariflerin kesin, bazılarının çevreye göre olduğu fark edilir. EBA videoları izlenip not alınır, tahtada Türkiye'nin konumuna dair kavram haritası oluşturulur. “Türkiye'nin Mutlak ve Göreceli Konumu” oyunu oynanır. Ödev: eşleştirme etkinliği ve koordinat sistemi araştırması (dijital pano)."
+   ],
+   [
+    "Balondan yerküre",
+    "Yerküre modeliyle paralel ve meridyenler gösterilir, “Paraleller ve Meridyenler” oyunu tahtada oynanır. Öğrenciler getirdikleri balonları şişirip Ekvator, Başlangıç meridyeni ve yarım küreleri çizer; balonlar sınıfta sergilenir."
+   ],
+   [
+    "Kıtalar, okyanuslar ve Mavi Vatan",
+    "Tahtadaki dünya haritasında Türkiye'nin, kıtaların ve okyanusların konumu tartışılır; deniz–okyanus farkı ve deniz komşularımız konuşulur. EBA'dan Mavi Vatan videosu izlenir. Öğrenciler dünya dilsiz haritasında kıta ve okyanusları boyar, üzerine küçük bir Türkiye haritası yapıştırır; çalışmalar panoya asılır. Ödev: yansıtıcı günlük ve EBA alıştırması."
+   ]
+  ],
+  "gerek": "Akıllı tahta, yerküre modeli, balon ve tahta kalemi (öğrenciden), kuru boya, dilsiz harita çıktısı",
+  "pdf": "69aff654775994.63066283"
+ },
+ {
+  "id": 165,
+  "unite": "Allah İnancı",
+  "ad": "Tevhit Suresi",
+  "ozet": "İhlas suresi doğru okunur, anlamı ve “tevhit, Ehad, Samed” kavramları öğrenilir; surenin samimiyet mesajı günlük hayatla ilişkilendirilir.",
+  "ozu": "<p>İhlas suresi Allah'ın (cc) tek olduğunu (tevhit), eşi ve benzeri olmadığını anlatır. Ehad “biricik, tek”; Samed “hiçbir şeye muhtaç olmayan” demektir. Surenin adı samimiyeti, gösterişten uzak durmayı çağrıştırır.</p>",
+  "dersler": [
+   [
+    "Sureyi tanıma ve okuma",
+    "Diyanet Kur'an-ı Kerim Portalı'nda İhlas suresi bulunur: kaçıncı sure, kaç ayet, nerelerde okunur? “Genel Bilgiler” sunumu açılır. EBA'dan ezber videosu birkaç kez dinletilir, öğretmen örnek okur, zor kelimeler işaretlenir, koro hâlinde tekrar yapılır, gönüllüler sınıf önünde okur. “İhlas Suresini Öğreniyorum” boşluk doldurma etkinliğiyle biter."
+   ],
+   [
+    "Anlam ve samimiyet",
+    "“Samimi insan ile gösteriş yapan arasındaki fark nedir?” sorusuyla başlanır. “İhlas Suresi Sözlüğü” ile kavramlar açıklanır, EBA'dan anlam videosu izlenir, “Temel Konular” sunumuyla Allah'ın isimlerinin günlük hayata yansımaları konuşulur. “Zeynep'in Günlüğü” çalışma kâğıdı sınıfça doldurulur. Ödev: yansıtıcı günlük."
+   ]
+  ],
+  "gerek": "Akıllı tahta, Zeynep'in Günlüğü çalışma kâğıdı çıktısı",
+  "pdf": "69e0b8177bd854.70730049"
+ },
+ {
+  "id": 67,
+  "unite": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+  "ad": "Dijital Dünyanın Kalbi",
+  "ozet": "Bilgisayarın donanım ve yazılım bileşenleri, bit-byte ve depolama birimleri, işletim sistemi ve temel sorun giderme adımları oyunlarla öğrenilir.",
+  "ozu": "<p>Bilgisayar sistemi donanım (iç/dış, giriş/çıkış birimleri) ve yazılımdan oluşur. Bilgisayarın dili bit ve byte'tır; veri sıkıştırma alan kazandırır. İşletim sistemi donanımla kullanıcı arasında köprüdür. Sorunlar adım adım (algoritmayla) çözülür.</p>",
+  "dersler": [
+   [
+    "Donanım, yazılım ve veri",
+    "“Bilgisayar hangi bölümlerden oluşur?” sorusuna öğrenciler dijital panoda cevap yazar. Temel Bileşenler sunumuyla donanım/yazılım ve iç/dış birimler anlatılır. “Gizli Piksel” grup boyama etkinliğinden bit-byte ve veri sıkıştırmaya geçilir. Tahtaya “hafıza merdiveni” çizilip depolama birimleri (HDD, SSD, USB, bulut) anlatılır. “Donanım mı, Yazılım mı?”, “Donanım Avı” ve giriş/çıkış birimleri için deve-cüce oyunu oynanır; sınıflandırma çalışma kâğıdı doldurulur."
+   ],
+   [
+    "Klavye, işletim sistemi, sorun giderme",
+    "Etkileşimli “Klavye Tuşları” etkinliğinde özel tuşlar keşfedilir. “İşletim sistemi nedir?” beyin fırtınasının ardından işletim sisteminin görevleri ve bileşenleri anlatılır; canlı doğru-yanlış yarışmasının birincisine “Günün BT Uzmanı” rozeti verilir. Hoparlörden ses gelmemesi örneğiyle sorun giderme adımları gösterilir. Ödev: gruplarla sorun giderme afişi tasarlayıp EBA'dan göndermek."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, sınıflandırma çalışma kâğıdı çıktısı",
+  "pdf": "6ac3aa04da6f46.80675329"
+ }
+]

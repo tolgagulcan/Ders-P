@@ -1,0 +1,104 @@
+## 5. Sinif/Matematik/Geometrik Sekiller - Sekillerin Buyusu- Geometrik Kesifler.pdf
+SURE:5 KOD:MAT.5.3.6.
+KAV:Düzgün çokgen, Açı ölçme, Üçgen çeşitleri
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, derste yapacakları etkinlik hakkında kısaca öğrencileri bilgilendirerek kullanılacak web araçlarını
+tanıtır. Ders materyalleriyle ilgili bilgi verir ve derse getirmeleri gereken cetvel, açıölçer gibi araçları öğren-
+cilere hatırlatır. Platonik cisimleri ders öncesinde hazırlar ve öğrencileri beşer kişilik heterojen gruplara ayırır.
+Öğretmen, düzgün çokgenleri keşfetmeleri için Platonik cisimler (düzgün çok yüzlüler) setini öğrencilerin
+görebileceği bir masaya yerleştirir. Etkileşimli sunum aracıyla hazırladığı Platon ve Platonik Cisimler sunumunu
+dersin başlangıcında izleterek öğrencilerin dikkatini çeker. Ardından keşif etkinliği öncesinde öğrencilerin ön
+bilgilerini belirlemek ve etkinlikteki içeriğin anlaşılmasını kolaylaştırmak için hazırladığı örnek sorulardan sorar:
+• Masanın üzerine yerleştirdiğim geometrik şekillerin yüzeylerine dikkatlice bakınız. Bu yüzeyleri oluşturan
+kenar ve köşe sayıları arasında nasıl bir ilişki görüyorsunuz?
+• Hangi yüzeylerin kenar uzunlukları eşit görünüyor? Bu yüzeylerin başka ortak özelliği var mıdır?
+• Eşit uzunlukta çubuklar kullanarak kenar uzunlukları aynı olan hangi üç boyutlu şekilleri yapabilirsiniz?
+• Etrafınızdaki nesnelerden kenar uzunlukları eşit olanlara örnek verebilir misiniz?
+Öğretmen, öğrencilerin yanıtlarını değerlendirir ve varsa yanlış öğrenmelerini düzeltir. Öğrencilerin cevap-
+larına göre konuya ilişkin ek açıklamalar yaparak kavramları netleştirir. Bu süreç, keşif etkinliğine başla-
+madan önce öğrencilerin hazırbulunuşluk düzeylerini geliştirmeyi sağlar.
+Öğretmen, ders öncesi oluşturduğu öğrenci gruplarından sırayla Platonik cisimleri incelemelerini ister. Bu
+incelemeyi geometrik şekillerin yüzeylerinin kenar sayısı, köşe sayısı ve yüzeylerini oluşturan çokgenleri belir-
+leyecek şekilde yapmaları gerektiğini belirtir. Gruplar yaptıkları incelemeler sonucunda her şeklin özelliklerini
+içeren bir tabloyu defterinde oluşturur. Öğretmen, önceden hazırladığı tabloyu örnek olarak açar ve öğren-
+cilerin kendi tablolarını oluşturmasına rehberlik eder (Ek-1). Daha sonra düzgün çokgen olan ve olmayan
+geometrik şekillerin yer aldığı çalışma kâğıdını öğrencilere dağıtır (Ek-2). Beşerli gruplar hâlinde çalışacak
+öğrencilerden kâğıttaki çokgenlerin kenarlarını cetvelle, açılarını ise açıölçerle ölçmelerini ve sonuçları not
+etmelerini ister.
+Etkinliğin sonunda bazı çokgenlerin tüm kenarlarının ve tüm açılarının eşit olduğunu öğrencilerin fark etmele-
+rini sağlar. Bu tür çokgenlere “düzgün çokgenler” denildiğini açıklayarak öğrencilerden masanın üstündeki
+Platonik cisimleri tekrar incelemelerini ister. Öğrenciler, bu cisimlerin yüzeylerinin düzgün çokgenlerden
+oluştuğunu keşfederler. Öğretmen, etkileşimli tahtada açtığı EBA’da yer alan Platonik Cisimler içeriğinden
+düzgün çokgenlerin üç boyutlu modellerini öğrencilerle inceleyerek özelliklerini tekrarlar. Son olarak öğren-
+cilere Platonik cisimler ve düzgün çokgenler hakkında gözlemlerini paylaşmaları için sorular yönelterek
+onları düşünmeye teşvik eder. Ayrıca öğrendikleri bilgileri günlük hayatta nerede kullanabilecekleri üzerine
+öğrencilerle kısaca tartışır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Performans Görevi: Öğretmen, öğrencilerden çokgenleri ve düzgün çokgenleri içeren etkileşimli sunum
+araçları ile dijital bir sunum hazırlamalarını ve bu sunumu EBA aracılığıyla paylaşmalarını ister. Sunumda yer
+alması gereken konular ve değerlendirme kriterleri ile ilgili bilgilendirme yapar (Ek-3). Öğrenciler, sunum-
+larını bu konular üzerinden hazırlayarak verilen süre içinde tamamlayacaklardır. Sunum yapacakları tarih,
+öğretmen tarafından belirlenir.
+Matematiksel araç ve teknolojiden yararlanma, Yorumlama becerisi, Matema-
+paylaşma, Sorumluluk
+3. Ders (Sınıf)
+Öğretmen, çokgenlerin köşegenlerini oluşturmak amacıyla aşamaları ekte verilen köşegen etkinliğini öğren-
+cilere yaptırır (Ek-4). Etkinlikte her bir öğrenciye A4 kâğıdı verir. Etkinliğin sonunda, farklı çokgenler çizildi-
+ğinde köşegen sayılarındaki değişimin ne olacağını öğrencilere sorar ve yanıtlar sınıfça tartışılır. Öğretmen,
+dinamik matematik ve geometri araçlarından Farklı Kenar Sayısına Sahip Çokgenlerin gözlendiği bir uygula-
+mayı etkileşimli tahtada açar. Gönüllülük esasına göre öğrencileri seçer. Her öğrenci, oluşturduğu çokgenlerin
+köşegenlerini çizerek bu geometrik şekillerin özelliklerini inceler. Öğretmen, öğrencilere köşegeni olmayan
+çokgenlerin varlığı ve bir çokgenin en fazla kaç köşegeni olabileceği ile ilgili sorular sorar. Etkinlik sonunda
+öğrencilere çıkartma hediye ederek onları ödüllendirir.
+Ders Öncesi
+Öğretmen ekteki çalışma kâğıtlarının çıktısını sınıftaki öğrenci sayısı kadar çoğaltır (Ek-5).
+4. Ders (Sınıf)
+Öğretmen, üçgenlerin kenarlarına ve açılarına göre nasıl sınıflandırıldığını göstermek amacıyla EBA’da
+yer alan etkileşimli Üçgen Çeşitleri etkinliğini açar. Bu etkinlikte, öğrenciler bir üçgenin açı ve kenar ölçüle-
+rini değiştirir ve bunun sonucunda üçgenin isminin de değiştiğini gözlemler. Öğretmen, gönüllük esasına
+göre öğrencilere söz hakkı verir. Öğrenciler etkinliği yaparken üçgenlerin kenarlarını ve açılarını göz önünde
+bulundurur. Etkinliği yapan her bir öğrencinin oluşturduğu üçgenler sınıfça değerlendirilir. Öğretmen, gerekli
+yerlerde geri bildirimde bulunarak kenarlarına (çeşitkenar, ikizkenar ve eşkenar) ve açılarına göre (dar, dik
+ve geniş açılı) üçgenlerin tanımlarını verir. Ardından açılarına ve kenarlarına göre üçgenler konulu etkinlik
+kâğıtlarını öğrencilere dağıtır (Ek-5). Etkinlikte verilen üçgenlerin açılarını ve kenar uzunluklarını ölçerek etkin-
+liği tamamlamalarını öğrencilerden ister. Tüm öğrenciler etkinliği tamamladıktan sonra etkileşimli tahtada
+soruların çözümlerini gönüllü öğrencilere yaptırır. Yanlış veya eksik öğrenmeleri gidermek için gerekli yerlerde
+geri bildirimde bulunur, cevaplarını kontrol etmelerini ve yanlışlarını düzeltmelerini öğrencilerden ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, uygulanacak etkinlik için öğrencileri ikişerli gruplara ayırır.
+5. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin üçgenin iç açıları toplamını keşfetmeleri için bir problem durumu ile derse başlar:
+“Sevgili öğrencilerim, bir doğa yürüyüşü ekibi dağlık bir bölgede harita kullanarak üçgen şeklinde bir yürüyüş
+rotası planlıyor. Ekip, belirledikleri üç nokta arasında yürüyerek rotayı tamamlayacak. Ancak her köşede
+doğru yönü bulmak ve rotayı düzgün bir şekilde tamamlayabilmek için ekibin hangi açıyla dönmeleri gerek-
+tiğini hesaplamaları gerekiyor. Buna göre;
+• Bu ekip her köşedeki açıyı nasıl hesaplayabilir?
+• Yürüyüş rotasının bir üçgen şeklinde tamamlanabilmesi için üç noktayı birleştiren bu yolların oluşturduğu
+açıların toplamı kaç derece olmalıdır?”
+Öğrencileri ikişerli gruplara ayırır. Dinamik matematik ve geometri uygulaması kullanarak kendi üçgen şeklin-
+deki rotasını oluşturmasını her gruptan ister (Ek-6). Tüm gruplar, ölçümlerini tamamladıktan sonra kendi
+oluşturdukları üçgenin açılarını dijital pano ya da post-it aracı ile sınıfla paylaşır. Paylaşılan sonuçlar sınıfça
+incelenir. Bütün grupların buldukları açıların toplamının 180° olması beklenir. Öğretmen, grupların oluştur-
+dukları farklı üçgenlerden aynı sonuçların çıkması sonucunda kuralı açıklar. Ardından öğrencilere aşağıda
+yer alan soruları yöneltir ve cevaplar sınıfça tartışılır:
+• Dik açılı eşkenar üçgen çizilebilir mi?
+• Dik açılı ikizkenar üçgen çizilebilir mi?
+• Geniş açılı eşkenar üçgen çizilebilir mi?
+• Geniş açılı ikizkenar üçgen çizilebilir mi?
+Tartışma sonucunda geri bildirimlerde bulunan öğretmen, EBA’da yer alan Üçgenin İç Açılarının Ölçüleri
+Toplamı videosunu öğrencilere izleterek farklı bir etkinlik aracılığıyla da bu kuralın ispatını onların görmele-
+rini sağlar. Öğretmen, önceden hazırladığı öz değerlendirme formunu öğrencilere dağıtır ve öğrencilerden
+formu doldurmalarını ister (Ek-7).
+Ders Sonrası
+Öğretmen, öğrencilerden kavram haritası oluşturmayı sağlayan web araçlarını kullanarak düzgün çokgenler
+ile üçgenlerin açılarına ve kenarlarına göre sınıflandırılması konularıyla ilgili birer kavram haritası hazırla-
+malarını ister. Kavram haritasının ne olduğunu kısaca açıklar. Öğrenciler kavram haritalarını öğretmenin
+belirlediği tarihte EBA’da paylaşır.
+Matematiksel araç ve teknolojiden yararlanma, Matematiksel çözümler geliş-
+olay/konu/durum veya problem ile ilgili akıl yürütmek
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Platon ve Platonik Cisimler", "Djpapn"], ["EBA Platonik Cisimlerin Üç Boyutlu Modelleri", "Tc8XHi"], ["Farklı Kenar Sayısına Sahip Çokgenlerin Köşegenlerinin İncelenmesi", "Ti7xdz"], ["EBA Üçgen Çeşitleri", "U62HDv3"], ["EBA Üçgenin İç Açıları Ölçüleri Toplamı", "MeHD2g"]]

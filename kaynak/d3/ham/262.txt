@@ -1,0 +1,190 @@
+## 6. Sinif/Matematik/Veri Isleme - Arastirmacilar Is Basina.pdf
+SURE:5 KOD:M.6.4.1.1. M.6.4.1.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, beşinci sınıfta araştırma yaparken kullanılan veri toplama tekniklerini hatırlatmak için EBA’da
+bulunan Veri Toplama Yöntemleri, Araştırma Sorusu Oluşturma, Uygun Anket Sorusu Belirleme ve Sıklık
+Tablosu içeriklerini dersten önce öğrencilere gönderir. Öğrenciler yeni öğrenilecek veri analizi kazanımları
+için gerekli bilgileri hatırlayarak derse gelir. İşlenecek derslerde grup çalışması yapılacağı bilgisini veren
+öğretmen, öğrencileri ön gördüğü sisteme göre (sınıf listesi, oturma düzeni, küme düzeni gibi) dörder
+kişilik gruplara ayırır. Her grup ismini belirler ve temsilci seçer. Grupların heterojen olmasına dikkat edilir.
+1. Ders (Sınıf)
+Öğretmen ders öncesi gönderdiği içerikler ile öğrenilecek konu arasında ilişki kurabilmeleri için öğrencilere
+aşağıdaki soruları sorar:
+• Bir araştırma yapmak için önce ne yapılması gerekir?
+• Araştırma için gerekli bilgileri nasıl elde ederiz?
+• Elde edilen bilgileri nasıl gösterebiliriz?
+Öğretmen, gelen cevapları veri analizi konusu başlığında zihin haritası oluşturmayı sağlayan web
+araçlarından birini kullanarak etkileşimli tahtada toplar. Öğrenciler oluşturdukları zihin haritasına
+bakarak konuyla ilgili önemli kavramları fark eder. Öğretmen, öğrencilere bir önceki yıldan farklı olarak
+iki grup içeren araştırmaların veri toplama faaliyetlerini öğreneceklerini söyler. Konu içeriği için EBA’dan
+Araştırma Sorularına Uygun Veri Toplama ve İki Veri Grubunu Karşılaştırmayı Gerektiren Araştırma Soruları
+Oluşturma başlıklı anlatımları açar. İçerikte anlatılan konular ile oluşturulan zihin haritasındaki kavramlar
+arasındaki farklılık ve benzerlikleri öğrencilerle tartışır. Sonraki derste grup çalışması yapılacağı bilgisini
+vererek dersi bitirir.
+İlgili Yetkinlikler/Beceriler: Akıl yürütme, Matematiksel süreç becerileri, Eleştirel düşünme
+2. Ders (BT Sınıfı)
+Öğretmen, gruplardan kendi anketlerini oluşturmalarını ve anket için en az üç soru hazırlamalarını ister.
+Tüm öğrenciler ankete EBA/Sayfam/Oylama menüsünü kullanarak katılacak, grup sayısı kadar anket
+oluşturulacaktır. Karşılaştırılacak iki veri grubu, sınıfta bulunan kız ve erkek öğrencilerin günlük hayat
+alışkanlıklarını içerebilir. İsteyen grup, kız ve erkek öğrenci verileri dışında da iki veri grubu oluşturabilir.
+Anket için soru örnekleri aşağıda sunulmuştur:
+• Bir haftada bilgisayar oyunları ile kaç saat geçirirsiniz?
+• Bir haftada telefon ile kaç saat geçirirsiniz?
+• Bir haftada kitap okuyarak kaç saat geçirirsiniz?
+Anket soruları oluşturulduktan sonra öğretmen EBA gönderisi olarak paylaşır. Öğrenciler kendi EBA
+hesaplarını kullanarak anket sorularını yanıtlar. Yanıtlama işlemi bittikten sonra gruplar, tekrar verileri
+toplar ve iki veri grubu olacak şekilde (kız ve erkek öğrenciler gibi) sayıları belirler. Gruplar etkileşimli
+beyaz tahta araçlarını kullanarak bu sayılar ile ikili sıklık tablosu oluşturur (Ek-1).
+Ders sonunda anket verilerine uygun tablolar oluştururlar. Öğrenciler sütun grafiği çizerken ve sunumlarını
+yaparken oluşturdukları tabloları kullanabilmeleri için öğretmen sınıf yönetimi aracı ile tabloları toplar.
+İlgili Yetkinlikler/Beceriler: Dijital yeterlilik, Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler
+3. Ders (Sınıf)
+Öğretmen, öğrencilere hazırladıkları tablolardaki bilgileri kullanarak sütun grafiği çizeceklerini söyler. Bu
+nedenle ikili sütun grafiği çizmek için gereken kuralları Verileri Düzenleme başlıklı EBA içeriği üzerinden
+anlatır ve burada tekli grafikle ikili grafik arasındaki farkı vurgular. Ardından oluşturdukları tabloların neden
+ikili olarak çizildiği ve sütun grafiğinin neden ikili olması gerektiği konusuna öğrencilerin dikkatini çeker.
+Kazanımı pekiştirmek için öğrencilere EBA’dan Verileri İkili Sıklık Tablosunda ya da İkili Sütun Grafiğinde
+Gösterme başlıklı etkileşimli içeriği ve Veri Toplama ve Değerlendirme başlıklı alt konu testini çözdürür.
+Öğrencilere bu bilgiler ışığında bir sonraki derste her grubun kendi sütun grafiğini çizeceği bilgisini verir.
+İlgili Yetkinlikler/Beceriler: Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler, Akıl yürütme,
+Matematiksel süreç becerileri
+4. Ders (BT Sınıfı)
+Gruplar, anket sonucunda elde ettikleri verilerle oluşturdukları tabloları konu anlatımından sonra son kez
+düzenler. Tablodaki verilerden hareketle etkileşimli beyaz tahta araçlarını kullanarak İkili Sütun Grafiği
+çizer. Her grubun bir sütun grafiği olmalıdır. Öğretmen, ders süresini grafik oluşturmaya imkân verecek
+şekilde planlar ve dersin son on dakikasını sunuma hazırlık olarak ayırır. Sınıf yönetim aracını kullanarak
+grupların çizdiği grafikleri toplar.
+İlgili Yetkinlikler/Beceriler: Dijital yeterlilik, Matematiksel yetkinlik ve bilim/teknolojide temel
+yetkinlikler, Akıl yürütme
+5. Ders (Sınıf)
+Öğretmen, sınıf yönetimi aracıyla topladığı tablo ve grafikleri etkileşimli tahtadan açar. Grupların sunum
+sırasını belirler. Grup temsilcileri önceki ders hazırladıkları sunumları, etkileşimli sunum araçlarını kullanarak
+sunar. Öğretmen dersin otuz dakikasını gruplar arasında eşit olarak paylaştırır. Öğrenciler sunumlarında
+ikili veri karşılaştırmasını içeren tablo ve sütun grafiğine yer verir. Ayrıca grafikteki bilgilerden hareketle
+yaptıkları özgün analizleri vurgulayarak sunar. Öğrenciler, diğer grupların sunumlarını değerlendirmek
+için öğretmenin dağıttığı grup değerlendirme formunu doldurur (Ek-2). Ardından öğretmen derslerin
+verimliliğini belirlemek için gözlem formunu doldurur ve ders sonrası çalışma verme aşamasına geçer
+(Ek-3).
+Ders Sonrası
+Süreç sonunda öğretmen, öğrencilere EBA’dan İkili Sütun Grafiği Oluşturma başlıklı alıştırmayı, Veri Toplama
+ve Değerlendirme başlıklı öğretmene özel alıştırmayı, Veri Toplama ve Değerlendirme başlıklı alt konu
+testini bir hafta içinde tamamlama koşuluyla çalışma olarak gönderir ve takibini EBA üzerinden yapar.
+İlgili Yetkinlikler/Beceriler: Dijital yeterlilik, İnisiyatif alma ve girişimcilik, Eleştirel düşünme,
+Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerik • Grup değerlendirme formu
+• EBA + alt konu testi • Öğretmen gözlem formu
+• EBA + öğretmene özel alıştırmalar
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Veri Toplama Yöntemleri: http://meb.ai/DPQsWM (Son erişim tarihi: 26.05.2024)
+2. EBA Araştırma Sorusu Oluşturma: http://meb.ai/ZXhraR (Son erişim tarihi: 26.05.2024)
+3. EBA Uygun Anket Sorusu Belirleme: http://meb.ai/nLwYV9 (Son erişim tarihi: 26.05.2024)
+4. EBA Sıklık Tablosu: http://meb.ai/Dz2Pht (Son erişim tarihi: 26.05.2024)
+5. EBA Araştırma Sorularına Uygun Veri Toplama: http://meb.ai/zixpNx (Son erişim tarihi: 26.05.2024)
+6. EBA İki Veri Grubunu Karşılaştırmayı Gerektiren Araştırma Soruları Oluşturma: http://meb.ai/9QCoX3
+(Son erişim tarihi: 26.05.2024)
+7. EBA Verileri Düzenleme: http://meb.ai/RadZph (Son erişim tarihi: 26.05.2024)
+8. EBA Verileri İkili Sıklık Tablosunda ya da İkili Sütun Grafiğinde Gösterme: http://meb.ai/UGlGCRt (Son
+erişim tarihi: 26.05.2024)
+9. EBA Veri Toplama ve Değerlendirme: http://meb.ai/5w5l4j (Son erişim tarihi: 26.05.2024)
+10. İkili Sütun Grafiği: https://meb.ai/U6cj40n (Son erişim tarihi: 03.12.2024)
+11. EBA Etkileşimli İçerik İkili Sütun Grafiği Oluşturma: http://meb.ai/UhwH1KC (Son erişim tarihi: 26.05.2024)
+12. EBA Öğretmene Özel Alıştırma Veri Toplama ve Değerlendirme: http://meb.ai/Zdr8Bs (Son erişim
+tarihi: 26.05.2024)
+13. EBA Alt Konu Testi Veri Toplama ve Değerlendirme: http://meb.ai/OWH9F2 (Son erişim tarihi: 26.05.2024)
+Kaynakça
+Canva. (2024). Araştırmacılar iş başına-ikili sütun grafiği. Son erişim tarihi 3 Aralık 2024, https://www.
+canva.com/design/DAGrVhbV9Bg/dTzOp41xozFt0Cos-Gs_jA/view?utm_content=DAGrVhbV9Bg&utm_
+campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: İkili Sıklık Tablosu
+Ek-2: Grup Değerlendirme Formu (Öğrenci İçin)
+Ek-3: Öğretmen Gözlem Formu
+EK-1
+İkili Sıklık Tablosu
+Aşağıdaki tabloya önce belirlediğiniz anket sorularını yazınız. Daha sonra iki farklı kategori hâlinde elde ettiğiniz verileri kullanarak tabloyu
+tamamlayınız.
+GRUP ADI:
+GRUP ÜYELERİ:
+KATEGORİLER ANKET SORULARI
+1. Anket Sorusu 2. Anket Sorusu 3. Anket Sorusu
+............................................................................. ............................................................................. .............................................................................
+............................................................................. ............................................................................. .............................................................................
+............................................................................. ............................................................................. .............................................................................
+1. KATEGORİ
+(Ör: Kızlar)
+..................................
+2. KATEGORİ
+(Ör: Erkekler)
+..................................
+Araştırmacılar İş Başına
+EK-2
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, öğrencilerin yapmış oldukları sunumların diğer öğrenciler tarafından değerlendirilmesi amacıyla hazırlanmıştır. Her kriter için
+verilen derecelerden uygun olanı işaretleyiniz.
+Değerlendiren Öğrenci Adı Soyadı:
+Değerlendirilen Grup Adı:
+DERECELER
+KRİTERLER
+Geliştirilebilir Kısmen Yeterli İyi Çok İyi
+Yeterli
+(1) (2) (3) (4) (5)
+Sunumun derslerde öğrenilen veri toplama ve
+değerlendirme konusunu kapsaması
+Sunumda yer alan web aracının etkin kullanımı
+Web aracıyla çizilen sütun grafiğinin ve tablonun ders
+konusuna uygunluğu
+Sunumun akıcı ve etkili olması
+EKLEMEK İSTEDİKLERİM
+...............................................................................................................................................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................................................................................
+Araştırmacılar İş Başına
+Ek-3
+Öğretmen Gözlem Formu
+Bu gözlem formu, bir haftalık ders sürecinde öğrencilerin dersin konusuna dair öğrenmelerinin ve grup içi çalışmalarının öğretmen tarafından gözlemlenmesi ve değerlendirilmesi
+amacıyla hazırlanmıştır. Her bir kriter için tüm öğrencilerinizi “Evet (E)”, “Bazen (B)”, “Hayır (H)” olacak şekilde değerlendiriniz.
+KRİTERLER
+Öğrenme sürecinde
+Uygulama sürecinde web
+NO AD/SOYAD Grup çalışmasına aktif bir teknolojiyi kazanım Konu kazanımlarını Verilen görevleri
+araçlarını aktif bir şekilde
+şekilde katıldı. amaçlarına uygun kavradı. zamanında yaptı.
+kullandı.
+kullandı.
+E B H E B H E B H E B H E B H
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Araştırmacılar İş Başın
+LINKS:[["EBA Veri Toplama Yöntemleri", "DPQsWM"], ["EBA Araştırma Sorusu Oluşturma", "ZXhraR"], ["EBA Uygun Anket Sorusu Belirleme", "nLwYV9"], ["EBA Sıklık Tablosu", "Dz2Pht"], ["EBA Araştırma Sorularına Uygun Veri Toplama", "zixpNx"], ["EBA İki Veri Grubunu Karşılaştırmayı Gerektiren Araştırma Soruları Oluşturma", "9QCoX3"], ["EBA Verileri Düzenleme", "RadZph"], ["EBA Verileri İkili Sıklık Tablosunda ya da İkili Sütun Grafiğinde Gösterme", "UGlGCRt"], ["EBA Veri Toplama ve Değerlendirme", "5w5l4j"], ["İkili Sütun Grafiği", "U6cj40n"], ["EBA Etkileşimli İçerik İkili Sütun Grafiği Oluşturma", "UhwH1KC"], ["EBA Öğretmene Özel Alıştırma Veri Toplama ve Değerlendirme", "Zdr8Bs"], ["EBA Alt Konu Testi Veri Toplama ve Değerlendirme", "OWH9F2"]]

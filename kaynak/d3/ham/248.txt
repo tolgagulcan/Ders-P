@@ -1,0 +1,100 @@
+## 6. Sinif/Matematik/Islemlerle Cebirsel Dusunme ve Degisimler - Cebir Panayiri.pdf
+SURE:5 KOD:MAT.6.2.1.
+KAV:Panayır, Cebirsel ifade, Değişken, Genelleme
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin akademik başarılarını ve derse karşı tutumlarını dikkate alarak dörder veya beşer
+kişilik rastgele gruplar oluşturur. Grup bilgilerini öğrencilerle paylaşır.
+1. Ders (Sınıf)
+Öğretmen, “Aranızda panayıra giden var mı?” sorusuyla derse giriş yapar. Öğrencilerin yanıtlarına göre onlara
+“Panayır nedir, biliyor musunuz?” ve “Panayırda neler bulunur?” sorularını yöneltir. Öğrencilerin cevaplarını
+dinledikten sonra panayırın bir bölgede belli bir süre için kurulan, daha çok kültürel ve eğlence amaçlı etkin-
+liklerin yer aldığı bir organizasyon olduğunu açıklar. Panayırlarda oyun stantları, yiyecek-içecek stantları,
+sergiler, gösteriler gibi farklı etkinliklerin bulunabileceğini belirtir. Bir panayır görseli oluşturmak için yapay
+zekâ destekli görsel oluşturma aracını etkileşimli tahtada açar. Öğrencilerle birlikte görselini oluşturmak
+istedikleri panayırın özelliklerini araca yazar ve oluşan görsellerden birini seçer. Öğretmen, öğrencilere “Bu
+panayıra benzer şekilde sınıfımızda da bir cebir panayırı yapabilir miyiz?” diye sorar. Öğrencilerin cevap-
+larını dinledikten sonra “Cebir panayırının konusunu cebirsel ifadeler olarak belirlersek bu panayıra hangi
+stantları koyarız?” sorusunu yöneltir. Etkileşimli tahtada dijital pano ya da post-it oluşturma aracını açarak
+öğrencilerden gelen fikirleri yazar.
+Öğretmen, öğrencilerin panayır stantlarını (giriş bileti standı; pizza, hamburger gibi yiyecek stantları; dart,
+balon patlatma gibi oyun stantları vb.) belirlemesine rehberlik eder ve belirlenen stantları panoya işler.
+Öğrenci grup sayısı kadar stant oluşturduktan sonra bu stantları gruplara dağıtır. Öğretmen gruplardan
+stantlarında yer alacak fiyatlara, oyun ve etkinliklere tartışarak karar vermelerini ister. Panayırın konusunun
+cebirsel ifadeler olduğunu hatırlatarak ücret, puan gibi nicelikleri cebirsel olarak ifade etmeleri gerekti-
+ğini vurgular. Örneğin panayır giriş ücret tarifesi hazırlayarak tam bilet ücretini x , öğrenci giriş ücretini ise
+tam giriş ücretinin yarısı olacak şekilde belirleyebileceklerini söyler. Grupları dolaşarak gerekli durumlarda
+öğrencilere yardımcı olur. Gruplardaki her öğrenciye bir küçük kâğıt vererek bu kâğıda hayalindeki stantta
+x ’in neyi temsil ettiğini yazmasını ister. Kâğıtları toplayacağını belirtir, her öğrencinin kendini ifade etmesini
+ve sürece dâhil olmasını sağlar.
+Ders Sonrası
+Öğretmen, öğrencilerden grupları içinde görev paylaşımı yapmalarını ve belirledikleri stant tasarımına uygun
+olarak görsel düzenleme araçlarını kullanarak pano, renkli kartlardan biletler, oyunlar için materyaller ve
+yiyecek stantları için menü görselleri hazırlamalarını ister. Hazırladıkları materyalleri stant tanıtımlarında
+kullanmak için yanlarında getirmeleri gerektiğini hatırlatır. Sonraki derste oluşturdukları panayırı ve mater-
+yalleri sınıfta sunacaklarını vurgular. Gerekli durumlarda öğrencilere rehberlik eder. Öğrencilerin çalışma-
+larını ve tanıtım sunumlarını grup değerlendirme yapmayı sağlayan web aracıyla hazırlanan Cebir Standı
+Oluşturma ve Sunma Grup Değerlendirme Formu ile değerlendireceğini söyler (Ek-1). Öğrencilere değer-
+lendirme kriterlerini açıklar.
+İletişim, İş birliği, Matematiksel temsillerden yararlanma, Dijital araçlarla iş görme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencilerin kendi gruplarıyla oturacağı ve sırası gelen grubun sunum yapacağı şekilde sınıf
+düzenini oluşturur.
+Öğretmen, gruplardan hazırlıklarını yaparak sunumlarına başlamalarını ister. Her grup öncelikle standının
+türünü açıklar, ardından standında yer alan etkinliklerle ilgili bilgiler verir. Bu bilgileri hazırladıkları pano veya
+materyalleri kullanarak görselleştirir. Bir grubun sunumu tamamlandığında gönüllü öğrenciler standı ziyaret
+eder ve etkinliğe katılır. Örneğin bir gözleme standında gözleme çeşitleri ve ayran satılmaktadır. Bir adet
+gözleme a TL, ayran fiyatı 10 TL’dir. Bir öğrenci standa gelerek 2 adet gözleme ve 1 adet ayran ister. Stanttaki
+görevli de bu sipariş için (2a+10 ) TL ödemesi gerektiğini söyler. Gruptan bir öğrenci sözel ifadeyi ve buna
+karşılık gelen cebirsel ifadeyi etkileşimli beyaz tahta aracıyla hazırlanan Alışveriş Listesi’ne yazar. Bu şekilde
+öğrenciler, her stantta farklı durumlar için cebirsel ifadeler oluşturur. Gruplar sunumlarını tamamladıktan
+sonra öğretmen, değerlendirmelerini tamamlar ve panayır için kendisinin de bir stant oluşturduğunu söyler.
+Etkileşimli tahtadan oyunlaştırılmış ölçme ve değerlendirme web aracıyla hazırlanan Cebir Çarkı oyununu
+açar (Ek-2). Öğrencilere çarkı çevirip gelen soruyu doğru cevapladıklarında çarktaki puanı kazanacakla-
+rını açıklar. Gönüllü öğrenciler, çarkı çevirerek gelen soruları cevaplar. Öğretmen etkinlik sonrasında varsa
+öğrencilerin sorularını cevaplar.
+Ders Sonrası
+Öğretmen, öğrencilere Soruları Bil İlerle etkileşimli içeriğini EBA’dan gönderir. Çalışmanın tamamlanması için
+uygun bir süre belirler. Bu sürenin sonunda çalışma ile ilgili değerlendirmeleri EBA üzerinden kontrol eder.
+Öğrencilere çalışma sonuçlarıyla ilgili raporları inceleyeceğini ifade eder.
+Sunma, İletişim, Matematiksel temsillerden yararlanma, Dijital araçlarla iş görme
+4. Ders (Sınıf)
+Öğretmen, dersin başında öğrencilere “bakış açısı” ifadesini daha önce duyup duymadıklarını sorar. Duyan
+öğrencilerden sözcük grubunun ne anlama geldiğini söylemelerini ister. Cevapları dinledikten sonra sözcük
+grubunun anlamını açıklar. Bakış açısının kişinin olaya nasıl yaklaştığını, hangi yönüne odaklandığını ve
+onu nasıl yorumladığını gösterdiğini açıklar. Örneğin bir yüzücü için koşu antrenmanı anlamsız bir uğraş
+gibi görünebilir ancak antrenörün bakış açısıyla bu, ayak kaslarını güçlendiren faydalı bir egzersiz olabilir.
+Buradan hareketle bakış açısı değiştiğinde durumla ilgili değerlendirmenin de değişeceğini vurgular. Benzer
+şekilde cebirsel ifadelerde de değişkenin anlamına göre farklı ifadeler oluşturulabileceğini belirtir. Bu durumu
+açıklamak için etkileşimli tahtada görsel düzenleme aracıyla hazırlanan Kerem ve Annesinin Yaşları görse-
+lini açar. Öğrencilerden bu görselde yer alan bilgileri incelemelerini ister. Görselde yer alan durumla ilgili
+Kerem’in yaşına göre veya annesinin yaşına göre farklı cebirsel ifadeler oluştuğunu göstererek açıklar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, bu bilgilerle ilgili etkinlik yapmak için grafik ve tablolama aracıyla hazırlanan Panayır Ücret Tablo-
+su’nu etkileşimli tahtada açar (Ek-3). Öğrencilere panayır giriş ücreti ve buna bağlı olarak değişen bazı
+stant ücretlerinin tabloda verildiğini ifade eder. Gönüllü öğrencilerden tahtaya gelerek tablonun altında
+yer alan durumlara uygun olan cebirsel ifadeleri yerlerine yazmalarını ister. Tablodaki her hücreyi farklı bir
+öğrencinin doldurmasını sağlar. İhtiyaç hâlinde öğrencilere yardımcı olur ve varsa öğrencilerin sorularını
+cevaplar. Etkinlik sonunda öğrencilere şu soruları yöneltir:
+• Tablodaki değişken değiştiğinde ifadenin nasıl değiştiğini fark ettiniz mi?
+• Bu durumdan hangi genel kuralı çıkarırsınız?
+Böylece öğrencilerin cebirsel ifadede değişkenin anlamlarına göre genellemeler yapmalarına yardımcı olur.
+5. Ders (BT Sınıfı)
+Öğretmen, “Haydi, bu derse bir oyunla başlayalım.” diyerek derse giriş yapar. Oyunun adının “Aklından Bir
+Sayı Tut” olduğunu söyler. Oyunu bilgisayarlardan bireysel olarak oynayacaklarını ifade ederek etkileşimli
+sunum aracıyla hazırlanan Aklından Bir Sayı Tut Oyunu’nun bağlantısını EBA’dan öğrencilere gönderir. Öğren-
+cilerden bağlantı yardımıyla oyuna başlamalarını, oyunda yer alan talimatlara tam olarak uymalarını ister.
+Öğrenciler oyunu tamamladıktan sonra oyundaki gibi bilinmeyen sayılarla işlemler yaparak genelleme ve
+varsayımlarda bulunulabileceğini belirtir. Bu varsayımlarla da bazı sonuçlara ulaşılabileceğini ifade eder.
+Oyunla ilgili öğrencilerin sorularını cevaplar.
+Öğretmen, “Oyunda aklından tutulması gerek sayı x olursa cevaba eşit olan cebirsel ifadeyi bulabilecek
+olan var mı?” sorusunu öğrencilere yöneltir. Gelen cevapları tahtaya yazarak doğru cevabı açıklar. Öğren-
+cilerin öğrenme süreçlerini değerlendirmek için anlık geri bildirim sağlayan web aracıyla hazırlanan Cebir
+Soruları’nın bağlantısını EBA’dan paylaşır (Ek-4). Öğrencilerden bu çalışmada yer alan soruları bireysel olarak
+cevaplamalarını ister. Bu çalışmayı tamamlamaları için öğrencilere yeterli süreyi verir. Sürenin sonunda
+çalışmayı etkileşimli tahtadan açarak gönüllü öğrencilerden soruları cevaplamalarını ister. Varsa öğren-
+cilerin sorularını cevaplar.
+Muhakeme (akıl yürütme), Dijital araçlarla iş görme
+
+LINKS:[["Cebir Standı Oluşturma ve Sunma Grup Değerlendirme Formu", "r3apNf"], ["Alışveriş Listesi", "Uxx9kym"], ["Cebir Çarkı", "UY7xsUP"], ["EBA Soruları Bil İlerle", "U4eTS8O"], ["Kerem ve Annesinin Yaşları", "uVVCLH"], ["Panayır Ücret Tablosu", "U7D10YL"], ["Aklından Bir Sayı Tut Oyunu", "UZ444WH"], ["Cebir Soruları", "jQn09p"]]

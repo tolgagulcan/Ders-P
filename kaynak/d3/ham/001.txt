@@ -1,0 +1,167 @@
+## 8. Sinif/Matematik/Cebir - Denklemler Her Yerde.pdf
+SURE:3 KOD:M.8.2.2.1.
+KAV:
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Bir okulda yürütülen “Gelecek İçin Ağaç Dik” projesi kapsamında öğrenciler, belirlenen boş bir arazinin
+tamamını ağaçlandırmak istemektedir. Matematik öğretmeni, arazi ile ilgili aşağıdaki bilgileri sınıfa iletir
+ve bu iş için kaç tane ağaca ihtiyaç duyulduğunu öğrencilere sorar.
+“Ağaçlandırma yapılacak olan arazi dikdörtgen şeklindedir. Bu arazi 4 metrekarelik kare alanlara bölünerek
+her kare alana bir ağaç dikilecektir. Bu sayede ağaçlar birbirinin gelişimini engellemeden büyüyebilecektir.
+Arazinin çevresi 56 metre ve uzun kenarı, kısa kenarının uzunluğunun 2 katından 8 metre kısadır. Bu bilgilere
+göre bu arazi için en fazla kaç ağaç gerektiğini bulalım.” Öğrencilerden bu problem için öncelikle belirtilen
+dikdörtgen araziyi ve durumları yansıtan bir çizim yapması istenir. Öğrenciler, elde ettikleri çizimlerden
+de yola çıkarak çözüm önerileri veya cevapları belirler. Gönüllü olan öğrenciler çözüm önerilerini sınıf
+ile paylaşır. Gönüllü öğrencilerin çözüm önerilerinden yola çıkan öğretmen, öğrencilerle problemin
+çözümü için gereken denklemi yazıp problemin cevabına ulaşır. Öğrencilerin farklı bir günlük yaşam
+durumu, duruma uygun denklem ve çözümünü deneyimlemeleri için EBA üzerinden Birinci Dereceden Bir
+Bilinmeyenli Denklemler isimli video öğrencilere izletilir. Video belli noktalarda duraklatılarak öğrencilere
+yöneltilen sorularla öğrencilerin derse aktif katılmaları ve konuyla ilgili fikir sunmaları sağlanır. Videoda
+geçen tanım ve kavramlar öğretmen tarafından tekrar açıklanır.
+Ders Sonrası
+Öğrencilerden kavram haritası oluşturmayı sağlayan web araçlarını kullanarak ders süresince açıklanan
+kavram ve ifadelerle uygun bir kavram haritası oluşturmaları istenir. Oluşturulan kavram haritaları
+öğretmen tarafından incelenir ve dönütler verilir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Dijital yeterlilik
+2. Ders (BT Sınıfı)
+Oyunlaştırılmış ölçme ve değerlendirme web araçları ile hazırlanan Denklem Çözme ve Kurma
+etkinliği öğretmen tarafından başlatılır (Ek-1). Öğrenciler bireysel olarak etkinlikte yer alan soruları
+cevaplar, öğrencilerin cevaplarının doğruluğuna ve cevaplama süresine göre oyunlaştırılmış ölçme
+ve değerlendirme web araçları tarafından puanlama yapılır, elde edilen sonuçlar skor tablosuna
+işlenir. Etkinliğin tamamlanmasının ardından skor tablosu sınıfa ilan edilir. Öğrencilerin zorlandıkları ve
+yapamadıkları alıştırmalar gönüllü öğrenciler veya öğretmen tarafından çözülerek açıklanır.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Dijital yeterlilik
+Ders Öncesi
+Ders öncesinde öğrencilerden derse gelirken karton, renkli kalem ve makas getirmeleri istenir.
+3. Ders (Sınıf)
+Öğrenciler dersin başında dörder veya beşer kişilik gruplara ayrılır. Gruplardaki öğrenciler birbirleri ile
+yardımlaşarak ellerindeki kartonlardan iki parçalı yapboz olacak şekilde parçalar çizip bunları makas
+yardımı ile keserler. Oluşturdukları ikili yapboz parçalarından birine denklem veya denklem problemini,
+diğerine denklemin çözümünde değişkenin alacağı değeri yazarlar. Her gruptan, gruptaki öğrenci sayısı
+kadar denklem içeren bir denklem problemi ve bu problemin çözümünü içeren bir yapboz hazırlaması
+beklenmektedir.
+Öğretmen, çalışma öncesinde öğrencilere çalışmalarının kendisi tarafından grup değerlendirme formu
+kriterlerine göre değerlendirileceği bildirir (Ek-2). Etkinlik sonunda öğretmen, grup değerlendirme formu
+ile grupları değerlendirir (Ek-2). Dersin sonunda öğretmen, öğrencilere evde tamamlamaları için EBA
+üzerinden Birinci Dereceden Bir Bilinmeyenli Denklemler alt konu testini ev çalışması olarak gönderir.
+İlgili Yetkinlikler/Beceriler: Yaratıcılık, Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + alt konu testi
+• Kavram haritası oluşturmayı sağlayan web araçları
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Grup değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Birinci Dereceden Bir Bilinmeyenli Denklemler: https://meb.ai/oeCXgZ (Son erişim tarihi: 09.05.2024)
+2. Denklem Çözme ve Kurma Etkinliği: https://meb.ai/dnbyF7 (Son erişim tarihi: 27.01.2025)
+3. EBA Birinci Dereceden Bir Bilinmeyenli Denklemler-Alt Konu Testi: http://meb.ai/AUscWv (Son erişim
+tarihi: 09.05.2024)
+Kaynakça
+Ertürk, R. (2017). İlkokul öğrencilerinin çevre sorunları ve çevre eğitimine yönelik algıları. İnönü Üniversitesi
+Eğitim Fakültesi Dergisi, 18(3), 12-24.
+Genially. (2025). Denklemler her yerde-denklem çözme ve denklem kurma. Son erişim tarihi 27 Ocak
+2025, https://view.genially.com/6787e759bdb3ca3cb64108d1/interactive-content-denklemler-her-
+yerde-denklem-cozme-ve-denklem-kurma
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Denklem Çözme ve Denklem Kurma Etkinliği Soruları
+Ek-2: Grup Değerlendirme Formu (Öğretmen İçin)
+EK-1
+Denklem Çözme ve Denklem Kurma
+Etkinliği Soruları
+Aşağıda verilen soruları çözerek doğru olduğunu düşündüğünüz cevabı
+işaretleyiniz.
+1. x
+A) 18
+B) 12
+C) 6
+D) 2
+3x-4 8
+2. 5 = 3 olduğuna göre x kaçtır?
+A) 3
+B) 28
+9
+C) 4
+D) 52
+9
+x + 2x =7 olduğuna göre x kaçtır?
+3. 5 4
+A) 5
+B) 7
+C) 10
+D) 21
+(2x-2) (2x+4)
+4. - =2 olduğuna göre x kaçtır?
+A) -1
+B) 0
+C) 12
+D) 22
+EK-1
+5. Hangi sayının yarısı ile üç katının toplamı 42’dir?
+A) 10
+B) 12
+C) 18
+D) 20
+6. Yaz aylarında sokak hayvanlarının su ihtiyaçlarını karşılamaları için dışarı
+bırakılan bir kap suyun her gün sekizde birinin buharlaştığı ve dörtte
+birinin hayvanlar tarafından içildiği tespit edilmiştir.
+Birinci gün bu kaptan 3 litre su eksildiğine göre bu kapta başlangıçta
+kaç litre su vardır?
+A) 6
+B) 8
+C) 16
+D) 36
+7. Düz bir tahta çubuğun sağ tarafından beşte biri sol tarafından ise
+altıda biri aynı anda kesildiğinde çubuğun uzunluğunun 44 cm kısaldığı
+görülmektedir.
+Buna göre bu çubuk başlangıçta kaç santimetredir?
+A) 60
+B) 90
+C) 120
+D) 150
+8. Bir top belli bir yükseklikten bırakıldığında yere çarptıktan sonra her
+defasında yerden yüksekliğinin 2 ’ü kadar yükseğe çıkmaktadır.
+3
+Bu top yere ikinci kez çarptığında 8 cm yükseldiğine göre ilk anda
+yerden yüksekliği kaç santimetredir?
+A) 12
+B) 18
+C) 24
+D) 30
+EK-2
+Grup Değerlendirme Formu (Öğretmen İçin)
+Bu form, öğrenci gruplarının denklem kurma ve çözme ile ilgili yapboz etkinliğinin öğretmen tarafından değerlendirilmesi amacıyla hazırlanmıştır.
+Her grup için kriterlere uygun 1 ile 5 arasında puanlama yapılarak toplam puan belirlenecektir.
+Grup Adı: .................................................
+Grup Üyeleri: ........................................
+DERECELER
+KRİTERLER
+Geliştirilebilir Kısmen Yeterli Yeterli İyi Çok İyi
+(1) (2) (3) (4) (5)
+1. Grup üyelerinin çalışmaya aktif katılımı
+2. Grup üyelerinin birbirleri ile iş birliği
+3. Grup üyelerinin arasındaki iletişim
+4. Grup üyelerinin zaman yönetimi
+5. Grup üyelerinin problemi anlama durumları
+6. Grup üyelerinin çözüm stratejisi geliştirmesi
+7. Oluşturulan ürünün özgünlüğü
+TOPLAM PUAN
+Eklemek İstedikleriniz
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Denklemler Her Yerde
+Cevap Anahtarı
+Ek-1
+SORU CEVAPLAR
+Denklemler Her Yerd
+LINKS:[["EBA Birinci Dereceden Bir Bilinmeyenli Denklemler", "oeCXgZ"], ["Denklem Çözme ve Kurma Etkinliği", "dnbyF7"], ["EBA Birinci Dereceden Bir Bilinmeyenli Denklemler-Alt Konu Testi", "AUscWv"]]

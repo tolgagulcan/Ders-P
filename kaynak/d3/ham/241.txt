@@ -1,0 +1,89 @@
+## 6. Sinif/Matematik/Geometrik Nicelikler - Benim Odam, Benim Dunyam.pdf
+SURE:5 KOD:MAT.6.4.1.
+KAV:Uzunluk ölçme birimleri, Alan ölçme birimleri, 3B tasarım
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Okuduğunu Anlama-Mimar Sinan etkileşimli içeriğini EBA’dan öğrencilerle paylaşır. Öğrencileri
+2-4 kişilik gruplara ayırır ve 3B model oluşturmayı sağlayan araç hakkında kısaca bilgilendirir. Uygulamada
+hesabı olmayan öğrencilere hesap açmaları için yardımcı olur. Her gruptan en az bir öğrencinin uygula-
+madaki sınıfa dâhil olmasını sağlar.
+Her grup bir bilgisayarın başına geçer. Öğretmen, Mimar Sinan etkileşimli içeriğini etkileşimli tahtada
+açar ve içerikteki boşlukları doldurmaları için öğrencilere 5 dakika süre verir. Süre tamamlandıktan sonra
+istekli öğrencileri sırayla tahtaya kaldırarak boşlukları doldurmalarını ister. Etkinlik tamamlandıktan sonra
+öğretmen “Sizler de birer mimar olmaya ne dersiniz?” der. Öğrencilere hepsinin birer iç mimar olduğunu
+söyler ve onlardan 3B model oluşturmayı sağlayan araçlardan birini kullanarak hayallerindeki odayı tasar-
+lamalarını ister.
+Öğretmen, tasarımlar başlamadan önce öğrencilere “Odanızda hangi nesnelerin olmasını isterdiniz?”
+sorusunu yöneltir ve onlardan cevaplarını söylemelerini ister. Tüm öğrenciler fikirlerini belirttikten sonra
+ortak sonuçları sınıfa sunar ve öğrencilerden tasarımlarını bu sonuçlara göre yapmalarını ister. Öğrenci-
+lerle Hayalimdeki Odam bağlantısını paylaşır. Tasarımlar yapılırken dikkat edilmesi gereken noktaları etkile-
+şimli tahtada açar:
+• Nesnelerin en, boy ve yükseklikleri arasındaki oran günlük hayattaki örneğine uygun olmalıdır.
+• Nesnelerin büyüklükleri birbirine uygun olmalıdır.
+• Tasarlanan nesneler verilen çalışma alanına sığmalıdır.
+• Nesneler çalışma alanına uygun şekilde konumlandırılmalıdır.
+Öğrenciler tasarımlarını yaparken öğretmen, ihtiyaç duyan öğrencilere geri bildirimde bulunur.
+Nesne, olgu ve olaylara ilişkin değişkenleri/ölçütleri belirlemek, Mevcut bilgisi
+dâhilinde varsayımda bulunmak, Karşılaştırmak, Gözleme dayalı tahmin etme
+becerisi, Ekip (takım) çalışması yapmak ve yardımlaşmak, Dijital ortamlar için
+içerik oluşturma ve paylaşma
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, bir önceki ders oluşturulan gruplar ile ders devam eder. Öğrencilerin tasarımını yaptıkları nesne-
+lerin uzunluklarını ve alanlarını not etmeleri için grup sayısı kadar çıktı alır (Ek-1).
+3. Ders (Sınıf)
+Öğretmen, grupların yaptığı etkinlikleri etkileşimli tahtadan açarak her bir grubun tasarımını öğrencilerle
+birlikte sırasıyla inceler. Tasarımda yer alan nesnelerin kenar uzunlukları ve yüzey alanlarının verilen alana
+yerleştirilebilecek büyüklükte olmasına dikkat eder. Yanlış yapılan tasarımlarla ilgili geri bildirimde bulunur.
+Tasarımı eksiksiz olan grupları tebrik eder, etkinliklerinin renkli çıktısını alır ve sınıf panosunda sergiler.
+Öğretmen tasarımlardan birini etkileşimli tahtadan açar. Öğrencilere kullandıkları uygulamada çalışma
+alanında bulunan nesnelerin kenar uzunluklarının milimetre birimiyle oluşturulduğunu söyler. Gruplardan
+etkileşimli tahtada gördükleri her bir nesnenin kenar uzunluklarını ve alanını dağıtmış olduğu kâğıtta belir-
+tilen birim için bulmalarını ve not etmelerini ister (Ek-1). Uzunluk birimlerinin birbirine dönüşümü ve alan
+hesaplama ile ilgili hatırlatmaları yaparak etkinliğin tamamlanma sürecini takip eder. Etkinlik tamamlan-
+dıktan sonra her grup, kendi kâğıdını kontrol etmesi için sağındaki gruba verir. Öğretmen, uzunluk ve alan
+hesaplamaları yapmaları için istekli öğrencileri sırayla etkileşimli tahtaya kaldırır. Tablo tamamlandıktan
+sonra hatalı ölçümler ve hesaplamaların düzeltilmesini sağlar.
+Ders Sonrası
+Öğretmen, öğrencilerden yapmış oldukları tasarımların görüntülerini EBA’da paylaşmalarını ister. Paylaşılan
+görsellerle sanal sergi oluşturmak için istekli öğrencilerden birini seçer. Sanal sergi tamamlandıktan sonra
+etkinliğin bağlantısını okulun web sayfasında paylaşır.
+Mantıksal denetleme becerisi, Muhakeme, Başkalarını etkin şekilde dinlemek, Duygu
+ve düşüncelerini ifade etmek, Ekip (takım) çalışması yapmak ve yardımlaşmak,
+Görsel hakkında eleştirel düşünme, Dijital ortamlar için içerik oluşturma ve paylaşma
+Ders Öncesi
+Öğretmen, Alan Ölçme Birimleri videosunu ve Alan Ölçme Birimleri etkileşimli içeriğini izlemeleri için EBA’dan
+öğrencilerle paylaşır.
+Öğretmen Yenilikçi Sınıf’ta Birim Karmaşası etkinlik kâğıdının sınıf mevcudu kadar çıktısını alır (Ek-2).
+4. Ders (Sınıf)
+Öğretmen, dersten önce gönderdiği video ve içerikler hakkında öğrencilere kısa bir açıklama yapar ve
+öğrencilerin soruları varsa cevaplandırır. Etkileşimli tahtadan oyunlaştırılmış ölçme ve değerlendirme web
+araçları ile hazırlanan Park Tasarımı etkinliğini açar. Etkinlikteki açıklamaları okur ve öğrencilerden alıştırma-
+ları yapmalarını ister. Öğrenciler alıştırmaları tamamladıktan sonra istekli öğrencilerden etkileşimli tahtada
+alıştırmaları açıklayarak çözmelerini ister. Öğrenci doğru açıklama yaptığında öğrenciyi tebrik eder, yanlış
+açıklama yaparsa geri bildirim vererek doğru cevabı vermesi için öğrenciyi yönlendirir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, Yenilikçi Sınıf’ta Birim Karmaşası etkinlik kâğıdını öğrencilere dağıtır ve onlardan etkinliği yapma-
+larını ister (Ek-2). Etkinlik tamamlandıktan sonra soruları cevaplamaları için istekli öğrencileri sırasıyla etkile-
+şimli tahtaya kaldırır. Sorular tamamlanınca öğretmen Yenilikçi Sınıf’ta Birim Karmaşası Cevap Anahtarı’nı
+öğrencilerle paylaşır. Tüm soruları doğru cevaplayan öğrenci/öğrencileri tebrik eder.
+Matematiksel çözümler geliştirme, Dijital bilgiyi karşılaştırmak
+Ders Öncesi
+Öğretmen, eşleştirme yapabilmeyi sağlayan web araçlarından birini kullanarak Uzunluk ve Alan Ölçü Birim-
+lerini Bul etkinliğini hazırlar (Ek-3). Çoktan seçmeli test hazırlamayı sağlayan web araçlarından birini kulla-
+narak Uzunluk ve Alan Ölçme Birimleri konusu ile ilgili test hazırlar. Ayrıca web aracının kullanımı hakkında
+öğrencileri kısaca bilgilendirir, web aracında öğrencilerin kullanacağı kod kâğıtlarının çıktısını alır ve öğren-
+cilere dağıtır.
+5. Ders (Sınıf)
+Öğretmen, etkileşimli tahtada eşleştirme yapabilmeyi sağlayan web araçlarından birini kullanarak hazırla-
+dığı Uzunluk ve Alan Ölçü Birimlerini Bul etkinliğini açar. Öğrencilerin tüm eşleştirmeleri yapmaları için yeterli
+süre verir. Süre tamamlandığında istekli öğrencileri sırasıyla etkileşimli tahtaya kaldırır ve onlardan çözüm-
+leri açıklayarak yapmalarını ister.
+Etkinlik tamamlandıktan sonra öğretmen, EBA soruları ile hazırladığı Uzunluk ve Alan Ölçme Birimleri testini
+etkileşimli tahtada açar. Öğrencilerin ilk soruyu cevaplamasını bekler. Öğrenciler soruyu cevapladıktan
+sonra onlardan cevaplarının yazılı olduğu kodu göstermelerini ister. Öğrencilerin cevap kodlarını okutur
+ve soruyu doğru cevaplayan öğrenciler arasından istekli bir öğrenciyi soruyu çözmesi için tahtaya kaldırır.
+Soru cevaplandıktan sonra öğretmen diğer soruya geçer. Tüm sorular cevaplanınca en fazla doğru cevabı
+veren öğrenci veya öğrencileri tebrik eder.
+
+LINKS:[["EBA Okuduğunu Anlama Mimar Sinan", "9V8r5f"], ["EBA Mimar Sinan", "ohFLBy"], ["Hayalimdeki Odam", "UP5ziYY"], ["EBA Alan Ölçme Birimleri", "M4gKic"], ["EBA Alan Ölçme Birimleri-Etkileşimli İçerik", "UitvxpC"], ["Park Tasarım", "UVQsNMb"], ["Yenilikçi Sınıf’ta Birim Karmaşası", "i3ks0s"], ["Yenilikçi Sınıf’ta Birim Karmaşası Cevap Anahtarı", "7XLQQh"], ["Uzunluk ve Alan Ölçü Birimlerini Bul", "LbG9Re"], ["Uzunluk ve Alan Ölçme Birimleri", "FnzSaV"]]

@@ -1,0 +1,101 @@
+## 5. Sinif/Matematik/Geometrik Sekiller - Cemberden Ucgene.pdf
+SURE:5 KOD:MAT.5.3.7.
+KAV:Çember, Yarıçap, Merkez, Üçgen
+Öğrenme Etkinlikleri
+1. Ders (Okul Bahçesi)
+Öğretmen, öğrencilerden sınıf mevcuduna göre altışar veya yedişer kişilik gruplar oluşturmalarını ister. Gruplar
+okul bahçesinde el ele tutuşarak çemberler oluştururlar. Öğretmen, ısınma etkinliği olarak bir kelime oyunu
+oynayacaklarını öğrencilere söyler. Bu oyunda çemberdeki öğrencilerden biri, sağında yer alan arkada-
+şına bir kelime söyleyerek oyunu başlatır. Sağında yer alan arkadaşından, söylenen kelimenin son harfinden
+yeni bir kelime türetip sağında bulunan diğer arkadaşına söylemesini ister. Bu şekilde her öğrenci sağındaki
+arkadaşına bir kelime söyler. Bu döngü, çemberdeki öğrenciler tamamlanana kadar devam eder. Öğretmen,
+oyunu başlatacak öğrencileri rastgele belirler ve ilk kelimeyi belirlemede öğrencilere rehberlik eder.
+Dersin devamında öğretmen, oyunu sonlandırarak çemberi oluşturan öğrenci gruplarına “Bir kelimeden yeni
+kelimeler türettiğimiz gibi acaba bir geometrik şekli kullanarak başka geometrik şekiller türetebilir miyiz?”
+sorusunu yöneltir. Öğrencilerin bu soruya verdikleri cevapları tek tek dinler. Ardından, “Çember şeklini kulla-
+narak yeni geometrik şekiller türetebilir miyiz?” sorusunu yöneltir. Öğrencilerin düşüncelerini rahatlıkla ifade
+edebileceği bir tartışma ortamı oluşturur. Öğretmen, iki farklı noktada kesişen çember şekli oluşturmaları
+için gönüllü olan iki çember grubunu seçer. Öğrenciler bu şekli oluşturmaya çalışırken yardımcı olur. Öğren-
+cilerden oluşan şekle bakarak ortaya çıkabilecek yeni geometrik şekiller hakkında düşünmelerini ister.
+Uyum, İletişim, İş birliği, Özgün düşünme
+2. Ders (BT Sınıfı)
+Öğretmen, görsel düzenleme araçlarından biri ile oluşturulan Kesişen Çember Logoları görselini etkileşimli
+tahtada açarak öğrencilerden bu logoları incelemelerini ister. Görselde yer alan tasarımlar hakkında görüş
+belirtmelerini gönüllü öğrencilerden ister. İnsanlığın var oluşundan bu yana merak edilen, doğada çeşitli
+nesnelerde rastlanılan ve sıkça çizimi yapılan geometrik şekillerin başında çemberin yer aldığını öğrenci-
+lere aktarır. Ayrıca süslemelerden mimariye, tasarımlardan tekstile kadar pek çok alanda çembere geniş
+yer verildiğini belirtir. Geometri çalışmalarının ilerlemesiyle, çemberin tek başına kullanılmasının yanı sıra,
+birden fazla çemberle kusursuz çokgenler veya farklı şekiller oluşturulabileceğinin keşfedildiğini anlatır.
+Ülkelerin bayraklarından büyük şirketlerin marka logolarına ve otomobil tasarımlarına kadar pek çok alanda
+çemberlerin kullanıldığını vurgular.
+Dersin devamında öğrencilerden bu bilgiler doğrultusunda bireysel olarak logo oluşturmayı sağlayan
+araçlar yardımıyla çemberleri kullanarak bir logo tasarlamalarını ister. Öğrenciler tasarladıkları logoları sınıf
+yönetimi araçlarını kullanarak öğretmen ile paylaşır. Öğretmen, tasarımı biten logoları etkileşimli tahtada
+açarak gösterir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, üçgen oluşturma etkinlik kâğıdının yeterli sayıda çıktısını alarak derse getirir (Ek-1).
+3. Ders (BT Sınıfı)
+Öğretmen, bu derste dinamik matematik ve geometri araçlarını kullanarak çemberler yardımıyla farklı türde
+üçgenler oluşturacaklarını öğrencilere söyler. Öğrencilere etkileşimli tahtadan görsel düzenleme araçlarından
+biri ile hazırlanan Çemberlerden Üçgen Oluşturma Örneği görselini açar. Gerçekten de tüm üçgen şekille-
+rinin çemberler kullanılarak oluşturulup oluşturulamayacağını öğrencilere sorar. Öğrencilerden bu soruya
+cevap verirken “Evet” veya “Hayır” seçeneklerinden birini seçmelerini ister. Öğrencilerden verdikleri cevaplara
+ilişkin gerekçelerini açıklamalarını ister ve gönüllü öğrencilere söz hakkı verir. Ardından “Haydi, hep birlikte
+bu sorunun cevabını bulalım!” diyerek etkileşimli tahtada dinamik matematik ve geometri uygulamasını
+açar. Öğretmen sıra ile verilen uygulama adımlarını uygular ve bu adımları beyaz tahtaya not eder (Ek-2).
+Öğretmen, bu adımların ardından öğrencilere iki çemberin kesişimi ile farklı türlerde üçgenler oluşturulabi-
+leceğini ifade eder. Hatta bu yöntemle üçgenlerin kenar uzunluklarını hiç ölçmeden kolayca farklı türlerde
+üçgen çizebileceklerini söyler.
+Öğretmen, sınıfı dörder kişilik gruplara ayırır. Gruplardan dinamik matematik ve geometri aracını kullanarak
+çemberler aracılığıyla farklı türde üçgenler oluşturmalarını ister. Gruptaki dört öğrenciden her biri, tahtada
+yazılı adımlardan birini uygular ve böylece grup, üçgeni tamamlar. Grup üyeleri, bu üçgenin kenarlarına
+göre hangi tür üçgen olduğu ile ilgili varsayımda bulunurlar. Öğretmen, bu varsayımlarla ilgili dinamik
+matematik ve geometri aracı üzerinde üçgenlerin kenar uzunluklarının ölçülerini göstererek öğrencilere
+geri bildirimde bulunur.
+Çalışmanın tamamlanmasından sonra öğretmen, iki noktada kesişen iki çemberden eşkenar üçgen, ikizkenar
+üçgen ve çeşitkenar üçgen oluşturabilmek için gerekli olan çember özelliklerinin yer aldığı üçgen oluşturma
+etkinlik kâğıdını gruplara dağıtır (Ek-1). Öğrencilerden bu etkinlik kâğıdını doldurmalarını ister. Doldurulan
+etkinlik kâğıtları sınıfta değerlendirilir ve gerekli dönütler verilir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencilerden pergel, cetvel ve kareli A4 kâğıtları ile derse gelmelerini ister.
+Çalışma sonrası öğrencilere dağıtılacak olan öz değerlendirme formunun çıktısını sınıf mevcudu kadar
+alarak derse getirir (Ek-3).
+4. Ders (Sınıf)
+Öğretmen, öğrencileri her grupta 4 veya 5 kişi olacak şekilde heterojen gruplara ayırır (Grup sayısının
+istasyon tekniği ile yapacaklarını, keyifli ve öğretici bir çalışma olacağını söyler. Oluşturacağı her üç grup
+için bir çalışma alanı düzenler. Grup üyeleri rahat çalışabilmek için sıralarını yaklaştırarak bir araya gelir.
+Öğretmen, her üç grubun çalışma alanındaki masalara “Eşkenar Üçgen, İkizkenar Üçgen ve Çeşitkenar
+Üçgen” isimlerini A4 kâğıdına yazarak asar. Grupları yerleşim planına göre çalışma alanlarına yönlendirir
+(Ek-4). Öğretmen, öğrencileri grup masalarına yerleştirdikten sonra önceki derslerde çemberlerle oluştu-
+rulan eşkenar, ikizkenar ve çeşitkenar üçgenin oluşturulması için çizilmesi gereken çemberlerin özellik-
+leri hakkında hatırlatmalar yapar. Devamında istasyon tekniğinin nasıl uygulanacağı hakkında bilgi verir.
+Öğretmen, öğrencilere şu yönergeleri verir:
+1. Süre başladığında her grubun öğrencileri kendi bulundukları masadaki üçgeni oluşturmak için çizim
+yapmaya başlarlar (5 dk.).
+2. Süre bittiğinde tüm gruplar yaptıkları işi bırakır. Eşkenar üçgen masasındakiler ikizkenar üçgen masasına,
+ikizkenar üçgen masasındakiler çeşitkenar üçgen masasına ve çeşitkenar üçgen masasındakiler de
+eşkenar üçgen masasına geçerek arkadaşlarının yarım bıraktıkları çizimleri tamamlamaya çalışır (5 dk.).
+3. İkinci turun süresi tamamlandığında yine gruplarda çalışan öğrenciler aynı sıra ile yer değiştirir ve tekrar
+yarım kalan işleri tamamlamaya çalışırlar (5 dk.).
+4. Bu döngü, her grubun çalışmaya başladığı ilk istasyona geri dönmesiyle tamamlanır ve böylece çalışma
+sona ermiş olur.
+Öğretmen, her bir istasyon için çalışma süresini sınıfın seviyesine göre 4 ila 8 dakika olarak belirleyebilir.
+Çalışmanın sonunda öz değerlendirme formlarını öğrencilere dağıtarak öğrencilerden bu formu doldur-
+malarını ister (Ek-3).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, oyunlaştırılmış ölçme ve değerlendirme web araçları ile Kesişen Çemberlerle Üçgen Oluşturma
+etkinliğini oluşturur (Ek-5).
+5. Ders (BT Sınıfı)
+Öğretmen, bu derste öğrencilerin öğrenmelerini belirlemek için Kesişen Çemberlerle Üçgen Oluşturma etkin-
+liğini açar (Ek-5). Öğrenciler hazır olduğunda etkinliği başlatır ve etkinlikte yer alan doğru-yanlış ve çoktan
+seçmeli türündeki soruları bireysel olarak yanıtlar. Süre tamamlandığında öğretmen, etkinlik sonuçlarını
+öğrencilerle analiz eder. Öğrencilerin yanlış veya eksik bölümlerini belirledikten sonra gönüllü öğrenciler
+tarafından soruların tekrar cevaplanmasını ve çözüm aşamalarının tartışılmasını sağlar.
+Ders Sonrası
+Öğretmen, hazırladığı “Çemberden Üçgene” çalışma sorularını EBA üzerinden öğrencilere gönderir (Ek-6).
+Çalışmayı tamamlayan öğrencilerin çalışmalarını tekrar EBA üzerinden öğretmene göndermelerini söyler.
+
+LINKS:[["Kesişen Çember Logoları", "Nxbro8"], ["Çemberlerden Üçgen Oluşturma Örneği", "Be1NMG"], ["Kesişen Çemberler ile Üçgen Oluşturma", "UYKeTXP"]]

@@ -1,0 +1,46 @@
+## 5. Sinif/Sosyal Bilgiler/Evimiz Dunya - Benim Guzel Ilim.pdf
+SURE:2 KOD:S.B.5.2.1.
+KAV:Konum, Göreceli konum, Özel konum
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, bilişim teknolojileri sınıfını öğrencilerin kullanımına uygun bir şekilde hazırlar.
+1. Ders (BT Sınıfı)
+Öğretmen bu derste ilk olarak, EBA’da yer alan Kültür ve Şehir-Antalya adlı videoyu etkileşimli tahtadan
+açar. Videoda yer alan bilgilerin Antalya ilimizin göreceli konum özelliklerine ait olduğunu söyler. Ardından
+ülkemizde bulunan her ilin kendine özgü göreceli konum unsurlarının olduğunu belirtir. Etkinlik sonrasında
+öğrencilerden seçtikleri bir ilin göreceli konumuna ilişkin özellikleri (doğal kaynakları, kültürel unsurları, tarihî
+ve coğrafi değerleri) yansıtan, en çok iki dörtlükten oluşan bir şiir yazmalarını ister. Öğrencilerine bu şiiri
+yapay zekâ destekli araçları kullanarak oluşturmalarını söyler. Şiir etkinliği tamamlandıktan sonra şiirle-
+rinde geçen göreceli konum özellikleri ile ilgili anahtar kelimeleri belirlemelerini öğrencilerinden Öğretmen,
+öğrencilerden yazdıkları şiirde öne çıkan anahtar kelimeleri kullanarak kelime bulutu oluşturma araçla-
+rından biriyle bir kelime bulutu hazırlamalarını ve bunu EBA’da paylaşmalarını ister. EBA’da paylaşmala-
+rını ister. Tüm bu etkinliklerin öz değerlendirme yapmayı sağlayan web aracında hazırladığı Şiir Yazma
+ve Kelime Bulutu Etkinliği Öz Değerlendirme Formu ile kendileri tarafından değerlendirileceğini bildirir ve
+formun kriterlerinden bahseder (Ek-1). Öğretmen web araçlarıyla tasarlanan etkinliklerle dersi eğlenceli
+hâle getirmeyi amaçlar. Bu etkinlikler, konuya olan ilgiyi artırır ve öğrenilen bilgilerin pekiştirilmesini sağlar.
+Öğretmen, varsa eksik ya da yanlış öğrenmeleri giderir.
+Bilgi parçaları arasında ilişki kurmak, Bir olay, konu ve durum ile ilgili ulaşılan bilgileri
+doğrulamak, Mekânsal bağlantıları çözümleme, Yaratıcılık, Bilgiyi özetleme, Duygu
+ve düşüncelerini ifade etmek, Dijital bilgiyi anlamlandırma, Dijital bir görevin yerine
+getirilmesinde dijital kaynakları belirlemek, Dijital ortamlar için içerik oluşturma
+ve paylaşma.
+Ders Öncesi
+Öğretmen, bilişim teknolojileri sınıfını öğrencilerin kullanımına uygun bir şekilde hazırlar.
+2. Ders (BT Sınıfı)
+Bu derste öğretmen öncelikle, öğrencilerin etkinliklerindeki kendi performanslarını değerlendirmeleri amacıyla
+Şiir Yazma ve Kelime Bulutu Etkinliği Öz Değerlendirme Formu’nu paylaşır ve öğrencilerin kendilerini değer-
+lendirmelerini ister (Ek-1). Öğretmen, oyunlaştırılmış ölçme ve değerlendirme web araçlarını kullanarak hazır-
+ladığı Süreç Değerlendirme öğrencileri ile paylaşır (Ek-2). Etkinlik için öğrencilerine yeterli süre verir. Belir-
+tilen süre içerisinde etkinliğini tamamlayan öğrenciler cevaplarını anında kontrol eder. Ardından öğretmen
+değerlendirme etkinliğinde yer alan soruları tüm sınıfla birlikte cevaplandırır. Bu etkinlikle öğretmen, süreç
+sonunda öğrenme kanıtlarının öğrencilere kazandırılıp kazandırılamadığını değerlendirme fırsatı bulur.
+Varsa eksik ya da yanlış öğrenmeleri düzeltir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Ders sonrasında öğretmen, öğrencilerinden kazanım değerlendirme etkinliğinde yanlış cevaplanan soruların
+doğru cevaplarını araştırıp ders defterlerine yazmalarını ister.
+Bulma, Birden fazla kavram veya duruma ilişkin özellikleri belirlemek, Sorumluluk,
+Bilgiyi çözümlemek, Oyunseverlik, Dijital bilgiyi anlamlandırma, Dijital bir görevin
+yerine getirilmesinde dijital kaynakları belirlemek
+
+LINKS:[["EBA Kültür ve Şehir-Antalya", "hIm4Zj"], ["Şiir Yazma ve Kelime Bulutu Etkinliği Öz Değerlendirme Formu", "UvfXTxz"]]

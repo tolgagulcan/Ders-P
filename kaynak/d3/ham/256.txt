@@ -1,0 +1,151 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (1) - Sayilarin Yapi Taslari-Asal Sayilar, Bolenler ve Katlar.pdf
+SURE:5 KOD:MAT.6.1.3. MAT.6.1.4.
+KAV:Asal sayılar, Asal çarpanlar, Ortak bölen, Ortak kat
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, görsel düzenleme araçlarını kullanarak 1’den 50’ye kadar numaralandırılmış Sayı Kartları hazırlar
+ve kartların çıktısını alır.
+1. Ders (Sınıf)
+Öğretmen derse bir keşif etkinliğiyle başlar ve şöyle der: “Bugün sayılar dünyasında gizemli bir yolculuğa
+çıkacağız. Bazı sayılar var ki bunlar, 1 ve kendileri dışında hiçbir sayıyla ilgilenmezler. Sizce bu özel sayılar
+hangileri? Şimdi bu sayıları birlikte keşfetmeye başlayalım.” Öğrencilerin her birine 1’den 50’ye kadar numara-
+landırılmış birer sayı kartı verir. Öğrencilerden ellerindeki sayının tüm bölenlerini bulmalarını ve kâğıda
+yazmalarını ister. Öğrencilerine “çarpan” ile “bölen” terimlerinin aynı anlamda olduğunu ve ders boyunca
+birbirlerinin yerine kullanılabileceğini hatırlatır. Öğrenciler bireysel olarak çalışırken öğretmen sınıfta dolaşır,
+ihtiyaç duyan öğrencilere rehberlik eder. Tüm öğrenciler çalışmasını tamamladıktan sonra sınıfa şu soruyu
+yöneltir:
+• Kaç kişinin sayısının yalnızca iki böleni (çarpanı) var? El kaldırabilir misiniz?
+El kaldıran öğrencilerden sayıları söylemesini ister ve bu sayıları tahtaya yazar. Öğrencilerle birlikte tahta-
+daki sayılara bakar ve soru cevap tekniğiyle onları yönlendirmek için aşağıdaki soruları sorar:
+• Bu sayılar neden farklı?
+• Bu sayıların her birinin kaç böleni var?
+• Hepsinde ortak olan bölen (çarpan) hangi sayı?
+• Acaba bu sayılara özel bir ad veriliyor olabilir mi?
+Öğretmen, öğrencilerin verdiği cevaplar doğrultusunda asal sayı kavramını açıklar. Daha önceden dinamik
+matematik ve geometri aracı ile hazırladığı Asal Sayı Bulma etkinliğini etkileşimli tahtada açar. Öğrenciler,
+ekrandaki rastgele sayı seçme butonuna tıklayarak 1’den 100’e kadar olan sayılardan oluşan listeden bir sayı
+seçer ve sayının asal olup olmadığını söyler. Daha sonra öğretmen, uygulama üzerinden sayının bölenle-
+rini görüntüler ve sınıfla birlikte sayının yalnızca iki böleni olup olmadığını kontrol eder. Ardından EBA’da yer
+alan Eratosten Kalburu etkileşimli içeriğini açar. Bu etkinlikte öğrenciler, verilen tablodaki sayılardan asal
+olmayanları eleyip asal olanları belirler. Bu süreçte öğretmen ise öğrencileri yönlendirir ve öğrencilere farklı
+sayılar üzerinde uygulamalar yaptırarak onların asal sayı kavramını pekiştirmelerini sağlar.
+Muhakeme (akıl yürütme), Yorumlama, Matematiksel doğrulama veya ispat
+yapma, Matematiksel temsillerden yararlanma, Matematiksel araç ve teknolojiden
+yararlanma, Merak, Sözlü ya da sözsüz olarak etkileşim sağlamak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+Öğretmen, öğrencilerin dikkatini çekmek için Goldbach Sanısı ile ilgili açıklama yaparak derse başlar ve
+öğrencilerden bağlantıda yer alan Goldbach hesap makinesinde deneme yapmalarını ister. Ardından
+öğrencilere şu açıklamayı yapar:
+“18. yüzyılda yaşayan Alman matematikçi Christian Goldbach, o dönem mektup arkadaşı olan ünlü matema-
+tikçi Euler’e ilginç bir gözleminden bahseder. 2 hariç tüm çift doğal sayıların, iki asal sayının toplamı şeklinde
+yazılabildiğini fark etmiştir. 8=3+5, 24=11+13 işlemleri bu duruma örnek gösterilebilir. İlk bakışta oldukça şaşır-
+tıcı görünen bu önerme, o zamandan beri sayısız matematikçi tarafından incelenmeye devam etmektedir
+çünkü asal sayılar, genellikle çarpanlar üzerinden tanımlanırken burada toplama işlemiyle karşımıza çıkıyor.
+Şimdi bu önermeyi birlikte deneyelim.” der. Goldbach Sanısı’na göre düzenlenen etkinlik sayesinde öğrenciler,
+asal sayı kavramını tekrar etmiş ve pekiştirmiş olur. Ardından öğretmen konuya devam eder. “Her insanın
+kendine özgü bir DNA’sı olduğunu biliyorsunuz. Peki, sayıların da kendilerine özgü bir DNA’sı olabileceğini hiç
+düşündünüz mü?” şeklinde bir soruyla öğrencilerin ilgisini konuya çeker. Sayıların da tıpkı canlılar gibi belirli
+yapı taşlarından oluştuğunu vurgular. Sayıları oluşturan bu en küçük, bölünemez parçalara asal çarpanlar
+dendiğini açıklar. Bu yapıların her sayıya özgü olduğunu, tıpkı DNA gibi onları benzersiz kıldığını ifade eder.
+Bu aşamada öğretmen, öğrencilerden kendi belirledikleri sayılar üzerinden asal çarpan örnekleri verme-
+lerini ister. Öğrenciler düşüncelerini ve sorularını sınıfla paylaşır, öğretmen ise doğru ve eksik öğrenmelere
+yönelik geri bildirimde bulunur ve gerekli düzeltmeleri yapar.
+Öğretmen, asal çarpanların mantığını somutlaştırmak amacıyla dinamik matematik ve geometri aracı
+ile hazırladığı Asal Çarpanlar etkinliğini etkileşimli tahtada açar. Öğrencilerden gönüllü olanlarla birlikte
+etkinliği yürütür. Etkinlikte öğrenciler, sürgüyü kullanarak bir sayı seçer ve bu sayının tüm bölenleri liste-
+lenir. Öğretmen, listelenen bölenler içerisinden hangilerinin asal olduğunu öğrenciler ile birlikte işaretler.
+Ardından öğrencilere yalnızca bu asal çarpanları kullanarak sayıyı yeniden oluşturup oluşturamayacakla-
+rını sorar. Öğrencilerden gelen cevapların ardından etkinlikteki asal bölenler listesini kontrol ederek doğru
+yapıyı gösterir. Böylece öğrenciler, asal çarpanlara ayırmanın sayıların temel yapısını ortaya koyduğunu
+deneyimleyerek kavrar. Öğrenciler, farklı sayıları seçerek etkinliği tekrarlar. Öğretmen, her yeni sayı için asal
+çarpanlara ayırma sürecinde öğrencilere yardımcı olur.
+Etkinliğin ardından öğretmen, EBA’daki Çarpan Ağacı Kullanarak Asal Çarpanlara Ayırma etkileşimli içeri-
+ğini açar. Bu etkinlikte öğrenciler, farklı sayıların asal çarpanlarını çarpan ağacı yöntemini kullanarak bulur.
+Daha sonra EBA’daki Asal Çarpanlar Algoritması Kullanarak Asal Çarpanlara Ayırma etkinliğini açar ve bu
+etkinlikte öğrencilere farklı sayıların asal çarpanlarını asal çarpan algoritması yöntemini kullanarak bulmayı
+gösterir. Etkinlik sırasında öğrenciler, ekrandaki adımları öğretmenle birlikte takip eder, sonuçları sözel olarak
+ifade eder ve gerekli yerlerde tahtaya çıkarak işlemleri tamamlar. Öğretmen, tahtada verilen bir sayıyı hem
+çarpan ağacı hem de asal çarpan algoritması yöntemiyle çözer. Öğrenciler de defterlerine benzer örnekler
+çözerek konuyu pekiştirir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, şekil ve çizim aracıyla hazırladığı Asal Çarpanlara Ayırma Alıştırma Soruları bağlantısını EBA
+üzerinden öğrencilere ödev olarak gönderir, burada yer alan soruları ve cevapları defterlerine yazmalarını
+söyler. Bir sonraki ders cevapların kontrol edileceğini belirtir.
+Matematiksel doğrulama veya ispat yapma, Matematiksel çözümler geliştirme,
+Dijital araçlarla iş görme, Görseli anlama, Görseli yorumlama
+Ders Öncesi
+Öğretmen, grup çalışması için sınıfı 3-4 kişilik gruplara ayırır.
+3. Ders (BT Sınıfı)
+Öğretmen, ders öncesinde belirlediği grupları bilgisayarların başına alır. Etkinliğin başında öğrencilere
+önceki derste sayıların asal çarpanlarının, sayıların matematiksel DNA’sı olduğunu öğrendiklerini hatırlatır.
+Bugün bu bilgiyi kullanarak bir oyun oynayacaklarını ve oyundaki gizli şifreleri çözmeleri gerektiğini açıklar.
+Oyunlaştırılmış ölçme ve değerlendirme web aracıyla hazırladığı Kripto Dedektifleri Görevde oyununun
+bağlantısını EBA’da paylaşır. Her grup, aşamalı olarak ekrana gelen sayıları asal çarpanlarına ayırır ve her
+asal çarpana karşılık gelen harfi bulmaya çalışır (örneğin 2 = A, 3 = B, 5 = C, 7 = D vb.). Öğrenciler, işlem-
+leri çarpan ağacı veya asal çarpan algoritması ile yapar ve şifreyi oluşturan harf dizisini not eder. Etkinlik
+süresince öğretmen, öğrencilerin neden belirli bir yöntemi seçtiklerini ve alternatif yolların olup olmadığını
+tartışmaya açar. Gruplar, birbirlerinin çözüm stratejilerini inceler; eksik veya farklı adımlar üzerine sorular
+sorar ve cevaplar.
+Öğretmen süreç boyunca grupları gözlemler, yönlendirici sorular sorar ve gerektiğinde öğrencilere rehberlik
+eder. Oyunu tamamlayan öğrencileri gösterdikleri çaba ve kararlılıktan dolayı tebrik eder. Dersin sonunda
+gruplar, en zorlandıkları soruyu ve çözümde hangi yöntemi neden tercih ettiklerini sınıfla paylaşır. Bu etkinlik
+sayesinde öğrenciler hem asal çarpanlara ayırma konusunu pekiştirir hem de matematiğin, şifre çözme
+gibi günlük yaşamla ilişkili alanlardaki önemini fark eder.
+Matematiksel çözümler geliştirme, Matematiksel temsillerden yararlanma, Matema-
+çalışması yapmak ve yardımlaşmak, Oyunseverlik
+Ders Öncesi
+Öğretmen, görsel düzenleme araçları ile hazırlanan Ortak Kat Alıştırma Soruları kâğıdının sınıf mevcudu
+kadar çıktısını alır (Ek-1).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+4. Ders (Sınıf)
+Öğretmen, etkileşimli sunum aracıyla hazırladığı Kuyruklu Yıldız Örnek Sorusu ile derse başlar. Soruyu etkile-
+şimli tahtada açarak soruda yer alan kuyruklu yıldızlarla ilgili kısa bilgileri öğrencilerle birlikte okur ve konu
+üzerine kısa bir sohbet ortamı oluşturur. Daha sonra öğrencilerin düşünmesini sağlamak amacıyla onlara
+şu soruları sorar:
+• İki olayın aynı anda gerçekleşmesi ne anlama gelir?
+• Sizce bu soruyu hangi matematiksel işlemleri yaparak çözebiliriz?
+Öğrencilerin çözümleri sınıfça değerlendirildikten sonra öğretmen “ortak kat” kavramını açıklar. Ardından
+EBA’daki Ortak Kat Problemi Çözme içeriğini açarak ortak katlarla ilgili problem çözümlerinin nasıl yapıl-
+dığını tekrar eder ve öğrencilerin konuyu pekiştirmelerini sağlar. Görsel düzenleme araçları ile hazırladığı
+Ortak Kat Alıştırma Soruları çalışma kâğıtlarını öğrencilere dağıtır ve belirlediği sürede soruları çözmele-
+rini öğrencilerden ister (Ek-1). Süre tamamlandığında çözümleri sınıfla birlikte değerlendirir, öğrencilerden
+çözüm yollarını açıklamalarını ister.
+Öğretmen, ortak bölen kavramına geçiş yapmak amacıyla görsel düzenleme aracı ile hazırladığı Afiş Tasarımı
+Örnek Sorusu bağlantısını etkileşimli tahtada açar. Soruda sokak hayvanlarını koruma ve besleme temalı
+bir afiş tasarımı yer almaktadır. Sorunun çözümüne geçmeden önce öğrencilerle kısa bir soru-cevap etkin-
+liği gerçekleştirir. Burada öğrencilerin düşünmesini desteklemek için şu soruları sorar:
+• Alanları verilen bu dikdörtgenlerin kenar uzunluklarını nasıl bulabiliriz?
+• [ZH] uzunluğu iki afiş için ortak olduğuna göre iki dikdörtgene ait farklı kenar uzunlukları için [ZH] kaç cm
+olabilir?
+Bu yönlendirmeler doğrultusunda öğrenciler, verilen ölçülerle afiş oluşturabilmek için ortak böleni kullanma-
+ları gerektiğini keşfederler. Öğretmen “ortak bölen” terimini tanıtarak matematiksel ifadesini sınıfla birlikte
+yazar. Daha sonra verdiği örnek üzerinde ortak bölenlerin nasıl bulunabileceğini adım adım gösterir. İşlem
+basamaklarını öğrencilerle birlikte uygulayarak açıklamalar yapar.
+Matematiksel çözümler geliştirme, Matematiksel temsillerden yararlanma, Matema-
+ya da sözsüz olarak etkileşim sağlamak
+5. Ders (Sınıf)
+Öğretmen, bir önceki ders işlediği konunun pekişmesi amacıyla EBA’daki Ortak Bölen Problemi Çözme içeri-
+ğini etkileşimli tahtada açarak problem çözme adımlarını tekrar eder. Dersin devamında dinamik matematik
+ve geometri aracı ile hazırladığı Ortak Bölen Alıştırma Soruları bağlantısını etkileşimli tahtada açar (Ek-2).
+Gönüllü öğrenciler verilen soruları tahtada çözer. Dersin son bölümünde öğretmen, dinamik matematik ve
+geometri aracı ile hazırladığı Aralarında Asal Sayılar Örnek Soruları bağlantısını etkileşimli tahtada açar.
+Her bir soru, öğrencilerin verilen sayıların ortak bölenleri olup olmadığını keşfetmelerini ve bu duruma ilişkin
+genellemeler yapmalarını amaçlar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğrencilerin gözlemleri ve açıklamaları doğrultusunda öğretmen, tahtaya “aralarında asal sayılar” kavra-
+mını yazar ve tanımı öğrencilerle birlikte oluşturur. Ders süresince öğrencileri yönlendirir, farklı stratejiler
+geliştirmelerini destekler. Öğrenci açıklamalarına sınıfça geri bildirim verilir ve ders tamamlanır.
+Ders Sonrası
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web aracıyla hazırladığı Değerlendirme Soruları
+bağlantısını EBA aracılığıyla paylaşır ve öğrencilere belirlediği tarihe kadar soruları çözmelerini söyler (Ek-3).
+Süre tamamlanınca öğrencilerin yanıtlarını sistem üzerinden inceler. Tüm sorular sistem tarafından otomatik
+olarak değerlendirilir ve puanlanır. Değerlendirme süreci sonunda bir sonraki derste öğrencilere bireysel geri
+bildirimde bulunur ve en çok hata yapılan sorular üzerine kısa bir sınıf tartışması başlatır. Böylece öğrenci-
+lerin hem bireysel öğrenme sürecini destekler hem de ortak hatalarını sınıf ortamında analiz eder.
+Matematiksel çözümler geliştirme, Matematiksel temsillerden yararlanma, Matema-
+tiksel araç ve teknolojiden yararlanma, Muhakeme (akıl yürütme), Yorumlama,
+Genelleme, Değerlendirme, Analitik düşünme, Dijital araçlarla iş görme
+
+LINKS:[["Sayı Kartları", "UVDVp55"], ["Asal Sayı Bulma", "BuSHJ1"], ["EBA Eratosten Kalburu", "UTRiEH2"], ["Goldbach Sanısı", "UoJDGOV"], ["Asal Çarpanlar", "AKcysv"], ["EBA Çarpan Ağacı Kullanarak Asal Çarpanlara Ayırma", "UhbRghf"], ["EBA Asal Çarpanlar Algoritması Kullanarak Asal Çarpanlara Ayırma", "VtVq67"], ["Asal Çarpanlara Ayırma Alıştırma Soruları", "Ue32vhK"], ["Kripto Dedektifleri Görevde", "U6sAQ8X"], ["Ortak Kat Alıştırma Soruları", "UMRu8kj"], ["Kuyruklu Yıldız Örnek Sorusu", "53mhqh"], ["EBA Ortak Kat Problemi Çözme", "SNiG2K"], ["Afiş Tasarımı Örnek Sorusu", "UP4ejkq"], ["EBA Ortak Bölen Problemi Çözme", "05eNgf"], ["Ortak Bölen Alıştırma Soruları", "NZEPVz"], ["Aralarında Asal Sayılar Örnek Soruları", "UhP0Aw8"], ["Değerlendirme Soruları", "kTvNLp"]]

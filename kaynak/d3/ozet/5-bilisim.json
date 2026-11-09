@@ -1,0 +1,17 @@
+[
+{"id":66,"unite":"Bilişim Teknolojilerinin Hayatımızdaki Yeri","ad":"Bilişimde Bilinçli Tercihler",
+"ozet":"Öğrenciler bilişim teknolojilerinin olumlu ve olumsuz yönlerini tartışır; ekran süresi, ergonomi ve dijital sağlık konusunda bilinçli alışkanlıklar kazanır.",
+"ozu":"<p>Teknoloji hayatı kolaylaştırır ama aşırı ve yanlış kullanım beden ve ruh sağlığını etkiler. Ergonomi; doğru oturuş, ekran uzaklığı ve yüksekliği, mola verme gibi kurallarla teknolojiyi sağlıklı kullanmaktır. Ekran süresi yaşa uygun sınırlanmalıdır.</p>",
+"dersler":[
+["Bilişim terazisi","“En sık kullandığınız teknolojiler hangileri, olumlu ve olumsuz yönleri neler?” sorularıyla tartışma yapılır. Öğrenciler “Bilişim Terazisi” etkinliğinde telefon, tablet, sosyal medya, bulut ve yapay zekânın artı ve eksilerini yazar; cevaplar sınıfça değerlendirilir."],
+["Ekran süresi ve ergonomi","“Günde ne kadar ekran başındasınız?” sorusuyla ekran süresi kavramı ve yaşa uygun süreler konuşulur. EBA'daki ergonomi videoları izlenir; öğrenciler doğru oturuş, ekran uzaklığı ve mola kurallarını kendi sıralarında uygular. Hatalı duruşları bulma etkinliği yapılır, öğrenciler bir hafta boyunca “Teknoloji Günlüğüm” tutar."],
+["Ekranın Ötesinde Güzel Bir Gün","Dijital hikâye kitabının kapağından olay tahmini yapılır, hikâye sayfa sayfa öğrencilere okutulur. Ekran süresi, göz yorgunluğu, bildirim yorgunluğu, uyku düzeni gibi durumlarda durulup sorular tartışılır. Ders öz değerlendirme formuyla biter."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları"},
+{"id":68,"unite":"Yazılım Tasarımı ve Programlama","ad":"Problem Dedektifleri",
+"ozet":"Öğrenciler günlük hayattaki sorunları problem cümlesine dönüştürmeyi ve balık kılçığı tekniğiyle problemin nedenlerini analiz etmeyi öğrenir.",
+"ozu":"<p>Bir problemi çözmenin ilk adımı onu doğru tanımlamaktır: durumu net bir problem cümlesine çevirmek ve kök nedenleri bulmak. Balık kılçığı (neden-sonuç) diyagramı, bir sorunun ana ve alt nedenlerini görselleştirir.</p>",
+"dersler":[
+["Problemi tanımlama","Ders öncesi EBA'daki Problem Çözme içeriği paylaşılır. Derste “Okuldan eve giderken hangi sorunlarla karşılaşıyorsunuz?” sorusuna öğrenciler dijital panoya cevap yazar; öğretmen bir cevabı örnek problem cümlesine çevirir, öğrenciler de kendi ifadelerini problem cümlesine dönüştürür. “Geç Kalma” kelime bulutuyla geç kalmanın nedenleri toplanır."],
+["Gecikme haritası (balık kılçığı)","5-6 kişilik gruplar kurulur, değerlendirme formu ve rubrik tanıtılır. Balık kılçığı tekniği anlatılır; her grup “geç kalma”nın bir nedenini alıp alt nedenlerini etkileşimli beyaz tahtadaki “Gecikme Haritası”na işler ve sunar. Ders sonunda Hanoi Kuleleri bulmacasıyla problem çözme pekiştirilir."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları"}
+]

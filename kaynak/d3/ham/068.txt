@@ -1,0 +1,63 @@
+## 5. Sinif/Bilisim Teknolojileri/Yazilim Tasarimi ve Programlama - Problem Dedektifleri.pdf
+SURE:2 KOD:BTY.5.6.1.
+KAV:Analitik düşünme, Bilgi işlemsel düşünme, Problem belirleme
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, EBA’da yer alan Problem Çözme etkileşimli içeriğini öğrenciler ile paylaşır ve onlardan Tartışalım
+kullanarak Yol Günlükleri içeriğini hazırlar. Kelime bulutu oluşturma aracı ile Geç Kalma etkinliğini oluşturur.
+Etkinlikte verilen kelimeler, kelime bulutunun nasıl görünebileceğine dair örnek niteliğindedir.
+1. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin günlük yaşamla bağlantı kurmalarını sağlamak amacıyla ders öncesinde hazırla-
+dığı Yol Günlükleri etkinliğinin bağlantısını öğrencilerle paylaşır. “Okuldan eve giderken sorunlarla karşıla-
+şıyor musunuz, bunlar nelerdir?” sorusunu öğrencilere yöneltir. Öğrenciler, yanıtlarını dijital panoda bulunan
+problem durumu başlığının altına yazar. Öğretmen, öğrencilerin yanıtlarını anlık olarak etkileşimli tahta
+üzerinden sınıfla paylaşır. Gelen cevaplardan birini örnek olarak seçer ve problem cümlesine dönüştü-
+rerek aynı dijital panoda bulunan problem cümlesi sütununa yazar. Öğrenciler de kendi ifadelerini problem
+cümlesi hâline getirerek dijital panoya ekler. Öğretmen, dijital panoda bulunan “Tepkiler” ve “Yorumlar”
+başlıkları aracılığıyla öğrencilere çalışmaları hakkında anlık geri bildirimde bulunur.
+Öğretmen, günlük yaşamda karşılaşılan problemleri belirlemek amacıyla anket araçları ile hazırladığı
+Problem Panosu etkinliğini öğrencilerle paylaşır. Daha sonra her öğrenci, günlük yaşamda karşılaştığı bir
+problemi belirler ve anket aracına yazar. Öğretmen; problem cümleleri yazılırken öğrenci adı, numarası
+gibi kişisel bilgilerin paylaşılmaması gerektiğini öğrencilere hatırlatır. Ardından gönüllü bir öğrenci seçerek
+ondan yazılan problem ifadelerini okumasını ister.
+Öğretmen, “Okula zamanında gelememenin nedenleri neler olabilir?” sorusunu sınıfa yöneltir ve verilen
+cevaplarda öne çıkan nedenleri görünür kılmak amacıyla ders öncesinde hazırladığı Geç Kalma etkinli-
+ğinin bağlantısını öğrencilerle paylaşır. Öğrenciler, cevaplarını öğretmenin gönderdiği etkinlik üzerinden
+paylaşır. Öğretmen, oluşan kelime bulutunu etkileşimli tahtada gösterir. Öğrenciler tekrar eden benzer
+cevapları alt problem olarak belirler.
+Ders Sonrası
+Öğretmen, birinci derste kullanılan dijital etkinliklerin bağlantılarını öğrenmenin devamını desteklemek
+amacıyla EBA’dan öğrencilerle paylaşır.
+Sorgulama, Soru sorma, Problemi belirlemek, İletişim, Esneklik, Sorumlu karar verme,
+yürütmek
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (BT Sınıfı)
+Öğretmen, bir grup çalışması yapacağını belirterek öğrencileri 5-6 kişilik gruplara ayırır. Grup üyelerinin
+sürece katkılarının grup üyeleri tarafından değerlendirileceğini açıklar. Grup değerlendirme yapmayı
+sağlayan web aracı ile hazırladığı Grup Değerlendirme Formu kriterleri hakkında bilgi verir (Ek-1). Ayrıca
+etkinliğin dereceli puanlama anahtarı (rubrik) ile değerlendireceğini açıklar ve Gecikme Haritası Etkinliği
+Analitik Rubriği değerlendirme kriterleri hakkında öğrencileri bilgilendirir (Ek-2). Öğrencilere balık kılçığı
+tekniği hakkında kısa bir ön bilgi verdikten sonra etkileşimli beyaz tahta aracılığıyla hazırladığı Gecikme
+Haritası etkinliğini sınıfla paylaşır. Öğretmen Geç Kalma etkinliği kapsamında, her grup için öğrencilerin
+belirlediği nedenlerden biri üzerinde çalışmalarını sağlar. Verilen nedene yol açan alt nedenler, grup üyeleri
+tarafından tartışılarak belirlenir ve birlikte değerlendirilir. Problem nedenleriyle birlikte analiz edildikten sonra
+gruplar aynı etkinlikteki tabloya problemin nedenlerine yönelik çözüm önerileri geliştirir. Son aşamada
+gruplar çalışmalarını sınıfa sunar. Diğer öğrenciler ise sunulan çözüm önerilerini değerlendirir ve görüşle-
+riyle sürece katkıda bulunur. Öğretmen, öğrenme süreci boyunca öğrencilere rehberlik eder ve geri bildi-
+rimlerde bulunur. Grup Değerlendirme Formu’nu öğrencilerle paylaşır (Ek-1). Her grup, formu doldurarak
+grup üyelerinin sürece katkılarını değerlendirir.
+Ders Sonrası
+Öğretmen, Grup Değerlendirme Formu’nun öğrenci yanıtlarını bütüncül biçimde inceler ve EBA’dan öğren-
+cilere geri bildirimde bulunur (Ek-1).
+Grupların sunduğu problem nedenleri ve çözüm önerilerini kapsam ve uygulanabilirlik açısından Gecikme
+Haritası Analitik Rubriği ile değerlendirir ve EBA’dan geri bildirimde bulunur (Ek-2).
+Öğrencilerin eğlenerek problem çözme deneyimi yaşamalarını sağlamak amacıyla oyunlaştırma web
+araçları ile hazırladığı Hanoi Kuleleri Bulmacası etkileşimli içeriğini EBA’dan gönderir. Öğrencilerden etkile-
+şimli içeriği tamamlamalarını ister. Öğrenciler; ulaştıkları çözümleri gözden geçirir ve farklı çözüm yolları
+olup olmadığını değerlendirir. Öğretmen, ikinci derste kullanılan dijital etkinliklerin bağlantılarını öğren-
+menin devamını desteklemek amacıyla EBA’dan öğrencilerle paylaşır.
+Çelişki giderme, Analitiktik, Soru sorma, Probleme ilişkin bilgileri belirlemek,
+Ayrıştırma, İletişim, İş birliği, Esneklik, Sorumlu karar verme, Bilgiyi kullanarak eleştirel
+düşünme, Dijital araçlar aracılığıyla etkileşimde bulunmak ve iş birliği yapmak
+
+LINKS:[["EBA Problem Çözme", "3dYpXX"], ["Yol Günlükleri", "LFnXD6"], ["Geç Kalma", "lCctiR"], ["Problem Panosu", "oHfQgt"], ["Grup Değerlendirme Formu", "UJeMxU4"], ["Gecikme Haritası", "Z9Pfrw"], ["Hanoi Kuleleri Bulmacası", "jB5A7e"]]

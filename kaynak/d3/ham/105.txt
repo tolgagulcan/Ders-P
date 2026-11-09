@@ -1,0 +1,115 @@
+## 5. Sinif/Matematik/Islemlerle Cebirsel Dusunme - Algoritmalarin Dunyasina Yolculuk.pdf
+SURE:5 KOD:MAT.5.2.4.
+KAV:Algoritma, Kod yazma, Oyun tasarlama, Robot
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, bahçede yapacağı etkinlik için öğrencileri 3-4 kişilik gruplara ayırır ve kullanacakları parkuru
+okul bahçesinde hazırlar. Grupların etkinlikte kullanacakları komutları yazmaları için gereken kâğıdı grup
+sayısı kadar temin eder.
+1. Ders (Bahçe)
+Öğretmen, öğrencileri bahçeye çıkarır ve derse eğlenceli bir oyunla başlar. Önce, verdiği komutlar doğrul-
+tusunda bahçede belirlediği bir noktaya ulaşmalarını birkaç öğrenciden ister ancak onlara komutları yanlış
+sırayla verir. Örneğin “Önce sağa dön, 5 adım ilerle, sonra sola dön ve 3 adım geri git.” Öğrenciler, komut-
+ların yanlış sıralanması nedeniyle hedefe ulaşamaz. Ardından öğretmen, “Sizce neden hedefe ulaşama-
+dılar?” sorusunu yönelterek öğrencileri düşünmeye teşvik eder. Öğrenciler, komutların doğru ve sıralı olması
+gerektiğini fark ettiklerinde öğretmen onları asıl etkinliğe hazırlar.
+Öğretmen, öğrencilere “Sevgili çocuklar, hayal edin. Elinizde bir robot var ve bu robot sadece sizin verdiğiniz
+komutlara göre hareket edebiliyor. Aman dikkat! Yanlış bir komut verirseniz robotunuz yanlış yöne gidebilir ya
+da engellere takılabilir. Sizce, hazırladığım bu parkurda robotu güvenli bir şekilde hedefe ulaştırmak için nasıl
+bir plan yapmalısınız?” der. Öğrencilerin bu soruyla algoritmaların ve sıralı adımların önemini keşfetmelerini
+sağlar. Öğretmen, öğrencilerin soruyla ilgili fikirlerini paylaşmalarına fırsat verir ve ardından yapacağı etkin-
+liği öğrencilere açıklayarak başlatır (Ek-1). Öğrencilerin çalışmalarını etkinlik boyunca gözlemler ve gerekli
+gördüğü noktalarda onlara geri bildirimde bulunur. Etkinlik tamamlandıktan sonra öğretmen, öğrencilerle
+süreci değerlendirir. Öğrencilere aşağıdaki soruları sorar:
+• Hangi hataları yaptınız?
+• Komutlarınızda neyi değiştirdiniz?
+• Komutlarınızı sırasıyla yazmak neden önemliydi?
+Öğrenciler soruları cevapladıktan sonra öğretmen, komutların sıralı ve anlamlı bir şekilde verilmesinin
+önemini vurgular.
+Ders Sonrası
+Öğrenciler, etkinlikten öğrendikleri bilgileri, karşılaştıkları zorlukları ve varsa çözüm önerilerini kendi cümle-
+leriyle defterlerine yazarak yansıtıcı günlük tutarlar. Öğretmen, bir sonraki derste bu günlükleri inceleyerek
+öğrencilerin sıralı adımlara dair farkındalıklarını değerlendirir ve bireysel geri bildirimde bulunur.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, video düzenleme araçları ile Algoritma videosu ve görsel düzenleme aracı ile Algoritma Çalışma
+Kâğıdı içeriklerini hazırlar (Ek-2).
+2. Ders (Sınıf)
+Öğretmen bir önceki derste yaptıkları etkinlikle bağlantı kurarak derse başlar: “Geçen dersimizde robotla-
+rımızı doğru komutlarla hedefe ulaştırmaya çalıştık değil mi? Peki, başka bir soruyla devam edelim. Bir gün
+ATM’ye para çekmek için gidiyorsunuz ve ATM sizden sıralı işlemler yapmanızı istiyor: Önce şifrenizi girin, sonra
+paranızı alın, en son işlem seçin! Sizce burada bir hata var mı? Neden? ATM’de sıralı işlem olmazsa hangi
+hatalar yaşanır?” Öğretmen, öğrencilerin cevaplarını dinleyerek onları düşünmeye teşvik eder. Ardından
+günlük hayatta birçok işlemi belirli bir sırayla yapmamız gerektiğini vurgular ve bu sıralamanın neden önemli
+olduğunu tartışır. “Tıpkı ATM’de olduğu gibi matematikte de bazı işlemleri belirli bir sırayla yapmazsak sonuç
+tamamen farklı olabilir. İşte bugün, işlemleri doğru sıralamanın neden önemli olduğunu keşfedeceğiz.”
+diyerek video düzenleme aracıyla hazırladığı Algoritma videosunu açar ve algoritmanın temel aritmetik
+işlemlerle nasıl ilişkilendirildiğini videoyu gerekli yerlerde durdurarak örneklerle anlatır. Ardından öğretmen,
+görsel düzenleme aracı ile hazırladığı algoritma belirleme sorularının yer aldığı Algoritma Çalışma Kâğıdı
+etkinliğini öğrencilerle birlikte yaparak konunun pekiştirilmesini sağlar ve dersi tamamlar (Ek-2).
+Ders Öncesi
+Öğretmen, dersin başında öğrencilere kodlama ve programlama aracını tanıtarak aracın kullanımına dair
+onları bilgilendirir. Ardından öğrencileri 2-3 kişilik gruplara ayırır ve bir uygulama sınıfı oluşturur. Grupları bu
+sınıfa kaydeder ve şifreleri öğrencilerle paylaşır. Öğretmen, kodlama ve programlama aracıyla kendi hazır-
+ladığı Basketbol Oyunu’nu bağlantısını ve kod ekranını pratik yapmaları için uygulama sınıfında paylaşır.
+3. Ders (BT Sınıfı)
+Öğretmen, dersin başında öğrencilere önceki derslerde öğrendikleri algoritma ve sıralı komutları hatır-
+latmak için eşleştirmeyi yapabilmeyi sağlayan web aracı ile hazırladığı Akış Şeması etkinliğini etkileşimli
+tahtada yaptırır. Ardından kodlama ve programlama aracıyla hazırladığı Basketbol Oyunu’nu uygulama
+sınıfında paylaşır. Öğrenciler oyunu oynar ve ekrandaki kodları inceler. Ardından öğretmen, algoritmaların
+oyun geliştirme sürecindeki öneminden bahseder ve kendisinin hazırladığına benzer şekilde basit bir oyun
+tasarlamalarını öğrencilerden ister. Öğrenciler gruplar hâlinde, belirledikleri bir tema doğrultusunda oyunla-
+rını oluşturur. Her grup, oyunlarının algoritmasını yazmak için uygulama üzerinde sıralı adımlar belirler ve
+yönergeyi uygular (Ek-3). Öğretmen, oyunlarını tasarlama sürecinde gruplara gerekli yerlerde geri bildi-
+rimler vererek yardımcı olur. Tüm gruplar oyunlarını tamamladığında oyunlarının bağlantısını uygulama
+sınıfında paylaşır. Her grup, diğer grupların tasarladığı oyunu test eder ve değerlendirir. Öğrenciler, önce
+oyunlarda beğendikleri yönleri belirtir ve ardından oyunları geliştirme önerileri sunar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders sonunda öğretmen aşağıdaki soruları sorar:
+• Öğrendiğiniz algoritma prensiplerini başka hangi alanlarda kullanabilirsiniz?
+• Bir kod sıralamasını değiştirdiğinizde nasıl bir sonuç ortaya çıkabilir?
+Bu sorularla algoritmaların hem oyun içindeki hem de gerçek hayattaki rolünü değerlendirerek öğrenci-
+lerle süreci tartışır.
+Ders Sonrası
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web aracı ile oluşturduğu Algoritma Çalışma
+Soruları’nı öğrencilerle EBA üzerinden paylaşarak öğrencilerden bir sonraki derse kadar soruları defterlerine
+çözmelerini ister (Ek-4). Cevapların kontrolünü ve geri bildirimleri sonraki derste tamamlar.
+Dijital araçlarla iş görme, Muhakeme becerisi, Karar verme becerisi, Yaratıcılık,
+Özgün düşünme, Dijital ortamlar için içerik oluşturma ve paylaşma, Dijital bilgiyi
+anlamlandırma, Sentezleme becerisi, Çıkarım yapma becerisi
+Öğretmen, EBA’da yer alan Algoritma Oyunları’nı öğrencilere oynatarak kısa bir tekrar yapar. Ardından “Artık
+algoritmanın ne olduğunu ve günlük hayatta nasıl karşımıza çıktığını biliyoruz. Bugün ise bu bilgiyi daha
+da pekiştireceğiz ve kendi algoritmalarımızı oluşturacağız. Bu derste istasyon tekniğini kullanacağız. İstas-
+yonlardaki görevleri her gruptan sırayla tamamlamasını istiyorum.” şeklinde açıklama yaparak etkinliğe
+geçer. Etkinlik sonunda öz değerlendirme yapmayı sağlayan web aracı ile hazırladığı Öz Değerlendirme
+Formu aracılığıyla kendilerini değerlendireceklerini belirtir ve değerlendirme kriterlerinden bahseder (Ek-5).
+Öğrencilere istasyonların yerlerini ve çalışma alanlarını tanıtarak görevlerin içeriğini net bir şekilde açıklar
+(Ek-6). Birinci istasyonda öğrenciler, günlük bir işlemi seçerek bu işlemi adım adım doğal dilde algoritma
+hâline getirirler. Çay demleme, dondurma siparişi verme veya market alışverişi gibi seçenekler arasından
+birini seçen öğrenciler, adımları yazdıktan sonra etkileşimli beyaz tahta aracındaki Çalışma Panosu’nda
+paylaşırlar. İkinci istasyonda, ilk istasyonda oluşturdukları algoritmaları sözde kod formatına çevirirler. Öğren-
+cilere başlangıç, giriş, işlem, çıktı ve bitiş gibi temel komutlar verilir ve sözde kod yazma pratiği yapmaları
+sağlanır. Hazırladıkları sözde kodları kodlama ve programlama aracıyla test ederler. Üçüncü istasyonda
+öğrenciler, grup çalışma panosunda sözde kodlarını akış şeması ile gösterirler. Başlangıç, giriş, işlem, karar
+ve bitiş gibi temel sembolleri kullanarak akış şemalarını çizerler. Dördüncü istasyonda öğrenciler, gerçek
+bir durumu algoritmaya dönüştürme çalışması yaparlar. Market kasasında ödeme yapma, ATM’den para
+çekme veya bir pizzayı eşit parçalara bölme gibi günlük hayat senaryolarını ele alarak bu süreçleri doğal
+dilde, sözde kod formatında ve akış şeması şeklinde ifade eder ve grup çalışma panosuna kaydederler.
+Öğretmen, her istasyon için 10 dakika süre verir. Öğrenciler, bu sürede bulunduğu istasyondaki görevle-
+rini tamamlar ve ardından diğer istasyona geçer. Gruplar, belirlenen dört istasyonu sırayla takip eder ve
+bilgisayarları kullanarak algoritma yazma sürecini tamamlar. Çalışma süresi boyunca öğretmen, gruplara
+rehberlik ederek ihtiyaç duyduklarında destek verir.
+Çalışmalar tamamlandıktan sonra öğretmen, tüm grupların çalışmalarını değerlendirir ve tartışmaya açar.
+Öğrencilere aşağıdaki soruları yöneltir ve öğrencilerin düşünmelerini sağlar:
+• Hangi görevleri yaptınız?
+• Algoritmaların günlük hayattaki önemi nedir?
+• Akış şeması, sözde kod ve doğal dil arasında nasıl bir bağlantı vardır?
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, eksik veya yanlış noktaları düzeltir. Böylece etkinlik, öğrencilerin algoritmik düşünme becerilerini
+geliştirecek şekilde tamamlanır. Öğretmen, etkinliğin sonunda öğrencilerden öz değerlendirme yapmayı
+sağlayan web araçları ile hazırladığı Öz Değerlendirme Formu’nu doldurmalarını ister (Ek-5).
+Matematiksel araç ve teknoloji ile çalışma becerisi, İş birliği becerisi, İletişim becerisi,
+Matematiksel temsil becerisi, Öz farkındalık, Dijital ortamlar için içerik oluşturma
+ve paylaşma, Dijital bilgiyi anlamlandırma, Muhakeme becerisi
+
+LINKS:[["Algoritma", "U2xCQEV"], ["Algoritma Çalışma Kâğıdı", "RKtmjM"], ["Akış Şeması", "UITyKM8"], ["Basketbol Oyunu", "MlCWCK"], ["Algoritma Çalışma Soruları", "UqlowHA"], ["EBA Algoritma Oyunları", "ItTL96"], ["Çalışma Panosu", "RD2TDl"], ["Öz Değerlendirme Formu", "UVph4wx"]]

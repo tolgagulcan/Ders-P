@@ -1,0 +1,76 @@
+## 5. Sinif/Fen Bilimleri/Maddenin Dogasi - Sivilarin Sicaklik Seruveni.pdf
+SURE:4 KOD:FB.5.5.3.
+KAV:Isı, Sıcaklık, Isı alışverişi
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, öğrencilerin maddenin ısı ve sıcaklık kavramlarıyla ilgili temel bilgilerini yoklamak amacıyla
+sınıfa ısı ve sıcaklık denildiğinde akıllarına ilk hangi kelimenin geldiğini sorar. Öğrencilerin yanıtlarını kulla-
+narak kelime bulutu oluşturmayı sağlayan web araçlarıyla hazırlanan Isı ve Sıcaklık örneğindeki gibi bir
+kelime bulutu oluşturur. Ardından oluşturulan kelime bulutunu öğrenciler ile inceler. Isı ve sıcaklık arasındaki
+farkların neler olduğunu öğrencilere sorar. Gönüllü öğrencilere söz hakkı verir ve onların yanıtlarını dinler.
+Gerektiğinde öğrencilere geri bildirimde bulunur. Öğrencilerden ısı ve sıcaklık ile ilgili birer örnek vermelerini
+ister. Örnekleri tahtaya yazar. Öğrencilere “Aniden misafiriniz geldi. Misafirinize çay ikram edeceksiniz ancak
+çay çok sıcak ve misafirinizin çayı hemen içmesi gerekiyor. Bu durumda çayı hemen içilebilecek sıcak-
+lığa nasıl getirirsiniz?” sorusunu yöneltir. Öğrencilere söz hakkı verir ve onların cevaplarını dinler. Öğretmen,
+etkinlik sonunda çayın sıcaklığını düşürmek için en kullanışlı yöntemin çaya daha soğuk maddelerin eklen-
+mesi olduğunu belirtir. Farklı sıcaklıklardaki sıvıların bir araya geldiğinde aralarında ısı alışverişi gerçek-
+leştiğini açıklar. Günlük hayatta da benzer mantıkla gerçekleşen ısı alışverişi olaylarının olduğunu söyler.
+Ders Öncesi
+Öğretmen, görsel düzenleme araçlarıyla hazırladığı Sıvılarda Isı Alışverişi Deney Yönergesi'nin çıktısını alır
+ve grup sayısı kadar çoğaltır (Ek-1). Deney için gerekli malzemeleri (büyük boy beher, küçük boy beher,
+sıcak ve soğuk su, termometre ve kronometre) hazırlar.
+2. Ders (Fen Laboratuvarı)
+Öğretmen, öğrencilere sıvılarda ısı alışverişiyle ilgili bir deney yapacaklarını söyler. Öğrencileri dört kişilik
+gruplara ayırır ve Sıvılarda Isı Alışverişi Deney Yönergesi'nin çıktısını gruplara dağıtır (Ek-1). Deney sonunda
+öğrencilerin grup arkadaşlarının çalışmalarını grup değerlendirme yapmayı sağlayan web araçlarıyla
+hazırlanan Grup Değerlendirme Formu ile değerlendireceğini belirtir (Ek-2). Formda yer alan maddelerden
+kısaca bahseder. Öğrenciler, yönergeleri takip ederek sıvıların sıcaklığını ölçer ve tespit ettikleri sıcaklık
+değişimini yönergede yer alan tabloya kaydeder. Sonuçlarını raporlaştırarak öğretmene sunar. Öğretmen
+deney sırasında öğrencilere rehberlik eder. Deney bitiminde öğrencilere deney sonrası sorularını yöneltir
+(Ek-1). Öğrenciler deney esnasında yaptıkları gözlemlerden yola çıkarak soruları yanıtlar. Öğretmen öğren-
+cilerin yanıtlarına geri bildirimde bulunur.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, öğrencilerden ısı alışverişinin nasıl gerçekleştiğini özetleyen EBA’daki Isı ve Sıcaklık etkileşimli
+içeriğini Sıra Sizde-3 etkinliğinin sonuna kadar tamamlamalarını ister. Etkinliğin kontrolünü EBA’dan yapar.
+Grup Değerlendirme Formu’nu EBA'dan göndererek öğrencilerin Sıvılarda Isı Alışverişi deneyinde arkadaş-
+larının katkılarını değerlendirmelerini sağlar (Ek-2).
+3. Ders (BT SınıfI)
+Öğretmen, öğrencilere bu derste RAFT tekniğini kullanarak bir etkinlik yapacaklarını söyler. RAFT tekniğinin
+yazıda rol, hedef kitle, tür ve konuyu belirleyen bir yazma tekniği olduğunu açıklar. RAFT tablosunda verilen
+bir rolü (öğretmen, öğrenci, eşya, bitki vb.) seçerek bu role gireceklerini söyler (Ek-3). Gruplardan RAFT
+Tablosu’ndan bir satır seçmelerini ister. RAFT tablosundan seçim yapılırken grupların aynı satırı seçmemesi
+konusunda öğretmen gerekli yönlendirmeyi yapar. Gruplardan seçtikleri satırda yer alan görevleri izleyici,
+yazar, biçim, tema başlıklarına uygun şekilde çevrim içi dergi, elektronik kitap, metin hazırlama araçlarıyla
+hazırlayıp diğer gruplarla paylaşmalarını ister. Hazırladıkları ürünleri RAFT Etkinliği Değerlendirme Formu
+ile değerlendireceğini belirtir (Ek-4). Formda yer alan maddeleri kısaca açıklar. Çevrim içi dergi, elekt-
+ronik kitap, metin hazırlama araçlarıyla hazırladığı RAFT Elektronik Kitabı’nı örnek olması için öğrenciler ile
+paylaşır. Kitapta yer alan etkinliklerden birini seçerek örnek üzerinden RAFT etkinliğini anlatır. Gruplardan
+tabloya uygun olarak hazırladıkları ürünleri diğer gruplarla çevrim içi dergi, elektronik kitap, metin hazır-
+lama araçlarıyla hazırlanan RAFT Çalışma Sayfası üzerinden paylaşmalarını ister. Öğretmen, öğrencilerin
+hazırladığı içerikleri RAFT Etkinliği Değerlendirme Formu ile değerlendirir (Ek-4). Öğrencilerin yaptıkları çalış-
+maları inceledikten sonra onlara geri bildirimde bulunur.
+Ders Öncesi
+Öğretmen, görsel düzenleme araçlarıyla hazırlanan Tarsia Yapbozu etkinlik kâğıdının grup sayısınca çıktı-
+sını alır (Ek-5). Yapbozu uygun şekilde keserek parçalara ayırır. Yapbozun parçalarını gruplandırarak
+öğrencilere dağıtmak için hazır hâle getirir. Etkinlikte kullanmak üzere yapıştırıcı hazırlar. Bilimsel Dedektif
+Raporu’nun çıktısını alır (Ek-6).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+4. Ders (Sınıf)
+Öğretmen, öğrencilere öğrendiklerini pekiştirmeleri amacıyla Tarsia Yapbozu oluşturacaklarını söyler
+(Ek-5). Sınıfı 4-5 kişilik gruplara ayırır. Görsel düzenleme araçlarıyla hazırladığı tarsia yapbozlarının üçgen
+parçalardan oluştuğunu, her bir parçanın kenarında bir soru ve bu sorunun cevabının yer aldığını açıkla-
+yarak etkinlik hakkında kısa bir bilgilendirme yapar. Gruplara parçaların kenarlarında yazan sorularla
+cevapları doğru bir bütün oluşturacak şekilde eşleştirmeleri ve eşleşen uçları yapıştırmaları gerektiğini
+belirtir. Gruplara önceden hazırladığı yapboz parçalarını verir ve yapbozu tamamlamaları için süre tanır.
+Çalışmayı tamamlayan grupların yapbozlarını inceleyerek onlara geri bildirimde bulunur. Tamamlanan
+yapbozları sınıfta sergiler. Öğretmen, “Siz olsanız bu yapboza başka hangi soruları eklerdiniz? Neden-
+leri ile açıklayınız.” sorularını öğrencilere yöneltir. Öğrencilerin cevaplarını dinler ve onlara geri bildirim-
+lerde bulunur.
+Ders Sonrası
+Öğretmen, Bilimsel Dedektif Raporu etkinliğini öğrencilere dağıtır ve onlardan bu etkinlik ile öğrendik-
+lerini özetlemelerini ister (Ek-6). Etkinliği kısaca açıklar. Öğrencilere etkinliği tamamlamaları için birkaç
+gün süre tanır. Öğrenciler etkinlik kâğıdını doldurup öğretmene teslim eder. Öğretmen kâğıtları incele-
+yerek öğrencilere geri bildirimde bulunur.
+
+LINKS:[["Isı ve Sıcaklık", "U2fUDor"], ["EBA Isı ve Sıcaklık", "w9d08u"], ["Sıvılarda Isı Alışverişi Deney Yönergesi", "aPvcPN"], ["Grup Değerlendirme Formu", "UTGaPgv"], ["RAFT Elektronik Kitabı", "pSmlFV"], ["RAFT Çalışma Sayfası", "UmXoxfL"], ["RAFT Etkinliği Değerlendirme Formu", "UwEpVJt"], ["Tarsia Yapbozu", "UoIMeeJ"]]

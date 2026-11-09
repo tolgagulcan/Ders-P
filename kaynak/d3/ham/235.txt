@@ -1,0 +1,181 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Kutunun Icinde Ne Olabilir-.pdf
+SURE:3 KOD:M.6.3.4.1.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, boyutları ve hacimleri birbirinden farklı iki boş kutuyu derse getirir. Etkileşimli sunum araçlarını
+kullanarak günlük hayattaki dikdörtgenler prizması örneklerini içeren ve hacim kavramını tanıtan
+Dikdörtgenler Prizmasının Hacmi isimli bir sunum hazırlar. Sunumda hacim kavramını daha somut hâle
+getirmek için farklı boyutlardaki dikdörtgen prizmalarına ve birimküplere yer verir.
+1. Ders (BT Sınıfı)
+Öğretmen, sınıfa biri büyük biri küçük olmak üzere iki kutuyla girer. Derse bugün bir hikâye ile başlayacaklarını
+belirtir ve “Çantamdan Fil Çıktı” hikâye kitabının özetini okur (Ek-1). Hikâyenin ardından öğrencilerle
+çantadan fil çıkabilme olasılığını tartışır. Hikâyeden yola çıkarak sınıfa getirdiği kutulardan ne çıkabileceğini
+öğrencilerden tahmin etmelerini ister. Öğrenciler, tahminlerini öğretmen tarafından dijital pano ya da
+post-it araçlarından biri ile bağlantısı oluşturulan dijital pano ile paylaşırlar. Ayrıca arkadaşlarının dijital
+pano üzerindeki tahminleri ile ilgili fikirlerini belirtirler. Öğretmen, hangi kutunun içinde daha fazla yer
+olduğunu ve bu durumdan nasıl emin olabileceklerini sorar. Gelen yanıtları dinledikten sonra öğrencilere
+hacim tanımını yapar. Gerekli görürse kutuların içlerini aynı nesneyle doldurarak hangi kutunun daha
+fazla nesne aldığını öğrencilere gösterir.
+Öğretmen, hacim kavramını somutlaştırmak için ders öncesi hazırladığı Dikdörtgenler Prizmasının Hacmi
+isimli sunumu açar ve hacim bağıntısıyla günlük hayat arasında ilişki kurar. Dikdörtgenler prizmasının
+hacminin birimküpler kullanarak bulunabileceğini öğrencilere gösterir. Öğrencilerin daha aktif olmasını
+sağlamak için 3D model oluşturmayı sağlayan araçlarla oluşturduğu Birimküp isimli etkinlik üzerinden
+dikdörtgen prizmalarının hacmi ve birimküpler arasındaki ilişkileri belirler. Öğrencilerden bu prizmalar
+için kaçar tane birimküp kullanıldığına dikkat etmelerini ister. Daha sonra öğrencilerden de 3D model
+oluşturmayı sağlayan araçlarla birimküplerden oluşan bir prizma tasarlamalarını ve bu prizmanın hacmini
+hesaplamalarını ister. Öğretmen, tasarlanan modeller üzerinden hacim bağıntısını öğrencilerle oluşturur.
+İlgili Yetkinlikler/Beceriler: Bilgi ve iletişim okuryazarlığı, Üretkenlik
+Ders Öncesi
+Öğrenciler, sınıf mevcudu ve sınıfın fiziksel durumuna uygun olarak gruplara ayrılır.
+2. Ders (BT Sınıfı)
+Bu derste öğretmen, her bir grubun 3D model oluşturmayı sağlayan web araçları ile farklı boyutlarda
+dikdörtgenler prizması modeli yapmasını ister. Öğrencilerin hacim tahminleri yapması için prizmaları
+birimküplerle doldurmalarını ister. Böylelikle bir önceki derste öğrencilerin öğrendikleri bilgileri pekiştirmiş
+olur.
+Hacim hesaplamaları sonrasında EBA alıştırmalar bölümünde yer alan Prizma Olmayan Yapıların
+Hacmini Hesaplama ve Dikdörtgenler Prizmasının Hacmi bölümlerini öğrencilerle yapar. Ders öncesi
+oluşturduğu grupların her birinden prizmaların hacimlerini hesaplamaya yönelik günlük hayattan bir
+problem bulmalarını ister. Bir sonraki derste öğrencilerden, buldukları problemi ve bu problemin çözümünü
+etkileşimli sunum araçları ile kısa bir sunum hazırlayarak sunmalarını ister. Sunum için yapacakları
+çalışmaların öncelikle kendisi tarafından hacim hesaplama, farklı boyutlara sahip prizmalar oluşturma,
+tanım yapabilme gibi kriterlere göre değerlendireceğini ve daha sonra kendi gruplarını grup değerlendirme
+yapmayı sağlayan web aracı ile hazırlanmış grup değerlendirme formu ile değerlendireceklerini öğrencilere
+belirtir (Ek-2, Ek-3).
+Ders Sonrası
+Ders sonunda tarama testi bölümünde yer alan Dikdörtgenler Prizmasının Hacmi alt konu testi öğrencilere
+ödev olarak tanımlanır.
+İlgili Yetkinlikler/Beceriler: İletişim, İş birlikli çalışma, Eleştirel düşünme, Sayısal okuryazarlık
+Ders Öncesi
+Öğretmen, öğrencilerin sunumlarını değerlendirebilmek için grup sayısı kadar sunum değerlendirme
+formunun çıktısını alır (Ek-2).
+3. Ders (Sınıf)
+Öğretmen, bir önceki ders öğrenilen bilgiler ile ilgili kısa bir soru cevap etkinliği yapar. Bu etkinlikte
+kazanıma yönelik şu sorulara yer verilebilir:
+• Ayrıt uzunluğu 1 birim olarak kabul edilen küpe ne denir?
+• Bir dikdörtgenler prizmasında bulunan birimküp sayısı, dikdörtgenler prizmasının hangi özelliğine eşittir?
+• 2 birim kenar uzunluğuna sahip bir küpün hacmi kaç birimküptür?
+• Hacmi 24 birimküp olan bir dikdörtgenler prizması çizilmek istense ayrıt uzunluğu olarak hangi
+birimler seçilebilir?
+Etkinlik sonrası öğrencilerin etkileşimli sunum araçları ile hazırladıkları sunumlarına geçilir. Öğretmen,
+öğrencilerden sunumlarını etkileşimli tahtada sırayla yapmalarını ister. Sunum sırasında veya problem
+çözümü esnasında olası hataları önlemek ve düzeltmek için öğretmen anında geri bildirim verir. Öğrenciler
+sunum sırasında birbirlerine soru sorabilir ve görüş bildirebilir. Her grubun sunumu tamamlandığında
+öğretmen, sunum değerlendirme formunu kullanarak öğrenci sunumlarını değerlendirir (Ek-2).
+Değerlendirmeler tamamlandıktan sonra öğretmen ve öğrenciler sunumlar üzerine kısa konuşma
+yapar ve ders sona erer.
+Ders Sonrası
+Öğretmen, grup değerlendirme yapmayı sağlayan web aracı ile hazırladığı formları EBA’dan öğrencilere
+gönderir ve öğrencilerden grup değerlendirme formundaki kriterleri göz önünde bulundurarak kendilerini
+ve grup arkadaşlarını değerlendirmelerini ister (Ek-3). Öğretmen, formların doldurulma durumunu ve
+değerlendirme sonuçlarını takip eder.
+İlgili Yetkinlikler/Beceriler: Akıl yürütme, Sorumluluk alma ve sorumlu karar verme
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + alt konu testi
+• Grup değerlendirme yapmayı sağlayan web araçları
+• Sunum değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Dikdörtgenler Prizmasının Hacmi: https://meb.ai/oJIweh (Son erişim tarihi: 30.01.2025)
+2. Birimküp: https://meb.ai/UskpNdm (Son erişim tarihi: 29.01.2025)
+3. EBA Dikdörtgenler Prizmasının Hacmi: https://meb.ai/j1saYf (Son erişim tarihi: 30.01.2025)
+4. EBA Prizma Olmayan Yapıların Hacmini Hesaplama: https://meb.ai/UZ6U2As (Son erişim tarihi:
+30.12.2024)
+5. EBA Dikdörtgenler Prizmasının Hacmi: https://meb.ai/TKyqBP (Son erişim tarihi: 30.12.2024)
+6. OGM Materyal Sınıf İçi Değerlendirme: http://meb.ai/0vD9HX (Son erişim tarihi: 27.05.2024)
+Kaynakça
+Arık, M. (2023). Çantamdan fil çıktı. Timaş Çocuk Yayınları.
+Csikszentmihalyi, M. (1997). Finding flow: The psychology of engagement with everyday life. Basic Books.
+Son erişim tarihi 05 Haziran 2024, https://meb.ai/U7RcbDH
+Genially. (2025). Kutunun içinde ne olabilir?-dikdörtgenler prizmasının hacmi. Son erişim tarihi 30 Ocak
+2025, https://view.genially.com/67b87496d720e098fdcbff23/presentation-kutunun-icinde-ne-olabilir-
+dikdortgenler-prizmasinin-hacmi
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Eylül 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Millî Eğitim Bakanlığı. (2024). Ogm materyal. Ortaöğretim Genel Müdürlüğü. https://ogmmateryal.eba.
+gov.tr/kitap/sinif-ici-degerlendirme/matematik/index.html
+Tinkercad. (2024). Kutunun içinde ne olabilir?-birimküp. Son erişim tarihi 29 Ocak 2025, https://www.
+tinkercad.com/things/4losTlFxuaH-kutunun-icinde-ne-olabilir-birimkup?sharecode=MbKuLevNCHjFO
+Eaff6ojfyDDlRFwlFSDIArZlJ1xob8
+Torrance, E. P. (1988). The nature of creativity as manifest in its testing. In R. J. Sternberg (Ed.), The nature
+of creativity: Contemporary psychological perspectives (pp. 43–75). Cambridge University Press. Son
+erişim tarihi 05 Haziran 2024, https://meb.ai/mD82hK
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Çantamdan Fil Çıktı Kitabının Özeti
+Ek-2: Sunum Değerlendirme Formu (Öğretmen İçin)
+Ek-3: Grup Değerlendirme Formu (Öğrenci İçin)
+EK-1
+Çantamdan Fil Çıktı Kitabının Özeti
+Öğretmen, mavi bir çanta ile sınıfa girer ve bu çantanın kendi oyun çantası olduğunu
+belirtir. Öğrencilere çantanın içindekilerini tahmin ettirir. Başlangıçta öğrenciler kalem,
+silgi, defter gibi sıradan cevaplar verir ancak öğretmen sıra dışı ve yaratıcı cevaplar
+beklediğini ifade eder. Hayal güçlerini kullanarak çantanın içinde ne olabileceğini
+bulmalarını öğrencilerden ister. Moni, çantadan bir elma çıkabileceğini söyler ve bu
+öğretmenin beklediği yaratıcı fikirlerin başlangıcı olur. Öğretmen, öğrencilere elma
+olsalardı en büyük hayallerinin ne olacağını sorar. Öğrencilerden farklı cevaplar gelir;
+bazıları elma reçeli, bazıları elmalı kurabiye, bazıları ise elma suyu olmayı hayal eder.
+Sonunda öğretmen, mavi çantayı öğrencilere verir ve onlara yıl sonu ödevi için hayal
+güçlerini kullanarak birlikte yeni oyunlar tasarlamalarını söyler. Ayrıca tasarladıkları
+oyunları yıl sonu gösterilerinde birlikte oynayacaklarını da ekler. Öğrenciler bu
+fikri çok beğenir ve hemen hayal kurmaya başlarlar. Çünkü çanta, hayallerini
+gerçekleştirebileceklerinin sembolü hâline gelmiştir. Zamanla öğrenciler bu gerçeği
+keşfederler. Moni’nin “Bulduuumm! Çantamdan fil çıktı!” demesiyle oyunları başlar
+(Arık, 2023).
+Kutunun İçinde Ne Olabilir?
+EK-2
+Sunum Değerlendirme Formu (Öğretmen İçin)
+Bu form, öğrencilerin sunumlarının öğretmen tarafından değerlendirilmesi amacıyla hazırlanmıştır. Her kriter için verilen derecelerden uygun olanı
+işaretleyiniz.
+Grup Adı: …………………………………………………………………………….
+Grup Üyeleri: ………………………………………..…………………....……
+DERECELER
+KRİTERLER Geliştirilmeli Kısmen Yeterli İyi Çok İyi
+Yeterli
+(1) (2) (3) (4) (5)
+Dikdörtgenler prizmasının içine boşluk kalmayacak şekilde yerleştirilen
+birimküp sayısının o prizmanın hacmine eşit olduğunu açıklama
+Dikdörtgenler prizmasına gerçek hayattan örnek verme
+Verilen bir dikdörtgenler prizmasının ayrıt uzunluklarını doğru şekilde
+belirleme
+Dikdörtgenler prizmasının taban alanını ve yüksekliğini doğru şekilde
+belirleme
+Dikdörtgenler prizmasının hacmini doğru şekilde hesaplama
+Farklı boyutlarda dikdörtgenler prizması oluşturma
+TOPLAM
+GENEL DEĞERLENDİRME
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Kutunun İçinde Ne Olabilir?
+EK-3
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, grup olarak çalışmalarınızı değerlendirmek üzere hazırlanmıştır. Her bir kriter için grup arkadaşlarınızı ve kendinizi verilen seçeneklere göre
+değerlendiriniz. Seçenekler: Evet (E) - Kısmen (K) - Hayır (H)
+GRUP ÜYELERİ
+KRİTERLER 1. Grup Üyesi 2. Grup Üyesi 3. Grup Üyesi Ben
+.................................. .................................. .................................. ..................................
+Konu ile ilgili temel kavramlara hâkimdi/hâkimdim.
+Çalışma için kullanılacak materyalleri tanıdı/tanıdım.
+Çalışmayı ilgili kavramları kapsayacak şekilde planladı/planladım.
+Modeli doğru bir şekilde hazırladı/hazırladım.
+Çalışmada işlem basamaklarını doğru kaydetti/kaydettim.
+Çalışmada istenilen görselleri doğru bir şekilde gösterdi/gösterdim.
+Grup içinde aktif olarak çalışma sürecine katıldı/katıldım.
+Grup içinde etkili bir iletişim kurdu/kurdum.
+Sunumda Türkçeyi doğru ve etkili biçimde kullandı/kullandım.
+Çalışma ile ilgili sorulara net ve doğru cevap verdi/verdim.
+Zamanı verimli kullandı/kullandım.
+Grup çalışması hakkında genel görüş ve önerileriniz
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Kutunun İçinde Ne Olabilir
+LINKS:[["Dikdörtgenler Prizmasının Hacmi", "oJIweh"], ["Birimküp", "UskpNdm"], ["EBA Dikdörtgenler Prizmasının Hacmi", "j1saYf"], ["EBA Prizma Olmayan Yapıların Hacmini Hesaplama", "UZ6U2As"], ["EBA Dikdörtgenler Prizmasının Hacmi", "TKyqBP"], ["OGM Materyal Sınıf İçi Değerlendirme", "0vD9HX"]]

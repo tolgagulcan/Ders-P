@@ -1,0 +1,82 @@
+## 5. Sinif/Matematik/Istatiksel Arastirma Sureci - Merakli Da Vinci.pdf
+SURE:5 KOD:MAT.5.5.1.
+KAV:Kategorik veri, İstatistiksel araştırma, Araştırma sorusu
+Öğrenme Etkinlikleri
+1. Ders (BT Sınıfı)
+Öğretmen, öğrencilere bugün çok büyük bir araştırmacı, sanatçı, fizikçi ve mühendis ile tanışacaklarını söyle-
+yerek derse giriş yapar. Sonra görsel düzenleme araçları ile oluşturulmuş Mona Lisa Tablosu’nun görselini
+etkileşimli tahtadan açarak öğrencilerin incelemelerini ister. Öğrencilere “Bu eseri ve bu eseri yapan kişiyi
+tanıyor musunuz?” diye sorar. Öğrencilerden gelen yanıtları dinledikten sonra bu eserin dünyaca ünlü “Mona
+Lisa” tablosu olduğunu belirtir. Bu tablonun ünlü ressam, sanatçı ve mühendis Leonardo da Vinci tarafından
+1500’lü yıllarda yapıldığını söyler. Öğrencilerin daha detaylı bilgi edinmeleri için EBA’dan Leonardo da Vinci
+videosunu etkileşimli tahtada açar. Videoda geçen bilgiler hakkında öğrencilerin görüşlerini alır ve onların
+sorularını yanıtlar.
+Öğretmen, dersin devamında öğrencilere Leonardo da Vinci’nin birçok çalışmasının temelinde merak ve
+araştırma duygusunun yattığını ifade eder. Çağının ötesinde buluşlar yaparken öncelikle doğru soruları
+belirlediğini, çalışmak istediği konu ile ilgili temel noktaları netleştirdiğini söyler. Öğrencilerden onun eserleri
+ve hayatı hakkında sanal gerçeklik uygulamaları ile oluşturulmuş Leonardo da Vinci Sergisi’ni bilgisayar-
+larından açmalarını ister. Sergide yer alan bölümleri gezmelerini ve sergi içeriğini dikkatle incelemelerini
+söyler. Sergide Leonardo da Vinci ile ilgili dikkatlerini çeken bilgileri ve onun araştırmacı kimliği ile ilgili fark
+ettikleri bölümleri not almalarını ister. Ayrıca öğrencilere sergiyi tamamladıktan sonra elde ettikleri bilgileri
+paylaşmalarını söyler. Sorusu olan öğrencilerin sorularını yanıtlayarak dersi tamamlar.
+2. Ders (Sınıf)
+Öğretmen, etkileşimli tahtadan dijital pano ya da post-it oluşturma aracını açar. Öğrencilere aşağıdaki
+soruları sırayla yöneltir ve gönüllü öğrencilerden cevaplarını dijital panoya yazmalarını ister:
+• Sizce Leonardo da Vinci hangi alanlarda buluşlar yapmıştır?
+• Siz, bir konu hakkında araştırma yapmak isteseydiniz bu konu, ne hakkında olurdu?
+• Sizce bir konuyu araştırmak için bu konunun ne gibi özelliklere sahip olması gerekir?
+Öğretmen, etkinliğin devamında animasyon oluşturma araçlarından biri ile hazırladığı İstatistiksel Araştırma
+Animasyonu’nu etkileşimli tahtadan açarak öğrencilere izletir. Bu animasyonda 5. sınıf öğrencisi olan Ece’nin
+istatistiksel araştırma konusu ile ilgili abisine sorduğu sorular ve abisi Efe’nin bu konuda Ece’ye verdiği
+cevaplar yer almaktadır. Öğretmen, animasyonda anlatılan bilgileri öğrencilere tekrar aktararak istatis-
+tiksel araştırma hakkındaki temel bilgileri tahtaya yazar. Araştırma sorusunda olması gereken özellikleri de
+tekrar ederek bunları da maddeler hâlinde tahtaya yazar. Bu bilgilere ek olarak araştırmanın etik kuralla-
+rından da öğrencilere bahseder. Araştırmada kişisel bilgilerin kullanılmamasının ve güvenilir kaynaklara
+başvurulmasının önemini anlatır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Daha sonra etkileşimli tahtada dijital pano ya da post-it oluşturma aracını açarak her öğrenciden sırayla
+günlük hayatta karşılaştıkları durumlardan veya ilgilerini çeken konulardan yola çıkarak bir araştırma
+sorusu yazmasını ister. Yazılan araştırma sorularının uygunluğu sınıfça tartışılır, uygun olmayan sorularla
+ilgili düzeltmeler yapılır.
+3. Ders (Sınıf)
+Öğretmen, öğrencilere bir araştırma yapmak için öncelikle iyi bir planlama yapılması gerektiğini hatırlatarak
+derse başlar. Görsel düzenleme araçlarını kullanarak hazırladığı İstatistiksel Araştırma Adımları’nı etkile-
+şimli tahtadan açarak öğrencilerden incelemesini ister. Bu adımları öğrencilere özetler. Ardından araştır-
+manın konusunu betimleyen bir araştırma sorusu oluşturmanın öneminden bahsederek kısa cevaplı sorular
+oluşturmayı sağlayan web aracı ile hazırlanmış Araştırma Sorusu mu? etkinliğini etkileşimli tahtadan açarak
+gönüllü öğrencilerin boşlukları doldurarak etkinliği tamamlamalarını ister (Ek-1). Etkinlikte öğrenciler, verilen
+soruların araştırma sorusu olup olmadığını belirler ve her soruya verilen “Evet/Hayır” cevapları için gerek-
+çelerini açıklar. Anlaşılmayan kısımlarla ilgili öğretmen açıklamalarda bulunur.
+Öğretmen, öğrencilere bir araştırma yapmak için kullanılabilecek veri toplama yöntemleriyle ilgili sorular
+sorar ve gelen cevaplardan hareketle kelime bulutu oluşturmayı sağlayan web araçlarından biri ile bir kelime
+bulutu oluşturur. Öğrencilerin yanıtlarıyla oluşan kelime bulutu, etkileşimli tahtada gösterilerek sınıfça incelenir.
+Öğretmen, bu çalışma ile öğrencilerin veri toplama yöntemleri üzerine düşünmelerini sağlar. Konu hakkında
+eksiksiz bilgi vermek için EBA’dan Veri Toplama Yöntemleri videosunu etkileşimli tahtada açarak öğrenci-
+lere izletir. Videonun sonunda konu ile ilgili açıklamalarda bulunarak varsa öğrencilerin sorularını cevaplar.
+4. Ders (Sınıf)
+Öğretmen bir önceki derste öğrenilen veri toplama yöntemlerini tekrar eder. Bu konu ile ilgili eşleştirme
+yapabilmeyi sağlayan web araçları ile hazırlanmış Yöntemini Bulalım etkinliğini etkileşimli tahtada açar
+ve öğrencilere bu etkinliği hep birlikte tamamlayacaklarını söyler (Ek-2). Etkinlikte amaç, verilen araştırma
+konularını uygun veri toplama yöntemiyle eşleştirmektir. Gönüllü öğrenciler sıra ile tahtaya gelerek seçtiği
+bir araştırma konusunu, uygun veri toplama yöntemine sürükleyip bırakır. Etkinlik tamamlandıktan sonra
+cevaplar kontrol edilir, varsa yanlış cevaplar üzerine sınıfça değerlendirme yapılır.
+Öğretmen, etkileşimli tahtadan dijital pano ya da post-it oluşturma aracını açar. Öğrencilerden şimdiye
+kadar öğrendiklerinden yola çıkarak bir araştırma sorusu yazmalarını ve bu araştırma sorusuna en uygun
+araştırma yöntemini seçerek dijital panoda paylaşmalarını ister. Öğrencilerin yazdıkları soru ve yöntemler
+sınıfça değerlendirilir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+5. Ders (BT Sınıfı)
+Öğretmen, öğrencilere bu derste mevcut bilgilerini pekiştirecekleri ve her soruda karşılarına çıkan farklı
+emojilerle süreci eğlenceli hâle getirecekleri etkileşimli bir etkinlik yapacaklarını belirtir.
+Öğretmen, öğrencilerden oyunlaştırılmış ölçme ve değerlendirme web araçlarıyla hazırlanan Emojiler Sınavı
+oyununu bilgisayarlarından açmalarını ister (Ek-3). Bu oyunu tamamlamak için sorulara doğru yanıtlar
+vermeleri ve yönergeleri dikkatli okumaları gerektiğini hatırlatır. Öğrencilerin oyunu tamamlamaları için
+yeterli süreyi verir. Bu sürenin ardından aynı oyunu etkileşimli tahtadan açarak gönüllü öğrencilerin soruları
+cevaplaması ile oyunu ilerletir ve tamamlar. Sorusu olan öğrencilerin sorularını cevaplandırır. BT sınıfının
+olmadığı durumlarda etkinliği etkileşimli tahtada açar ve tüm sınıfın birlikte soruları cevaplamasını sağlar.
+Ders Sonrası
+Öğretmen, öğrencilerden bu ders ile ilgili öz değerlendirme yapmayı sağlayan web araçlarından biri ile
+hazırlanan İstatistiksel Araştırma Günlüğü’nde yer alan soruları yanıtlamalarını ister (Ek-4). Öğrencilere
+günlüklerini dijital olarak doldurmalarını ve cevaplar konusunda açık, net, özgün ve samimi olmalarını söyler.
+
+LINKS:[["Mona Lisa Tablosu", "UjFCSAS"], ["EBA Leonardo da Vinci", "UaVemP4"], ["Leonardo da Vinci Sergisi", "m1x4m8"], ["İstatistiksel Araştırma Animasyonu", "UGajyE2"], ["İstatistiksel Araştırma Adımları", "yYdy9q"], ["Araştırma Sorusu mu?", "UViWexk"], ["EBA Veri Toplama Yöntemleri", "POPF2y"], ["Yöntemini Bulalım", "vNfxY9"], ["Emojiler Sınavı", "UFrSjeI"], ["İstatistiksel Araştırma Günlüğü", "a8M3qf"]]

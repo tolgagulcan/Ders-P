@@ -1,0 +1,262 @@
+## 6. Sinif/Matematik/Cebir - Cebir Bingo Oyunu.pdf
+SURE:5 KOD:M.6.2.1.2. M.6.2.1.3.
+KAV:
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, öğrencilere cebirsel ifadeleri farklı değerler için hesaplamayı öğrenmek amacıyla bir oyun
+oynayacaklarını söyler. Öğrencilere ‘’Bu oyun hakkında bilginiz var mı? Daha önce bu oyunu oynadınız
+mı?’’ sorularını sorar. Öğrencilerin cevaplarını dinledikten sonra onlara küçük bir örnekle oyunu anlatır.
+Birkaç öğrenciye “Aklından 1 ile 10 arasında bir sayı tut. Tuttuğun bu sayıya 3 ekle. Çıkan sonucu 2 ile çarp.
+Şimdi bu sayıdan tuttuğun sayının 2 katını çıkar.” şeklindeki işlem basamaklarını yaptırır. Sonuç üzerinden
+öğrencilerin tuttuğu sayıyı tahmin eder ve her seferinde farklı sayı söylenmesine rağmen sonucun aynı
+olduğunu öğrencilere fark ettirir. Öğrencilerden bu işlemin arkasındaki matematiği açıklamalarını ister
+ve cevaplar sınıfça tartışılır. Öğretmen anlaşılmayan noktaları ve neden hep aynı sonuca ulaşıldığını
+açıklar. Ardından oyunlaştırılmış ölçme ve değerlendirme web aracını kullanarak hazırladığı Aklından
+Bir Sayı Tut oyununu etkileşimli tahtada açar (Ek-1). Öğrencilerden oyundaki cebirsel ifadeleri cümle
+şeklinde yazmalarını ister (Örneğin 3x+8 için aklımdan bir sayı tuttum, 3 ile çarptım ve 8 ekledim.). Daha
+sonra sorudaki x değişkeninin farklı değerlerini öğrencilere hesaplatır ve cevapları işlem basamaklarına
+göre kutucuklara yazdırır. Oyunun sonunda öğretmen sonuçların doğruluğunu kontrol eder, öğrencilerin
+varsa eksik öğrenmelerini tamamlar.
+Öğretmen, öğrencilere EBA’dan Değişkenin Alacağı Değere Göre Cebirsel İfadenin Değerini Hesaplama
+etkinliğini yaptırır. Bu etkinlikte rastgele seçilen öğrenciler, verilen sözel ifadeleri cebirsel ifadelere
+dönüştürür. Ayrıca değişkenin farklı değerlerine göre cebirsel ifadelerin değerlerini hesaplarlar. Öğretmen
+geri bildirimde bulunarak öğrencilerin varsa eksik veya yanlış öğrenmelerini giderir ve dersi tamamlar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Dijital yetkinlik, Akıl yürütme
+Ders Öncesi
+Öğretmen, öğrencileri sınıftaki bilgisayar sayısına göre 3-4 kişilik gruplara ayırır.
+Öğretmen, ısınma etkinliği olarak oyunlaştırılmış ölçme ve değerlendirme web aracı ile hazırladığı
+Cebirsel İfadelerin Değerini Bulma oyununun bağlantısını öğrencilerle EBA üzerinden paylaşır (Ek-2).
+Öğrenciler soruları bireysel olarak yanıtlar. Öğretmen soruları çözmekte zorlanan öğrencilere yardımcı
+olur. Verdiği süre sonunda en çok doğru yapan öğrencileri neşeli etiketlerle ödüllendirir ve gerekli yerlerde
+geri bildirimde bulunur.
+Soru çözümünün ardından öğrencilere bingo oyununu cebirsel ifadelere uyarlayarak yeni bir oyun
+tasarlayacaklarını söyler. Öğrencilere bingo oyunu oynayıp oynamadıklarını sorar ve kısaca oyundan
+bahseder. “Bingo kartları, genellikle 5x5 bir matriste yer alan numaralardan oluşur. Kartlardaki numaralar
+genellikle belirli aralıklarla sınırlıdır. Örneğin bir bingo kartındaki numaralar 1 ile 75 arasında olabilir.
+Oyuncular, her bir sayı söylendiğinde sayıları işaretler ve belirli bir deseni (satır, sütun, çapraz veya özel
+desenler) tamamladıklarında oyunu kazanır.” Öğretmen, uygun bir platformdan alacağı bilgilendirici
+bir video ile bingo oyununun mantığının pekişmesini sağlar. Cebir bingo oyununun yönerge şablonunu
+etkileşimli tahta aracıyla tüm gruplarla paylaşır (Ek-3). Grupların oyunlarını hazırlarken birbirlerine geri
+bildirimde bulunabilmeleri için Grup Çalışma Panosu ile çalışmaların paylaşıldığı bir öğrenme ortamı
+oluşturur. Panoda örnek cebir bingo kartını, çağrı kartlarını ve grup listelerini paylaşır. Gruplar, oyun kartlarını
+ve çağrı kartlarını görsel düzenleme aracı kullanarak hazırlar ve grup çalışma panosuna ekler. Öğretmen
+bu aşamada gruplara yardım ve rehberlik eder. Bu şekilde öğrenciler hem kendi projelerini geliştirme hem
+de diğer gruplardan yeni bir şeyler öğrenme fırsatı elde ederek iş birliği ve eleştirel düşünme becerilerini
+geliştirir. Öğretmen hazırlanan görsellerin çıktılarını alır. Her grup hazırladığı oyunu diğer grupla değiştirir
+ve oyunu oynar. Oyun sona erdikten sonra öğretmen, öğrencilere oyun sırasında karşılaştıkları zorlukları
+ve öğrendikleri yeni bilgileri birbiriyle paylaşmaları için fırsat verir ve anlık geri bildirimlerde bulunur. Ders
+sonunda öğrenciler grup arkadaşlarını grup değerlendirme formu ile değerlendirir (Ek-4).
+İlgili Yetkinlikler/Beceriler: İş birliği, İletişim, Sorumluluk, Dijital yetkinlik, Matematiksel süreç becerileri,
+Akıl yürütme, Eleştirel düşünme
+4. Ders (Sınıf)
+Öğretmen, EBA’daki Basit Cebirsel İfadelerin Anlamı konu anlatım videosu ile derse başlar. Videoda yer
+alan soruları öğrencilere sorar ve gerekli yerlerde geri bildirimde bulunur. Verilen cebirsel ifadelere eşit
+olan farklı cebirsel ifadelerin nasıl yazılabileceğini çeşitli örneklerle gösterir.
+Öğretmen, konunun pekişmesi için eşleştirme yapabilmeyi sağlayan web araçları ile hazırladığı Cebirsel
+İfadeler sorularını öğrencilere gönüllülük esasına göre etkileşimli tahtada yaptırır (Ek-5). Etkinliğe katılan
+öğrencilere pekiştirme amaçlı neşeli etiketler hediye eder. Eksik veya yanlış öğrenmeleri gidermek
+amacıyla öğrencilere geri bildirimlerde bulunarak dersi tamamlar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Dijital yetkinlik
+Ders Öncesi
+Öğretmen Cebirsel İfadeler öğretmene özel alt konu testinin çıktısını sınıf mevcudu kadar alarak derse
+getirir.
+5. Ders (Sınıf)
+Öğretmen, cebirsel ifadeler kazanımlarının genel değerlendirmesini yapmak amacıyla ders öncesinde
+çıktısını aldığı Cebirsel İfadeler konu testini öğrencilere dağıtır. Öğrenciler çalışma sorularını bireysel olarak
+çözer. Ardından öğretmen, etkileşimli tahta üzerinden öğrencilerin aktif katılımı ile çalışma sorularının
+çözümüne yer verir. Öğrencilerin yapamadıkları veya zorlandıkları soruları etkileşimli tahtada açıklar ve
+dersi tamamlar.
+Ders Sonrası
+Öğretmen, dersin sonunda EBA’da yer alan Cebirsel İfadeler alt konu testini belirlenen gün ve saate kadar
+yapmaları koşuluyla öğrencilere gönderir. Çalışmanın kontrolünü süre bitiminde EBA üzerinden yapar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Akıl yürütme
+Değerlendirme Yöntemleri/Araçları
+• EBA + alt konu testleri
+• Eşleştirme yapabilmeyi sağlayan web araçları
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Grup değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Aklından Bir Sayı Tut Etkinliği: https://meb.ai/ugCSe5 (Son erişim tarihi: 09.12.2024)
+2. EBA Değişkenin Alacağı Değere Göre Cebirsel İfadenin Değerini Hesaplama: http://meb.ai/RgsVpl
+(Son erişim tarihi: 02.12.2024)
+3. Cebirsel İfadelerin Değerini Bulma: https://meb.ai/UVfTLOh (Son erişim tarihi: 09.12.2024)
+4. Cebir Bingo Oyunu Grup Çalışma Panosu: https://meb.ai/U298wQi (Son erişim tarihi: 02.12.2024)
+5. EBA Cebirsel İfadelerin Anlamı: http://meb.ai/UERqm5h (Son erişim tarihi: 02.12.2024)
+6. Cebirsel İfadeler Eşleştirme Soruları: https://meb.ai/UG7Fy7v (Son erişim tarihi: 02.12.2024)
+7. EBA Cebirsel İfadeler Öğretmene Özel Tarama Testi: http://meb.ai/UlV99lz (Son erişim tarihi: 02.12.2024)
+8. EBA Cebirsel İfadeler Alt Konu Testi: http://meb.ai/Njvh9S (Son erişim tarihi: 02.12.2024)
+Kaynakça
+Canva. (2024). Cebir bingo oyunu-grup çalışmaları panosu. Son erişim tarihi 02 Aralık 2024, https://www.
+canva.com/design/DAGYIN0uZfk/QukL6eazFosa7Ar8bQCeIA/edit?utm_content=DAGYIN0uZfk&utm_
+campaign=designshare&utm_medium=link2&utm_source=sharebutton
+LearningApps. (2024). Cebir bingo oyunu-aklından bir sayı tut etkinliği. Son erişim tarihi 02 Aralık 2024,
+https://learningapps.org/watch?v=p1j9m22ka24
+LearningApps. (2024). Cebir bingo oyunu-cebirsel ifadelerin değerini bulma çalışması. Son erişim tarihi
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Eylül 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Wordwall. (2024). Cebir bingo oyunu-cebirsel ifadeler. Son erişim tarihi 2 Aralık 2024, https://wordwall.
+net/tr/resource/83079835
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Aklından Bir Sayı Tut Etkinliği
+Ek-2: Cebirsel İfadelerin Değerini Bulma Çalışması
+Ek-3: Cebir Bingo Oyunu Yönergesi
+Ek-4: Grup Değerlendirme Formu (Öğrenci İçin)
+Ek-5: Cebirsel İfadeler Eşleştirme Soruları
+6
+x Cebir Bingo Oyunu
+EK-1
+Aklından Bir Sayı Tut Etkinliği
+Aşağıda verilen cebirsel ifadeleri örnekte olduğu gibi cümle şeklinde yazınız ve x’in farklı değerlerine göre cebirsel ifadelerin değerlerini
+hesaplayınız.
+Cebirsel İfade Cümle x=2 için x=3 için x=4 için
+ÖRNEK Aklımdan bir sayı tuttum,
+3∙2=6 3∙3=9 3∙4=12
+6+8=14 9+8=17 12+8=20
+3x+8 ekledim.
+4x+3
+5x-4
+7x+2
+Cebir Bingo Oyunu
+EK-2
+Cebirsel İfadelerin Değerini Bulma Çalışması
+Aşağıda verilen cebirsel ifadelerin değerlerini x=2 ve x=3 için hesaplayınız.
+DEĞİŞKEN DEĞERLERİ
+CEBİRSEL İFADELER
+x=2 için x=3 için
+5x+4
+2x2 +2
+50-x3
+36x-12x
+25+5x2
+Cebir Bingo Oyunu
+EK-3
+Cebir Bingo Oyunu Yönergesi
+1. Oyun Kartlarını Hazırlama
+• Oyun grubundaki her öğrenci için görsel düzenleme aracında 3x3’lük bir tablo oluşturunuz
+(bir bingo kartı).
+• Her kareye değişkenin alacağı farklı değerlere göre hesaplanacak bir cebirsel ifade sorusu
+yerleştiriniz.
+Örneğin
+x=2 için 3x−1’in değeri nedir?
+x=5 için 2x+4’ün değeri nedir?
+x=8 için 4x−3’ün değeri nedir?
+2. Oyun Kurallarını Belirleme
+• Cebir bingonun nasıl yapılacağını belirleyiniz: Bir satır, bir sütun veya çapraz tamamlama.
+• Cebirsel ifadeleri içeren soruları rastgele olacak şekilde tabloya yerleştiriniz. Böylece her
+kartta farklı bir düzen olsun.
+3. Çağrı Kartları Hazırlama
+• 9 farklı çağrı kartı hazırlayınız. Hazırlanan soruların cevapları bu kartlarda yer almalıdır.
+Örneğin 3x−1 ifadesinin x=2 için cevabı olan 5, kartlarda yer almalıdır.
+• Her çağrı kartında, oyun kartlarında yer alan ifadelerin sonuçları olmalıdır.
+4. Oyunu Açıklama
+• Öğrencilere 3x3’lük oyun kartları dağıtılır.
+• Öğretmen veya bir öğrenci çağrı kartlarından birini çeker ve okur. Örneğin “Cevap 5”
+• Öğrenciler oyun kartlarında bu cevaba karşılık gelen cebirsel ifadeyi bulup işaretler.
+• İlk “bingo” yapan (bir satır, sütun veya çapraz tamamlayan) öğrenci kazanır.
+5. Oyunu Oynama ve Test Etme
+• Öğrencilere oyun kartlarını dağıtınız ve çağrı kartlarını kullanarak oyunu başlatınız.
+• İlk “bingo” yapan öğrenci veya ilk tamamlanan deseni bulan öğrenci oyunu kazanır.
+EK-3
+Örnek Oyun Kartı (3x3)
+(x=3 için) (x=5 için) (x=8 için)
+32-4x=........... 3x+4=........... 4x-3=...........
+(x=6 için) (x=2 için) (x=3 için)
+x+2=........... 5x-7=........... 3x+5=...........
+(x=4 için) (x=3 için) (x=2 için)
+2x-4=........... 72-10x=........... 3x-6=...........
+EK-4
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, cebir bingo oyunu etkinliğinde arkadaşlarınızın gruptaki çalışmalarını değerlendirmeniz için hazırlanmıştır. Arkadaşlarınızın ayrı
+ayrı kriterleri karşılama durumuna göre Evet için E, Bazen için B, Hayır için H ile kutucukları doldurunuz.
+Değerlendirme Yapan Öğrencinin Adı Soyadı:
+Grup Adı:
+GRUP ÜYELERİ
+Birinci Grup İkinci Grup Üçüncü Grup Dördüncü Grup
+KRİTERLER Arkadaşım Arkadaşım Arkadaşım Arkadaşım
+...................................... ...................................... ...................................... ......................................
+Grup çalışmalarına aktif katılım sağladı.
+Arkadaşlarının görüşlerine saygı duydu.
+Grupta karar verme süreçlerine katıldı.
+Grup içindeki görevlerini yerine getirdi.
+Oyun kurallarının belirlenmesine katkıda bulundu.
+Cebirsel ifade sorularını doğru şekilde hazırladı.
+Cebirsel ifadelerle ilgili hazırlanan soruları doğru şekilde
+cevaplandırdı.
+Oyun kartlarını ve çağrı kartlarını web aracında doğru şekilde
+tasarladı.
+Görevleri zamanında tamamladı.
+Cebir Bingo Oyunu
+EK-5
+Cebirsel İfadeler Eşleştirme Soruları
+Aşağıda verilen cebirsel ifadelerin anlamını uygun cebirsel ifadelerle eşleştiriniz.
+CEBİRSEL İFADENİN ANLAMI CEBİRSEL İFADE
+a
+1. Kalemlerimin sayısının 3 katının 2 eksiği a)
+5
+2. Zeynep’in kitaplarının 8 katının 12 fazlasının yarısı b) 4x
+3. 5 litrelik şişede satılan yağın 1 litresinin fiyatı c) 5+f
+b+5
+4. Aras’ın elmalarının 5 fazlasının üçte biri ç)
+3
+5. Bir kenarı x birim olan karenin çevresi d) 3k-2
+8m+12
+e)
+2
+Cebir Bingo Oyunu
+Cevap Anahtarları
+Ek-1
+Cebirsel
+Cümle x=2 için x=3 için x=4 için
+İfade
+ÖRNEK
+Aklımdan bir sayı tuttum, 3∙2=6 3∙3=9 3∙4=12
+3x+8
+Aklımdan bir sayı tuttum, 4∙2=8 4∙3=12 4∙4=16
+4x+3
+Aklımdan bir sayı tuttum, 5∙2=10 5∙3=15 5∙4=20
+5x-4
+Aklımdan bir sayı tuttum, 7∙2=14 7∙3=21 7∙4=28
+7x+2
+Ek-2
+DEĞİŞKEN DEĞERLERİ
+CEBİRSEL İFADELER
+x=2 için x=3 için
+5x+4 14 19
+2x2 +2 10 20
+50-x3 42 23
+36x-12x 48 72
+25+5x2 45 70
+Cebir Bingo Oyunu
+Cevap Anahtarları
+Ek-3
+(Örnek Çağrı Kartları)
+x=3 32-4x=20 (Kartta 20 yazmalıdır.)
+x=5 3x+4=19 (Kartta 19 yazmalıdır.)
+x=8 4x-3=29 (Kartta 29 yazmalıdır.)
+x=6 x+2=8 (Kartta 8 yazmalıdır.)
+x=2 5x-7=3 (Kartta 3 yazmalıdır.)
+x=3 3x+5=14 (Kartta 14 yazmalıdır.)
+x=4 2x-4=4 (Kartta 4 yazmalıdır.)
+x=3 72-10x=42 (Kartta 42 yazmalıdır.)
+x=2 3x-6=0 (Kartta 0 yazmalıdır.)
+Ek-5
+CEBİRSEL CEBİRSEL
+İFADENİN
+ANLAMI İFADE
+1. d
+2. e
+3. a
+4. ç
+5. b
+Cebir Bingo Oyun
+LINKS:[["Aklından Bir Sayı Tut Etkinliği", "ugCSe5"], ["EBA Değişkenin Alacağı Değere Göre Cebirsel İfadenin Değerini Hesaplama", "RgsVpl"], ["Cebirsel İfadelerin Değerini Bulma", "UVfTLOh"], ["Cebir Bingo Oyunu Grup Çalışma Panosu", "U298wQi"], ["EBA Cebirsel İfadelerin Anlamı", "UERqm5h"], ["Cebirsel İfadeler Eşleştirme Soruları", "UG7Fy7v"], ["EBA Cebirsel İfadeler Öğretmene Özel Tarama Testi", "UlV99lz"], ["EBA Cebirsel İfadeler Alt Konu Testi", "Njvh9S"]]

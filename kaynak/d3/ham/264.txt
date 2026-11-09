@@ -1,0 +1,177 @@
+## 6. Sinif/Matematik/Veri Isleme - Temiz Hava Savunuculari.pdf
+SURE:3 KOD:M.6.4.1.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin incelemesi için Türkiye’de Hava Kirliliği Yükü-2021 içeriğini EBA’da paylaşır ve
+öğrencilerden içerik ile ilgili yorum yapmalarını ister. Ardından öğrencileri 2-4 kişilik heterojen gruplara
+ayırır. Her grup bir bilgisayarın başına geçer. Öğretmen, grafik ve tablolama aracının kullanımından
+kısaca bahseder.
+1. Ders (BT Sınıfı)
+Öğretmen, etkileşimli tahtadan EBA’yı açar ve paylaşmış olduğu Türkiye’de Hava Kirliliği Yükü-2021
+içeriğinden kısaca bahseder. Öğrencilerin paylaşım hakkında yaptığı yorumları inceler ve soruları varsa
+cevaplandırır. Öğretmen, öğrencilere “Sizce tablo içerisinde yer alan verileri başka nasıl gösterebiliriz?”
+der. Öğrencilerin beşinci sınıfta öğrendikleri “sütun grafiği” cevabını vermeleri gerekir. Cevabın gelmemesi
+durumunda öğretmen, öğrencilere yönlendirici sorular sorar. Soru cevaplandırıldıktan sonra öğretmen
+EBA’daki Verileri Düzenleme videosunu öğrencilere izletir. Video içerisinde sorulan soruları öğrencilere
+yöneltir ve cevap vermeye istekli öğrencilere söz hakkı verir. Öğrencilerin cevaplarını dinledikten sonra
+videoyu kaldığı yerden izletmeye devam eder. Videonun tamamı izlendikten sonra Bir Çevre Sorunsalı
+Olarak Hava Kirliliği: Kırıkkale İli Örneği isimli makalenin 90. sayfasındaki ikinci tabloda yer alan Sıklık
+Tablosu’nu etkileşimli tahtada açar. Öğrencilerden yıllara göre PM10 ve hava sıcaklığı verilerinin ikili
+sütun grafiğini grafik ve tablolama aracını kullanarak çizmelerini ister (Öğretmen, sınıfın hazır bulunuşluk
+düzeyini göz önünde bulundurarak sayısal değerleri en yakın birliğe yuvarlayarak çizmelerini isteyebilir).
+Öğrenciler etkinliği yaparken öğretmen, çizimleri kontrol eder ve hatalı çizimlere geri bildirimlerde bulunur.
+Ders Sonrası
+Öğretmen, öğrencilere “Siz de ilimizin hava kirliliğini araştırmaya ne dersiniz?” sorusunu yöneltir ve
+öğrencilere sonraki derse kadar yapmaları için bir araştırma görevi verir. Öğretmen, öğrencilerden
+araştırmaları sonucunda elde ettikleri verilerle grafik ve tablolama araçlarından birini kullanarak sütun
+grafiği oluşturmalarını ve oluşturdukları grafiğin ekran görüntüsünü veya bağlantısını öğretmenin
+EBA’da “Sayfam” sekmesinde başlatmış olduğu tartışma bölümünde paylaşmalarını ister. Ayrıca tüm
+öğrencilerden tartışma bölümünde yapılan paylaşımlar hakkında fikirlerini belirtmelerini ister.
+İlgili Yetkinlikler/Beceriler: Matematiksel gösterim, Bilgi ve iletişim teknolojileri
+Ders öncesi
+Öğretmen, öğrencileri sınıf mevcudunu göz önünde bulundurarak 3-5 kişilik heterojen gruplara ayırır.
+Her grup bir bilgisayarın başına geçer. Öğretmen, grafik ve tablolama araçlarından biri ile TÜBİTAK
+1001-Bilimsel ve Teknolojik Araştırma Projelerini Destekleme Programı’na yapılan Proje Başvuru Sayıları
+Tablosu’nu hazırlar.
+2. Ders (BT Sınıfı)
+Öğretmen, öğrencilere “Her yıl ülkemizde TÜBİTAK projelerine binlerce başvuru gerçekleştiriliyor ve bu
+projeler alanında uzman kişiler tarafından inceleniyor. Gelin, sizlerle 2022 ve 2023 yıllarında TÜBİTAK
+1001-Bilimsel ve Teknolojik Araştırma Projelerini Destekleme Programı’na yapılan proje başvuru sayılarını
+inceleyelim.” der ve grafik ve tablolama araçlarından biri ile hazırladığı Proje Başvuru Sayıları Tablosu
+bağlantısını öğrencilerle paylaşır. Tablodaki bilgileri incelemeleri için öğrencilere 5 dakika süre verir.
+Süre tamamlandığında öğretmen, öğrencilere tablonun içinde yer alan bilgilerle ilgili aşağıda verilen
+soruları sorar:
+• Hangi yıl KBAG (Kimya, Biyoloji Araştırma Destek Grubu) alanında daha fazla proje desteklenmiştir?
+• 2023 yılında TOVAG (Tarım, Ormancılık ve Veterinerlik Araştırma Destek Grubu) alanında bir sonraki
+dönemi beklemeden başvuru yapmaya hak kazanan proje sayısı kaçtır?
+• Önerilen proje sayısı en az kaçtır?
+Öğretmen, öğrencilere soruları cevaplandırırken zorlanıp zorlanmadıklarını sorar. İstekli öğrencilere söz hakkı
+verdikten sonra “Peki daha kolay yorumlamak için ne yapabiliriz?” sorusunu sorar. Öğretmen, öğrencilerin
+bu soruya bir önceki ders öğrendikleri “ikili sütun grafiği” cevabını vermeleri için gerekli yönlendirmeleri
+yapar. Cevabın gelmemesi durumunda öğrencilere “Sizce ikili sütun grafiğinde göstermemiz uygun olur
+mu?” diye sorar. Öğrenci gruplarından grafik ve tablolama aracını kullanarak 2022 ve 2023 yıllarındaki ikinci
+dönem bilgilerini ikili sütun grafiğinde göstermelerini ister. Oluşturdukları grafiklerin ekran görüntüsünü
+veya bağlantısını öğretmenin EBA’da “Sayfam” sekmesinde başlattığı tartışma bölümünde paylaşmalarını
+ister. Tüm öğrencilerden tartışma bölümünde yapılan paylaşımlar hakkında fikir belirtmelerini ister.
+Ders Sonrası
+Etkinlik ders süresinde tamamlanamazsa öğretmen, öğrencilerden etkinliği sonraki derse kadar
+tamamlamalarını ister.
+Öğretmen, öğrencilerin bazı özelliklerine ait soruların yer aldığı çalışma kâğıdını öğrencilere dağıtır (Ek-1).
+Öğrencilerden bu soruları sınıf arkadaşlarına sormalarını ve soruların cevaplarını not almalarını ister.
+Öğrencileri elde ettikleri verileri kullanarak ikili sıklık tablosu ve ikili sütun grafiği oluşturmaları ve etkileşimli
+sunum araçlarını kullanarak elde edilen grafiklerle bir sunum hazırlamaları için görevlendirir. Yapılacak
+sunumların sonunda her grubun kendi çalışmasını değerlendirmesi amacıyla grup değerlendirme formu
+dolduracağını söyler ve formun kriterleri hakkında öğrencileri bilgilendirir (Ek-2).
+İlgili Yetkinlikler/Beceriler: İletişim, İş birliği, Matematiksel gösterim, Bilgi ve iletişim teknolojileri,
+Akıl yürütme
+Ders Öncesi
+Öğretmen, sınıftaki öğrencilerin oluşturacakları ikili sıklık tablosu ve ikili sütun grafiklerinde yer alacak
+bilgileri ve olası farklılıkları göz önünde bulundurarak soru cevap etkinliği hazırlar.
+Bir önceki ders oluşturulan gruplardan hazırladıkları ikili sıklık tablosu ve ikili sütun grafiğini sunmaları için
+birer sözcü seçmelerini ister. Gruplardaki tüm öğrencilere grup değerlendirme formunu dağıtır (Ek-2).
+3. Ders (Sınıf)
+Öğretmen, her grubun sözcülerini sunumlarını yapmaları için sırayla tahtaya kaldırır. Sözcüler etkileşimli
+sunum aracı ile sunumlarını yaparlar. Hatalı çizimler varsa geri bildirimde bulunarak öğrencilerin
+düzeltmesini sağlar. Her grup, sunumunu yaptıktan sonra grup değerlendirme formunu kullanarak kendi
+çalışmalarını değerlendirir. Öğretmen, öğrencilerin sütun grafiklerini paylaştıkları EBA sayfasını açar ve
+grafiklere öğrencilerle birlikte dönüt verir. En beğenilen grafiğin çıktısını alır ve sınıf panosunda sergiler.
+Öğretmen, belirlediği sorularla oluşturduğu soru cevap etkinliğini başlatır ve öğrencilerin cevaplandırmaları
+için sorulardan sonra gerekli süreyi verir. Tüm sorular cevaplandıktan sonra varsa öğrencilerin soruları
+cevaplanarak ders tamamlanır.
+Ders Sonrası
+Öğretmen, EBA’da yer alan Verileri İkili Sıklık Tablosunda ya da İkili Sütun Grafiğinde Gösterme etkileşimli
+içeriğini ve Veri Toplama ve Değerlendirme alt konu testini öğrencilerin EBA sayfasına gönderir ve çalışma
+takibini EBA üzerinden yapar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, Eleştirel düşünme
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerik
+• EBA + alt konu testi
+• Grup değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Türkiye’de Hava Kirliliği Yükü-2021: https://meb.ai/ViSTUi (Son erişim tarihi: 12.12.2024)
+2. EBA Verileri Düzenleme: https://meb.ai/UfYaHFX (Son erişim tarihi: 20.05.2024)
+3. Sıklık Tablosu: https://meb.ai/UIxAnbB (Son erişim tarihi: 12.12.2024)
+4. Proje Başvuru Sayısı Tablosu: https://meb.ai/4eeS6e (Son erişim tarihi: 5.02.2025)
+5. EBA Etkileşimli İçerik Verileri İkili Sıklık Tablosunda ya da İkili Sütun Grafiğinde Gösterme: https://meb.
+ai/Yhhajq (Son erişim tarihi: 20.05.2024)
+6. EBA Alt Konu Testi Veri Toplama ve Değerlendirme: https://meb.ai/qekvRc (Son erişim tarihi: 20.05.2024)
+Kaynakça
+Cansaran, D. (2017). Bir çevre sorunsalı olarak hava kirliliği: Kırıkkale ili örneği. Bingöl Üniversitesi Sosyal
+Bilimler Enstitüsü Dergisi, 7(iktisat özel sayısı), 79-94.
+Canva. (2024). Temiz hava savunucuları-proje başvuru sayısı tablosu. Son erişim tarihi 5 Şubat 2025, https://
+www.canva.com/design/DAGeOKU_Y-8/zyS8kVzUjLZzWvp2eCSS0g/edit?utm_content=DAGeOKU_Y-
+8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Canva. (2024). Temiz hava savunucuları-sıklık tablosu. Son erişim tarihi 12 Aralık 2024, https://www.
+canva.com/design/DAGZE4oebcQ/JDRbR0rr4SN0YJFlhco61Q/view?utm_content=DAGZE4oebcQ&utm_
+campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf1f55901be
+Greenpeace. (2022). Türkiye’de hava kirliliği yükü-2021. Son erişim tarihi 12 Aralık 2024, https://www.
+greenpeace.org/static/planet4-turkey-stateless/2022/10/f9414da6-hava_kirliligi_yuku_11ekim2021.pdf
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+TÜBİTAK. (2024). TÜBİTAK 1001-Bilimsel ve teknolojik araştırma projelerini destekleme programı. Son
+erişim tarihi 6 Haziran 2024, https://tubitak.gov.tr/sites/default/files/26720/arastirma_destek_gruplari_
+bazinda_proje_destek_oranlari_0.pdf
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: İkili Sıklık Tablosu ve İkili Sütun Grafiği Çalışma Kâğıdı
+Ek-2: Grup Değerlendirme Formu (Öğrenci İçin)
+EK-1
+İkili Sıklık Tablosu ve İkili Sütun Grafiği Çalışma Kâğıdı
+Sevgili öğrenciler, aşağıdaki soruları sınıf arkadaşlarınıza sorunuz. Verilen cevaplara göre tabloları doldurup ikili sıklık tabloları ve ikili sütun grafikleri
+oluşturunuz.
+Grup Adı: ....................................................
+Grup Üyeleri: ...........................................
+SORULAR
+Sınıfınızdaki
+1. Gözlüklü kız/erkek öğrenci sayısı kaçtır? 3. Boyu 150 cm’den az olan kız/erkek öğrenci sayısı kaçtır?
+GÖZLÜKLÜ ÖĞRENCİ SAYILARI BOYU 150 CM’DEN AZ OLAN ÖĞRENCİ SAYILARI
+KIZ ERKEK KIZ ERKEK
+2. Gözlüksüz kız/erkek öğrenci sayısı kaçtır? 4. Boyu 150 cm veya 150 cm’den uzun olan kız/erkek öğrenci
+sayısı kaçtır?
+GÖZLÜKSÜZ ÖĞRENCİ SAYILARI BOYU 150 CM VEYA 150 CM’DEN FAZLA ÖĞRENCİ SAYILARI
+KIZ ERKEK KIZ ERKEK
+EK-1
+5. Okula yürüyerek gelen kız/erkek öğrenci sayısı kaçtır? 8. Yaz mevsiminde doğan kız/erkek öğrenci sayısı kaçtır?
+OKULA YÜRÜYEREK GELEN ÖĞRENCİ SAYILARI YAZ MEVSİMİNDE DOĞAN ÖĞRENCİ SAYILARI
+KIZ ERKEK KIZ ERKEK
+6. Okula araçla gelen kız/erkek öğrenci sayısı kaçtır? 9. İlkbahar mevsiminde doğan kız/erkek öğrenci sayısı kaçtır?
+OKULA ARAÇLA GELEN ÖĞRENCİ SAYILARI İLKBAHAR MEVSİMİNDE DOĞAN ÖĞRENCİ SAYILARI
+KIZ ERKEK KIZ ERKEK
+7. Kış mevsiminde doğan kız/erkek öğrenci sayısı kaçtır? 10. Sonbahar mevsiminde doğan kız/erkek öğrenci sayısı kaçtır?
+KIŞ MEVSİMİNDE DOĞAN ÖĞRENCİ SAYILARI SONBAHAR MEVSİMİNDE DOĞAN ÖĞRENCİ SAYILARI
+KIZ ERKEK KIZ ERKEK
+(Etkinlik soruları teknoloji odaklı öğrenme senaryoları için içerik geliştirici öğretmen tarafından hazırlanmıştır.)
+EK-2
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, grup olarak yaptığınız sunumlarda grup çalışmanızı değerlendirmeniz için hazırlanmıştır. Altta verilen kriterlere göre “Evet”, “Kısmen”, “Hayır”
+olacak şekilde gruptaki arkadaşlarınızı ve kendinizi değerlendiriniz.
+Grup Adı: ....................................................
+GRUP ÜYELERİ
+Ben 1. Grup 2. Grup 3. Grup 4. Grup
+KRİTERLER
+Üyesi Üyesi Üyesi Üyesi
+....................................... ....................................... ....................................... ....................................... .......................................
+1. Çalışma süresince etkili bir iletişim
+kurdum/kurdu.
+2. Konu ile ilgili temel kavramları
+öğrendim/öğrendi.
+3. Çalışmada aktif olarak yer aldım/aldı.
+4. Çalışma süresince zamanı verimli
+kullandım/kullandı.
+5. Sunumu uygun bir şekilde hazırladım/
+hazırladı.
+6. Sunumda açık ve anlaşılır bir
+dil kullandım/kullandı (Bu kriter
+için sadece grup sözcüsünü
+Temiz Hava Savunucular
+LINKS:[["Türkiye’de Hava Kirliliği Yükü-2021", "ViSTUi"], ["EBA Verileri Düzenleme", "UfYaHFX"], ["Sıklık Tablosu", "UIxAnbB"], ["Proje Başvuru Sayısı Tablosu", "4eeS6e"], ["EBA Alt Konu Testi Veri Toplama ve Değerlendirme", "qekvRc"]]

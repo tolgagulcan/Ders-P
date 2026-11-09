@@ -1,0 +1,112 @@
+## 6. Sinif/Matematik/Islemlerle Cebirsel Dusunme ve Degisimler - Oruntu Var.pdf
+SURE:5 KOD:MAT.6.2.2.
+KAV:Örüntü, Sözel temsil, Cebirsel ifade
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin önceki bilgilerini hatırlamaları ve pekiştirmeleri için EBA’da bulunan Örüntü Tanımı konu
+anlatımını ve Sayı Dizisinde Eksik Olan Sayıyı Bulma etkileşimli içeriğini öğrencilere çalışma olarak gönderir.
+Çalışmanın başlangıç ve bitiş tarihlerini seçer. Gönderilen çalışmanın tamamlanma durumunu takip eder.
+1. Ders (Sınıf)
+Öğretmen, ders öncesi öğrencilere gönderdiği Sayı Dizisinde Eksik Olan Sayıyı Bulma etkileşimli içeriğini
+tahtada açar. “Verilen sayı örüntüsünde istenen adımı nasıl bulabiliriz? İstenen adımı bulmadan önce sayı
+örüntüsünün kuralını belirlediniz mi?” gibi sorular sorarak alıştırmayı öğrencilerin katılımıyla tamamlar. “Bu
+derste sizinle bir sayı oyunu oynayacağız. Oyunumuzun adı: Sayılarla Örüntü.” diyerek derse devam eder ve
+öğrencilere oyunun kurallarından bahseder (Ek-1). Oyunun her adımında istenenleri etkileşimli beyaz tahta
+araçları ile hazırlanan Sayılarla Örüntü tablosuna öğrencilerin katılımıyla yazar. Yazılan cebirsel ifadelerin,
+örüntüdeki adım sayısı ve o adıma karşılık gelen terim arasındaki ilişkiyle oluşturulduğunu öğrencilerin fark
+etmelerini sağlar.
+Ders Öncesi
+Öğretmen, Çokgenler ve Açılar çalışma kâğıdının grup sayısı kadar çıktısını alır (Ek-2). Etkinliklere ayrılan
+zamanı daha verimli kullanmak için ders öncesinde öğrencileri 4-5 kişilik gruplara ayırır. Bir sonraki derste
+uygulayacakları etkinlik için Dinamik Matematik ve Geometri Aracı’nın bağlantısını EBA’da paylaşır ve öğren-
+cilerden araç üzerinde uygulama yapmalarını ister.
+2. Ders (BT Sınıfı)
+Öğretmen, ders öncesi oluşturduğu öğrenci gruplarını etkinlik için bilgisayarlara yönlendirir. Çokgenler ve
+Açılar çalışma kâğıdını öğrencilere dağıtır (Ek-2). Öğrencilere bu derste çokgenlerin iç açılarının ölçüleri
+toplamını ve düzgün çokgenlerde bir iç açının ve bir dış açının ölçüsünü veren genel ifadeye örüntü oluştu-
+rarak ulaşacaklarını söyler. Etkileşimli tahtada Dinamik Matematik ve Geometri Aracı’nı açar ve gönüllü
+öğrencilerden çokgenler oluşturmalarını ister. Uygulama hakkında kısaca bilgi verdikten sonra gruplara
+dinamik matematik ve geometri aracını kullanarak hazırladığı Çokgenler ve Açılar etkinliğini açmalarını
+söyler. Öğrencilerden çokgenlerin kenar sayısı ile iç açılarının ölçüleri toplamı arasındaki ilişkiyi inceleme-
+lerini ve çalışma kâğıdında yer alan soruları grupça yanıtlamalarını ister. Süreç boyunca grupları gözlemler
+ve gerektiğinde öğrencilere yardımcı olur. Öğrenciler, örüntüde istenen adımdaki terimi bulmaya yönelik
+sorularda yazılan cebirsel ifadeyi kullanır. Öğretmen, etkileşimli beyaz tahta aracı ile hazırlanan Çokgen-
+lerin Açılarını İfade Et etkinliğinin şablon bağlantısını gruplarla EBA’dan paylaşır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğrenciler, Çokgenler ve Açılar çalışma kâğıdında ulaştıkları sözel ve cebirsel ifadeleri uygun alanlara yazar
+(Ek-2). Tüm gruplar çalışmalarını tamamladıktan sonra öğretmen, etkileşimli tahtada etkinliği açar. Sınıfça
+grupların verdikleri yanıtlar incelenir.
+Dijital araçlar aracılığıyla etkileşimde bulunmak ve iş birliği yapmak, Dijital araçların
+tiksel temsillerden yararlanma, Sorumluluk, Yorumlama
+Ders Öncesi
+Öğretmen, Örüntü Piramidi adlı etkinlik kâğıdının öğrenci sayısı kadar çıktısını alır (Ek-3).
+3. Ders (Sınıf)
+Öğretmen, Örüntü Piramidi etkinlik kâğıdını öğrencilere dağıtır (Ek-3). Bir önceki ders oluşturduğu öğrenci
+gruplarından sayı örüntüleriyle ilgili soruların yer aldığı etkinlik kâğıdını birlikte yanıtlamalarını ister. Süreç
+boyunca grupları sayı örüntülerini yorumlama, örüntüde verilmeyen terimleri bulma, örüntünün yapısını
+cebirsel olarak ifade etme ve iş birlikli çalışma kriterlerine göre gözlemler. Gerektiğinde öğrencilere destek
+olur. Tüm gruplar verilen sürede soruları yanıtladıktan sonra soruların yer aldığı etkinlik kâğıdını etkileşimli
+tahtada açar. Gruplardaki öğrencilerin katılımı ile sorular yanıtlanır. Öğretmen, her soruyu gruptaki farklı
+bir öğrencinin yanıtlamasına dikkat eder. Ardından dinamik matematik ve geometri aracı ile hazırlanan
+Örüntülerin Grafikleri isimli çalışmayı etkileşimli tahtada açar. Öğrencilerin katılımıyla Örüntü Piramidi etkinlik
+kâğıdında yer alan sayı örüntülerinin tablo ve grafikleri oluşturulur. Öğrenciler, sayılar arasındaki ilişkileri
+tablo ve grafik ile analiz ederler.
+Sistematik olma, Kişi ve gruplarla iş birliği yapmak, Grup iletişimine katılmak,
+Matematiksel araç ve teknolojiyi kullanmak, Matematiksel temsillerden yarar-
+lanma, Çözümleme, Örüntüleri listelemek, Merak
+Ders Öncesi
+Öğretmen, Örüntüler çalışma kâğıdının öğrenci sayısı kadar çıktısını alır (Ek-4). Etkinliklere ayrılan zamanı
+daha verimli kullanmak için ders öncesinde öğrencileri 3-4 kişilik gruplara ayırır.
+4. Ders (Sınıf)
+Öğretmen, Örüntüler çalışma kâğıdını öğrencilere dağıtır (Ek-4). Öğrencilerden çalışma kâğıdındaki sayı
+ve şekil örüntüleriyle ilgili soruları grup arkadaşları ile yanıtlamalarını ister. Öğrenciler şekil örüntülerinde bir
+sonraki adımı çizer ve istenen adımdaki terimi cebirsel ifadeleri kullanarak belirler. Bu etkinlik aracılığıyla
+öğrenciler; örüntülerin genel terimini bulma,
+Matematiksel cebirsel
+doğrulama veyaolarak ifade etme
+ispat yapma, gibi beceriler
+Matematiksel kazanır.
+temsillerden Öğretmen,
+yararlanma,
+öğrencilere soruları yanıtlamaları için yeterli
+Matematiksel süreyi verir.
+temsilleri Süreç boyunca
+değerlendirme, sayı ve şekil örüntülerini
+Matematiksel çözümler yorumlama,
+geliştirme,
+örüntülerdeki ilişkileri tablo, grafik ve Yansıtma,
+sözel temsil aracılığıyla gösterme, örüntünün yapısını cebirsel olarak
+Yorumlama, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+ifade etme ve iş birlikli çalışma kriterlerine
+iletişimine göreAnalitik
+katılmak, öğrencilerin çalışmalarını
+düşünme, Empati, gözlemleyerek onlara
+Oyunseverlik, Dijital rehberlik
+bilgi eder.
+üzerinden
+çıkarım yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, Örüntüler çalışma kâğıdını etkileşimli tahtada açar. Gruplardaki öğrencilerin katılımıyla sorular
+yanıtlanır. Öğretmen, her soruda gruptaki farklı bir öğrencinin soruyu yanıtlamasına dikkat eder. Süreçte
+oluşan eksik ve hatalı öğrenmeleri giderir.
+Kişi ve gruplarla iş birliği yapmak, Grup iletişimine katılmak, Matematiksel temsil-
+lerden yararlanma, Matematiksel çözümler geliştirme, Stratejiyi işe koşarak problemi
+çözmek
+5. Ders (BT Sınıfı)
+Bu derste öğretmen, öğrencilerden zihin haritası oluşturmayı sağlayan web araçlarını kullanarak sayı ve şekil
+örüntülerinin yorumlanmasına dair zihin haritası oluşturmalarını ister. Öğrencileri gruplara ayırır, iş birlikli
+çalışmaları için grupları bilgisayarlara yönlendirir. Zihin haritasında şekil ve sayı örüntülerine yer verme-
+lerini; örüntülerdeki ilişkileri tablo, grafik ve sözel temsil ile göstermelerini ister. Ayrıca örüntünün yapısını
+cebirsel olarak ifade etmeleri gerektiğini belirtir. Süreç boyunca grupları gözlemler ve dijital araçların kulla-
+nımı konusunda öğrencilere destek olur. Öğrencilerden çalışmalarını EBA’da sınıf grubuyla paylaşmalarını
+ister. Ardından öğrencilere kendi öğrenme süreçlerini, performanslarını ve çalışmalarını değerlendirmeleri
+amacıyla öz değerlendirme yapacaklarını belirtir. Etkileşimli tahtada öz değerlendirme yapmayı sağlayan
+web araçları ile hazırlanan Öz Değerlendirme Formu’nu açar, kriterleri açıklar ve formu EBA’dan öğrenci-
+lerle paylaşır (Ek-5).
+Ders Sonrası
+Öğretmen, öğrencilerden EBA’da paylaşılan çalışmalar arasından kendi grup çalışmaları dışında bir çalış-
+mayı beğenmelerini ister. En çok beğeni alan çalışmanın çıktısını alarak sınıf panosuna asar ve çalış-
+mayı yapan öğrencileri tebrik eder. Öğrenciler, EBA’dan kendilerine gönderilen Öz Değerlendirme Formu’nu
+doldurur (Ek-5).
+
+LINKS:[["EBA Örüntü Tanımı", "UpWv5Vd"], ["EBA Sayı Dizisinde Eksik Olan Sayıyı Bulma", "yM4bty"], ["Sayılarla Örüntü", "9JFzmM"], ["Dinamik Matematik ve Geometri Aracı", "1hxjYM"], ["Çokgenler ve Açılar", "UfOZavF"], ["Çokgenlerin Açılarını İfade Et", "UE9AKCT"], ["Örüntülerin Grafikleri", "UL0Eu8i"], ["Öz Değerlendirme Formu", "v9e9xR"]]

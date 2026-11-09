@@ -1,0 +1,90 @@
+## 5. Sinif/Matematik/Istatiksel Arastirma Sureci - Verileri Gorsellestiriyorum.pdf
+SURE:5 KOD:MAT.5.5.1.
+KAV:Sütun grafiği, Daire grafiği, Veri
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin ön bilgilerini gözden geçirmeleri için sütun grafiği konusunun anlatıldığı Sütun Grafiği
+ve sütun grafiklerinin özelliklerinin açıklandığı Sütun Grafiği Neden Tercih Edilir? konu anlatımlarını öğren-
+cilere EBA’dan çalışma olarak gönderir. Çalışmanın başlangıç ve bitiş tarihlerini belirler. EBA çalışmalar,
+dijital çalışmalar sekmesinden öğrencilerin çalışmalarını takip eder. Öğretmen, oyunlaştırma web aracı
+ile oluşturulmuş Para Dedektifleri oyununu EBA’dan öğrenciler ile paylaşır (Ek-1). Para dedektifleri yarışma
+yönergesi ve etkinliğinin çıktısını alır, öğrencilere dağıtır (Ek-2). Öğrencilerden yarışma ve etkinliği 1. derse
+kadar tamamlamalarını ister.
+Öğretmen, ders öncesinde tamamlamalarını istediği yarışma ile ilgili düşüncelerini öğrenmek için öğren-
+cilere aşağıdaki soruları sorarak onları derse hazırlar:
+• Yarışmayı oynarken eğlenceli zaman geçirdiniz mi?
+• Yarışmayı kimlerle oynadınız?
+• Para hakkında yeni bilgiler öğrendiniz mi?
+Öğretmen öğrencileri 3-4 kişilik heterojen gruplara ayırır (Gruptaki öğrenci sayısı belirlenirken sınıftaki bilgi-
+sayar sayısı dikkate alınabilir.). Öğrenciler etkinlikte çizdikleri tablo ve grafikleri grup arkadaşlarıyla incelerler.
+İnceleme sonunda grup içinde karar vererek bir nokta ve bir sütun grafiği seçerler. Öğretmen, etkileşimli
+beyaz tahta araçları ile oluşturduğu Veri Tablosu şablonunun bağlantısını her bir grup ile paylaşır. Gruplar-
+daki öğrencileri etkileşimli beyaz tahtada birlikte çalışmaları için yönlendirir (Her bir grup seçtiği grafikler-
+deki verileri paylaşılan bağlantıya işleyerek kendi grafiklerini oluşturur.). Öğrenciler seçilen verileri kullanarak
+kendi grafiklerini oluştururlar. Oluşturulan grafikleri inceler ve karşılaştırırlar. Öğretmen de grupları gezerek
+öğrencilerin çalışmalarını gözlemler. Öğretmen aşağıdaki soruları sırası ile gruplara sorar:
+• Yarışmada en yüksek puanı kim aldı? Sizce bu soruyu cevaplamak için hangi grafik en uygundur?
+• Her bir yarışmacı kaç soruyu doğru cevaplamıştır? Sizce bu soruyu en iyi hangi grafik gösterir?
+• Her bir yarışmacı tüm soruların kaçta kaçını doğru cevaplamıştır? Nokta ve sütun grafiği bu soruyu cevap-
+lamak için yeterli midir?
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğrenciler sorular üzerinde grupça düşünüp karar verirler. Öğretmen, grupların cevaplarını sırası ile dinler.
+Bu sorularla öğretmen, öğrencilere farklı grafik türlerinin aynı veri ile ilgili farklı bilgileri anlattığını gösterir.
+Öğrenciler ise son soruda yeni bir grafik türüne ihtiyaç duyduklarını fark eder. Öğrenci grupları dijital pano
+ya da post-it oluşturma araçları ile oluşturulmuş Neler Biliyorum? etkinliğinde bulunan aşağıdaki soruları
+sırası ile yanıtlarlar:
+• Verileri görselleştirmek neden önemlidir?
+• Sütun grafiği çizerken nelere dikkat etmeliyiz?
+• Nokta grafiğinin dezavantajları neler olabilir?
+• Sıklık tablosu oluştururken nelere dikkat etmeliyiz?
+• Daire grafiği hakkında neler biliyorsunuz?
+Soruları yanıtlarken grupça karar verirler. Öğretmen süreci gözlemler. Tüm sorular yanıtlandıktan sonra
+öğretmen, etkileşimli tahtada etkinliği açar ve verilen cevapları öğrencilerle paylaşır. Cevaplar öğrenci-
+lerin veri görselleştirme araçları hakkındaki fikirlerini yansıtır, sınıfça bu fikirler üzerine konuşurlar. Öğretmen,
+eklemek veya düzeltmek istediği yerlerde müdahale eder. Öğrenciler, ders öncesinde hazırladıkları tablo ve
+grafiklerde eksiklikleri varsa tamamlayarak hatalı çizimlerini düzeltirler.
+Bir olay, konu ve durum ile ilgili ulaşılan bilgileri kaydetmek, Verileri toplamak ve
+analize hazırlamak, Veriyi tablo olarak biçimlendirmek, Grup iletişimine katılmak,
+Dijital araçlar aracılığıyla etkileşimde bulunmak ve iş birliği yapmak
+Ders Öncesi
+Öğretmen “Sütun ve Daire Grafiği Oluşturuyorum” etkinlik kâğıdının çıktısını alır (Ek-3).
+3. Ders (BT Sınıfı)
+Öğretmen, etkileşimli tahtada Türkiye İstatistik Kurumu web sitesini açar ve kurum hakkında öğrencilere
+kısaca bilgi verir: “TÜİK ülkemize ait çeşitli bilgileri toplar, topladığı bu bilgilerle hesaplamalar yapar ve sonuç-
+larını açıklar. Ayrıca diğer kurumlara ve uluslararası kuruluşlara istatistik üretimi konusunda yardımcı olur.”
+bilgisini verir. İlgilendikleri konularla ilgili TÜİK web sitesindeki içeriklere nasıl ulaşabileceklerini Bilgiye Nasıl
+Erişilir? bölümü aracılığıyla anlatır. Öğrenci gruplarına TÜİK haber bülteninden alınmış verilerin yer aldığı
+“Sütun ve Daire Grafiği Oluşturuyorum” etkinlik kâğıtlarını dağıtır (Ek-3). Bu verileri kullanarak grafik ve tablo-
+lama araçları ile sıklık tablosu, sütun ve daire grafiği oluşturmalarını gruplardan ister. Öğretmen, öğren-
+cilere grup değerlendirme yapmayı sağlayan web araçlarıyla hazırlanan Grup Değerlendirme Formu ile
+çalışmalarını değerlendireceğini söyler ve değerlendirme kriterlerini açıklar (Ek-4). Öğrencilerden oluştur-
+dukları grafikleri belirledikleri grup ismi ile kaydetmelerini ve EBA’dan paylaşmalarını ister. Etkinlik tamam-
+landıktan sonra değerlendirme sonuçlarını gruplar ile paylaşır.
+Matematiksel araç ve teknolojiyi kullanmak, Ekip (takım) çalışması yapmak ve
+yardımlaşmak, Veriyi tablo olarak biçimlendirmek, Sistematik olma, Dijital araçlar
+aracılığıyla etkileşimde bulunmak ve iş birliği yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+4. Ders (BT Sınıfı)
+Öğretmen, bir önceki derste tamamlanan ve EBA’da paylaşılan çalışmaları etkileşimli tahtadan açar. Oluştu-
+rulan grafikleri öğrencilerle birlikte inceler. Öğrenciler, 1. ve 2. haberde paylaşılan verilerle oluşturulan sütun
+ve daire grafiklerini karşılaştırırlar. Hangi görselleştirme aracının verileri göstermek için daha uygun olduğu
+üzerine konuşurlar. Öğretmen, daire grafiğinin bir bütünün parçalarını göstermede daha güçlü bir temsil
+yöntemi olduğunu öğrencilere fark ettirir. Grafiklerin bir soruyu cevaplamayı kolaylaştırdığını ve verilerin
+görsel bir temsili olduğunu göstermek için Daire ve Sütun Grafiği bağlantısını öğrencilerle paylaşır (Ek-5).
+Öğrencilerden etkileşimli beyaz tahta aracında çözmelerini ister. Öğretmen, bir önceki derste oluşturulan
+öğrenci gruplarının birlikte çalışmasını söyleyerek grupları bilgisayarlara yönlendirir. Çalışmanın bağlantı-
+sını her bir grup ile paylaşır. Gruplar tüm soruları yanıtladıktan sonra gönüllü öğrencilerin katılımı ile sorular
+tahtada çözülür.
+Analitik düşünme, Tartışma becerisi, Veriyi tablo olarak biçimlendirmek, Grup
+iletişimine katılmak, Duygu ve düşüncelerini ifade etmek, Matematiksel temsili
+kullanmak ve/veya oluşturmak
+Ders Öncesi
+Öğretmen, çevrim içi dergi, elektronik kitap, metin hazırlama araçları ile hazırlanan Verileri Görselleştiri-
+yorum çalışma kâğıdının çıktısını alır (Ek-6).
+5. Ders (Sınıf)
+Öğretmen öğrencilere Verileri Görselleştiriyorum çalışma kâğıdını dağıtır. Öğrencilerin bireysel olarak çalış-
+masını ister. Süreçte öğrencilere rehberlik eder. Süreç sonunda öğretmen, öğrencilerin “Verileri Görselleşti-
+riyorum” çalışma kâğıdındaki sorulara verdikleri yanıtları inceler, değerlendirir ve değerlendirme sonuçla-
+rıyla ilgili öğrencilere geri bildirimde bulunur.
+
+LINKS:[["EBA Sütun Grafiği", "mchFuY"], ["EBA Sütun Grafiği Neden Tercih Edilir?", "cJMob4"], ["Para Dedektifleri", "VuLDmQ"], ["Veri Tablosu", "upNYPD"], ["Neler Biliyorum?", "ULXSPa6"], ["TÜİK", "UbiimSv"], ["TÜİK Bilgiye Nasıl Erişilir?", "Ul1QSIl"], ["Grup Değerlendirme Formu", "Dns5Hf"], ["Daire ve Sütun Grafiği", "UaDhX6p"], ["Çalışma Kâğıdı", "ocypCZ"]]

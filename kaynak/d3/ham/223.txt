@@ -1,0 +1,72 @@
+## 6. Sinif/Sosyal Bilgiler/Evimiz Dunya - Dunya Uzerindeki Konumum.pdf
+SURE:3 KOD:SB.6.2.1. SBAB.7.
+KAV:Göreceli konum, Mutlak konum, Kıtalar, Okyanuslar, Coğrafi koordinat sistemi
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, derse öğrencilerin ilgisini çekebilecek bir oyun etkinliğiyle başlar. İsimlerini belirtmeden, oturduk-
+ları sırayı ve sınıftaki yerlerini küçük kâğıtlara yazarak tarif etmelerini öğrencilerden ister. Örneğin bir öğrenci
+“Pencereye en yakın sıradayım.” ya da “Üçüncü sıranın sağ köşesindeyim.” şeklinde yazabilir. Öğretmen
+kâğıtları toplar, rastgele okur ve diğer öğrenciler tarifin kime ait olduğunu bulmaya çalışır. Doğru kişiyi
+buldukça öğrencilerin eğlenmesi ve meraklarının artması beklenir. Etkinliğin sonunda öğretmen bazı tarif-
+lerin kesin ifadelerle, bazılarının ise çevresindeki nesnelere göre tarif edildiğini vurgular. Böylece sınıfta
+uygulanan bu örnek üzerinden ülkelerin ve kıtaların konumlarının iki farklı şekilde yani mutlak ve göreceli
+konumla açıklandığını belirterek derse geçiş yapar.
+Öğretmen, daha sonra EBA’dan Dünyayı Haritadan Okumak (Kıta ve Okyanusları Tanıyalım başlığına kadar)
+Türkiye’nin Göreceli Konumu S.63 video içeriklerini sırasıyla açar. Öğrencilerin içerikleri dinlerken akıllarında
+kalan bilgileri not almalarını ister. Ardından öğrencilerden sırasıyla Türkiye’nin özel (göreceli) ve matematik
+(mutlak) konum özellikleriyle ilgili not aldıkları bilgileri söz alarak paylaşmalarını ister. Öğretmen öğrenci-
+lerden gelen bilgilerin anlamlı şekilde yapılandırılmasını sağlamak için etkileşimli tahtada kavram haritası
+oluşturma araçları kullanarak bir kavram haritası oluşturur. Bu süreçte ülkemizin jeopolitik önemine vurgu
+yapar. Ardından, oluşturulan kavram haritasını EBA‘da paylaşır. Daha sonra tüm sınıfın katılımıyla oyunlaş-
+tırılmış ölçme ve değerlendirme web araçları ile hazırlanmış Türkiye’nin Mutlak ve Göreceli Konumu etkin-
+liğini yaptırır (Ek-1). Etkinlik sonunda yapılan yanlışların üzerinde durulur.
+Ders Sonrası
+Öğretmen, dersten sonra eşleştirme yapabilmeyi sağlayan web araçlarıyla hazırlanmış Türkiye’nin Mutlak
+Konumu etkinliğini yapmalarını ister (Ek-2).
+Ders Öncesi
+Öğretmen, EBA’da dijital pano ya da post-it oluşturma araçlarıyla hazırlanmış Coğrafi Koordinat Sistemi
+Araştırmalarım etkinliğini paylaşır. Coğrafi koordinat sistemi hakkında genel ağ ve yapay zekâ araçları ile
+yazılı, görsel ve dijital kaynaklardan araştırma yapmalarını, soruları cevaplamalarını öğrencilerden ister.
+Bir sonraki derse yanlarında bir balon ve bir tahta kalemi getirmelerini belirtir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Getirdikleri malzemelerle balonu şişirerek üzerine çizim yapacaklarını söyler. Öğretmen bir sonraki derste
+kullanmak üzere yerküre modelini hazırlar. Öğrencilerin EBA’da yaptığı çalışmalarla ilgili olarak çevrim içi
+geri bildirim verir.
+2. Ders (Sınıf)
+Öğretmen, sınıfa bir yerküre modeliyle girer ve dünya üzerindeki herhangi bir noktayı nasıl bulabileceğimiz
+üzerine öğrencilerin düşünmelerini ister. Öğretmen, yerkürede yatay ve dikey çizgileri gösterir ve bunların
+coğrafi koordinat sistemindeki yerini ve dünya üzerinde herhangi bir yerin konumunu bulmadaki önemini
+açıklar. Ardından Paralel ve meridyenlerin özelliklerini kısaca tekrar ederek konunun daha iyi anlaşılabil-
+mesi için oyunlaştırılmış ölçme değerlendirme web araçları ile hazırlanmış Paraleller ve Meridyenler etkinli-
+ğini etkileşimli tahta üzerinde öğrencilerin katılımı ile yaptırır (Ek-3). Daha sonra konunun somutlaştırmasını
+sağlamak amacıyla öğrencilerin yanlarında getirdikleri balonları şişirmelerini ister. Ardından bu balonların
+üzerine özel paralel ve meridyen adlarını (Ekvator, Greenwich (G›rinviç), kuzey yarım küre, güney yarım
+küre vb.) kalemle yazıp işaretlemelerini söyler. Öğretmen de öğrencilerle tahtada ya da yerküre üzerinde
+çizimlerini yapar ve çizimlerin nasıl olması gerektiğini gösterir. Ardından hazırlanan balonlar sınıfta asılarak
+sergilenebilir ya da EBA’da paylaşılabilir.
+Ders Öncesi
+Öğretmen bir sonraki ders “Dünya Dilsiz Haritasında Kıtalarımız, Okyanuslar ve Ülkemiz” etkinliği için öğren-
+cilerin kuru boya getirmelerini ister (Ek-4). Derse girmeden öğrenci sayısı kadar etkinlik sayfasının baskı-
+sını alır.
+3. Ders (Sınıf)
+Öğretmen, etkileşimli tahtada dünya haritasını açar. Harita üzerinden ülkemizin göreceli ve mutlak konumu
+ile kıtalar ve okyanusların göreceli konumu hakkında öğrencilerden bilgi ve yorumlarını paylaşmalarını ister.
+Ders sürecinde deniz ve okyanus arasındaki farkı sorar. Öğrencilerden geri bildirim aldıktan sonra deniz
+ve okyanus arasındaki farkı açıklar. Daha sonra EBA’dan Dünyayı Haritadan Okumak “Kıta ve Okyanuslar
+Tanıyalım” alt başlığını açarak öğrencilere ülkemizin deniz komşularını sorar. Ardından ülkemizin göreceli
+konumu kapsamında deniz komşularımıza değinir. Öğrencilerin yerküre modeli üzerinde bu komşularımızı
+göstermeleri istenir. Öğretmen EBA’dan Mavi Vatan S.74 videosunu izleterek Ege, Karadeniz, Akdeniz ve
+Marmara Denizi’ndeki ülkemizin hak ve menfaatlerini korumasının önemine değinir. Bu denizlerin jeopolitik
+konumumuz ve bağımsızlığımız açısından kritik bir yere sahip olduğunu vurgular. Daha sonra kıtaların ve
+okyanusların göreceli konumlarını dünya dilsiz haritası üzerinde farklı renklerle boyayarak görselleştirme-
+lerini öğrencilerden ister. Bu amaçla “Dünya Dilsiz Haritasında Kıtalarımız, Okyanuslar ve Ülkemiz” etkinliğini
+yapmalarını belirtir (Ek-4). Ardından bu harita üzerine küçük boyutlu bir Türkiye haritası kesilerek yapıştı-
+rılır. Tamamlanan çalışmalar sınıf panosuna asılarak sergilenir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, ders sonrasında öz değerlendirme yapmayı sağlayan web araçlarıyla hazırlanan Yansıtıcı
+Günlük etkinliğini EBA’da paylaşarak öğrencilerin doldurmasını ister. Ardından tamamlayan öğrencilere
+EBA’da çevrim içi geri bildirim verir. EBA’dan paylaştığı Dünyayı Haritadan Okumak: Paralel ve Meridyen-
+lerin Gücü alıştırmasını da tamamlamalarını ister. Bir sonraki dersin başında öğrencilere geri bildirim verir.
+
+LINKS:[["EBA Dünyayı Haritadan Okumak", "6vrdYG"], ["EBA Türkiye’nin Göreceli Konumu S.63", "UMehr8s"], ["Türkiye’nin Mutlak ve Göreceli Konumu", "UMnZ67i"], ["Türkiye’nin Mutlak Konumu", "2E3agO"], ["Coğrafi Koordinat Sistemi Araştırmalarım", "Uf7JtTb"], ["Paraleller ve Meridyenler", "9k9utt"], ["EBA Mavi Vatan S.74", "D6ZaSH"], ["Yansıtıcı Günlük", "ljqC54"], ["EBA Dünyayı Haritadan Okumak: Paralel ve Meridyenlerin Gücü", "UokCdJc"]]

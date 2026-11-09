@@ -1,0 +1,61 @@
+## 5. Sinif/Matematik/Sayilar ve Nicelikler (2) - Esitimi Bul.pdf
+SURE:5 KOD:MAT.5.1.3.
+KAV:Modelleme, Kesir, Ondalık gösterim, Yüzde
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, kodlama-programlama araçlarından birini kullanarak Müfredat Kataloğu’nda yer alan bir kodlama
+etkinliğinin kodunu EBA aracılığıyla öğrencilerle paylaşır. Öğrencilerden etkinliği dersten önce tamamlama-
+larını ister. Kodlama Etkinlik Kâğıdı’nın çıktısını öğrenci sayısı kadar alır (Ek-1).
+Öğretmen kesir, ondalık gösterim ve yüzde sembolü konularını hatırlatmak amacıyla öğrencilere gönder-
+diği etkinliğin “İlerleme Durumu” ekranını etkileşimli tahtada açar. Öğrencilerden etkinlik aşamalarının
+tamamlanma durumunu incelemelerini ister ve bunun için onlara 3 dakika süre verir. Sürenin sonunda
+her bölümün tamamlanma durumunu etkinlik kâğıdının birinci tablosu üzerinde kesir, ondalık gösterim ve
+yüzde sembolü ile ifade etmelerini ister (Ek-1). Tüm öğrenciler etkinliği tamamladıktan sonra öğretmen, her
+öğrenciyi sıra arkadaşı ile eşleştirerek gruplar oluşturur. Gruplardan kendilerine bir isim belirlemelerini ister.
+Öğrenciler, grup isimlerini belirledikten sonra elde ettikleri sonuçları kendi aralarında karşılaştırır. Cevap-
+ları farklı olan gruplardan durumu tartışarak ortak bir cevap vermelerini ister. Her bölüm için istekli öğren-
+cilerden birini tahtaya kaldırır ve ondan cevabı açıklayarak yazmasını ister. Gruplar, etkinlik kâğıdının ikinci
+tablosuna birinci tabloda verdikleri cevapların doğru ve yanlış sayıları ile boş bıraktıkları cevap sayılarını
+yazar. Öğretmen, öğrencilerden tabloya yazdıkları doğru cevap sayılarını kesir, ondalık gösterim ve yüzde
+sembolü ile ifade etmelerini ister. Etkinliğin tamamlanmasıyla istekli öğrenciler soruları sırayla tahtada
+cevaplandırır. Öğretmen hatalı çözüm yapan öğrencilere yönlendirici sorular sorarak onların doğru çözüme
+ulaşmalarına rehberlik eder.
+Eleştirel düşünme, Çıkarım yapma, Başkalarını etkin şekilde dinlemek, Duygu ve
+düşüncelerini ifade etmek, Grup iletişimine katılmak, Kişi ve gruplarla iş birliği
+yapmak
+Ders Öncesi
+Öğretmen EBA’dan Denk Kesirler videosunu öğrencilerle paylaşarak onlardan videoyu izlemelerini ister.
+3. Ders (Sınıf)
+Öğretmen, etkileşimli sunum araçlarıyla hazırlanan Yapboz etkinliğini etkileşimli tahtada açar. Öncelikle
+tüm öğrencilerden etkinlikte yer alan kesir, ondalık gösterim, yüzde sembolü ve modelleme şeklindeki kesir
+gösterimlerini incelemelerini ister. Öğrenciler her bir eşleştirme için bireysel olarak çalışır. Daha sonra gönüllü
+öğrencilerden yerleştirilmemiş yapboz parçalarını uygun karelere yerleştirmelerini ister. Etkinlik süresince
+öğrencilerin yapboz parçalarını hatalı yerleştirmelerine yönelik geri bildirimlerde bulunur. Öğrenciler kendi
+çalışmaları ile etkileşimli tahtada yapılan doğru eşleştirmeleri karşılaştırır ve hatalı oldukları kısımlarda
+gerekli düzenlemeleri yapar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, görsel düzenleme araçlarını kullanarak Tanılayıcı Dallanmış Ağaç Etkinlik Örneği’ni hazırlar ve
+sınıftaki öğrenci sayısı kadar çıktısını alır (Ek-2).
+4. Ders (Sınıf)
+Öğretmen, EBA’da bulunan Yüzdelik İfadeleri Modelleme etkileşimli içeriğini etkileşimli tahtada açar. Öğren-
+cilerden sırayla tahtaya kalkarak belirli bir alana ait soruyu tahta üzerinde cevaplandırmalarını ister. Doğru
+cevabı bulamayan öğrencilere cevabı bulabilmeleri için yönlendirici sorular sorar.
+Öğretmen Tanılayıcı Dallanmış Ağaç Etkinlik Örneği’ni öğrencilere dağıtır (Ek-2). Etkinliği tamamlamaları için
+onlara 10 dakika süre verir. Süre tamamlandıktan sonra her bir aşamayı istekli öğrencilerden birinin cevap-
+landırmasını ister. Doğru çıkışı bulan öğrencileri tebrik eder ve kâğıtlarını sınıf panosuna asar.
+Sorgulanan olay/konu/problem veya durum ile ilgili akıl yürütmek, Çözümleme,
+Çıkarım yapma, Başkalarını etkin şekilde dinlemek, Duygu ve düşüncelerini ifade
+etmek, Dijital bilgi üzerinden çıkarım yapmak
+Ders Öncesi
+Öğretmen öğrencileri 2-4 kişilik gruplara ayırır. Her grup bir bilgisayarın karşısına oturur. EBA içeriklerinden
+aldığı ve kendi yazdığı soruları kullanarak anlık geri bildirim sağlayan web araçları ile Alıştırmalar etkinli-
+ğini hazırlar.
+5. Ders (BT Sınıfı)
+Öğretmen, Alıştırmalar etkinliğinin bağlantısını öğrencilerle paylaşır (Ek-3). Öğrenciler tüm soruları cevap-
+ladıktan sonra tam puan alan öğrencileri tebrik eder. İstekli öğrencilere söz hakkı vererek soruların sırayla
+tahtada cevaplandırılmasını sağlar. Kelime bulutu oluşturma aracının bağlantısını EBA’dan öğrencilerle
+paylaşır. Öğrencilerden derste en çok ilgilerini çeken üç noktayı uygulamaya yazmalarını ister. Tüm öğren-
+ciler cevaplarını gönderdikten sonra sonuçlar etkileşimli tahtada sınıfça incelenir.
+
+LINKS:[["Müfredat Kataloğu", "UDNlhl3"], ["EBA Denk Kesirler", "U3w6kzz"], ["Yapboz", "UsSOdQ0"], ["Tanılayıcı Dallanmış Ağaç Etkinlik Örneği", "zrUZxF"], ["EBA Yüzdelik İfadeleri Modelleme", "UEgu0uL"], ["Alıştırmalar", "hUzKr9"]]

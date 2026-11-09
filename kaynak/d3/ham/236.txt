@@ -1,0 +1,173 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Millî Ucagimiz Kaan.pdf
+SURE:3 KOD:M.6.3.4.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, sınıf mevcudunu göz önünde bulundurarak öğrencileri 3-6 kişilik gruplara ayırır.
+1. Ders (Sınıf)
+Öğretmen, elinde dikdörtgenler prizması şeklinde bir kutu ve birimküplerle sınıfa girerek öğrencilerin ilgisini
+derse çeker (Dikdörtgenler prizmasının boyutları az sayıda ve tam sayıda birimküp ile doldurulabilecek
+şekilde belirlenmelidir.). Öğrencilere “Sizce bu kutunun içerisine kaç tane birimküp konulabilir? Bunu
+hesaplamanın kolay bir yolu var mıdır?” sorularını sorarak derse başlar. Öğrencilerin cevaplarını dijital
+pano ya da post-it oluşturma aracına yazar. Öğrenciler fikirlerini belirttikten sonra öğretmen, onlardan
+bu sonuçları nasıl bulduklarını açıklamalarını ister ve istekli öğrencilere söz hakkı verir. Öğrenciler
+dijital panoda fikirlerinin altına açıklamalarını yazar. Ardından öğretmen, dijital pano sayfasını EBA
+üzerinden öğrencilerle paylaşır ve ders sonrasında da tartışmanın devam etmesini sağlar. Öğrenciler
+fikirlerini belirttikten sonra öğretmen, EBA’da yer alan Dikdörtgenler Prizmasının Hacmi videosunu izletir.
+Videoda yer alan soruları öğrencilere sorar ve istekli öğrencilere söz hakkı verir. Böylece video süresince
+öğrencilerin dikkatlerinin dağılmamasını sağlar. Video tamamlandıktan sonra kutuya kaç tane birimküpün
+yerleştirilebileceğini göstermek için küpleri kutunun içerisine yerleştirir. Sonucu bulan veya sonuca en
+fazla yaklaşan öğrenciyi tebrik eder ve ondan sonucu nasıl bulduğunu açıklamasını ister. Öğrencinin
+işlemlerinde hata varsa düzeltir.
+Öğretmen, gruplara kutuya yerleştirilen birimküp sayısı kadar birimküp verir. Öğrencilerden bu birimküplerin
+hepsini kullanarak birbirinden farklı dikdörtgen prizmalar oluşturmalarını ve oluşturdukları her prizmayı
+defterlerine veya A4 kâğıdına not etmelerini ister. Öğrencilere 5 dakika süre verir. Süre tamamlandıktan
+sonra gruplardan oluşturdukları prizmaların ayrıt uzunluklarını sınıfla paylaşmalarını ister. Öğretmen
+paylaşılan prizma ayrıtlarını etkileşimli tahtadan öğrencilerle kontrol eder ve hatalı ayrıt uzunluğu veya
+eksik prizma varsa düzelterek etkinliği tamamlar. Öğretmen, öğrencilere “Oluşturulan prizmaların ortak
+özellikleri var mıdır? Varsa nelerdir?” sorularını sorar ve öğrencilerden gelen yanıtları etkileşimli tahtaya
+yazar. Öğrencilerin oluşturulan prizmaların hepsinin ayrıt uzunlukları çarpımının eşit olduğu cevabını
+vermesi gerekir. Öğretmen öğrencilerle cevapları tartışır. Hatalı cevaplara gerekli geri bildirimleri vererek
+öğrencileri doğru cevaba yönlendirir.
+İlgili Yetkinlikler/Beceriler: Bilgi ve iletişim teknolojileri, İletişim, İş birliği, Matematiksel gösterim,
+Matematiksel süreç becerileri
+Ders Öncesi
+Öğretmen, sınıfın EBA sayfasına KAAN-TUSAS içeriğini gönderir. Öğrencilerden içeriği okumalarını ve millî
+uçağımız Kaan ile ilgili fikirlerini gönderinin altına yazmalarını ister.
+Etkinlik öncesi gruplara kontrol listesini dağıtır ve yapacakları etkinlik boyunca bu formu doldurarak
+ilerleyeceklerini söyler (Ek-1).
+Ardından görsel düzenleme araçlarından biri ile hazırlanan Küp Açınımı adlı etkinlik sayfasının çıktısını alır.
+2. Ders (BT Sınıfı)
+Öğretmen, etkileşimli tahtada EBA’yı açar ve gönderdiği içeriğin altına yazılan yorumları öğrencilerle
+inceler. Öğrencilerden arkadaşlarının yorumları hakkındaki fikirlerini belirtmelerini ve içerikte verilen
+boyut uzunluklarını kullanarak uçağın hacmini bulmalarını ister (kanat açıklığı, uzunluk ve yükseklik).
+Öğrenciler hacmi bulduktan sonra istekli öğrencilerden biri tahtaya kalkarak cevabı açıklar. Öğretmen,
+öğrencileri üçer kişilik gruplara ayırır. Grupları sırayla dinamik matematik ve geometri aracı ve 3D model
+oluşturmayı sağlayan araç ile dikdörtgenler prizması oluşturmaları için görevlendirir. Gruplar oluştur-
+dukları dikdörtgenler prizmasının ayrıt uzunluklarını ve hacmini hesaplayarak tabloda ilgili yere not eder
+(Ek-2). Öğretmen tabloyu inceler. Hata varsa geri bildirimde bulunarak yanlış cevapların düzeltilmesini
+sağlar. Öğrencileri bir sonraki etkinliğe yönlendirir. Gruplar masalarında bulunan Küp Açınımını gerekli
+yerlerden kesip yapıştırarak birimküpler oluşturur.
+İlgili Yetkinlikler/Beceriler: İletişim, Tasarım, İş birliği, Bilgi ve iletişim teknolojileri okuryazarlığı,
+Matematiksel süreç becerileri
+Ders Öncesi
+Öğretmen, sınıf mevcudunu ve oyun küplerini göz önünde bulundurarak öğrencileri 4-8 kişilik gruplara
+ayırır.
+3. Ders (Sınıf)
+Öğretmen, öğrenmeleri pekiştirmek ve değerlendirmek için EBA’da yer alan Prizmaların Hacmi ile İlgili
+Problem Çözme etkileşimli içeriğini açar. Öğrenciler söz hakkı alarak etkileşimli içerikleri cevaplandırır.
+Sorular cevaplandırıldıktan sonra öğretmen hacim ile ilgili yarışma düzenler. Yarışma kurallarını öğrencilere
+açıklar (Ek-3). Öğrenciler yarışmada bir önceki ders oluşturdukları birimküpleri kullanır. Öğretmen, yapılan
+her etkinlik sonunda dereceye giren grupların puanlarını tabloya yazar (Ek-4). Yarışma sonucunda en
+yüksek puanı alan grubu tebrik eder.
+Ders Sonrası
+Öğretmen, Dikdörtgenler Prizmasının Hacmi adlı alıştırmayı ve Dikdörtgenler Prizmasının Hacmi adlı alt
+konu testini EBA’dan öğrencilere çalışma olarak gönderir. Çalışma takibini EBA raporlar bölümünden yapar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırma • EBA + etkileşimli içerik
+• EBA + alt konu testi • Kontrol listesi
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Dikdörtgenler Prizmasının Hacmi: http://meb.ai/x889v1 (Son erişim tarihi: 21.05.2024)
+2. Kaan-Tusas: http://meb.ai/U4kxUqb (Son erişim tarihi: 21.05.2024)
+3. Millî Uçağımız Kaan-Küp Açınımı: https://meb.ai/U6Y1Ttp (Son erişim tarihi: 22.11.2024)
+4. EBA Prizmaların Hacmi ile İlgili Problem Çözme: http://meb.ai/UEhR8rM (Son erişim tarihi: 21.05.2024)
+5. EBA Alıştırmalar-Dikdörtgenler Prizmasının Hacmi: http://meb.ai/WLY6tl (Son erişim tarihi: 21.05.2024)
+6. EBA Alt Konu Testi Dikdörtgenler Prizmasının Hacmi: http://meb.ai/NoObrV (Son erişim tarihi: 21.05.2024)
+Kaynakça
+Canva. (2024). Millî uçağımız Kaan-küp açınımı. Son erişim tarihi 25 Kasım 2024, https://www.canva.
+com/design/DAGXeXAoeWg/23PkFEAkY8LvD6X25SAxKQ/edit?utm_content=DAGXeXAoeWg&utm_
+campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Eylül 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Türk Havacılık ve Uzay Sanayii (TAİ). (2024). Kaan-Tusaş. Son erişim tarihi 10 Eylül 2024, https://www.
+tusas.com/urunler/ucak/ozgun-gelistirme/kaan
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Kontrol Listesi
+Ek-2: Hacim Hesaplama
+Ek-3: Yarışma Kuralları
+Ek-4: Puan Tablosu
+Ek-1
+Kontrol Listesi
+Bu kontrol listesi, grup olarak yapacağınız çalışmaların takibi amacıyla hazırlanmıştır. Her aşamayı tamamladığınızda ilgili kutucuğa
+(+) yazınız.
+Grup Adı:
+Grup Üyeleri:
+TAMAMLANMA
+ETKİNLİKLER AŞAMALAR
+DURUMU
+Dikdörtgenlerin kenar uzunluklarını çizme
+Dinamik Matematik ve Geometri Aracı Dikdörtgenler prizmasını oluşturma
+Oluşturulan dikdörtgen prizmasının hacmini bulma
+Dikdörtgenlerin kenar uzunluklarını çizme
+3D Model Oluşturmayı Sağlayan Araç Dikdörtgenler prizmasını oluşturma
+Oluşturulan dikdörtgen prizmasının hacmini bulma
+Küp açınımını gerekli yerlerden kesme
+Birimküp Oluşturma
+Bir küp oluşturmak için kâğıdı belirtilen yerlerden yapıştırma
+(Form, teknoloji odaklı öğrenme senaryosu içerik geliştirici öğretmen tarafından hazırlanmıştır.)
+Millî Uçağımız Kaan
+Ek-2
+Hacim Hesaplama
+Öğrenciler belirtilen programlarda hazırlamış oldukları dikdörtgenler prizmasına ait verileri uygun yerlere yazar.
+Grup Adı:
+Grup Üyeleri:
+Etkinlikler En (cm) Boy (cm) Yükseklik (cm) Hacim (cm3)
+Dinamik Matematik ve Geometri Aracı
+3D Model Oluşturmayı Sağlayan Araç
+(Tablo, teknoloji odaklı öğrenme senaryosu içerik geliştirici öğretmen tarafından hazırlanmıştır.)
+Millî Uçağımız Kaan
+Ek-3
+Yarışma Kuralları
+1. Etkinlik
+Gruplardan küp oluşturmaları istenir. Oluşturulacak küpün hacmi öğrenciye
+verilen birimküplere göre belirlenir (16, 27, 64, …). Öğretmenin belirttiği hacme
+sahip küpü ilk oluşturan gruba 3 puan, ikinci gruba 2 puan, üçüncü gruba
+oluşturduklarını açıklamaları için söz hakkı verilir. Birinci grup açıklamasını
+yaptıktan sonra diğer öğrencilere sorularının olup olmadığı sorulur. Sorusu
+olan varsa cevaplandırılır, yoksa diğer etkinliğe geçilir.
+2. Etkinlik
+Gruplardan kare prizma oluşturmaları istenir. Oluşturulacak kare prizmanın
+hacmi öğrenciye verilen birimküplere göre belirlenir (12, 20, 75, ...). Öğretmenin
+belirttiği hacme sahip kare prizmayı ilk oluşturan gruba 3 puan, ikinci gruba
+gruba kare prizmayı nasıl oluşturduklarını açıklamaları için söz hakkı verilir.
+Birinci grup açıklamasını yaptıktan sonra diğer öğrencilere sorularının olup
+olmadığı sorulur. Sorusu olan varsa cevaplandırılır, yoksa diğer etkinliğe
+geçilir.
+3. Etkinlik
+Gruplardan dikdörtgenler prizması oluşturmaları istenir. Oluşturulacak
+dikdörtgenler prizmasının hacmi öğrenciye verilen birimküplere göre belirlenir
+(14, 30, 60, …). Öğretmenin belirttiği hacme sahip dikdörtgenler prizmasını
+ilk oluşturan gruba 3 puan, ikinci gruba 2 puan, üçüncü gruba 1 puan verilir.
+Üçüncü olan grup belirlendikten sonra ilk gruba dikdörtgenler prizmasını nasıl
+oluşturduklarını açıklamaları için söz hakkı verilir. Birinci grup açıklamasını
+yaptıktan sonra diğer öğrencilere sorularının olup olmadığı sorulur. Sorusu
+olan varsa cevaplandırılır.
+Etkinlikler tamamlandıktan sonra puan tablosundaki puanlar toplanır (Ek-4).
+Ek-4
+Puan Tablosu
+Etkinlikleri ilk oluşturan grubun karşısındaki kutucuğa 3 puan, ikinci oluşturan grubun karşısındaki kutucuğa 2 puan, üçüncü oluşturan
+grubun karşısındaki kutucuğa 1 puan yazılır.
+Etkinlikler tamamlandıktan sonra her grubun karşısında yer alan kutucukların içerisindeki sayılar toplanarak “Toplam Puan” kutucuğuna
+yazılır.
+Grup sayısı, sınıf mevcudu göz önünde bulundurularak artırılabilir veya azaltılabilir.
+1. Etkinlik 2. Etkinlik 3. Etkinlik
+Gruplar Toplam Puan
+Küp Kare Prizma Dikdörtgenler Prizması
+1. Grup
+2. Grup
+3. Grup
+4. Grup
+(Tablo, teknoloji odaklı öğrenme senaryoları içerik geliştirici öğretmen tarafından hazırlanmıştır.)
+Millî Uçağımız Kaa
+LINKS:[["EBA Dikdörtgenler Prizmasının Hacmi", "x889v1"], ["Kaan-Tusas", "U4kxUqb"], ["Millî Uçağımız Kaan-Küp Açınımı", "U6Y1Ttp"], ["EBA Prizmaların Hacmi ile İlgili Problem Çözme", "UEhR8rM"], ["EBA Alıştırmalar-Dikdörtgenler Prizmasının Hacmi", "WLY6tl"], ["EBA Alt Konu Testi Dikdörtgenler Prizmasının Hacmi", "NoObrV"]]

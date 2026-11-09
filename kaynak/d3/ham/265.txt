@@ -1,0 +1,343 @@
+## 6. Sinif/Matematik/Veri Isleme - Verilerle Okul Sayilarini Inceleme.pdf
+SURE:5 KOD:M.6.4.2.1. M.6.4.2.2. M.6.4.2.3.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Sürdürülebilir Kalkınma Amacı 4-Nitelikli Eğitim isimli içeriği ve Türkiye Yüzyılı Eğitimin Yüzyılı
+Olacak isimli haberi öğrencilerin okumalarını sağlar. Bu sayede öğrenciler, nitelikli eğitimin ulusal ve
+uluslararası önemini daha iyi kavrar. Öğretmen, öğrencileri gruplara ayırır.
+1. Ders (Sınıf)
+Derse giriş aktivitesi olarak öğretmen, etkileşimli beyaz tahta araçlarını kullanarak Nitelikli Eğitim başlıklı
+içeriği açar. Aşağıdaki soruları öğrencilere yönelterek her gruptan iki soruya yönelik (gruplarda bulunan
+öğrenci sayısı kadar) cevap ister. Her grup kendi cevaplarını panoda ayrılan bölüme yazar.
+• Nitelikli eğitim neden önemlidir?
+• Eğitimde fırsat eşitliğinin sağlanmasının yolları neler olabilir?
+Eğitimde fırsat eşitliğinin sağlanabilmesi ve nitelikli eğitime erişilebilmesi için okul sayısının artmasının
+kritik bir öneme sahip olduğunu vurgular. Ülkemizdeki okul sayısının son yıllarda arttığını söyler. Okul
+sayılarına ve çeşitli alanlardaki verilere ulaşabileceğimiz Türkiye İstatistik Kurumunu (TÜİK) öğrencilere
+anlatır ve Türkiye İstatistik Kurumu Tanıtım Filmi’ni izletir. Öğretmen, Türkiye İstatistik Kurumu (TÜİK) Veri
+Tabanı’nı kullanarak verilere ulaşmak için izlenecek adımların ve öğrencilerin yapacağı çalışmaların yer
+aldığı çalışma kâğıdını öğrencilere dağıtır (Ek-1).
+İlgili Yetkinlikler/Beceriler: İletişim, Dijital yetkinlik, Matematiksel süreç becerileri
+2. Ders (Sınıf)
+Öğrenciler bir önceki derste elde edilen verileri incelerken öğretmen her yıl, her kademeden artan okul
+sayılarına dikkat çeker. Verileri anlamak için matematiksel olarak neler yapılabildiğini ve bu yapılanlar
+arasında yer alan açıklık kavramını öğrencilere anlatır. Veri setindeki değerlerin birbirine yaklaştıkça
+açıklığın azaldığına, birbirinden uzaklaştıkça açıklığın arttığına değinir.
+Öğretmen, örnek olarak bir il seçer ve belli bir yıldaki okul sayılarının açıklığını bulur. Öğrencilerden çalışma
+kâğıdında 1. Bölüm’de yer alan soruları çözmelerini isteyerek öğrencilerin açıklık kavramını pekiştirmelerini
+sağlar (Ek-1). Öğretmen, yeterli süreyi verdikten sonra rastgele seçilen öğrencilere hesaplamaları yaptırır.
+Öğrenciler hesaplamaları yaparken onlara rehberlik eder. Rastgele seçilen öğrenciler, tüm veri setlerinin
+açıklığını arkadaşlarına anlatarak hesaplar. Öğretmen, veri setinde açıklığın anlamını vurgulayarak dersi
+sonlandırır.
+Ödev
+Öğretmen, öğrencilerin açıklık konusunu tekrar etmeleri ve aritmetik ortalama konusuna hazırlık yapmaları
+için EBA’da bulunan Veri Analizi konu anlatım videosunu öğrencilere ödev olarak gönderir. EBA’dan ödevin
+kontrolünü yapar. Videodaki konuyla ilgili EBA gönderisine soru yazar ve cevaplayan öğrencileri not eder.
+İlgili Yetkinlikler/Beceriler: Matematiksel muhakeme, Matematiksel yetkinlik ve bilim/teknolojide
+temel yetkinlikler, İletişim, Sunum, Dijital yetkinlik
+3. Ders (BT Sınıfı)
+Öğretmen, elde edilen verilerin açıklık dışında aritmetik ortalama değerlerinin de hesaplanabildiğini belirtir
+ve aritmetik ortalama ile ilgili öğrencilere detaylı bilgi verir. Aritmetik ortalamanın nasıl hesaplandığını
+anlatır. Örnek olarak bir il seçer ve o ilin belirli bir yılındaki okul sayıları verilerinin aritmetik ortalamasını
+bulur. Aritmetik ortalamanın yorumlanmasına dikkat çekmek için öğrencilerin çalışma kâğıdında yer
+alan 2. Bölüm’deki soruları çözmelerini ister (Ek-1). Öğrenciler hesaplama yaparken onlara rehberlik
+eder. Ardından öğrencilerden 3. Bölüm’de yer alan aritmetik ortalamanın yorumlanmasına dair soruları
+cevaplamalarını ister (Ek-1).
+Öğretmen, sorular cevaplandıktan sonra EBA kazanım testlerinde yer alan sorulardan oluşan, oyunlaştırılmış
+ölçme ve değerlendirme web araçlarıyla hazırlanan Aritmetik Ortalama-Açıklık Oyunu’nu etkileşimli
+tahtadan açarak öğrencilerin oynamasını sağlar (Ek-2). Eksik öğrenmelerin tamamlanması için öğrencilere
+geri bildirimlerde bulunur ve onları yönlendirir. Aritmetik ortalamanın anlamını ve açıklık ile ilişkisini
+vurgulayarak dersi bitirir.
+Ödev
+Öğretmen, EBA’da bulunan Aritmetik Ortalama ve Açıklık videosunu ve Özet-Aritmetik Ortalama ve Açıklık
+içeriğini ders tekrarı için öğrencilere gönderir. EBA’dan ödevin kontrolünü yapar.
+İlgili Yetkinlikler/Beceriler: Matematiksel muhakeme, Matematiksel yetkinlik ve bilim/teknolojide
+temel yetkinlikler, İletişim, Sunum, Dijital yetkinlik
+4. Ders (BT Sınıfı)
+Öğretmen, dersin başında dikkat çekmek ve konuyu tekrar etmek amacıyla EBA’da bulunan Aritmetik
+Ortalamayı İnceleme etkileşimli içeriğini öğrencilerle paylaşır. Etkinlik süresince gruplara rehberlik eder.
+Gruplardaki tüm öğrencilerin farklı değerlerde aritmetik ortalamayı keşfetmesini ve konuyu derinlemesine
+anlamasını sağlar. Aritmetik ortalama incelenirken konunun açıklık ile olan ilişkisine tekrar vurgu yapar.
+EBA’da bulunan öğretmene özel Aritmetik Ortalama ve Açıklık çalışma sorularını gruplara gönderir.
+Öğrencilerden Türkiye İstatistik Kurumu veri tabanında yer alan örgün eğitim istatistiklerinden, yaşadıkları
+ildeki son dört yıla ait okul sayılarını tespit etmelerini ister. Her grup, farklı bir kademedeki (okul öncesi-
+ilkokul-ortaokul-ortaöğretim-mesleki ve teknik ortaöğretim) okul sayısını bulur. Öğretmen veriler elde
+edilirken gruplara rehberlik eder.
+Ödev
+Gruplar verileri elde ettikten sonra öğretmen, bir sonraki derste elde edecekleri verilerin açıklık ve
+ortalamasını hesaplamak, yorumlamak üzere grupları görevlendirir. Gruplara elde ettikleri sonuçlarla
+etkileşimli sunum oluşturma araçlarını kullanarak sunum yapma ödevi verir. Yapacakları sunumun bir
+değerlendirme formu ile sınıf arkadaşları tarafından değerlendirileceğini belirtir ve formun kriterleri
+hakkında öğrencilere bilgi verir (Ek-3). Tüm öğrencilere EBA’da bulunan Aritmetik Ortalama ve Açıklık alt
+konu testi ve Alıştırmalar-Aritmetik Ortalama ve Açıklık alıştırmasını ödev olarak gönderir.
+İlgili Yetkinlikler/Beceriler: Matematiksel muhakeme, Matematiksel yetkinlik ve bilim/teknolojide
+temel yetkinlikler, İletişim, Sunum, Dijital yetkinlik
+Ders Öncesi
+Öğretmen, her grubun sunumunu etkileşimli sunum araçları ile etkileşimli tahtada açar. Grupların sırasını
+rastgele belirler ve gruplara bildirir.
+5. Ders (Sınıf)
+Öğretmen, grupların sunumu yaparken veri seti hakkında doğru yorumlar yapabilmeleri ve iki veri grubunu
+karşılaştırabilmeleri için gerekli yönlendirmeleri yapar. Okul sayısının artmasıyla eğitimin kalitesinin de
+arttığına dikkat çeker. Gruplar, sunum değerlendirme formunu kullanarak sunumları değerlendirir (Ek-3).
+Öğretmen, öğretmen gözlem formunu kullanarak tüm öğrencileri açıklık ve aritmetik ortalama konusunda
+değerlendirir (Ek-4). Değerlendirme sonuçlarını öğrencileri ile paylaşır ve varsa eksik öğrenmeler ile ilgili
+ek planlamalar yapar.
+İlgili Yetkinlikler/Beceriler: İletişim, Sunum, Dijital yetkinlik, Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + etkileşimli içerik
+• EBA + alt konu testi
+• EBA + çalışma soruları
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Sunum değerlendirme formu
+• Öğretmen gözlem formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Sürdürülebilir Kalkınma Amacı 4-Nitelikli Eğitim: http://meb.ai/aqjaiM (Son erişim tarihi: 20.05.2024)
+2. Türkiye Yüzyılı Eğitimin Yüzyılı Olacak: https://meb.ai/U6OYAV4 (Son erişim tarihi: 20.05.2024)
+3. Nitelikli Eğitim: https://meb.ai/w1O0PN (Son erişim tarihi: 16.12.2024)
+4. Türkiye İstatistik Kurumu Tanıtım Filmi: http://meb.ai/NK8mnp (Son erişim tarihi: 20.05.2024)
+5. Türkiye İstatistik Kurumu (TÜİK) Veri Tabanı: http://meb.ai/DeQD7F (Son erişim tarihi: 20.05.2024)
+6. EBA Veri Analizi: http://meb.ai/h8llwI (Son erişim tarihi: 20.05.2024)
+7. Aritmetik Ortalama-Açıklık Oyunu: https://meb.ai/AfhN7j (Son erişim tarihi: 28.01.2025)
+8. EBA Aritmetik Ortalama ve Açıklık Video: https://meb.ai/ULedE1R (Son erişim tarihi:20.05.2024)
+9. EBA Özet-Aritmetik Ortalama ve Açıklık: http://meb.ai/UjKrcPs (Son erişim tarihi: 20.05.2024)
+10. EBA Aritmetik Ortalamayı İnceleme: http://meb.ai/Th6KkQ (Son erişim tarihi: 20.05.2024)
+11. EBA Aritmetik Ortalama ve Açıklık: http://meb.ai/60zwbZ (Son erişim tarihi: 20.05.2024)
+12. EBA Aritmetik Ortalama ve Açıklık Alt Konu Testi: https://meb.ai/zPgq1L (Son erişim tarihi: 16.12.2024)
+13. EBA Alıştırmalar-Aritmetik Ortalama ve Açıklık: https://meb.ai/zPgq1L (Son erişim tarihi: 18.12.2025)
+Kaynakça
+Birleşmiş Milletler Türkiye. (2024). Sürdürülebilir kalkınma amacı 4: Nitelikli eğitim. Son erişim tarihi 27
+Ocak 2025, https://turkiye.un.org/tr/sdgs/4
+Canva. (2024). Verilerle okul sayılarını inceleme-nitelikli eğitim. Son erişim tarihi 16 Aralık 2024, https://www.
+canva.com/design/DAGZcPZogQU/rcjvcO5SOYLwzumvIwy_SA/edit?utm_content=DAGZcPZogQU&utm_
+campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Genially. (2025). Verilerle okul sayılarını inceleme-aritmetik ortalama-açıklık oyunu. Son erişim tarihi 07
+Şubat 2025, https://view.genially.com/67a0f9d452e77c53e22412ba/interactive-content-verilerle-okul-
+sayilarini-inceleme-aritmetik-ortalama-ve-aciklik-oyu
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). Türkiye yüzyılı eğitimin yüzyılı olacak. Son erişim tarihi 20 Mayıs 2024, https://
+www.meb.gov.tr/turkiye-yuzyili-egitimin-yuzyili-olacak/haber/28682/tr
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Türkiye İstatistik Kurumu (TÜİK). (2024). Merkezi dağıtım sistemi. Son erişim tarihi 20 Mayıs 2024, biruni.
+tuik.gov.tr/medas/
+Türkiye İstatistik Kurumu (TÜİK). (2024). Türkiye istatistik kurumu kurumsal tanıtım filmi. Son erişim tarihi
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Açıklık ve Aritmetik Ortalama Çalışma Kâğıdı
+Ek-2: Aritmetik Ortalama-Açıklık Oyunu
+Ek-3: Sunum Değerlendirme Formu (Öğrenci İçin)
+Ek-4: Öğretmen Gözlem Formu
+EK-1
+Açıklık ve Aritmetik Ortalama Çalışma Kâğıdı
+1. Aşağıdaki adımları izleyerek okul sayısı bilgilerine dair raporu veri tabanından
+elde ediniz.
+1. Adım: TÜİK veri tabanı web sitesine gidiniz.
+2. Adım: Veri tabanını açınız.
+3. Adım: Konu bölümünden örgün eğitim istatistiklerini seçiniz.
+4. Adım: Ölçüm bölümünden okul sayısını seç ve tamam’ı tıklayınız.
+5. Adım: Tercih ettiğiniz okul kademelerini seçiniz.
+6. Adım: Göstergeleri ekleyiniz.
+7. Adım: Tercih edilen yılları seçiniz.
+8. Adım: Düzey: İl düzeyini açınız.
+9. Adım: Tercih edilen illeri seçiniz.
+10. Adım: Rapor oluşturunuz.
+11. Adım: Tercih ettiğiniz dosya formatında raporu indiriniz.
+2. Aşağıda verilen tabloyu elde ettiğiniz verilere göre doldurunuz.
+Tablo: Ağrı, Iğdır ve Kars illerinin 2021 ve 2022 yıllarındaki üç farklı kademeye ait
+okul sayıları
+Okul Sayısı Ağrı-4 Iğdır-76 Kars-36
+2021
+Okul Öncesi
+2022
+2021
+Okul Kademeleri İlkokul
+2022
+2021
+Ortaokul
+2022
+EK-1
+3. Aşağıda verilen bölümlerde yer alan soruları çözünüz. Çözüm için altlarında
+verilen kareli alanları kullanabilirsiniz.
+1. Bölüm
+1. 2022 yılında Ağrı ilindeki okulların sayısının açıklığı kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+2. 2021 yılında Iğdır ilindeki okulların sayısının açıklığı kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+3. 2022 yılında Iğdır ilindeki okulların sayısının açıklığı kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+4. 2021 yılında Kars ilindeki okulların sayısının açıklığı kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+5. 2022 yılında Kars ilindeki okulların sayısının açıklığı kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+EK-1
+2. Bölüm
+1. 2021 yılında Ağrı ilindeki okulların sayısının aritmetik ortalaması kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+2. 2022 yılında Ağrı ilindeki okulların sayısının aritmetik ortalaması kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+3. 2021 yılında Iğdır ilindeki okulların sayısının aritmetik ortalaması kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+4. 2022 yılında Iğdır ilindeki okulların sayısının aritmetik ortalaması kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+5. 2021 yılında Kars ilindeki okulların sayısının aritmetik ortalaması kaçtır?
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+..................................................................................................................................................................................................
+6. 2022 yılında Kars ilindeki okulların sayısının aritmetik ortalaması kaçtır?
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+EK-1
+3. Bölüm
+1. Ağrı ilinde 2021 yılındaki okulların aritmetik ortalaması hesaplandığında 304
+sayısı elde edilmektedir.
+Buna bakılarak her kademede eşit ve 304 okul bulunduğu yorumu yapılabilir
+mi? Gerekçeleri ile açıklayınız.
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+2. Bulduğunuz açıklıklara bakarak açıklığın aritmetik ortalama üzerindeki
+etkilerini yorumlayınız.
+...................................................................................................................................................................................................
+...................................................................................................................................................................................................
+..................................................................................................................................................................................................
+EK-2
+Aritmetik Ortalama-Açıklık Oyunu
+Aşağıdaki soruları okuyarak doğru olduğunu düşündüğünüz seçeneği işaretleyiniz.
+1. Elif matematik yazılılarının ilk ikisinden 61 ve 56 puan almıştır.
+Puanlarının ortalamasının 70 olması için Elif’in üçüncü yazılıdan kaç puan alması
+gerekir?
+A) 83
+B) 87
+C) 91
+D) 93
+2. Bir sınıftaki öğrencilerin deneme sınavında çözdükleri soru sayıları aşağıdaki
+grafikte verilmiştir.
+Grafik: Öğrencilerin Çözdüğü Soru Sayıları
+Bu sınıftaki öğrenciler deneme sınavında ortalama kaç soru çözmüşlerdir?
+A) 62
+B) 63
+C) 64
+D) 65
+3. 13, 44, x, 26, 38, 23 veri grubunun açıklığı 41 olduğuna göre x aşağıdakilerden
+hangisi olabilir?
+A) 50
+B) 54
+C) 64
+D) 67
+EK-2
+4. 25, 3, 14, x, 18, 8, 21 veri grubunun aritmetik ortalaması 13 olduğuna göre bu veri
+grubunun açıklığı kaçtır?
+A) 16
+B) 19
+C) 22
+D) 23
+5. Yaş ortalaması 23 olan 11 kişilik bir gruba 35 yaşında bir kişi daha katılırsa grubun
+yeni yaş ortalaması kaç olur?
+A) 24
+B) 25
+C) 27
+D) 29
+6. 8 kişilik bir grupta 3 erkek vardır. Erkeklerin kütlelerinin ortalaması 72 kg, kızların
+kütlelerinin ortalaması 54 kg’dır.
+Buna göre tüm grubun kütlelerinin ortalaması kaç kilogramdır?
+A) 58,65
+B) 59,25
+C) 60,75
+D) 63
+Sorular MEB kazanım testinden alınmıştır.
+EK-3
+Sunum Değerlendirme Formu (Öğrenci İçin)
+Bu form, öğrenci gruplarının sunumuna ait süreci sınıftaki diğer grupların değerlendirmesi amacıyla hazırlanmıştır. Her grup için verilen kriterlere uygun
+DERECELER: Geliştirilebilir: 1, Kısmen Yeterli: 2, Yeterli: 3, İyi: 4, Çok iyi: 5
+Değerlendirme Yapan Grubun Adı: .................................................
+Değerlendirme Yapan Grup Üyeleri: ...............................................
+1. Grup Adı 2. Grup Adı 3. Grup Adı 4. Grup Adı 5. Grup Adı 6. Grup Adı
+KRİTERLER
+............................ ............................ ............................ ............................ ............................ ............................
+Veri analizi konularının sunum içeriğinde yer alması
+Sunumda seçilen illerdeki okul sayılarının aritmetik
+ortalamasının ve açıklığının hesaplanması
+Açıklık ve aritmetik ortalamayı kullanarak illerdeki okul sayıları
+hakkında çıkarımlar yapılması
+Grubun, veri analizi konusunun günlük hayattaki öneminden
+bahsetmesi
+Yapılan sunumun akıcı olması
+Verilerle Okul Sayılarını İnceleme
+EK-4
+Öğretmen Gözlem Formu
+Bu form, öğretmenin öğrencileri açıklık ve aritmetik ortalama konularındaki öğrenme süreçlerini belirtilen kriterlere göre değerlendirmesi için hazırlanmıştır. Her
+bir kriter için öğrencilerin ayrı ayrı değerlendirilmesi gerekmektedir. Öğrenci kriteri karşılıyor ise “Evet (E)”, kısmen karşılıyor ise “Kısmen (K)” ve karşılamıyor
+ise “Hayır (H)” seçeneğini işaretleyiniz.
+KRİTERLER
+Bir veri grubuna İki gruba ait verileri
+Grup çalışmasına
+Uygulama Bir veri grubuna ait ait aritmetik karşılaştırmada
+aktif katılım sağladı
+NO ADI SOYADI sürecinde web açıklığı hesapladı ortalamayı ve yorumlamada
+ve verilen görevleri
+araçlarını kullandı. ve yorumladı. hesapladı ve aritmetik ortalama
+yerine getirdi.
+yorumladı. ve açıklığı kullandı.
+E K H E K H E K H E K H E K H
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Verilerle Okul Sayılarını İnceleme
+CEVAP ANAHTARLARI
+EK-1 2.
+Okul Sayısı Ağrı-4 Iğdır-76 Kars-36
+Okul Öncesi
+Okul Kademeleri İlkokul
+Ortaokul
+3.
+1. Bölüm 2. Bölüm 3. Bölüm
+anlamını taşımamaktadır. Önemli olan üç
+3’e bölündüğünde 304 sayısını vermesidir.
+2. Cevaplar öğrenciye göre farklılık gös-
+tereceğinden cevap anahtarına yer ve-
+rilmemiştir. Doğru olacak tüm cevaplar
+geçerlidir.
+EK-2
+Verilerle Okul Sayılarını İncelem
+LINKS:[["Sürdürülebilir Kalkınma Amacı 4-Nitelikli Eğitim", "aqjaiM"], ["Türkiye Yüzyılı Eğitimin Yüzyılı Olacak", "U6OYAV4"], ["Nitelikli Eğitim", "w1O0PN"], ["Türkiye İstatistik Kurumu Tanıtım Filmi", "NK8mnp"], ["Türkiye İstatistik Kurumu (TÜİK) Veri Tabanı", "DeQD7F"], ["EBA Veri Analizi", "h8llwI"], ["Aritmetik Ortalama-Açıklık Oyunu", "AfhN7j"], ["EBA Aritmetik Ortalama ve Açıklık Video", "ULedE1R"], ["EBA Özet-Aritmetik Ortalama ve Açıklık", "UjKrcPs"], ["EBA Aritmetik Ortalamayı İnceleme", "Th6KkQ"], ["EBA Aritmetik Ortalama ve Açıklık", "60zwbZ"], ["EBA Aritmetik Ortalama ve Açıklık Alt Konu Testi", "zPgq1L"]]

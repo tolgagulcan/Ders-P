@@ -1,0 +1,108 @@
+## 8. Sinif/Matematik/Cebir - Sokakta Birileri Var.pdf
+SURE:3 KOD:M.8.2.2.2.
+KAV:
+Öğrenme Etkinlikleri
+1. Ders (BT Sınıfı)
+Öğretmen derse “Sevgili çocuklar, her yıl 4 Nisan’da hangi günü kutluyoruz?” diye sorarak başlar ve istekli
+öğrencilere söz hakkı verir. Tüm öğrencilere söz hakkı verdikten sonra öğretmen, Dünya Sokak Hayvanları
+Günü’nü kutladıklarını söyler. Ardından öğrencilere “Sizce sokak hayvanları için neler yapılabilir?” sorusunu
+sorar ve beyin fırtınası yapmayı sağlayan web aracını kullanarak cevapları toplar. Öğretmen ‘’Bazı uygun
+yerlere yem ve su kapları koyabiliriz.’’ cevabını vermeleri için öğrencileri yönlendirir. Beyin fırtınası yapmayı
+sağlayan web aracından elde ettiği cevapları öğrencilerle birlikte değerlendirir. Ardından okula yakın
+mahallelerdeki sokak hayvanlarını beslemek amacıyla bir yardım kampanyası başlatma kararını sınıfla
+birlikte alır. Öğretmen bu kampanya için öğrencileri üç gruba ayırır ve her gruba farklı bir görev verir.
+Birinci grup, sokak hayvanlarının en çok hangi alanda toplandıklarını belirlemek için okulun çevresindeki
+mahalleleri gezer.
+İkinci grup, yardım kampanyasının okulda ve mahallede duyurulması için poster ve afiş oluşturma
+aracını kullanarak poster hazırlar.
+Üçüncü grup gelen yardımları not alır ve gruplandırır (Yardımlar yem, yem kabı veya su kabı olabilir.).
+Öğretmen, öğrencilerden bir sonraki derse kadar verilen görevleri yerine getirmelerini ister. Öğrencilerin
+okul dışında da etkileşim hâlinde olmaları için sınıf yönetimi aracı ile sınıf ortamı oluşturur ve bağlantısını
+onlarla paylaşır.
+Öğretmen, öğrencilere gözlem yaparak belirledikleri bölgelerdeki sokak hayvanlarına yardımları nasıl
+ulaştırabileceklerini sorar. Öğrencilerin “gruplara ayırarak” cevabını vermeleri için onları yönlendirir.
+Gruplara ayırmak için koordinat sistemi kullanılabileceğini öğrencilere fark ettirir ve onların koordinat
+sistemiyle ilgili bilgilerini yoklar. “Koordinat sisteminin ne olduğunu bilen var mı?” sorusunu sorar ve
+istekli öğrencilere söz hakkı verir. Öğrenciler fikirlerini belirttikten sonra öğretmen “Gelin videoları izleyip
+arkadaşlarınız doğru mu söylemiş karar verelim.” der. Böylece videoları daha dikkatli dinlemeleri için
+öğrencileri teşvik eder. EBA’da yer alan konu ile ilgili Sıralı İkilinin Koordinat Sistemindeki Yeri ve Koordinat
+Sistemi videolarını izletir. Koordinat Sistemini Gözlemleme ve Bir Sıralı İkilinin Koordinat Sistemindeki Yerini
+Belirleme adlı etkileşimli içerikleri öğrencilere yaptırır.
+İlgili Yetkinlikler/Beceriler: Sorumluluk, Matematiksel süreç becerileri, İş birliği, İletişim
+Ders Öncesi
+Öğretmen okulun bulunduğu mahallenin krokisini hazırlar.
+2. Ders (Sınıf)
+Öğretmen hazırladığı krokiyi etkileşimli tahtada açar ve aynı zamanda krokinin çıktısını alarak öğrencilere
+dağıtır. Birinci gruptan bir öğrenci sokak hayvanlarının çoğunlukla nerelerde olduğunu etkileşimli tahtada
+gösterir. Bölgeleri nokta şeklinde belirledikten sonra okulun bulunduğu noktayı orijin noktası olarak işaretler.
+Öğretmen öğrencilerden etkileşimli tahtada belirtilen noktaları dağıtılan krokiye yerleştirmelerini ister.
+Noktaların tamamı belirlendikten sonra öğrenciler çizilen koordinat sistemine göre yardım konulacak
+noktaları sıralı ikililer şeklinde yazar.
+İkinci grup hazırladıkları posterleri etkileşimli tahtada açar. Öğrenciler oylama yaparak en çok beğendikleri
+posteri seçer. Öğretmen seçilen posterin yazıcıdan çıktısını alır. Yardım kampanyasını başlatmak için
+okul idaresine başvurur. Gerekli izinleri aldıktan sonra kampanyayı başlatır.
+Koordinat sistemi ile ilgili öğrenilen bilgileri pekiştirmek için görsel düzenleme araçları ile hazırlanan
+Boyama Etkinliği adlı etkinlik kâğıdının çıktısını alır ve öğrencilere dağıtır (Etkinlik sayfası öğretmene örnek
+olması amacıyla paylaşılmıştır.).
+Ders boyunca öğrencilerin etkinliği doğru yapıp yapmadıklarını gözlemler ve yanlış yaptıkları yerde
+onlara dönüt vererek hatalı cevapları düzeltmelerini sağlar. Etkinliğini tamamlayan öğrencilerin etkinlik
+kâğıtlarını sınıf panosunda sergiler.
+İlgili Yetkinlikler/Beceriler: Tasarım, Sorumluluk, İş birliği, Matematiksel süreç becerileri, Dijital yetkinlik
+Ders öncesi
+Öğretmen; bir sonraki derste uygulanacak etkinlik için öğrencilerden 3D model oluşturmayı sağlayan
+web araçlarını kullanarak yüksekliği 1 cm, genişliği 2 cm olan geometrik cisimlerle bir Gemi Tasarımı
+yapmalarını ister. Öğrencilerin yaptıkları tasarımları inceler. Yanlış boyutlandırılan gemilerdeki gerekli
+düzeltmeleri yapmaları için öğrencilere geri bildirimde bulunur. Öğrenciler gerekli düzeltmeleri yaptıktan
+sonra 3D yazıcıdan çıktı alır. Okulda 3D yazıcı yoksa öğrencilerden eni ve boyu beşer santimetre olan el
+işi kâğıdı ile dört tane gemi yapmalarını ister.
+Öğrencileri 2-4 kişilik gruplara ayırır.
+Amiral Battı Oyun Alanı adlı etkinlik kâğıdının çıktısını her gruba ikişer tane verilecek şekilde alır ve gruplara
+dağıtır. Amiral Battı oyunu hakkında açıklama yapar.
+3. Ders (Sınıf)
+Öğretmen “Çocuklar bugün sizlerle koordinat sistemine uyarlanmış Amiral Battı oyununu oynayacağız.
+Sizlerden dağıttığım Amiral Battı Oyun Alanında verilen karelere gemilerinizi yerleştirmenizi ve yerleştirdiğiniz
+konumları defterlerinize not etmenizi istiyorum. Gemilerinizi yerleştirirken rakiplerinizin gemilerinizi
+görmemesine dikkat edin. Tüm gemilerinizin yerini not ettikten sonra artık oyuna başlayabilirsiniz. Oyunun
+amacı, rakibiniz tüm gemilerinizin koordinatlarını bulmadan sizin onun gemilerini bulmanızdır. Şimdi
+sırayla koordinatları söylemeye başlayabilirsiniz. İyi eğlenceler.” der ve oyunu başlatır. Öğretmen ders
+boyunca oyunları takip eder ve yanlış yapılan hamleleri düzeltir.
+Ders Sonrası
+Öğretmen, öğrencilere EBA’da yer alan Koordinat Sistemi isimli alt konu testini çalışma olarak gönderir.
+Çalışmanın takibini EBA raporlar üzerinden yapar.
+İlgili Yetkinlikler/Beceriler: İş birliği, Tasarım, Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + alt konu testi
+• EBA + etkileşimli içerik
+• Beyin fırtınası yapmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Koordinat Sistemini Gözlemleme: https://meb.ai/CE0DGY (Son erişim tarihi: 08.05.2024)
+2. EBA Koordinat Sistemi: https://meb.ai/0Bl50U (Son erişim tarihi: 08.05.2024)
+3. EBA Sıralı İkilinin Koordinat Sistemindeki Yeri: https://meb.ai/UHMQ7U1 (Son erişim tarihi: 08.05.2024)
+4. EBA Bir Sıralı İkilinin Koordinat Sistemindeki Yerini Belirleme: https://meb.ai/lYYr6C (Son erişim tarihi:
+08.05.2024)
+5. Boyama Etkinliği: https://meb.ai/BGMIrA (Son erişim tarihi: 29.11.2024)
+6. Gemi Tasarımı: https://meb.ai/UfecIsV (Son erişim tarihi: 29.11.2024)
+7. Amiral Battı Oyun Alanı: https://meb.ai/rpcdSV (Son erişim tarihi: 29.11.2024)
+8. EBA Koordinat Sistemi Alt Konu Testi: http://meb.ai/aM5yd5 (Son erişim tarihi: 08.05.2024)
+Kaynakça
+Canva. (2024). Sokakta birileri var-amiral battı oyun alanı. Son erişim tarihi 29 Kasım 2024, https://www.
+canva.com/design/DAGX1mo1DZM/adkVNiEXVWPH-KwPiLCQWw/edit?utm_content=DAGX1mo1DZM&utm_
+campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Canva. (2024). Sokakta birileri var-boyama etkinliği. Son erişim tarihi 29 Kasım 2024, https://www.canva.
+com/design/DAGXwwhcPZ4/8UHYoO1hd0ztwXnG8JCjXg/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Tinkercad. (2024). Sokakta birileri var-gemi tasarımı. Son erişim tarihi 29 Kasım 2024, https://www.tinkercad.
+com/things/3NZvBt6Zs2v/edit?returnTo=/dashboard/designs/3d&sharecode=0aIeBRM694ym8cDvSxGmbLvCpIVL_
+z10_lZ5LaSoONw
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+LINKS:[["EBA Koordinat Sistemini Gözlemleme", "CE0DGY"], ["EBA Koordinat Sistemi", "0Bl50U"], ["EBA Sıralı İkilinin Koordinat Sistemindeki Yeri", "UHMQ7U1"], ["EBA Bir Sıralı İkilinin Koordinat Sistemindeki Yerini Belirleme", "lYYr6C"], ["Boyama Etkinliği", "BGMIrA"], ["Gemi Tasarımı", "UfecIsV"], ["Amiral Battı Oyun Alanı", "rpcdSV"], ["EBA Koordinat Sistemi Alt Konu Testi", "aM5yd5"]]

@@ -1,0 +1,173 @@
+## 6. Sinif/Matematik/Veri Isleme - Elektrik Faturasi Ortalama Tuketimi.pdf
+SURE:5 KOD:M.6.4.2.1. M.6.4.2.2. M.6.4.2.3.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerden evlerindeki elektrik tüketim miktarını gösteren son 5 aya ait elektrik faturalarını
+bir sonraki derse getirmelerini ister. Eksik faturaların dijital formlarına ulaşabileceklerini öğrencilere
+hatırlatır. Elektrik faturasını getirmeyi unutan öğrenciler için fatura görselleri bulur. Enerji Verimliliği ve İklim
+Değişikliği dokümanında enerji verimliliği ve iklim değişikliği ile ilgili 7, 23, 27 ve 41 numaralı sayfalardaki
+görselleri inceler. Ders süresini daha verimli kullanmak için öğrenci gruplarını oluşturur.
+Ders 1 (Sınıf)
+Küresel iklim değişikliği sorunu ile mücadelede, evlerde enerji tüketiminin azaltılmasının önemine dikkat
+çekmek amacıyla öğretmen, etkileşimli tahtada ders öncesi incelediği görselleri öğrencilerle paylaşır.
+Öğrencilerden görselleri yorumlamalarını ister. Öğrenciler, görsellerle ilgili fikirlerini paylaştıktan sonra
+onlara evlerde enerjiyi verimli kullanmak için neler yapılabileceğini sorar. Öğretmen, öğrencilerin yanıtlarını
+etkileşimli tahtaya yazmalarını ister. Evlerde enerji tüketiminin azaltılmasının hem iklim değişikliğiyle
+mücadelede hem de masrafların düşürülmesinde önemli olduğunu vurgular. Ayrıca görsellerde de
+vurgulanan dijital faturanın çevre dostu bir uygulama olduğundan bahseder. Öğretmen, öğrencilerden
+evlerindeki elektrik tüketim miktarını gösteren faturaları incelemelerini ister ve öğrencilere aşağıdaki
+soruları yöneltir:
+1. Faturada yer alan ortalama tüketim nasıl hesaplanmıştır?
+2. Faturanızdaki son gösterge ile ilk gösterge arasındaki fark nedir?
+3. Ortalama tüketim hesaplanırken hangi sayısal veriler ve işlemler kullanılmıştır?
+Öğretmen; derste sorduğu bu sorularla öğrencilerin aritmetik ortalamayı hesaplamasını, yorumlamasını
+ve günlük hayat problemleri üzerinden ortalama hakkında farkındalık kazanmasını hedefler.
+İlgili Yetkinlikler/Beceriler: İletişim, Akıl yürütme, Matematiksel süreç becerileri, Bilgi ve iletişim
+teknolojileri (BİT)
+Ders 2 (BT Sınıfı)
+Öğretmen, etkileşimli tahtada EBA’da yer alan Aritmetik Ortalama ve Açıklık konu anlatımını öğrencilere
+izletir. Öğrenciler, ilgili konu anlatımında aritmetik ortalama ve açıklığın nasıl hesaplanacağını görürler.
+İzlenen konu anlatım videosundaki aritmetik ortalama ve açıklık hesaplamayı pekiştirmek için öğretmen,
+öğrencilere “Sınıfımızdaki kız ve erkek öğrencilerin en son okudukları kitapların sayfa sayıları kaçtır?
+Karşılaştıralım.” araştırma sorusunu yöneltir. Tüm öğrenciler araştırma sorusuna cevap verir. Öğretmen,
+bu araştırma sorusundan elde ettiği verileri dinamik matematik ve geometri araçları ile tablolaştırır,
+aritmetik ortalama ve açıklığı hesaplar. Bulunan değerleri öğrenci katılımı ile yorumlar.
+Birinci ders öncesinde oluşturulan öğrenci grupları ile çalışmalara devam edilir. Öğretmen, gruptaki her
+öğrenciden evdeki son 5 aya ait elektrik faturasında yer alan tüketim miktarını, verilen örnek tabloya
+aktarmasını ister (Ek-1). Elektrik faturası getirmeyen öğrencilerle birinci ders öncesi belirlediği elektrik
+fatura görsellerini paylaşır. Öğrencilere veriler ile tablo oluştururken ondalık gösterimleri birler basamağına
+göre yuvarlamalarını söyler ve ondalık gösterimleri yuvarlamayı hatırlamayan öğrenciler için konuyu
+kısaca özetler.
+Öğrenciler, verileri kullanarak son 5 aya ait tüketim miktarının aritmetik ortalamasını ve açıklığını hesaplar.
+Bu süreçte gruplardaki öğrenciler birbirine destek olur, böylece akran öğrenmesinden faydalanılır.
+Öğrenciler, elde edilen değerleri etkileşimli beyaz tahta araçları ile öğretmenin paylaştığı tabloya yazar
+ve tablo üzerinden elde edilen değerleri yorumlar (Ek-1). Öğretmen, açıklığın büyük veya küçük olmasının
+aritmetik ortalamayı nasıl etkilediğini tablodaki verileri kullanarak öğrencilere fark ettirir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Akıl yürütme, İş birliği, Bilgi ve iletişim
+teknolojileri (BİT)
+Ders 3 (Sınıf)
+Öğretmen, EBA’daki Aritmetik Ortalamayı İnceleme etkinliği ile öğrencilerden sayı doğrusundaki veri
+değişiklikleri sonucunda aritmetik ortalamanın değişimini incelemelerini ister. Öğrenciler, inceleme
+yaparken aritmetik ortalamadan daha büyük, daha küçük ve aynı değere sahip verilerin eklenmesi
+veya çıkarılması durumunda aritmetik ortalamanın değişimini gözlemler ve daha sonra bu değişimleri
+yorumlar.
+Öğrenilen bilgileri pekiştirmek için EBA’dan Aritmetik Ortalama ve Açıklık alıştırma soruları öğrenciler ile
+birlikte çözülür.
+İlgili Yetkinlikler/Beceriler: İletişim, Akıl yürütme, Matematiksel süreç becerileri
+Ders 4 (Sınıf)
+EBA’da yer alan İki Veri Grubunu Karşılaştırma etkileşimli etkinliğinde öğrenciler verilen sayıların aritmetik
+ortalamalarını ve açıklıklarını hesaplar, daha sonra buldukları değerleri yorumlar. Etkileşimli etkinlik
+sırasında öğretmen; öğrencilerin aritmetik ortalama ve açıklığın birlikte değerlendirildiğini, açıklığın büyük
+veya küçük olmasının aritmetik ortalamayı etkilediğini fark etmelerini sağlar. Öğretmen, açıklık küçük
+olduğunda aritmetik ortalamanın var olan durumu ortaya koymada veya gelecekle ilgili tahmin yapmada
+kullanışlı olduğunu belirtir. EBA’dan Aritmetik Ortalama ve Açıklık adlı öğretmene özel çalışma sorularını
+öğrenciler ile paylaşır. Öğrencilerden soruları bireysel olarak çözmelerini ister. Bu süreçte öğrencilere
+rehberlik eder. Tüm öğrenciler çalışmalarını tamamladıktan sonra eksik öğrenmeleri gözlemlemek ve
+konu tekrarı yapmak için soruları etkileşimli tahtadan öğrenci katılımı ile yanıtlar.
+Ders Sonrası
+Öğretmen, sonraki derste yapılacak etkinlik için daha önceden oluşturulan öğrenci gruplarını EBA’da
+tanımlar. Öğrencilere grup arkadaşlarıyla EBA üzerinden iletişime geçmelerini söyler. Gruplara aritmetik
+ortalama ve açıklığı, günlük hayat durumlarında yorumlamaya yönelik çalışmayı tamamlamalarını söyler.
+Öğretmen, EBA’da oluşturduğu öğrenci gruplarıyla aritmetik ortalama ve açıklık grup çalışması yönergesini
+paylaşır (Ek-2). Öğrencilerden, iki gruba ait verileri karşılaştırmada ve yorumlamada aritmetik ortalama
+ve açıklığı kullanmalarını ister. Grup çalışmasını iş birlikli çalışma için kullanılabilecek web araçları ile
+tamamlamalarını ve diğer grupların çalışmalarını grup değerlendirme formu ile değerlendireceklerini
+söyler (Ek-3). Değerlendirme formunda sunumun akıcılığı, grup üyelerinin iş birliği, web araçlarının
+kullanımı gibi kriterlere dikkat edileceğini vurgular.
+İlgili Yetkinlikler/Beceriler: İletişim, Akıl yürütme, Matematiksel süreç becerileri
+Ders 5 (BT Sınıfı)
+Bir önceki derste oluşturulan gruplar, aritmetik ortalama ve açıklık grup çalışması yönergesi sonucu elde
+ettikleri değer ve yorumları sınıfta paylaşır ve grup değerlendirme yapmayı sağlayan web araçları ile
+hazırlanan grup değerlendirme formu ile diğer grupların çalışmalarını değerlendirir (Ek-3).
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel süreç becerileri, Akıl yürütme, İş birliği
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerikler
+• EBA + alıştırmalar
+• EBA + öğretmene özel çalışma soruları
+• Grup değerlendirme yapmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Enerji Verimliliği ve İklim Değişikliği: https://meb.ai/U8OAyxB (Son erişim tarihi: 14.02.2025)
+2. EBA Aritmetik Ortalama ve Açıklık: https://meb.ai/UpXo0WQ (Son erişim tarihi: 23.05.2024)
+3. EBA Aritmetik Ortalamayı İnceleme: https://meb.ai/UPFMmbq (Son erişim tarihi: 23.05.2024)
+4. EBA Alıştırmalar-Aritmetik Ortalama ve Açıklık: https://meb.ai/UueTQpn (Son erişim tarihi: 05.01.2025)
+5. EBA İki Veri Grubunu Karşılaştırma: https://meb.ai/Uzw6aBI (Son erişim tarihi: 23.05.2024)
+6. EBA Öğretmene Özel Çalışma Soruları-Aritmetik Ortalama ve Açıklık: https://meb.ai/4JHxtn (Son erişim
+tarihi: 23.05.2024)
+Kaynakça
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+WWF-Türkiye (Doğal Hayatı Koruma Vakfı). (2011). Enerji verimliliği ve iklim değişikliği. Son erişim tarihi 23
+Mayıs 2024, https://d2hawiim0tjbd8.cloudfront.net/downloads/wwf_enerjiverimliligi.pdf
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Son 5 Aya Ait Elektrik Faturalarındaki Tüketim Miktarları
+Ek-2: Aritmetik Ortalama ve Açıklık Grup Çalışması Yönergesi
+Ek-3: Grup Değerlendirme Formu (Öğrenci İçin)
+EK-1
+Son 5 Aya Ait Elektrik Faturalarındaki Tüketim Miktarları
+BİREYSEL
+Aşağıda verilen tabloya evinizde son 5 ayda kullandığınız elektrik tüketim miktarlarını yazınız. Daha sonra yazdığınız tüketim miktarlarının aritmetik
+ortalama ve açıklık değerlerini hesaplayınız ve tabloyu doldurunuz.
+TÜKETİM MİKTARI TÜKETİM MİKTARI TÜKETİM MİKTARI
+AYLAR
+(kWh) (ARİTMETİK ORTALAMA) (kWh) (AÇIKLIK) (kWh)
+1. Ay: ......................
+2. Ay: ......................
+3. Ay: ......................
+4. Ay: ......................
+5. Ay: ......................
+GRUP
+Aşağıda verilen tabloyu her bir grup üyesinin tablosunda yer alan aritmetik ortalama ve açıklık değerlerine göre doldurunuz.
+BULUNAN BULUNAN AÇIKLIK
+GRUP ÜYELERİ
+ARİTMETİK ORTALAMA (kWh) (kWh)
+Elektrik Faturası Ortalama Tüketimi
+EK-2
+Aritmetik Ortalama ve Açıklık
+Grup Çalışması Yönergesi
+1. Adım: İki veri grubunu karşılaştırmayı gerektiren araştırma sorunuzu oluşturunuz.
+2. Adım: Araştırma sorunuza uygun veri toplayınız.
+3. Adım: Verileri tablo veya grafik hâline getirerek düzenleyiniz.
+4. Adım: Verilerin aritmetik ortalama ve açıklığını hesaplayınız.
+5. Adım: İki gruba ait verileri karşılaştırmada ve yorumlamada aritmetik ortalama ve
+açıklığı kullanınız.
+Örnek Araştırma Soruları
+Aşağıdaki soruları okuyarak cevaplarını altlarında verilen boşluklara yazınız.
+1. FIBA 2023 Dünya Kupası Elemeleri B Grubu ikinci maçında A Millî Erkek Basketbol
+Takımımız, sahasında Büyük Britanya’yı 84-67 mağlup etmiştir.
+Maçta yer alan her iki takım için her bir çeyrekte attıkları basket sayılarının
+aritmetik ortalamalarını ve açıklıklarını bulunuz ve karşılaştırınız.
+2. Bulunduğunuz ilin son 10 günlük gece ve gündüz sıcaklık değerlerinin ortalamalarını
+ve açıklıklarını ayrı ayrı hesaplayınız ve bulduğunuz değerleri karşılaştırınız.
+Elektrik Faturası Ortalama Tüketimi
+EK-3
+Grup Değerlendirme Formu (Öğrenci İçin)
+Bu form, arkadaşlarınızın yaptığı grup çalışmalarını değerlendirmek amacıyla hazırlanmıştır. Her bir kriter için verilen seçeneklerden uygun olanı işaretleyiniz.
+Değerlendiren Öğrencinin Adı Soyadı:
+Değerlendirilen Grup Adı:
+Değerlendirilen Grubun Üyeleri:
+SEÇENEKLER
+KRİTERLER
+Evet Kısmen Hayır
+Sunum, derslerde öğrenilen veri analizi konusunu içerdi.
+Kullanılan web araçları, açıklık ve aritmetik ortalamayı kullanarak yorum yapabilme olanağı
+sağladı.
+Sunum, akıcı ve etkili bir şekilde yapıldı.
+Grup, veri analizi konusunun günlük hayatta nasıl kullanılacağını uygun bir biçimde anlattı.
+Sunum sırasında grup üyeleri arasındaki iş birliği yeterli düzeydeydi.
+Çalışmalar ve sunum belirlenen süre içinde tamamlandı.
+Eklemek İstediklerim
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+Elektrik Faturası Ortalama Tüketim
+LINKS:[["Enerji Verimliliği ve İklim Değişikliği", "U8OAyxB"], ["EBA Aritmetik Ortalama ve Açıklık", "UpXo0WQ"], ["EBA Aritmetik Ortalamayı İnceleme", "UPFMmbq"], ["EBA Alıştırmalar-Aritmetik Ortalama ve Açıklık", "UueTQpn"], ["EBA İki Veri Grubunu Karşılaştırma", "Uzw6aBI"], ["EBA Öğretmene Özel Çalışma Soruları-Aritmetik Ortalama ve Açıklık", "4JHxtn"]]

@@ -1,0 +1,42 @@
+## 5. Sinif/Din Kulturu/Namaz - Secdeyle Yuksel, Huzurla Yasa.pdf
+SURE:2 KOD:DDKAB.5.2.1.
+KAV:Farz, Vacip, Nafile, Namaz, İbadet
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, ders başlamadan önce bağlantıları ve içerikleri kontrol eder.
+1. Ders (Sınıf)
+Öğretmen; namazın önemi ve farz, vacip, nafile kavramları hakkında merak uyandırmak için etkileşimli
+sunum araçlarıyla hazırladığı Mert’in Büyük Teşekkürü hikâyesini etkileşimli tahtada açar (Ek-1). Öğrenci-
+lerden bu hikâye bağlamında namazın önemi üzerine düşünmelerini ister. Bunun için hikâye okunduktan
+sonra sınıfa şu soruları sorar:
+• Bir günlüğüne gözlerinizi kapatsanız en çok neleri özlerdiniz?
+• Rabbine teşekkür etmenin başka hangi yolları olabilir?
+• Mert’in hikâyesinde en çok hangi bölüm sizi heyecanlandırdı?
+• Mert namaz kılarken hangi organları için teşekkür etti? Siz namaz kılacak olsanız neler için teşekkür ederdiniz?
+Öğrencilerin cevaplarını dinledikten sonra onlara geri bildirimde bulunarak namazın önemi ve anlamıyla ilgili
+pekiştirmeler yapar. Daha sonra etkileşimli sunum araçlarıyla Namazın Önemi ve Çeşitleri etkinliğini etkile-
+şimli tahtada açarak namazın önemi ve farz, vacip, nafile kavramları üzerinde durur. Son olarak öğretmen
+gerekli pekiştirmeleri ve tekrarları yapar.
+2. Ders (Sınıf)
+Öğretmen, doğru-yanlış soruları oluşturmayı sağlayan web araçları ve dijital pano oluşturma araçlarının
+kullanımıyla ilgili açıklama yaparak derse başlar. Görsel düzenleme araçlarıyla hazırladığı Namazın Işıkları
+etkinliğini etkileşimli tahtada açar ve öğrencilere aşağıdaki soruları yöneltir:
+• Bu görselde neler dikkatinizi çekiyor?
+• Bu görsel üzerindeki işaretlerin sizce bir anlamı var mı?
+• Bu görseli namazlarla ilişkilendirecek olursak hangi namazlarla ilişkilendirebiliriz?
+Öğretmen cevapları aldıktan sonra etkileşimli sunum araçları ile hazırlanmış Namazın Önemi ve Çeşitleri
+içeriğini tekrar açarak öğrencilere namaz çeşitleriyle ilgili bilgileri hatırlatır. Namaz çeşitlerinden farz, vacip
+ve nafile namazları örneklerle açıklar. Öğrencilere doğru-yanlış soruları oluşturmayı sağlayan web araçla-
+rıyla hazırladığı Namazlarımı Biliyorum etkinliğini açar (Ek-2). Öğrenciler soruları sınıfça cevaplarken gerekli
+gördüğü yerlerde düzeltmeler ve tekrarlar yapar. Öğretmen, öğrencilerin ihtiyaç duyduğu konularda gerekli
+pekiştirmeleri ve tekrarları yaparak dersi tamamlar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, öğrencilere dijital pano ya da post-it oluşturma araçlarıyla hazırlanmış Benim Namaz Günlüğüm
+etkinliğini tanıtır (Ek-3). Öğrencilerden bir hafta boyunca panoda yer alan farz, vacip ve nafile namazları ile
+ilgili olarak duygu ve düşüncelerini eklemelerini ister. Öğrencilere bu panonun bir günlük alanı olduğunu ve
+buraya kıldıkları namazları, hislerini veya düşüncelerini kaydedebileceklerini açıklar. Panoya metin, fotoğraf
+veya kısa videolar ekleyebileceklerini hatırlatır. Ekledikleri içerikleri yalnızca kendilerinin görebileceği şekilde
+veya sınıf arkadaşlarının da görebilecekleri şekilde paylaşabileceklerini söyler.
+
+LINKS:[["Mert’in Büyük Teşekkürü", "UxphlL6"], ["Namazın Önemi ve Çeşitleri", "U3KdIca"], ["Namazın Işıkları", "U4b8AEk"], ["Namazlarımı Biliyorum", "UtrglPx"], ["Benim Namaz Günlüğüm", "g8rNkZ"]]

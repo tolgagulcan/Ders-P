@@ -1,0 +1,115 @@
+## 7. Sinif/Matematik/Geometri ve Olcme - Cokgenlerle Uzaya.pdf
+SURE:2 KOD:M.7.3.2.1.
+KAV:
+Öğrenme Etkinlikleri
+Ders öncesi
+Öğretmen, öğrencileri 3-6 kişilik gruplara ayırır ve her gruptan, yapay zekâ destekli araçları kullanarak
+bir hikâye oluşturmasını ister. Oluşturacakları hikâyenin düzgün çokgenlerin kenar ve açı özellikleriyle
+meydana getirilmiş bir uzay aracını ve bu araçla uzaya yolculuk eden bir öğrenciyi konu edinmesini
+ister. Öğrenciler, hikâyelerini oluşturduktan sonra sınıf yönetimi aracına yükler ve hikâyelerin tümünü
+okuduktan sonra en beğendikleri hikâye için oy kullanırlar.
+Öğretmen, EBA’da yer alan Çokgenler etkileşimli içeriğini ve Düzgün Çokgenler videosunu izlemeleri için
+öğrencilere gönderir ve bu gönderilerle ilgili öğrencileri bilgilendirir.
+Ders 1 (BT Sınıfı)
+Öğretmen, uzaya çıkan ilk Türk astronotumuz Alper Gezeravcı’nın fotoğrafını etkileşimli tahtada açar ve
+öğrencilere “Fotoğraftaki kişinin mesleğini bilen var mı?” sorusunu sorarak derse başlar. Öğrencilerin
+verdikleri cevapları bağlantısını paylaştığı etkileşimli beyaz tahta aracına yazmalarını ister. Öğrencilerden
+“astronot” cevabı gelmediği takdirde öğrencilerin dikkatini uzay aracına çekerek “Bu araç ne işe yarar,
+bu aracı kim kullanır?” gibi sorular sorar. Öğrencilerin cevaplarını etkileşimli tahtada inceledikten sonra
+fotoğraftaki kişinin uzaya giden ilk Türk astronot Alper Gezeravcı olduğunu söyler. Öğrencilere “Hangi grup
+yazdığı hikâyede Alper Gezeravcı’dan bahsetti?” diye sorar ve ondan bahseden grup varsa o gruptaki
+öğrencileri sınıf yönetimi aracıyla ödüllendirir. Daha sonra sınıf yönetimi aracında en yüksek puanı alan
+grubu belirler. Gruptan bir üyenin hikâyeyi sınıf arkadaşlarına okumasını ister ve grup üyelerini sınıf
+yönetimi aracıyla ödüllendirir. Ardından öğretmen, ders öncesinde öğrencilerin izlemeleri için gönderdiği
+videolardan kısaca bahseder. Gruplardan dinamik matematik ve geometri aracını kullanarak düzgün
+yedigen, düzgün sekizgen ve düzgün ongen oluşturmalarını ister. Öğretmen dersin bitiş saatini göz
+önünde bulundurarak örnekleri artırabilir veya azaltabilir. Oluşturulmasını istediği çokgenlerin iç açı
+ölçülerini öğrencilere verir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İş birliği, İletişim, Bilgi ve iletişim teknolojileri
+Ders öncesi
+Öğretmen, sınıf mevcudunu göz önünde bulundurarak öğrencileri 2-5 kişilik gruplara ayırır. Her grup
+derste aynı bilgisayarda çalışmak için bir arada oturur. Öğrencilerin dersten önce izlemeleri için Kaktüs
+Saksısı Yapalım etkileşimli içeriğini EBA üzerinden öğrencilere gönderir ve gönderdiği içerik konusunda
+öğrencileri bilgilendirir. Öğrencilerine 3D model oluşturmayı sağlayan araçlarda hesaplarının olup
+olmadığını sorar ve hesabı olmayan öğrencilerine hesap oluşturmada yardımcı olur. Düzgün çokgen
+saksı yapım aşamaları kontrol listesinin çıktısını grup sayısı kadar alır (Ek-1).
+Ders 2 (BT Sınıfı)
+Öğretmen ve öğrenciler, ders öncesi hazırlıkta izlenen “Kaktüs Saksısı Yapalım” etkileşimli içeriği hakkında
+kısaca konuşur. Öğretmen “Şimdi sıra sizde! Sizler de 3D model oluşturmayı sağlayan aracı kullanarak
+birer düzgün çokgen saksı oluşturun.” der ve öğrenciler etkinliği gerçekleştirirken gerekli gördüğü yerlerde
+onlara geri bildirimler verir. Öğrenciler, saksı oluşturma çalışmasını gerçekleştirirken çalışma süreçlerini
+takip edebilmeleri için geliştirilmiş kontrol listesini kullanırlar (Ek-1). Etkinlik tüm öğrenciler tarafından
+tamamlandıktan sonra kalan süreyi göz önünde bulundurarak öğrencilerinden EBA’da yer alan Düzgün
+Çokgenler alıştırmaları ve Düzgün Çokgenler alt konu testini sırasıyla cevaplamalarını ister.
+Ödev
+Ders süresinde cevaplandırılamayan soruları öğrencilere EBA’dan ödev olarak gönderir ve ödev takibini
+EBA raporlar bölümünden yapar.
+İlgili Yetkinlikler/Beceriler: Tasarım süreç becerileri, Yaratıcılık, İş birliği, İletişim, Bilgi ve iletişim
+teknolojileri, Matematiksel süreç becerileri
+Ders sonrası
+Öğretmen, öğrencilerin oluşturdukları saksıların çıktısını 3D yazıcıdan alır ancak okulda 3D yazıcı yoksa okul
+idaresinden yardım isteyebilir. Seçtikleri bitkinin tohum ve fidelerini saksılara ekip dikmeleri için öğrencileri
+teşvik eder. Böylece öğrencilerin sınıfta çiçek, kaktüs veya sukulent yetiştirmelerini sağlar (Öğretmen,
+bitkileri elde etme konusunda velilerden veya okul idaresinden yardım isteyebilir.). Öğrencilerinden sanal
+sergide kullanmak üzere tüm süreci fotoğraflamalarını ister. Öğretmen veya istekli bir öğrenci, grupların
+ürünlerinin fotoğraflarından sanal bir sergi oluşturur ve tüm ürünler sanal ortamda sergilenir. Öğretmen;
+oluşturulan serginin linkini okul sitesi veya sınıf yönetimi aracında paylaşır.
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerik
+• EBA + alıştırma
+• EBA + alt konu testi
+• Düzgün çokgen saksı yapım aşamaları kontrol listesi
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Çokgenler: http://meb.ai/UJAJIDm (Son erişim tarihi: 22.05.2024)
+2. EBA Düzgün Çokgenler: http://meb.ai/UKCqsgJ (Son erişim tarihi: 22.05.2024)
+3. İlk Türk Astronotu Alper Gezeravcı’nın Fotoğrafı http://meb.ai/Uu0rLTc (Son erişim tarihi: 22.05.2024)
+4. EBA Kaktüs Saksısı Yapalım: http://meb.ai/LEeWC8 (Son erişim tarihi: 22.05.2024)
+5. EBA Alıştırma Düzgün Çokgenler: http://meb.ai/OHQ7eG (Son erişim tarihi: 22.05.2024)
+6. EBA Tarama Testi Düzgün Çokgenler: http://meb.ai/UT0ZYnZ (Son erişim tarihi: 22.05.2024)
+Kaynakça
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+TÜBİTAK. (2024, Ocak 19). İlk Türk astronotumuz Alper Gezeravcı’nın uzay yolculuğu başladı. Son erişim
+tarihi 22 Mayıs 2024, https://tubitak.gov.tr/tr/haber/ilk-turk-astronotumuz-alper-gezeravcinin-uzay-
+yolculugu-basladi
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1 : Düzgün Çokgen Saksı Yapım Aşamaları Kontrol Listesi
+EK-1
+Düzgün Çokgen Saksı Yapım Aşamaları Kontrol Listesi
+Aşağıda düzgün çokgen saksı yapım aşamaları verilmiştir. Her bir aşamayı tamamladığınızda durum
+sütununda belirtilen yere (+) işareti yazarak sürecinizi takip edebilirsiniz. Yapım aşama süreci ile ilgili
+belirtmek istediklerinizi açıklamalar sütununa yazabilirsiniz.
+YAPIM AŞAMALARI DURUM AÇIKLAMALAR
+3D Modelleme
+Hesaba girilmesi
+Tasarıma isim verilmesi
+Saksı için istenilen şeklin çalışma
+düzenine sürüklenip bırakılması
+Şeklin boyutlarının seçilmesi
+Aynı şekilden tekrar seçilip daha küçük
+boyutunun şeklin içine yerleştirilmesi
+Gövde Modelleme
+Gövdeye desen için temel şekiller
+menüsünden şekil seçilmesi
+Desen için seçilen şeklin gövdeyi
+kaplayacak şekilde yerleştirilmesi
+Gövde deseninin tamamlanması
+Saksının altına ortası delik olan bir
+şeklin yerleştirilmesi
+Fazla suyun akması için bir şekil seçilip
+şeklin saksının altına yerleştirilmesi
+Saksının renklendirilmesi
+Oluşturulan modelin bilgisayara
+indirilmesi
+Çokgenlerle Uzay
+LINKS:[["EBA Çokgenler", "UJAJIDm"], ["EBA Düzgün Çokgenler", "UKCqsgJ"], ["İlk Türk Astronotu Alper Gezeravcı’nın Fotoğrafı", "Uu0rLTc"], ["EBA Kaktüs Saksısı Yapalım", "LEeWC8"], ["EBA Alıştırma Düzgün Çokgenler", "OHQ7eG"], ["EBA Tarama Testi Düzgün Çokgenler", "UT0ZYnZ"]]

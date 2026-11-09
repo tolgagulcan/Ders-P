@@ -1,0 +1,106 @@
+## 5. Sinif/Matematik/Islemlerle Cebirsel Dusunme - Bileklik Arkadasim.pdf
+SURE:5 KOD:MAT.5.2.3.
+KAV:Örüntü, Sayı örüntüsü, Şekil örüntüsü, Örüntü kuralı
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilerin 4. sınıfta öğrendikleri örüntü konusunu hatırlatmak için EBA’daki Örüntüler video-
+sunu EBA Sınıfım’dan paylaşır.
+Öğrencilerden derse gelirken renkli örgü yumakları, pergel, cetvel, makas ve mukavva getirmelerini ayrıca
+video paylaşım sitelerinde yer alan bileklik yapımı videolarını izlemelerini ister. Öğrenciler getirdikleri yumak-
+ları öğretmen masasına bırakır. Öğretmen, bileklik yapımı kontrol listesinin çıktısını alır (Ek-1).
+1. Ders (Sınıf)
+Öğretmen “Sevgili öğrenciler, bu dersimizde sizlerle bileklik yapacağız. Öncelikle mukavva üzerine pergel-
+lerinizi kullanarak 10 cm yarıçaplı bir daire çizin ve bu daireyi kesin. Daha sonra cetvel yardımıyla köşesi
+dairenin merkezinde olan 8 eş daire dilimi çizin ve çizdiğiniz her bir parçanın ucunu makas ile 3 cm uzunlu-
+ğunda kesin. Son olarak dairenin merkezine 7 ipin de geçeceği bir delik açın. Mukavvamız hazır olduğuna
+göre artık iplere geçebiliriz. Şimdi sırayla öğretmen masasına giderek istediğiniz 7 renk ipten 30 cm uzunlu-
+ğunda parçalar kesin ve sıranıza geri dönün. 7 ipi bir ucundan düğümleyerek birleştirin ve iplerin diğer
+ucunu mukavvanın ortasındaki delikten karşı tarafa geçirin. Geçirdikten sonra her bir ipi dairenin ucundaki
+kesik yerlerden geçirin.” der. Öğretmen, sıralar arasında gezerek materyali yapmakta zorlanan öğrenci-
+lere yardım eder. Her öğrenci, materyalini hazırladıktan sonra “Artık bilekliklerimizi oluşturmaya başlayabi-
+liriz. Elinizde bir çizgisinde ip olmayan 8 çizgili bir daire var. Sizlerden istediğim arada 1, 2 veya 3 ip atlayarak
+elinize aldığınız ipi, ip olmayan kısma yerleştirmeniz. Her seferinde aradaki ip sayısının aynı olmasına dikkat
+etmeyi unutmayın.” der. Öğretmen, etkinlik süresince öğrencileri gözlemler ve gerektiğinde öğrencilere
+yardımcı olur. Bilekliklerini tamamlayan öğrencilerden ipleri daireden çıkarmalarını ve düğüm atmalarını
+ister. Öğretmen, bileklik yapım aşamalarını eksiksiz anlattığından emin olmak için her aşamadan sonra
+kontrol listesindeki maddeleri işaretler (Ek-1). Etkinlik dersin son 10 dakikasına kadar devam eder. Öğretmen,
+öğrencilere “Aynı sayıda ip atlayarak bileklik yapan öğrenciler bileklik arkadaşıdır. Bilekliklerinizi tamamla-
+dıktan sonra bileklik arkadaşınıza hediye edin.” der.
+Öğretmen, öğrencilere önceki senelerde öğrendikleri örüntü konusunu kısaca hatırlatır ve bileklikleri ile birer
+örüntü oluşturduklarını söyleyerek dersi sonlandırır.
+Matematiksel temsil becerisi, Oyunseverlik, İletişim becerisi
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, öğrencilerin örüntü kuralı belirleyip şekil örüntüsü oluşturabilecekleri Örüntü etkinliğini dinamik
+matematik ve geometri araçlarından biri ile hazırlar (Ek-2). Öğrencileri 2-4 kişilik gruplara ayırır.
+2. Ders (BT Sınıfı)
+Öğretmen, EBA’daki Örüntü Blokları Materyali Uygulama Videosu-1 ve Örüntü Blokları Materyali Uygulama
+Videosu-2 videolarını sırayla etkileşimli tahtada açar ve öğrencilere izletir. Gerekli gördüğü yerlerde video-
+ları durdurarak öğrencilere açıklamalar yapar. İzlenen videolara ilişkin öğrencilerin soruları varsa cevaplan-
+dırır. Videolar tamamlandıktan sonra gruplardan dinamik matematik ve geometri araçlarından birini kulla-
+narak şekil örüntüsü oluşturmalarını ister. Örüntü etkinliği sırasında gruptaki öğrencilerden biri, bir örüntü
+kuralı söyler. Diğer öğrenciler de verilen kurala uygun bu örüntüyü oluşturur (Ek-2). Örüntü tamamlandıktan
+sonra sıra gruptaki diğer öğrenciye geçer ve etkinlik ders sonuna kadar devam eder. Öğretmen, öğrenci-
+lerin yapmış oldukları örüntüleri inceler. Hatalı örüntüler varsa düzeltmeleri için öğrencilere geri bildirim-
+lerde bulunur.
+Ders Öncesi
+Öğretmen, kodlama-programlama aracı kullanımına ilişkin öğrencileri kısaca bilgilendirir. Öğrencileri 3-6
+kişilik gruplara ayırır. Kodlama-programlama aracını kullanarak bir sınıf oluşturur. Her grubu sınıfa kaydeder,
+grupların şifrelerini öğrencilerle paylaşır. Belirlenen Sanatçı etkinliğinin bağlantısını uygulama sınıfında paylaşır.
+3. Ders (BT Sınıfı)
+Öğretmen, öğrencileri 3-6 kişilik gruplara ayırır. Kodlama-programlama araçlarından birini kullanarak
+oluşturduğu sınıfın bağlantı kodunu öğrencilerle paylaşır ve gruplardan bu kodu kullanarak sınıfa şifreleri
+ile giriş yapmalarını ister. Gruplar, giriş yaptıktan sonra öğretmenin kendilerine atadığı Sanatçı etkinliğini
+açar. Öğretmen ilk dört etkinlik için gruplara üçer dakika süre verir. Her bir etkinlik sayfası ile birlikte etkinliğin
+nasıl gerçekleştirileceğine dair yönergeler araç tarafından sunulmaktadır. Öğretmen bu yönergeleri öğren-
+cilere açıklayarak rehberlik eder. Her üç dakikanın sonunda etkinliğin nasıl yapılacağını gruplara sorar ve
+istekli öğrencilerden birini seçerek etkinliği tahtada yapmasını ister. Dördüncü etkinlik sırasında, her grubun
+yalnızca bir blok ekleme hakkı olduğunu vurgular. Öğrencilerin cevabı bulamaması durumunda öğretmen,
+öğrencilere pembe bloğun özelliğini açıklar ve bir önceki derste öğrendikleri gibi örüntü kuralını bulup bu
+bloğun içine yerleştirmeleri gerektiğini söyler. Etkinlik ders sonuna kadar devam eder.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Kodlama-programlama aracındaki Sanatçı etkinliğindeki 10. etkinlikte öğretmen; öğrencilerden istedikleri
+şekilde bir örüntü oluşturmalarını, oluşturdukları örüntüleri EBA’ya yüklemelerini ve en beğendikleri örüntüyü
+seçmelerini ister. Bir sonraki derse kadar en beğenilen örüntünün çıktısını alır ve sınıf panosuna asar. Etkin-
+liği yapan öğrencileri tebrik eder.
+İş birliği becerisi, Grup iletişimine katılmak, Sorgulama becerisi, Genelleme becerisi,
+zarlık, Dijital araçlarla iş görme
+Ders Öncesi
+Öğretmen, öğrencileri 4-6 kişilik gruplara ayırır. Ayrıca öğrencilerden derse gelirken el işi kâğıdı, cetvel,
+makas, resim kâğıdı, yapıştırıcı ve açıölçer getirmelerini ister.
+4. Ders (Sınıf)
+Öğretmen, EBA’da yer alan Örüntü görselini etkileşimli tahtada açar. Şekil ve sayı örüntülerinden kısaca
+bahseder. Bu örüntülerin görselde de gösterildiği gibi günlük hayatta birçok yerde kullanıldığını söyler. Daha
+sonra öğrencileri 4-6 kişilik gruplara ayırır.
+Öğrencilerden el işi kâğıdı ile eşkenar üçgen, dikdörtgen ve kare oluşturmalarını ve bu çokgenleri kullanarak
+şekil örüntüleri oluşturmalarını ister. Gruplar etkinliği tamamladıktan sonra öğretmen, her gruptan sağındaki
+grubun etkinliğini incelemesini ve varsa hatalarını söylemesini ister. Her grup incelemeyi tamamladıktan
+sonra öğretmen, öğrencilerden oluşturdukları çokgenleri kullanarak süslemeler yapmalarını ister. Öğrenci-
+lere kullanacakları çokgen çeşidini değiştirebileceklerini ve çokgen sayısını arttırabileceklerini söyler. Gruplar
+süsleme etkinliğini tamamladıktan sonra öğretmen, bu sefer de her gruptan solundaki grubun etkinliğini
+incelemesini ve varsa hatalarını söylemesini ister. Hatalı etkinlikler düzeltildikten sonra öğrenciler süsleme-
+lerini resim kâğıdına yapıştırırlar. Öğretmen, süslemeleri sınıfın fiziki koşullarını göz önünde bulundurarak
+pencerelere veya sınıf panosuna asar.
+İş birliği becerisi, İletişim becerisi, Sorgulama becerisi, Matematiksel temsil becerisi,
+Veri ile çalışma ve veriye dayalı karar verme, Görsel okuryazarlık, Örüntüleri betim-
+leme ve analiz etme, Yaratıcılık
+Ders Öncesi
+Öğretmen, öğrencilerin izlemeleri için EBA’da yer alan Örüntüler videosunu öğrencilere gönderir.
+Çoktan seçmeli soru hazırlamayı sağlayan web araçlarından birini kullanarak EBA’da bulunan Örüntüler alt
+konu testi ve Alıştırmalar-Örüntüler testinden aldığı sorularla Örüntüler Testi adlı çalışmayı hazırlar. Hazır-
+lamış olduğu web aracının kullanımı hakkında öğrencileri kısaca bilgilendirir. Öğrencilerin kullanacağı kod
+kâğıtlarının çıktısını alır ve öğrencilere dağıtır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+5. Ders (Sınıf)
+Öğretmen, hazırladığı Örüntüler Testi çalışmasını etkileşimli tahtada açar ve öğrencilerin ilk soruyu cevap-
+landırması için bekler. Öğrenciler soruyu cevaplandırdıktan sonra onlardan cevaplarının yazılı olduğu kodu
+göstermelerini ister ve öğrencilerin cevap kodlarını okutur. Soruyu doğru cevaplayan istekli bir öğrenci,
+çözümü tahtada gösterir. Soru cevaplandırıldıktan sonra öğretmen diğer soruya geçer. Tüm sorular cevap-
+landırıldıktan sonra en fazla doğru cevabı veren öğrenciyi veya öğrencileri tebrik eder. Öğretmen, etkileşimli
+tahtadan EBA’daki Sayı Dizisinde Eksik Olan Sayıyı Bulma alıştırmasını açar. Öğrencilerden soruları sırasıyla
+cevaplandırmalarını ister. Soruyu doğru cevaplandıran istekli öğrencilere söz hakkı verir, onlardan soruyu
+tahtada çözmelerini ister.
+Örüntüleri betimleme ve analiz etme, Bilgiye ulaşmak için veriyi yorumlama
+
+LINKS:[["EBA Örüntüler", "VvH5IL"], ["EBA Örüntü Blokları Materyali Uygulama Videosu-1", "Nl1EXj"], ["EBA Örüntü Blokları Materyali Uygulama Videosu-2", "k0Suoa"], ["Örüntü", "XISYEc"], ["Sanatçı", "cfLiFQ"], ["EBA Örüntüler", "anwxQv"], ["Örüntüler Testi", "Uv5k0zG"], ["EBA Alıştırmalar-Örüntüler", "Uc9nNxN"], ["EBA Örüntüler-Alt Konu Testi", "UvR2VDh"], ["EBA Sayı Dizisinde Eksik Olan Sayıyı Bulma", "Uwkspof"]]

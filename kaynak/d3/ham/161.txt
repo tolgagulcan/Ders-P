@@ -1,0 +1,81 @@
+## 5. Sinif/Arapca/Merhaba! - Bir Selam Bin Kopru Kurar.pdf
+SURE:2 KOD:
+KAV:Selamlaşma, Tanışma, Vedalaşma
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web araçlarından birini kullanarak öğrencilerin
+verilen görsellerden hareketle "‫ناِسب ِِللُّصَور؟‬
+ِ ‫ "ما ُهَو ا ْْلُع ْْنوا ُُن ا ْْلُم‬sorusuna selamlaşma, tanışma ve vedalaş-
+ُ
+َ ُ ُ ُ َ
+ma ifadelerinden uygun olanı seçecekleri Merhaba Arkadaşım etkinliğini hazırlar. Oyunlaştırılmış ölçme
+ve değerlendirme web araçlarından biriyle öğrencilerin dinledikleri diyaloğa uygun görsellerle bir hikâye
+oluşturacakları Resimleri Sıralama Oyunu’nu tasarlar. Bu etkinlik için öğrencilerden kırmızı, siyah, yeşil, mavi,
+pembe ve turuncu olmak üzere altı adet aynı boyutta renkli kart hazırlayıp sınıfa getirmelerini ister. Birden
+fazla seçim yapmayı sağlayan web araçlarından biriyle öğrencilerin dinledikleri diyalogları anlamlandırıp,
+grup içinde tartışarak doğru bağlamda bir sonuca ulaşacakları Yapılandırılmış Grid’i oluşturur (Ek-1).
+1. Ders (Sınıf)
+Öğretmen, Türkçedeki “selam, merhaba, isim” ifadelerini öğrencilere hatırlatarak Arapçadaki karşılıklarıyla
+köprü kurar ve Merhaba Arkadaşım etkinliğiyle derse giriş yapar. Öğrencilerden önce görselleri incelemelerini
+ve sonrasında görsellere bakarak uygun başlıklar seçmelerini ister. Bu etkinlikteki ifadelerin kullanımıyla ilgili
+jest ve mimiklerle etkileşimi destekleyerek kısa bir beyin fırtınası gerçekleştirir. Ardından etkileşimli tahtada
+Resimleri Sıralama Oyunu’nu açar. Öğrencilere dinledikleri ses kaydından hareketle karışık görselleri doğru
+sıraya koymaları gerektiğini belirtir. Etkinlikte yer alan her görsel için öğrencilere düşünmeleri için yeterli
+süre verir ve sınıfa "‫َهّيا ََنْر ََفع ا ْْلِبِطاقات الَّصحيَحة‬
+َ " der. Öğrenciler de önceden hazırladıkları ve doğru olduğunu
+َ َ ْ ّ
+düşündükleri renkli kartları aynı anda kaldırarak seçimlerini gösterir. Öğretmen doğru kartı gösteren öğren-
+cilerden birini seçer. Seçilen öğrenci etkileşimli tahtada sıralamayı tamamlar. Böylece tüm sınıf görünür ve
+aktif biçimde etkinliğe katılır. Ardından öğretmen sınıfı dört gruba ayırarak her grubun farklı soruyu yanıt-
+layacağı Yapılandırılmış Grid etkinliğine geçer (Ek-1). Gruplar birer temsilci seçer ve kendi bölümlerinin dil
+dedektifleri olarak dinledikleri ifadelere yönelik sorunun doğru yanıtını bulmak için fısıldaşarak kısa bir grup
+ْ ‫ ِِا‬٣،٢،١
+tartışması yapar. Öğretmen dijital kronometre kullanarak belirlediği süre bitiminde gruplara ".‫ْخ ََتر‬
+ِ � " yönlendirmesinde bulunur. Temsilciler sırayla etkileşimli tahtadan seçimlerini yapar. Yanlış seçim
+َ ‫اِإْل‬
+‫جاَبة‬
+yapan gruplar, diğerlerinin açıklamalarını dinleyerek öğretmen rehberliğinde yanlış seçimini düzeltir. Her
+grup kendi kategorisinde doğru yanıtladığı kısa diyalogları tekrar ederek canlandırır. Son grubun seçtiği iki
+diyaloğu canlandırması yeterlidir. Bu süreçte öğrenciler tartışır, karar verir, iş birliği yapar ve kalıpları doğal
+bir akış içinde pekiştirir. Öğretmen gerekli açıklamaları yaparak dersi tamamlar.
+Çözümleme, Merak, Azim ve kararlılık, Kendine güvenme (öz güven), Oyunseverlik,
+Bilgileri bir araya getirme, Anlamlandırma/anlam çıkarma, Konuşmaya hazırlık yap-
+ma, Konuşma modelini taklit etme/tekrarlama, Dil bilgisi seçme-kullanma, Sözcük
+seçme-kullanma, Kendini düzenleme (öz düzenleme), İletişim, İş birliği, Dijital bilgiyi
+anlamlandırma, Görseli anlama, Görseli yorumlama
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, çizgi roman oluşturma araçlarından birini kullanarak öğrencilerin dinledikleri diyaloğu görsel-
+leştirebilecekleri Diyalogdan Çizgi Romana etkinliğini hazırlar ve etkinliğin ayrıntılarını öğrencilere açıklar.
+Öğrencilerin çalışmalarını sergileyebileceği bir alan oluşturmak için dijital pano ya da post-it oluşturma
+araçlarından biriyle Çizgi Romanlarımız başlıklı paylaşım alanını düzenler, bağlantısını EBA üzerinden sınıfla
+paylaşır. Ders sonunda öğrencilerin kendi öğrenme süreçlerini değerlendirebilmeleri için görsel düzenleme
+araçlarından biriyle 3-2-1 Çıkış Kartı’nı oluşturur (Ek-2). Öğrencilerin grup çalışmalarındaki davranışlarını
+değerlendirebilmek için grup değerlendirme yapmayı sağlayan web araçlarından biriyle Çizgi Roman Ta-
+sarımı Grup Değerlendirme Formu hazırlar ve EBA üzerinden paylaşarak çalışmaları buradaki kriterlere göre
+değerlendireceğini açıklar (Ek-3). Bu hazırlıklar sayesinde öğrenciler hem dijital araçları kullanarak üretim
+yapabilir hem de kendi öğrenmelerini görünür hâle getirir.
+2. Ders (BT Sınıfı)
+Öğretmen, oturum düzenini dört öğrencinin bir bilgisayarı ortaklaşa kullanacağı şekilde organize eder. Isınma
+etkinliği için bir öğrenciyi tahtaya davet eder ve kulağına daha önceden öğrendikleri selamlaşma, tanışma
+veya vedalaşma cümlelerinden birini söyler. Öğrenci konuşmadan yalnızca jest ve mimiklerle cümleyi can-
+landırmaya çalışır. Diğer öğrenciler tahmin eder. Doğru cevap bulunduğunda tüm sınıf birlikte tekrar eder.
+Birkaç kalıp cümleyle etkinlik devam ettirilir. Etkinlik eğlenceli bir atmosfer oluşturur ve öğrenmeye katılımı
+artırır. Ardından öğretmen, öğrencilere iş birliği içinde çalışarak çizgi roman tasarlayacaklarını belirtir ve
+onlardan çalışmalarını kriterlere uygun gerçekleştirmelerini ister. EBA üzerinden Diyalogdan Çizgi Romana
+etkinliğini paylaşarak öğrencilere içerikte yer alan diyaloğu dikkatlice dinlemeleri gerektiğini söyler. Dinleme
+sonrasında öğrenciler; diyaloğun akışına uygun olarak selamlaşma, tanışma ve vedalaşma sahnelerinden
+oluşan bir çizgi roman tasarlar. Öğretmen, öğrencilerin çizgi romanlarını oluştururken görselleri doğru sıra-
+lamayla yerleştirmelerine rehberlik eder. Çalışmasını tamamlayan gruplar, çizgi romanlarının bağlantılarını
+Çizgi Romanlarımız başlıklı dijital panoda paylaşır. Bu çalışma hem iş birliğini hem de dinleme-anlama
+becerilerini destekler ve öğrencilerin üretim yaparak kalıpları doğal bir akış içinde pekiştirmelerine olanak
+tanır. Dersin sonunda öğrenciler 3-2-1 Çıkış Kartı’nı doldurarak sürece dair öz değerlendirmelerini yapar
+(Ek-2). Öğretmen, öğrencilerin çalışmalarını gözlemleyerek gerekli açıklamaları yapar ve dersi sonlandırır.
+Ders Sonrası
+Öğretmen, öğrencilerin katılımlarını değerlendirmek için Çizgi Roman Tasarımı Grup Değerlendirme Formu’nu
+doldurur ve geri bildirimlerini açıklamalarıyla birlikte EBA üzerinden paylaşır (Ek-3).
+Sentezleme, Merak, Kendine güvenme (öz güven), Bilgileri bir araya getirme, Anlam-
+lama, Görseli yorumlama
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Merhaba Arkadaşım", "IMoYnC"], ["Resimleri Sıralama Oyunu", "Uil9YHs"], ["Yapılandırılmış Grid", "QbDRBJ"], ["Diyalogdan Çizgi Romana", "5ckKLZ"], ["Çizgi Romanlarımız", "xd8yCp"], ["3-2-1 Çıkış Kartı", "UM0sWU4"], ["Çizgi Roman Tasarımı Grup Değerlendirme Formu", "3q72w5"]]

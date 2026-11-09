@@ -1,0 +1,161 @@
+## 8. Sinif/Matematik/Cebir - Terazi Hep Dengede mi Kalir-.pdf
+SURE:2 KOD:M.8.2.3.1.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+• Öğretmen, etkileşimli sunum araçları ile 7. sınıf eşitlik ve denklem konusunu hatırlatıcı bir sunum
+hazırlar. Sunumda günlük hayatta karşılaşılan ve eşitlik modellerinin kullanıldığı örneklere (pazar yeri
+veya adliyede karşılaşılan terazi modeli gibi) yer verilir.
+• Sınıf yönetimi araçları ile öğrencilere akran değerlendirme yapmayı sağlayan web araçları ile hazırlanan
+form gönderilerek değerlendirme kriterlerinden öğrencilerin haberdar olmasını sağlar (Ek-1). Öğrencilerin
+grup çalışması sonucunda grup arkadaşını değerlendireceğini belirtir.
+• Ders esnasında zamanı verimli kullanmak için öğrenci gruplarını ikişerli olarak önceden belirler.
+• Öğretmen, dinamik matematik ve geometri web araçları ile hazırladığı terazi modelini öğrencilere
+göndererek etkinlikte verilmeyen ağırlığın kaç olduğunu dersten önce öğrencilerin bulmalarını ister.
+Ders 1 (BT Sınıfı)
+Ders iki aşamalı olarak öğretmen tarafından planlanır (Örneğin ilk aşama 15 dk., ikinci aşama 25 dk. ya
+da ilk aşama 20 dk., ikinci aşama 20 dk. gibi). İlk aşamada öğrencilere 7. sınıf alt öğrenme alanlarından
+olan eşitlik ve denklem hakkında ne hatırladıklarına dair şu soruları yöneltebilir:
+1- Eşitliğin her iki tarafına hangi işlemler uygulanırsa eşitlik bozulmaz?
+2- Bir denklemin birden fazla çözümü olabilir mi? gibi sorularla soru-cevap etkinliği yaptırılır. Etkileşimli
+sunum araçları ile öğrencilere konu hatırlatılır. Hatırlatma sonucu dinamik matematik ve geometri
+araçları ile hazırlanan Bilinmeyeni Bul etkinliği etkileşimli tahtada açılır ve bağlantı öğrencilerle paylaşılır.
+Terazinin sağ ve sol kefeleri birbirine eşit olacak şekilde örnekler verilir. Öğrencilerin eşitliği sağlamak için
+eksik ya da fazla olan kefeler için hangi yolları izlemeleri gerektiği tartışılır.
+Terazi kefelerinin eşit olmadığı örnekler öğrencilerle paylaşılarak eşitliğin sağlanması için hangi adımların
+izlenebileceği öğrencilere yorumlatılır. Verdikleri yönergeleri bireysel olarak uygulamaları öğrencilerden
+istenir. Gelen cevaplarla eşitliğin sağlandığı ve özellikle eşitliğin sağlanmadığı durumlar detaylı bir şekilde
+konuşulur. Eşitliğin sağlanmadığı bir durum gelmezse öğretmen tarafından oluşturulur ve diğer kefenin
+ağırlığının ne olabileceği öğrencilere sorulur. Eşitliğin sağlanmadığı durumlarda bu durumun adının ne
+olabileceği yönünde öğrencilerden fikirler alınır. Eşitsizlik kavramının öğrenciler tarafından belirtilmesinin
+ardından terazi üzerinden örnekler verilerek durum pekiştirilir ve eşitsizlik sembolleri EBA’da bulunan
+Eşitsizlikler başlıklı içerikle aktarılır (< , > , ≤ ve ≥).
+Dersin ikinci aşamasında eşitsizlik sembollerinin matematik durumlarında sözel ifadelerle nasıl ifade
+edilebileceği öğrencilerle tartışılır. Daha sonra öğretmen, görsel düzenleme araçları kullanarak hazırladığı
+Tartı Etkinliğini, Mikrofon Etkinliğini, Hız Limiti Etkinliğini ve Üst Geçit Etkinliğini öğrencilerle paylaşır. Öğrenciler
+grup arkadaşıyla süre sonuna kadar bu etkinlikleri yapar. Bu süreçte öğrenciler defter, kalem kullanabilir.
+Öğretmen, sürece rehberlik ederek gerekli yerlerde öğrencilere destek olur.
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel okuryazarlık, Akıl yürütme, Görsel ve dijital
+okuryazarlık
+Ders 2 (BT Sınıfı)
+Ders iki aşamalı olacak şekilde planlanır (25 dk. + 15 dk.). İlk aşamada öğretmen, ilk derste öğrenilen
+kavramları soru-cevap yöntemiyle hatırlatır. Öğrencilerin önceki derste doldurmuş olduğu etkinlik formu
+sorularını tahtaya yansıtır ve öğrencilerle tartışma ortamı içerisinde dört sorunun değerlendirmesini yapar.
+Dersin ikinci aşamasında kazanım kavrama durumunun tespit edilebilmesi için öğrencilere eşitsizlikler
+konusunda çoktan seçmeli olarak hazırlanan kazanım kavrama soruları uygulanır ve öğrenciler
+değerlendirilir (Ek-2). Ders sonunda öğrencilerden animasyon ya da poster ve afiş oluşturma araçlarını
+kullanarak eşitsizlikle ilgili bir animasyon ya da bir poster hazırlamaları (günlük hayatta karşılaşılan
+durumlar) istenir. Tasarlanan ürünler poster veya afişse sınıf panosunda sergilenir, animasyon ise
+etkileşimli tahtada öğrencilerle birlikte izlenerek yorumlanır. Ders sonunda öğretmen, akran değerlendirme
+yapmayı sağlayan web araçlarından biri ile hazırlanan formu sınıf yönetimi aracı kullanarak öğrencilerle
+paylaşır (Ek-1). Öğrencilerden arkadaşlarını değerlendirmesini ister.
+Ödev
+Öğretmen, EBA’da bulunan Eşitsizlikleri Sayı Doğrusunda Gözlemleme ve Sayı Doğrusunda Verilen Eşitsizliği
+Yazma başlıklı alıştırmaları ödev olarak gönderir ve takibini EBA üzerinden yapar.
+İlgili Yetkinlikler/Beceriler: Eleştirel düşünme, Yaratıcı düşünme, Akıl yürütme, Matematiksel
+okuryazarlık, İletişim
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• Bilinmeyeni bul etkinliği
+• Kazanım kavrama soruları
+• Akran değerlendirme yapmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Bilinmeyeni Bul Etkinliği: https://meb.ai/SiGriu (Son erişim tarihi: 03.12.2024)
+2. EBA Eşitsizlikler: https://meb.ai/dixAt1 (Son erişim tarihi: 03.12.2024)
+3. Tartı Etkinliği: https://meb.ai/UjUYQeN (Son erişim tarihi: 03.12.2024)
+4. Mikrofon Etkinliği: https://meb.ai/UIyKIrk (Son erişim tarihi: 03.12.2024)
+5. Hız Limiti Etkinliği: https://meb.ai/UZqtVmT (Son erişim tarihi: 03.12.2024)
+6. Üst Geçit Etkinliği: https://meb.ai/Uz8mFzv (Son erişim tarihi: 03.12.2024)
+7. EBA Alıştırmalar-Eşitsizlikleri Sayı Doğrusunda Gözlemleme: https://meb.ai/iPh0nz (Son erişim tarihi:
+03.12.2024)
+8. EBA Alıştırmalar-Sayı Doğrusunda Verilen Eşitsizliği Yazma: https://meb.ai/1Jzm9P (Son erişim tarihi:
+03.12.2024)
+Kaynakça
+Canva. (2024). Terazi hep dengede mi kalır?-etkinlikler. Son erişim tarihi 3 Aralık 2024, https://www.
+canva.com/design/DAGYRmf2rno/Soq3Cdjo6z3l9Ql7QllytA/view?utm_content=DAGYRmf2rno&utm_
+campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+GeoGebra. (2024). Terazi hep dengede mi kalır?-bilinmeyeni bul etkinliği. Son erişim tarihi 3 Aralık 2024,
+https://www.geogebra.org/m/yvzfvuku
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 5 Ağustos 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Akran Değerlendirme Formu
+Ek-2: Eşitsizlikler Kazanım Kavrama Soruları
+EK-1
+Akran Değerlendirme Formu
+Bu form, gruptaki çalışma arkadaşınızın konu kavrama etkinliği sırasındaki çalışmalarını değerlendirmek üzere hazırlanmıştır. Her kriter için
+verilen seçeneklerden uygun olanı işaretleyiniz.
+Değerlendiren Öğrencinin Adı Soyadı:
+Değerlendirilen Öğrencinin Adı Soyadı:
+SEÇENEKLER
+KRİTERLER
+Evet Kısmen Hayır
+Süreçte arkadaşımın verdiği ipuçları beni doğru sonuca yönlendirdi.
+Soruların tartışıldığı ortamda arkadaşım kırıcı değildi.
+Arkadaşımın kullandığı dil akıcı ve anlaşılırdı.
+Arkadaşım görüşlerime karşı saygılıydı.
+Süreçte arkadaşımın verdiği yanıtlar doğruydu.
+Eklemek istedikleriniz
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Terazi Hep Dengede mi Kalır?
+EK-2
+Eşitsizlikler Kazanım Kavrama Soruları
+Aşağıda verilen açık uçlu sorulara uygun matematik cümlelerini yazınız. Çoktan seçmeli
+sorularda ise verilen cümleye uygun matematiksel ifadeyi işaretleyiniz.
+1. Yürüdüğüm yol en fazla 250 metredir.
+Matematik Cümlesi:
+2. Burdur’un sıcaklığı en az -5 °C, en fazla ise 40 °C’tur.
+Matematik Cümlesi:
+3. Her gün 100 sorudan az olsa da en az 60 soru çözerim.
+Matematik Cümlesi:
+4. Anaokuluna en az 3 en fazla 6 yaşında olan çocuklar kabul edilir.
+Matematik Cümlesi:
+5. Özgür’ün harçlığının iki katının 5 lira eksiği en çok 90 liradır.
+Matematik Cümlesi:
+6. Bir yemek firması her gün en az 5 şirkete öğle yemeği vermektedir. Rakip yemek firmasının her
+gün öğle yemeği verdiği şirket sayısı ise 12’yi geçmemektedir.
+Cuma günü aynı sayıda şirkete yemek verdiklerine göre şirket sayısını ifade eden eşitsizlik
+aşağıdakilerden hangisidir?
+A) 5 < x < 12 B) 5 ≤ x < 12 C) 5 ≤ x ≤ 12 D) 5 < x ≤ 12
+7. Bir fidan dikme projesinde belirlenen ortaokullardan her birinin bahçesine en az 20 fidan
+dikilmesi kararlaştırılmıştır.
+Bu proje kapsamında 10 ortaokul belirlendiğine göre dikilecek toplam fidan sayısının
+alabileceği değerleri ifade eden eşitsizlik aşağıdakilerden hangisidir?
+A) x < 200 B) x ≤ 200 C) x > 200 D) x ≥ 200
+8. Pazarda domatesin kilosu en az 2,5 lira iken en fazla 5,5 liradır.
+Buna göre 4 kg domatesin fiyatı kaç lira olabilir?
+A) 10 < x < 22 B) 10 ≤ x < 22 C) 10 < x ≤ 22 D) 10 ≤ x ≤ 22
+9. “Bir okul en düşük 440, en yüksek 470 puan ile öğrenci alacaktır.” ifadesine uygun matematik
+cümlesi aşağıdakilerden hangisidir?
+A) 440 ≤ x ≤ 470 B) 440 ≤ x < 470 C) 440 < x ≤ 470 D) 440 < x < 470
+10. “Takdir belgesi alabilmek için not ortalamasının en az 85 olması gerekmektedir.”
+cümlesinin matematiksel olarak ifadesi aşağıdakilerden hangisidir?
+A) x > 85 B) x ≥ 85 C) x < 100 D) x ≤ 100
+Terazi Hep Dengede mi Kalır?
+CEVAP ANAHTARI
+Ek-2
+Soru Cevap
+1. 0 ≤ x ≤ 250
+2. -5 ≤ x ≤ 40
+3. 60 ≤ x < 100
+4. 3≤x≤6
+5. 2x–5 ≤ 90
+6. C
+7. D
+8. D
+9. A
+10. B
+Terazi Hep Dengede mi Kalır
+LINKS:[["Bilinmeyeni Bul Etkinliği", "SiGriu"], ["EBA Eşitsizlikler", "dixAt1"], ["Tartı Etkinliği", "UjUYQeN"], ["Mikrofon Etkinliği", "UIyKIrk"], ["Hız Limiti Etkinliği", "UZqtVmT"], ["Üst Geçit Etkinliği", "Uz8mFzv"], ["EBA Alıştırmalar-Eşitsizlikleri Sayı Doğrusunda Gözlemleme", "iPh0nz"], ["EBA Alıştırmalar-Sayı Doğrusunda Verilen Eşitsizliği Yazma", "1Jzm9P"]]

@@ -1,0 +1,93 @@
+## 5. Sinif/Matematik/Geometrik Sekiller - Temel Geometrik Insalar.pdf
+SURE:5 KOD:MAT.5.3.2.
+KAV:Dikme, Doğru, Doğru parçası, Işın, Paralellik
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, oyunlaştırma web aracıyla hazırladığı Sudoku oyununun bağlantısını EBA sayfasında sınıf
+grubuyla ileti olarak paylaşır (Ek-1). Öğrencilerden sudoku oyununun kurallarını öğrenmelerini ve paylaş-
+tığı 6x6 sudoku oyununu oynamalarını ister. Görsel düzenleme araçlarıyla hazırlanmış Geometrik Sudoku
+oyununun, öğrenci sayısı kadar çıktısını alır (Ek-2). Ayrıca öğrencilerden ölçüsüz cetvel, gönye ve pergel
+getirmelerini ister.
+Not: Görsel düzenleme araçları ile oluşturacağınız tasarımda uygulamak istediğiniz şablonu seçiniz ve istedi-
+ğiniz bileşenleri ekleyiniz. İsterseniz yüklemeler sekmesini seçerek kendi görsellerinizi tasarımınıza ekleye-
+bilirsiniz.
+Öğretmen ders öncesinde paylaştığı Sudoku oyununu açar (Ek-1). Oyunun kurallarını öğrencilere hatırlatır
+ve öğrencilerin katılımı ile sudokuyu çözer. Öğrencileri 4-5 kişilik gruplara ayırır ve Geometrik Sudoku oyun
+çıktısını öğrencilere dağıtır (Ek-2). Öğrencilerden temel geometrik çizimleri birer kez kullanarak oyundaki
+boşlukları doldurmalarını ister. Çizimlerini yaparken ölçüsüz cetvel, gönye ve pergel kullanmaları gerekti-
+ğini belirtir. Çalışma süresince grupları dolaşarak süreci takip eder ve gerektiğinde öğrencilere destek olur.
+Öğrencilerden çalışmayı 1. ders sonuna kadar tamamlamalarını ister. Tüm öğrenciler çalışmalarını tamam-
+ladıktan sonra öğrencilere şu soruları yöneltir:
+• Temel geometrik çizimleri yaparken ölçüsüz cetvel, gönye ve pergeli nasıl kullandınız?
+• Hangi geometrik çizimi, hangi araç ile yaptınız?
+• Çizimlerinizde doğru, doğru parçası, ışın, açı, çember ve dikmeyi inşa aşamalarınız nelerdir?
+• Temel geometrik çizimleri yapabileceğiniz teknolojik araçlar var mı?
+Öğretmen, bu sorularla öğrencilerin temel geometrik çizimlere dayalı deneyimlerini gözden geçirmele-
+rini ve çizimlerin özelliklerine yönelik çıkarım yapmalarını amaçlar. Geometrik sudoku oyunundaki boşluk-
+lara gelecek Temel Geometrik Çizimler etkinliğini dinamik matematik ve geometri araçları ile etkileşimli
+tahtada oluşturur. Ayrıca dinamik matematik ve geometri aracını öğrencilere tanıtır. Öğrenciler çizimlerini
+kontrol eder, gerekli düzeltmeleri yaparlar. Öğretmen, öğrencilere “Çizimleri elle yapmakla dijital ortamda
+yapmak arasında ne gibi farklar vardır?” sorusunu yöneltir. Öğrencilerden somut matematiksel araçlar ile
+dijital araçların avantaj ve dezavantajlarını karşılaştırmalarını ister. Konuyla ilgili sınıfta bir tartışma ortamı
+oluşturur ve öğrencilerin görüşlerini alarak dersi tamamlar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, etkinliklere ayrılan zamanı daha verimli kullanmak için ders öncesinde 4-5 kişilik öğrenci grupları
+oluşturur (Gruptaki kişi sayısını belirlerken sınıftaki bilgisayar sayısını dikkate alır.).
+3. Ders (BT Sınıfı)
+Öğretmen “Bir matematik kitabının ömrü en fazla ne kadar olabilir?” sorusu ile derse başlar. Etkileşimli sunum
+araçları ile hazırladığı Öklid ve Elemanları adlı sunumunu etkileşimli tahtada açar. Sunumunda Öklid’den
+ve geometrinin temellerini attığı “Elemanlar” adlı kitabından kısaca bahseder. Matematik ve geometrinin
+tarihsel gelişimi hakkında öğrencilerde merak uyandırır. Ders öncesi oluşturduğu öğrenci gruplarını etkinlik
+için bilgisayarlara yönlendirir. EBA’dan bağlantısını paylaştığı Matematiğin Zaman Çizelgesi etkinliğinde
+tarihteki ünlü matematikçiler arasından Öklid’i (Euclid) bularak Öklid’in Aksiyomları’nı incelemelerini ister.
+Süreç boyunca grupları gözlemler ve gerektiğinde öğrencilere yardımcı olur. Gruplar çalışmalarını tamam-
+ladıktan sonra Öklid ve beş aksiyomuyla ilgili öğrencilere aşağıdaki soruları sorar:
+• Öklid’in çalışmalarının matematik tarihi açısından önemi nedir?
+• Aksiyom (belit) nedir?
+• Öklid’in aksiyomları arasında ilk kez karşılaştığınız aksiyom var mı?
+• Paralel doğrular nedir?
+• İki doğrunun paralel olup olmadığını nasıl anlarsınız?
+Öğretmen, öğrencilerin cevaplarını alır ve cevaplarla ilgili öğrencilere geri bildirimde bulunur. Daha sonra
+paralel doğruları öğrencilere tanıtır. Öğrencilerden dinamik matematik ve geometri araçlarını kullanarak
+paralel doğrular çizmelerini ister. Öğrenciler çizimlerini yaparken onlara rehberlik eder.
+Ders Öncesi
+Öğretmen
+• Bir nokta ile bir doğru arasındaki en kısa uzaklığın nasıl belirleneceğini anlatan Noktadan Doğruya En
+Kısa Uzaklık,
+• Bir doğruya dışındaki ve üzerindeki bir noktadan nasıl dikme çizileceğini anlatan Doğruya Dikme Çizme,
+• Doğru parçalarının nasıl birbirine paralel olduğunu anlatan Paralel Doğru Parçaları videolarını izlemeleri
+için EBA’dan öğrencilere gönderir.
+Matematiksel doğrulama veya ispat yapma, Matematiksel temsillerden yararlanma,
+Çalışmanın başlangıç ve bitiş tarihlerini belirler. EBA çalışmalar/dijital çalışmalar sekmesinden öğrencilerin
+Matematiksel temsilleri değerlendirme, Matematiksel çözümler geliştirme,
+çalışmalarını takip eder. Öğrencilerden derse gelirken cetvel, ölçüsüz cetvel, gönye ve pergel getirmelerini
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+ister. Çevrim içi dergi, elektronik kitap, metin hazırlama araçları ile hazırlanan Çalışma Kâğıdı’nın öğrenci
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital bilgi üzerinden
+sayısı kadar çıktısını alır (Ek-3).
+çıkarım yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+4. Ders (Sınıf)
+Öğretmen öğrencilere Çalışma Kâğıdı’nı dağıtır (Ek-3). Bir önceki derste oluşturulan öğrenci gruplarının
+birlikte çalışmasını ister. Öğrencilerden matematiksel araçları kullanarak çalışma kâğıdındaki soruları ders
+sonuna kadar cevaplamalarını ister. Süreçte grupların çalışmalarını gözlemler ve gerekli yerlerde öğren-
+cilere rehberlik eder.
+Ders Öncesi
+Öğretmen, öğrencilerden dinamik matematik ve geometri aracını incelemelerini ister. Öğrencilerin dinamik
+matematik ve geometri aracında yapacakları Çizim Çalışmaları bağlantısını EBA’da ileti olarak paylaşır
+(Dinamik matematik ve geometri aracı kullanımı ile ilgili yönerge, çizim çalışmaları bağlantısında verilmiştir.).
+Bir sonraki derste yapacakları etkinlik için EBA’da gruplar oluşturur, gruplara öğrencileri ekler. Öğrenci grupla-
+rına Geometrik Şekillerle Sanat isimli dokümanı gönderir ve öğrencilerden incelemelerini ister. Bir sonraki
+derste yapılacak çalışmanın yönergesini öğrencilerle paylaşır (Ek-4). Öğretmen, öğrencilerin çalışmalarını
+grup değerlendirme formu ile değerlendireceğini söyler ve değerlendirme kriterlerinden bahseder (Ek-5).
+5. Ders (BT Sınıfı)
+Öğretmen, bu derste öğrencilerin ders öncesi yaptıkları tasarımı dinamik matematik ve geometri araçlarını
+kullanarak oluşturacaklarını belirtir. Ders öncesi paylaştığı çalışma yönergesini etkileşimli tahtadan açarak
+öğrenci çalışmalarına rehberlik eder (Ek-4). Eksik bilgilere yönelik geri bildirimlerde bulunur. Öğrenciler
+yapılan çalışmaları EBA’da paylaşır. Öğretmen, yapılan çalışmaları grup değerlendirme formu ile değer-
+lendirir (Ek-5).
+Özgün görseller oluşturmak, Matematiksel araç ve teknolojiden yararlanma, Sorum-
+kullanımında kendi yetkinliklerini güncellemek, Yaratıcılık
+
+LINKS:[["Sudoku", "Tlvsl4"], ["Geometrik Sudoku", "xaCism"], ["Temel Geometrik Çizimler", "Uz1APSV"], ["Öklid ve Elemanları", "Uc4yoin"], ["Matematiğin Zaman Çizelgesi", "U56y8NL"], ["Öklid’in Aksiyomları", "L7NHce"], ["EBA Noktadan Doğruya En Kısa Uzaklık", "UTBKJ2v"], ["EBA Doğruya Dikme Çizme", "UJ11iub"], ["EBA Paralel Doğru Parçaları", "y0bIJA"], ["Çalışma Kâğıdı", "inWDkV"], ["Çizim Çalışmaları", "UEvkTyE"], ["Geometrik Şekillerle Sanat", "AjHccE"]]

@@ -1,0 +1,78 @@
+## 5. Sinif/Fen Bilimleri/Kuvveti Taniyalim - Gorunmeyeni Hissetmek.pdf
+SURE:4 KOD:FB.5.2.1.
+KAV:Kuvvet, Kuvvet birimi, Dinamometre
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, derste kullanmak üzere kol ve bacakları iplerle yönlendirilebilen bir kukla hazırlar.
+1. Ders (Sınıf)
+Öğretmen elinde kukla ile sınıfa girer. Öğrencilere kuklanın kol ve bacaklarına bağlı iplerin farklı yönlerde
+çekilmesiyle hareketin sağlandığını açıklar. Öğrencilerden kuklanın belirli bir hareketi gerçekleştirmesi için
+hangi ipin hangi yönde çekilmesi gerektiğini sözlü olarak açıklamalarını ister. Öğrencilerin açıklamalarını
+uygulayarak kuklaları yönlendirmelerine rehberlik eder. Ardından öğrencilere aşağıdaki soruları yöneltir:
+• Kuklayı hareket ettirirken hangi yön ifadelerini kullandınız?
+• İpleri her çektiğinizde kukla aynı miktarda hareket etti mi?
+• Hareket miktarının farklı olduğunu gözlemlediyseniz bu farkın nedenini gözlemlerinize dayanarak açıklayınız.
+Öğretmen beyin fırtınası tekniğini kullanarak öğrencilerin yanıtlarını tahtaya yazar. Bu aşamada yanıtların
+doğruluğunu değerlendirmek yerine öğrencilerin kuvvet kavramı üzerine ön bilgilerini ortaya çıkarmak
+için düşüncelerini ifade edebilmelerine imkan tanır. EBA’da bulunan Kuvvet videosunu öğrencilere izletir.
+Öğretmen, öğrencilere videodaki kuvvet kavramı ile kuklanın hareketi arasındaki ilişkiyi açıklamalarını ister
+ve aşağıdaki soruları yöneltir:
+• Kuklayı hareket ettirirken kuvvetin büyüklüğünü nasıl fark ettiniz?
+• Kuklayı hareket ettirmek için uyguladığımız kuvvetlerden birinin yönünü söyleyebilir misiniz?
+• Kuvvetin yönü, kuklanın hareketinde önemli midir? Nedenleri ile açıklayınız.
+• Kuklanın hareketini sağlamak için uyguladığımız kuvvetlerden birinin doğrultusunu söyleyebilir misiniz?
+• Kuvvetin yönünün değişmesi kuklanın hareketini nasıl etkiler? Düşüncelerinizi açıklayınız.
+Öğretmen, öğrencilerin yanıtlarını tahtaya yazar. Öğrencilere geri bildirimde bulunur. Bu etkinlik ile öğren-
+ciler, kuvvetin üç önemli özelliğini kukla üzerinde gözlemler. Öğretmen, öğrencilerden kuvvetin etkisiyle
+ortaya çıkan olaylara örnekler vermelerini ister. Öğrencilerin örneklerini tahtaya yazarak konuyu özetler.
+Çıkarım yapma, Bilimsel gözleme dayalı tahmin, Merak, İletişim
+Ders Öncesi
+Öğretmen, kuvvet ölçümü deneyinde kullanılacak malzemeleri (dinamometre, farklı kütlelerde cisimler,
+askı ipi, kanca veya statif) hazırlar. Deney için öğrencileri 4-5 kişilik gruplara ayırır. Dinamometre ile Kuvvet
+Ölçümü Deney Yönergesi'nin çıktısını alır ve grup sayısı kadar çoğaltır (Ek-1).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Sınıf)
+Öğretmen, sınıfa dinamometre getirerek öğrencilere bu aracı tanıyıp tanımadıklarını ve hangi amaçla kulla-
+nıldığını sorar. Öğrencilerin cevaplarını dinler. Ardından dinamometrenin kuvvet ölçümünde kullanıldığını
+söyler ve çalışma şeklinden kısaca bahseder. Dinamometrede yer alan yayın özelliklerinin dinamometrenin
+uzama miktarına etkisine değinir. Bu derste dinamometreyi kullanarak kuvvet ölçümü deneyi yapacaklarını
+söyler. Gruplara Dinamometre ile Kuvvet Ölçümü Deney Yönergesi’ni dağıtır (Ek-1). Etkinliğin Akran Değer-
+lendirme Formu ile değerlendirileceğini bildirir ve formun kriterlerine ilişkin öğrencileri bilgilendirir (Ek-2).
+Öğrenciler, yönergeyi takip ederek çeşitli kütlelerdeki cisimlerin kuvvetini ölçer. Ölçüm sonuçlarını yöner-
+gede yer alan tabloya kaydeder. Öğretmen tabloları kontrol eder ve öğrencilere geri bildirimde bulunur.
+Öğretmen, öğrencilerden tablolarındaki verileri inceleyerek kuvvet ile kütle arasındaki ilişkiyi açıklamala-
+rını ister. Öğrenciler tablolarından yola çıkarak soruyu yanıtlar. Öğretmen yanıtlara geri bildirimde bulunur.
+Ders Sonrası
+Öğretmen, deney etkinliğini değerlendirmek amacıyla akran değerlendirme yapmayı sağlayan web araçla-
+rıyla hazırladığı Akran Değerlendirme Formu’nu EBA’dan paylaşır (Ek-2). Öğrencilere grup arkadaşlarının
+deney esnasındaki çalışmasını değerlendirmelerini söyler.
+Bilgi toplama, Veri oluşturma, Deney yapma, Sorumluluk, İş birliği
+Ders Öncesi
+Öğretmen, Grupça Öğreniyoruz etkinlik kâğıdının çıktısını alır ve grup sayısınca çoğaltır (Ek-4).
+3. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin konuyu pekiştirmeleri için oyunlaştırılmış ölçme ve değerlendirme web aracını kulla-
+narak hazırladığı Kuvvet ve Özellikleri etkinliğini EBA’da paylaşır (Ek-3). Öğrencilerin etkinliği yapmalarına
+rehberlik eder ve onlara geri bildirimde bulunur. Ardından öğretmen, öğrencileri üçerli gruplara ayırır ve bu
+derste jigsaw (ayrılıp-birleşme) yöntemiyle bir etkinlik yapacaklarını belirtir. Jigsaw yönteminin büyük bir
+konunun küçük parçalara ayrılarak grup hâlinde çalışılmasını sağlayan bir öğrenme yöntemi olduğunu
+açıklar. Grupça Öğreniyoruz etkinlik kâğıdını dağıtarak öğrencilerin yönergeyi takip etmelerini sağlar (Ek-4).
+Öğretmen, öğrencilere örnek olması amacıyla dijital pano ya da post-it oluşturma araçlarını kullanarak
+hazırladığı Grupça Öğreniyoruz Panosu’nu EBA’dan gruplara gönderir ve panolarını oluştururken bu içerikten
+faydalanacaklarını söyler. Süreç içerisinde öğrencilere gerekli rehberliği yaparak geri bildirimlerde bulunur.
+Ardından edindikleri bilgiler üzerinden kuvvetin niteliklerini özetlemeleri için bir sonraki derste birer poster
+hazırlayacaklarını öğrencilere söyler ve hazırlayacakları poster için bir fikir oluşturması amacıyla poster
+ve afiş oluşturma araçlarını kullanarak hazırladığı Grupça Öğreniyoruz Posteri örneğini gösterir. Öğrenciler
+posteri inceler.
+Bilgi toplama, Açık fikirlilik, İş birliği, Dijital araçlarla iş görme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, Öğrenme Günlüğü’nün çıktısını alır ve öğrenci sayısı kadar çoğaltır (Ek-5).
+4. Ders (BT Sınıfı)
+Gruplar, edindikleri bilgileri özetleyerek sunum için poster ve afiş oluşturma araçlarıyla birer poster oluştu-
+rurlar. Çalışmalarını tamamlayan öğrenciler, posterlerini EBA üzerinden paylaşır. Gönüllü birkaç grup sınıfta
+sunar. Öğretmen sunumlarını yapan gruplara geri bildirimde bulunur. Öğrenme Günlüğü’nü öğrencilere
+dağıtır ve etkinliği tamamlamaları için yeterli süre tanır (Ek-5). Süre sonunda günlükleri toplayarak geri
+bildirimde bulunur.
+Özetleme, Yaratıcılık, İş birliği, Açık fikirlilik, Görsel iletişim uygulamaları oluşturma
+
+LINKS:[["EBA Kuvvet", "UHQ9vAQ"], ["Akran Değerlendirme Formu", "UzTo59e"], ["Kuvvet ve Özellikleri", "UDoCZIu"], ["Grupça Öğreniyoruz Panosu", "UlCKY57"], ["Grupça Öğreniyoruz Posteri", "lEW7Mw"]]

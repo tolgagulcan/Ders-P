@@ -1,0 +1,165 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (2) - Devirli Ondalik Sayilarin PISA Macerasi.pdf
+SURE:5 KOD:MAT.6.1.6.
+KAV:PISA, Devirli ondalık gösterim, Bölme işlemi
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, öğrencilere “Ülkemizde farklı sınıf kademelerinde ortak sınavlar yapıldığını biliyor musunuz? Bu
+sınavlara örnek verebilir misiniz?” sorularını sorarak derse başlar. Öğrencilerin söylediği sınavların neyle
+ilgili olduğunu açıklar, ek olarak başka örnekler de verir. Ardından öğrencilere “Peki, dünya çapında farklı
+ülkelerden öğrencilerin katıldığı sınavlar var mıdır?“ sorusunu sorar.
+Öğretmen, öğrencilerin cevaplarını dinledikten sonra “Belki daha önce duymadınız ama aynı yaştaki öğren-
+cilerin katıldığı birçok uluslararası sınav vardır. Bunların en bilinenleri Uluslararası Matematik ve Fen Eğilim-
+leri Araştırması (TIMSS), Uluslararası Öğrenci Değerlendirme Programı (PISA), Uluslararası Bilgi ve İletişim
+Teknolojileri Araştırması (ICILS) gibi sınavlardır. Örneğin PISA, dünya çapında eğitim sistemlerinin etkinliğini
+değerlendirmek amacıyla yapılan en kapsamlı uluslararası sınavdır. Bu değerlendirme sınavı, 15 yaşındaki
+öğrencilerin okulda edindikleri bilgileri günlük yaşamda ne kadar etkili kullanabildiklerini ve problem çözme,
+akıl yürütme, eleştirel düşünme gibi becerilerini ölçer. 80’den fazla ülkenin katıldığı bu sınava ülkemiz de
+katılmak ve onlarla aynı soruları çözmek oldukça heyecan verici olsa gerek.” diyerek 2022 yılında yapılan PISA
+sınavının Güneş Sistemi sorusunu etkileşimli tahtadan açar. Öğrencilerden bu soruyu inceleyerek çözüme
+yönelik fikirlerini söylemelerini ister. Öğrencilerin cevaplarını dinledikten sonra sorunun çözümünü onlara
+açıklar, bu hafta öğrenecekleri konuyla ilgili PISA sorularına benzer sorular çözeceklerini söyler.
+5
+Öğretmen, tahtaya kesrini yazarak öğrencilerden bu kesrin okunuşunu söylemelerini ister. Öğrenciler
+2
+“beş bölü iki” veya “ikide beş” cevabını verecektir. Öğretmen, “beş bölü iki” cevabına dikkat çekerek neden
+bu kesri okurken “bölü” denildiğini sorar. Öğrencilerden sıra arkadaşları ile 2 kişilik vızıltı grupları oluşturma-
+larını ve bu konuyu kendi aralarında tartışmalarını ister. Bunun için öğrencilere 3 dakika süre verir. Etkileşimli
+tahtadan geri sayımı çalıştırarak grup tartışmasını başlatır. Tartışma sonunda gruplardan nasıl bir sonuca
+vardıklarını sınıfla paylaşmalarını ister. Öğrencilerin cevaplarını dinledikten sonra EBA’dan Bölme İşlemi ile
+Kesir Arasındaki İlişki videosunu açar. Öğrencilerin kesir ile bölme işlemi arasındaki ilişkiyi fark etmelerini
+sağlar ve varsa video ile ilgili soruları cevaplayarak ek açıklamalarda bulunur. Öğrencilere bölme işlemi
+yaparak bir kesri ondalık gösterimle yazabileceklerini ifade eder. EBA’dan Ondalık Gösterimler videosunu
+açarak öğrencilerin bu bölme işleminin nasıl yapıldığını görmelerini sağlar. Videonun ardından tahtada
+7
+kesrini bölme işlemi yaparak ondalık gösterim hâlinde yazar. Sonucu kontrol etmek ve yöntemin uygun-
+4
+luğunu öğrencilere göstermek için etkileşimli tahtada hesap makinesini açarak 7 sayısını 4’e böler ve sonucu
+bulduğu sonuçla karşılaştırır. Öğrencilerin de bu işlemleri yaparak sonuca ulaşmaları için kısa cevaplı sorular
+oluşturmayı sağlayan web araçları ile hazırlanan Kesirler Aslında Birer Bölme etkinliğini açar (Ek-1). Öğren-
+cilerden verilen kesirlerin payını paydasına bölerek ondalık gösterim karşılıklarını bulmalarını ister. Gönüllü
+öğrenciler tahtaya gelerek bölme işlemini yapar ve sonucu boşluğa yazar.
+Ders Sonrası
+Öğretmen, öğrencilerden PISA sınavı ile ilgili araştırma yapmalarını ve bu sınav hakkında bilgi toplama-
+larını ister. Ayrıca PISA 2022 Açıklanan Matematik Soruları bağlantısını öğrencilerle paylaşır ve öğrenci-
+lerden soruları incelemelerini ister. Her ne kadar 15 yaşındaki öğrenciler için hazırlanmış olsa da öğrendik-
+leri konularla ilgili olduğu için soruları çözmeye çalışmalarını söyler.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, “Bardağımı Ver” çalışma kâğıdını sınıftaki öğrenci sayısı kadar çoğaltır (Ek-2).
+2. Ders (Sınıf)
+Öğretmen, öğrencilerden önceki derste bahsettiği PISA sınavı ile ilgili öğrendikleri bilgileri paylaşmalarını
+ister. Öğrencilerin PISA sınavı ve soruları hakkında ne düşündüklerini sorar. Bu sohbetin ardından derste PISA
+benzeri sorulardan oluşan bir çalışma yapacaklarını söyler. Öğrencilere “Bardağımı Ver” çalışma kâğıdını
+dağıtır (Ek-2). Her öğrenciden bireysel olarak etkinlikte yer alan soruları cevaplamasını ister. Etkinlik tamam-
+landıktan sonra gönüllü öğrencilerden tahtada soruları çözmelerini ister. Gerekli yerlerde açıklamalarda
+bulunur. Daha sonra öğrencilere okuldaki yapılması planlanan bir yapıyla ilgili problem olduğunu söyler ve
+onlardan bu problemi çözmelerini ister. Etkileşimli tahtada görsel düzenleme araçları ile hazırlanan Musluk
+Problemi görselini açar:
+“Okulumuza içme suyu temin etmek amacıyla 3 metre uzunluğunda bir duvar yapılacak ve bu duvara
+yatayda aynı hizada olacak şekilde 7 adet musluk takılacaktır. Bu musluklardan biri duvarın en solunda,
+diğeri en sağında yer alıp musluklar arası mesafeler eşit olacaktır. Bu bilgilere göre iki musluk arasındaki
+mesafe kaç metre olur? (Muslukların genişlikleri ihmal edilecektir.)”
+Öğretmen, öğrencilerden problemi dikkatlice okuyup çözmelerini ister. Problemi çözen öğrencilerin musluk-
+ları yerleştirmesi için oyunlaştırılmış ölçme ve değerlendirme web araçları ile hazırlanan Muslukların Konum-
+larını Belirle etkinliğini etkileşimli tahtada açar. Gönüllü öğrenciler, buldukları çözüme uygun şekilde musluk-
+ların konumlarını tahtada belirler. Etkinliğin sonunda öğretmen, problemin çözümü ile ilgili açıklamalarda
+bulunarak sorusu olan öğrencilerin sorularını cevaplar.
+3. Ders (BT Sınıfı)
+Öğretmen, öğrencilere yapay zekâ destekli aracı kullanarak bir ondalık gösterim hesaplama makinesi
+yapacaklarını söyler. Sınıf yönetimi aracı ile öğrencilere Yapay Zekâ Aracı’nın bağlantısını gönderip öğren-
+cilerden bu bağlantıya giriş yapmalarını ister (Yapay zekâ kullanım izinleri öğrenciler için kapalı durum-
+daysa “Ayarlar” menüsünden açılmalıdır.). Kendisi de aynı aracı etkileşimli tahtadan açar. Öğrencilerle
+birlikte ondalık gösterim kodlama yönergesindeki adımları uygular (Ek-3). Kesirden ondalık gösterim hesap-
+layan Kesir Hesaplayıcısı tasarımını tamamlarlar. Öğretmen , kesir hesaplayıcısının doğru çalışıp çalışma-
+5
+dığını kontrol etmek için gönüllü bir öğrenciden kesrini tahtada bölme işlemi yaparak ondalık göste-
+8
+rimle yazmasını ister. Öğrenci işlemini tamamladıktan sonra öğretmen, etkileşimli tahtada hazırladığı kesir
+hesaplayıcısına aynı işlemi yazar ve sonucu
+Matematiksel karşılaştırır.
+doğrulama veya ispatÖğrencilere kodlama programını
+yapma, Matematiksel kullanarak
+temsillerden farklı
+yararlanma,
+algoritmalarla çalışan makineler yapabileceklerini
+Matematiksel ifade eder. Yaptıkları
+temsilleri değerlendirme, hesap makinesini
+Matematiksel çözümlerbir dizi problemi
+geliştirme,
+İlgiliiçin
+çözmek Beceriler
+de kullanabileceklerini
+Yorumlama,söyler.
+Yansıtma,Ardından anlık
+İş birliği, geri
+Sözlü yabildirim sağlayan
+da sözsüz web aracıyla
+olarak etkileşim hazırlanan
+sağlamak, Grup
+Problemi Çöz Ondalığı Sırala etkinliğini sınıf yönetimi aracı ile öğrencilere gönderir (Ek-4).
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital bilgi üzerinden
+çıkarım yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğrencilere bu etkinlikte yer alan problemleri çözmelerini ve elde ettikleri sonuçları küçükten büyüğe sırala-
+malarını söyler. Etkinliğin tamamlanmasının ardından gönüllü öğrencilerden etkileşimli tahtada problem-
+leri çözmelerini ve ondalık gösterimlerin değerine göre sıralamalarını ister. Sorusu olan öğrencilerin sorula-
+rını cevaplayarak dersi tamamlar.
+Ders Öncesi
+Öğretmen, öğrencilerin akademik ve sosyal becerilerini dikkate alarak sınıfı 3-4 kişilik heterojen gruplara
+ayırır. Gruplara ilişkin bilgileri sınıf yönetimi aracından paylaşır. Dersten önce öğrencilerden kendi grupla-
+rındaki arkadaşlarıyla yan yana oturmalarını ister.
+4. Ders (Sınıf)
+Öğretmen, sınıf yönetimi aracından duyurduğu grupları kontrol ederek öğrencilerin gruplarındaki arkadaş-
+larıyla yan yana oturduklarından emin olur. Gruplara “Şimdi bolca altın kazanacağınız basit sorulardan
+oluşan bir etkinlik yapacağız.” diyerek etkileşimli tahtada oyunlaştırılmış ölçme ve değerlendirme web
+araçları ile hazırlanan Hazine Haritası etkinliğini açar. Her gruptan, etkinlikte yer alan 1 kg altının farklı sayılar-
+daki kişilere paylaştırılması durumunda kişi başına düşen altın miktarını bulmaya yönelik soruları dikkatlice
+cevaplamalarını ister. Gruplar cevaplarını kâğıtlara yazar. Etkinlik tamamlanınca öğretmen, öğrencilerden
+soruların cevaplarını yazdıkları kâğıtları sırayla kaldırmalarını ister. Doğru cevabı veren grup/grupları tebrik
+eder. İstekli öğrencilerden birini etkileşimli tahtaya kaldırarak çözümü yapmasını ve cevabı gösteren butona
+basmasını ister. Cevaplarda farklılık olduğunda öğrencilerin bu sonuçları tartışmasını sağlar ve cevaplarla
+ilgili açıklamalarda bulunur. Özellikle dördüncü soruda 1 kg altının 3 kişiye paylaştırılması işleminde öğren-
+cilerin sonuca ulaşamamaları beklenir. Öğretmen, öğrencilerden neden 1’in 3’e bölümünde zorlandıklarını
+veya tam bir sonuca ulaşamadıklarını grup içinde tartışmalarını ister. Tartışma sonunda gönüllü öğren-
+ciler düşüncelerini paylaşır.
+Öğretmen, bölme işleminde öğrencilerin zorlanmalarının çok normal olduğunu çünkü bu işlemin cevabının
+farklı bir ondalık gösterim türüne karşılık geldiğini onlara açıklar. Etkileşimli tahtadan EBA’da yer alan Devirli
+Ondalık Gösterim videosunu açarak öğrencilerin devirli ondalık gösterimlerle tanışmasını sağlar. 1 kg altını
+sorar. Devirli ondalık gösterimle ilgili açıklamalarda bulunarak gruplardan 1’in 3’e bölünmesi işlemini tekrar
+yapmalarını ister. Gönüllü öğrenciler cevaplarını paylaşır. Öğretmen, bu bölme işlemini tahtada yaparak
+öğrencilere açıklar ve sonucun 0,33333....=0,3 şeklinde gösterilebileceğini ifade eder. Devirli ondalık göste-
+rimde tekrar eden rakamların üstüne çizgi konulduğunu açıklar.
+Öğretmen, gruplara “10 kg altını 9 kişi paylaşırsa bir kişinin alacağı altın miktarı kaç kg olur?” sorusunu
+yöneltir. Grup sözcülerinden buldukları cevapları tahtaya yazmalarını ister. Gönüllü bir öğrenci tahtada bölme
+işlemini yaparak sonucu bulur. Öğretmen, sorusu olan öğrencilerin sorularını cevaplar. Öğrencilere kesirleri
+ondalık gösterimle ifade ederken paydası 10, 100, 1000 gibi 10’un kuvvetleri olan veya genişletme yapılarak
+10’un kuvvetlerine genişletilebilen kesirlerin ondalık gösterimlerinde ondalık kısmın sonlu olduğunu açıklar.
+Paydası 10, 100, 1000 gibi 10’un kuvvetleri olmayan ve 10’un kuvvetlerine genişletilemeyen kesirlerin ondalık
+gösterimlerindeki ondalık kısmın sürekli tekrar eden sayı veya sayılardan oluştuğunu belirtir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Eşleştirme yapabilmeyi sağlayan web aracı ile hazırladığı Devirli Ondalık Gösterimleri Eşleştir etkinliğini açar
+(Ek-5).Her gruptan gönüllü bir öğrencinin tahtaya gelerek bir eşleştirme yapmasını ister. Hatalı işlem yapan
+öğrencilere sonucu bulmaya yönelik dönütler verir.
+5. Ders (BT Sınıfı)
+Öğretmen, kavram haritası oluşturmayı sağlayan web aracı ile oluşturulmuş Kavramlar Yerli Yerinde etkinli-
+ğini sınıf yönetimi aracı ile öğrencilerle paylaşır. Öğrencilerden verilen ifadeleri kavram haritasındaki yerlerine
+yerleştirerek kavram haritasını doğru tamamlamalarını ister. Etkinlikle ilgili sorusu olan öğrencilerin sorula-
+rını yanıtlar. Etkinlik tamamlandıktan sonra aynı etkinliği etkileşimli tahtadan açarak gönüllü bir öğrenciden
+kavram haritasını etkileşimli tahtada oluşturmasını ister.
+Öğretmen , kavram haritası aracılığıyla kesirlerin ondalık gösterime dönüştürülmesinde kullanılabi-
+lecek yöntemleri tekrar eder. Ardından öğrencilerin daha önceki derslerde yapay zekâ destekli araç ile
+yaptıkları “Kesir Hesaplayıcısı” tasarımını hatırlatır. “Bu tasarımı geliştirerek devirli ondalık gösterimleri
+yazmaya ne dersiniz?” sorusunu sorar. Hem öğrenciler hem de öğretmen, etkileşimli tahtadan yapay
+zekâ aracına giriş yapar. Devirli ondalık gösterim hesaplama yönergesinde yer alan adımları uygula-
+yarak paydası 10 veya 10’un kuvvetlerine eşitlenemeyen kesirleri, devirli ondalık gösterim olarak ifade eden
+bir hesap makinesi oluştururlar ve adına Kesir Hesap Makinesi derler (Ek-6). Öğretmen, öğrencilerden
+7
+kesrini tahtada bölme işlemi yaparak devirli ondalık gösterim ile ifade etmelerini ister. Bölme işlemi
+6
+tamamlandıktan sonra öğrenciler aynı kesri, kesir hesap makinesine yazar ve çıkan sonucu karşılaştırır.
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web aracı ile hazırlanan Efe’nin Odası bağlantısını
+sınıf yönetimi aracından paylaşır (Ek-7). Öğrencilerden etkinlikteki problemleri çözmelerini ister. Öğrenciler
+çözümleri tamamladıktan sonra etkinliği etkileşimli tahtada açar ve gönüllü öğrencilerden soruları tahtada
+çözmelerini ister. Varsa öğrencilerin sorularını cevaplayarak dersi tamamlar.
+
+LINKS:[["Güneş Sistemi", "UVUb6JI"], ["EBA Bölme İşlemi ile Kesir Arasındaki İlişki", "U8uxuYN"], ["EBA Ondalık Gösterimler", "07ebhx"], ["Kesirler Aslında Birer Bölme", "UfmJ876"], ["PISA 2022 Açıklanan Matematik Soruları", "wmXxuH"], ["Musluk Problemi", "UKLiPNn"], ["Muslukların Konumlarını Belirle", "UDQ2FVu"], ["Yapay Zekâ Aracı", "NeP5Oj"], ["Kesir Hesaplayıcısı", "U5JbUCY"], ["Problemi Çöz Ondalığı Sırala", "Uq9jqA3"], ["Hazine Haritası", "MOlMFY"], ["Devirli Ondalık Gösterim", "DSnP2X"], ["Devirli Ondalık Gösterimleri Eşleştir", "UlZvteY"], ["Kavramlar Yerli Yerinde", "uMsPa6"], ["Kesir Hesap Makinesi", "UabOJFD"], ["Efe’nin Odası", "UsECYc3"]]

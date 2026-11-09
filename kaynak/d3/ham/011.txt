@@ -1,0 +1,258 @@
+## 8. Sinif/Matematik/Geometri ve Olcme - Pisagor’u ve Pisagor Teoremini Taniyoruz.pdf
+SURE:5 KOD:M.8.3.1.5.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Pisagor’u anlatan içeriği yapay zekâ araçlarını kullanarak öğrencilerin seviyesine uygun
+hâle getirir ve sınıf yönetimi aracıyla öğrencilerine gönderir. Gönderdiği içeriğin dersten önce öğrenciler
+tarafından okunmasını sağlar. Öğrencileri gruplara ayırır. BT sınıfı kullanılacaksa sınıftaki bilgisayar sayısına
+göre gruplardaki öğrenci sayısını belirler. Her grupta farklı becerilere sahip öğrencilerin yer almasına ve
+grup üyelerinin birbirleriyle uyumlu olmasına dikkat eder.
+Ders 1-2 (BT Sınıfı)
+Öğretmen, yapay zekâ araçlarını kullanarak öğrencilerin seviyesine uygun hâle getirdiği Pisagor metninden
+hareketle öğrencilerle Pisagor ve Pisagor’un matematiğe katkıları üzerine sohbet eder. Gruplara Pisagor
+ile ilgili hazırladığı soruları sorar (Ek-1). Gruplar, cevaplarını dijital pano ya da post-it araçları ile paylaşır.
+Öğretmen, Pisagor ve Pisagor Bağıntısı isimli içeriği öğrencilere izletir. Özellikle dik üçgenlerin özel durumu
+ve hipotenüsün (en uzun kenar) tanımı üzerinde durur. Videoda verilen 3-4-5 üçgeni üzerinden keşif
+yaptırmak üzere dinamik matematik ve geometri programında izlenmesi gereken adımları ve doldurmaları
+gereken tabloyu öğrencilerle paylaşır (Ek-2). Öğrenciler dik üçgenleri oluştururken öğretmen onlara
+rehberlik eder. Gruplar oluşturdukları üçgenlere ait tabloları dijital pano ya da post-it araçları ile paylaşır.
+Tüm grupların paylaşımı tamamlandığında öğretmen, tablodaki örüntü üzerine konuşur. Tablonun son iki
+sütunundaki eşitliğe dikkat çeker. Dik kenarlardan oluşan karelerin toplam alanının hipotenüsten oluşan
+karenin alanına eşit olduğunu vurgular.
+Karelerin kenar uzunlukları ile alanları arasındaki ilişkiye dikkat çeker. Öğrencilerden Ek-2’de verilen tabloyu
+doldurmalarını ister. Cebirsel olarak tablo doldurulduktan sonra a2 + b2 = c2 eşitliğini verir ve dersi bitirir.
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel süreç becerileri, Dijital yetkinlik
+Ders 3 (Sınıf)
+Öğretmen, problem durumunu gruplarla paylaşır (Ek-3). Bir önceki derste öğrendikleri formülü onlara
+hatırlatır. Problem durumuna dair fikirleri ve çözüm önerilerini sınıfça tartışırlar. Öğretmen, tartışılan fikirleri
+toparlayarak dinamik matematik ve geometri aracında problem durumunu modeller. C Caddesi’nin
+uzunluğunu hesaplar, A ve B Caddelerinin toplam uzunluğunun C Caddesi’nin uzunluğundan daha
+büyük olduğunu vurgular. Öğretmen hipotenüsün ne olduğunu, uzunluğunun nasıl hesaplandığını ve
+dik kenarlardan biri ile hipotenüs bilindiğinde diğer kenarın nasıl bulunacağını öğrencilere tekrar anlatır.
+Dinamik matematik ve geometri aracında hazırlanmış Pisagor Teorem etkinliğini etkileşimli tahtada
+açar. Sınıf yönetimi araçları ile seçilmiş öğrenciler sırayla etkinliği yapar. Etkinlik içeriğinde yer alan a ve
+b olarak isimlendirilen sürgüler hareket ettirilerek oluşan değişimler incelenir. Ardından sürgülere bağlı
+olan h, r ve k uzunlukları değiştirilerek alanlarda gerçekleşen değişimler izlenir. Dik kenarlara ait olan
+karelerin alanları toplamının hipotenüse bağlı olan karenin alanına eşit olduğu keşfedilir. Aynı zamanda
+Pisagor teoreminde yer alan sayıların da değiştiği vurgulanır. Dinamik matematik ve geometri aracının
+etkili bir şekilde kullanılması, öğrencilerin keşfettiklerini sınıf arkadaşlarıyla paylaşmalarına yardımcı olur.
+Öğretmen, iki sorudan oluşan kazanım kavrama sorularını öğrencilere çözdürür ve dersi bitirir (Ek-4).
+Ödev
+EBA’da yer alan Pisagor Bağıntısını Hesaplama alt konu testi sorularını ödev olarak gönderir.
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel süreç becerileri, Dijital yetkinlik, Matematiksel
+etkinlik ve bilim/teknolojide temel yetkinlikler
+Ders 4 (Sınıf)
+Öğretmen, konuyu pekiştirmek ve öğrenme eksiklerini gidermek adına Dik Üçgen ve Pisagor Bağıntısı
+çalışma soruları ile 8. Sınıf Matematik Ünitelendirilmiş Örnek Sorular ‘dan da sekiz soru seçer ve öğrencilerle
+birlikte çözer. Öğretmen, soru çözümü yapılırken öğrencilere destek olur ve onları teşvik eder.
+Ödev
+EBA’da yer alan Alıştırmalar-Dik Üçgen ve Pisagor Bağıntısı sorularını öğrencilere ödev olarak gönderir.
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler
+Ders öncesi
+Öğretmen, öğrenme istasyonu etkinlikleri için hazırlıklarını yapar. Öğretmen kare, tangram etkinliği için
+görselleri sınıfın seviyesine göre seçer ve görsellere numara verir. Pisagor üçlüsü etkinliği için tablo hazırlar.
+Ders 5 (Sınıf)
+Öğretmen, üç farklı etkinlik oluşturur ve grupların sayısına göre aynı etkinlikten birden fazla da oluşturabilir.
+Etkinlik sürecinde öğrencileri gözlem formu ile değerlendireceğini söyleyerek değerlendirme kriterlerini
+paylaşır (Ek-5).
+1. Etkinlik: Pisagor Üçgenini Bulma (8 dakika)
+Öğretmen, öğrencilere farklı üçgenlere ait kenar uzunlukları verir ve öğrencilerden hangilerinin Pisagor
+üçlüsü olduğunu bulmalarını ister (Ek-6).
+2. Etkinlik: Pisagor Bağıntısı Sorularını Çözme (10 dakika)
+Öğrencilerin Pisagor bağıntısını kullanarak çözecekleri sorulardan oluşur. Öğretmen 8. Sınıf Matematik
+Ünitelendirilmiş Örnek Sorular dosyasında bulunan ve önceki ders çözülmeyen sorulardan 2 tanesini
+örnek olarak kullanabilir. Öğretmen, soruları bütün öğrencilerin dikkatli bir şekilde düşünmesini sağlar.
+3. Etkinlik: Kare Tangram Bulmacası (12 dakika)
+Bu etkinlikte gruplar verilen şekli oluşturur ve şekillerin oluşturulma süresini tabloya kaydeder (Ek-7).
+Dersin sonunda en kısa sürede şekli tamamlayan grup, sınıf yönetimi aracından ödüllendirilir.
+Öğretmen, öğrencilerin öğrenme süreçlerini gözlem formu ile değerlendirir (Ek-5).
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel yetkinlik ve bilim/teknolojide temel yetkinlikler,
+İş birliği, Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + çalışma soruları
+• EBA + alıştırmalar
+• EBA + beceri temelli sorular
+• Öğretmen gözlem formu
+• Kazanım soru alıştırması
+• Pisagor üçgenini bulma etkinliği
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Pisagor: http://meb.ai/U8bigm2 (Son erişim tarihi: 21.05.2024)
+2. EBA Pisagor ve Pisagor Bağıntısı: http://meb.ai/g3tIUD (Son erişim tarihi: 21.05.2024)
+3. Dinamik Matematik ve Geometri Aracında Hazırlanmış Etkinlik: https://meb.ai/UTtxFhL (Son erişim
+tarihi: 21.05.2024)
+4. EBA Pisagor Bağıntısını Hesaplama: http://meb.ai/zCE6rO (Son erişim tarihi: 21.05.2024)
+5. EBA Dik Üçgen ve Pisagor Bağıntısı: http://meb.ai/Uz7Tyq5 (Son erişim tarihi: 21.05.2024)
+6. 8. Sınıf Matematik Ünitelendirilmiş Örnek Sorular: http://meb.ai/ojYoTj (Son erişim tarihi: 21.05.2024)
+7. Alıştırmalar-Dik Üçgen ve Pisagor Bağıntısı: http://meb.ai/PE2Vq1 (Son erişim tarihi: 21.05.2024)
+Kaynakça
+GeoGebra. (2022). Pisagor’u ve Pisagor teoremini tanıyoruz-Pisagor teorem. Son erişim tarihi 28 Ağustos
+2024, https://www.geogebra.org/m/rfhr5vpd
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 28 Ağustos 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Pisagor Hakkında Soru Örnekleri
+Ek-2: Dinamik Matematik ve Geometri Aracı İşlem Adımları
+Ek-3: Pisagor Teoremi İçin Problem Durumu
+Ek-4: Pisagor Kazanım Kavrama Soruları
+Ek-5: Öğretmen Gözlem Formu
+Ek-6: Pisagor Üçgenini Bulma Etkinliği İçin Örnek Tablo
+Ek-7: Kare Tangram Etkinliği İçin Süre Tablosu
+EK-1
+Pisagor Hakkında Soru Örnekleri
+Pisagor hakkında aşağıda verilen soruların cevaplarını altlarında verilen boşluklara yazınız.
+SORULAR
+1. Hangi tarihler arasında yaşamıştır?
+.............................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+2. Nerede doğmuştur?
+.............................................................................................................................................................................................................................
+................................................................................................................................................................................................................
+3. Hangi alanlarla ilgilenmiştir?
+.............................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+4. Bilgisini artırmak için hangi ülkelerde eğitim almıştır?
+.............................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+5. Kurduğu okulda hangi dersleri vermiştir?
+.............................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+6. Müziği matematikle nasıl ilişkilendirmiştir?
+.............................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+7. Astronomiyle ilgili yaptığı keşif nedir ve bu keşif günümüzde hangi gezegenle ilişkilidir?
+.............................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+EK-2
+Dinamik Matematik ve Geometri Aracı İşlem Adımları İşlem Adımları
+1. Kılavuz çizgileri açınız.
+2. Dik kenar uzunlukları 3 birim ve 4 birim olan bir dik üçgen çiziniz.
+3. Üçgenin kenarlarından birini kenar yapacak şekilde üç tane kare çiziniz.
+4. Oluşan karelerin alan ölçümünü yapınız.
+5. Oluşan sonuçları verilen tabloya giriniz.
+6. Tabloda ilgili tüm yerleri doldurunuz.
+7. İstediğiniz kenar uzunluğuna sahip en az üç tane dik üçgeni kılavuz çizgilerinden yararlanarak oluşturunuz ve yukarıdaki adımları tekrarlayınız.
+1. ve 2.
+1. Dik Kenardan 2. Dik Kenardan Dik Kenardan Hipotenüsten
+1. Dik Kenar 2. Dik Kenar Hipotenüsün
+Oluşturulan Oluşturulan Oluşturulan Oluşturulan
+Uzunluğu Uzunluğu Uzunluğu
+Karenin Alanı Karenin Alanı Karelerin Alanları Karenin Alanı
+Toplamı
+a b c a2 + b2 c2
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+EK-3
+Pisagor Teoremi için Problem Durumu
+3. Durak
+A Caddesi
+C
+C
+ad
+de
+si
+B Caddesi
+2. Durak 4 km 1. Durak
+A Caddesi ve B Caddesi üçgen şeklindeki bölgenin dik kenarlarıdır. 1. Durak ve 2. Durak
+arası 4 km, 2. Durak ve 3. Durak arası 5 km ve 1. Durak ve 3. Durak arasının kaç km olduğu
+bilinmemektedir. Bir dolmuş 1. Durak’tan başlayıp 2. Durak’a uğruyor ve son durak olan 3.
+Durak’ta seferini tamamlıyor. Günün bazı saatlerinde 2. Durak’ta yolcu olmadığını öğrendiği
+için 2. Durak’a uğramıyor. Yakıt tasarrufu amacıyla 1. Durak’tan 3. Durak’a gitmek için C
+Caddesi’ni kullanıyor. Sizce dolmuş şoförü neden C Caddesi’ni kullanmıştır? Dolmuş şoförünün
+kararını birlikte değerlendirelim.
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+EK-4
+Pisagor Kazanım Kavrama Soruları
+Aşağıdaki her bir dik üçgende verilmeyen kenar uzunluklarını bulunuz.
+Soru Çözüm
+25
+cm
+x
+1.
+m
+2.
+y
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+EK-5
+Öğretmen Gözlem Formu
+Bu form, öğretmenin öğrencileri belirtilen kriterlere göre değerlendirmesi için hazırlanmıştır. Her bir kriter için öğrenci, kriteri karşılıyor ise
+Evet (E), kısmen karşılıyor ise Kısmen (K), karşılamıyor ise Hayır (H) yazabilirsiniz.
+KRİTERLER
+Uygulama
+Dik kenarlardan
+sürecinde dinamik Dik kenarlar
+ÖĞRENCİNİN ADI SOYADI Grup çalışmasına biri ile hipotenüs Öğrenme
+matematik ve Pisagor bağıntısını verildiğinde
+aktif bir şekilde verildiğinde etkinliğine aktif bir
+geometri aracını oluşturdu. hipotenüsü
+katıldı. diğer dik kenarı şekilde katıldı.
+aktif bir şekilde hesapladı.
+hesapladı.
+kullandı.
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+EK-6
+Pisagor Üçgenini Bulma Etkinliği İçin Örnek Tablo
+Tabloda verilen üçgenlerin kenar uzunluklarına göre Pisagor üçgeni olup olmadığına Pisagor teoremini (a2+b2=c2) kullanarak karar veriniz.
+Pisagor üçgeni olanlara (+) olmayanlara (-) işareti koyunuz.
+1. Dik Kenar 2. Dik Kenar Hipotenüs Pisagor Üçgeni
+Grup Adı Hesaplama Sütunu
+Uzunluğu Uzunluğu Uzunluğu Olma Durumu
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+EK-7
+Kare Tangram İstasyonu İçin Süre Tablosu
+Yapılan Şekil Grubun Adı Bitirilen Süre
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+Cevap Anahtarları
+Ek-1
+1. Hangi tarihler arasında yaşamıştır?
+MÖ 580 ile MÖ 500 yılları arasında yaşamıştır.
+2. Nerede doğmuştur?
+Sisam Adası’nda doğmuştur.
+3. Hangi alanlarla ilgilenmiştir?
+Matematik, felsefe, astronomi ve müzik ile ilgilenmiştir.
+4. Bilgisini artırmak için hangi ülkelerde eğitim almıştır?
+Bilgisini artırmak için Mısır ve Babil’de eğitim almıştır.
+5. Kurduğu okulda hangi dersleri vermiştir?
+Kurduğu okulda matematik, fizik, felsefe, astronomi ve müzik dersleri vermiştir.
+6. Müziği matematikle nasıl ilişkilendirmiştir?
+Müziği matematikle ilişkilendirerek tellerin uzunluklarının oranlarına göre çıkardıkları
+seslerin belirli aralıklar oluşturduğunu keşfetmiştir. Örneğin bir telin uzunluğunun yarıya
+indirilmesi, o telin çıkardığı sesi bir oktav yükseltir.
+7. Astronomiyle ilgili yaptığı keşif nedir ve bu keşif günümüzde hangi gezegenle ilişkilidir?
+Sabah Yıldızı ile Akşam Yıldızı’nın aslında aynı yıldız olduğunu keşfetmiştir. Bu yıldız daha
+sonra Afrodit olarak adlandırılmış, günümüzde ise Venüs gezegeni olarak bilinmektedir.
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+Cevap Anahtarları
+Ek-4
+1. x²+24²=25²
+x²+576=625
+x²=625-576
+cm
+x=7 cm
+x=7 cm
+2.
+y²+5²=13²
+y²+25=169
+y²=169-25
+m
+y²= 144
+y=12 cm
+y=12 cm
+Pisagor’u ve Pisagor Teoremini Tanıyoruz
+Cevap Anahtarları
+Ek-6
+Hipotenüs Pisagor Üçgeni
+Grup Adı 1. Dik Kenar 2. Dik Kenar Hesaplama Sütunu
+Uzunluğu Olma Durumu
+Pisagor’u ve Pisagor Teoremini Tanıyoru
+LINKS:[["Pisagor", "U8bigm2"], ["EBA Pisagor ve Pisagor Bağıntısı", "g3tIUD"], ["Dinamik Matematik ve Geometri Aracında Hazırlanmış Etkinlik", "UTtxFhL"], ["EBA Pisagor Bağıntısını Hesaplama", "zCE6rO"], ["EBA Dik Üçgen ve Pisagor Bağıntısı", "Uz7Tyq5"], ["8. Sınıf Matematik Ünitelendirilmiş Örnek Sorular", "ojYoTj"], ["Alıştırmalar-Dik Üçgen ve Pisagor Bağıntısı", "PE2Vq1"]]

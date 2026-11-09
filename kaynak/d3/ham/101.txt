@@ -1,0 +1,95 @@
+## 5. Sinif/Matematik/Geometrik Sekiller - Dogrulardan Acilara.pdf
+SURE:5 KOD:MAT.5.3.4.
+KAV:Doğru durumları, Tümler açı, Bütünler açı, Ters açı, Komşu açı
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilere beş ders boyunca kullanılacak web araçlarını tanıtır. Derslerde cetvel ve açıölçer
+araçlarının kullanılacağı bilgisini verir. Ders etkinliklerinin grup çalışmalarıyla yapılacağını belirterek öğren-
+cileri dörder kişilik gruplara ayırır ve her grubun kendisi için bir isim belirlemesini ister. Heterojen olarak belir-
+lenmiş grupların rahat çalışmasına imkân verecek şekilde sınıf oturma düzenini planlar. Etkileşimli tahtadan
+dijital pano ya da post-it oluşturma aracını açarak sınıftaki her grubun ismine özel alanların olduğu Grup
+Çalışma Panosu isimli içeriği hazırlar.
+1. Ders (Sınıf)
+Öğretmen, etkileşimli tahtadan matematik ders kitabındaki Türkiye ve komşu ülkelerin olduğu haritayı
+açarak derse başlar, öğrencilerden de aynı haritayı ders kitaplarından açmalarını ister. Etkinlikte kullana-
+cakları cetvel ve açıölçeri çıkarmalarını söyler. Görsel düzenleme aracı kullanarak hazırladığı Çizim Etkinliği
+içeriğini açar. Öğrencilerin cetvel ve açıölçer kullanabildiğini varsayarak bu etkinliği yaptırır (Ek-1). Bu etkin-
+likten sonra dijital pano ya da post-it oluşturma aracından Grup Çalışma Panosu’nu açar ve her grubun
+yaptığı çalışmalarla ilgili varsayımlarını bu araca ekleyeceğini belirtir.
+Öğrenciler önce grup içinde bir değerlendirme yapar, yaptıkları etkinlikte ortaya çıkan şekiller ve açılarla
+ilgili varsayımlar oluşturur.
+Öğretmen, varsayımların kanıtlanmış doğrular olmak zorunda olmadığını ve bu nedenle öğrencilerin varsa-
+yımlarını oluştururken özgürce yorum yapabileceklerini söyler. Varsayımlarda çizimlerdeki doğruların kesişim
+durumları, açıların nasıl oluştuğu ve büyüklük açısından oluşan açıların nasıl isimlendirileceği belirtilmelidir.
+Bu yönlendirmeden sonra öğretmen, grupların oluşturduğu varsayımları web aracında belirlediği yerlere
+yazarak ekler. Gruptaki her öğrenci harita üzerinde çizdikleri doğruların durumları ve açıları ile ilgili en az bir
+varsayım oluşturur.
+2. Ders (Sınıf)
+Öğretmen, etkileşimli tahtada açtığı dinamik matematik ve geometri aracını kullanarak harita üzerinde yapılan
+etkinlikten hareketle düzlemde bulunan iki veya üç doğrunun birbirlerine göre durumlarının oluşturduğu
+açıları çizimlerle açıklar. Bu araç üzerinden önce Tümler ve Bütünler Açılar içeriğini açarak konu anlatımını
+yapar. Sonra paralel iki doğrunun bir kesenle yaptığı açıları anlatmak için dinamik matematik ve geometri
+aracından Eşit Açıları Bul içeriğini açar. Öğretmen; bu web aracını doğruların paralel ve dik olma durumla-
+rını,kesişen doğrularda oluşan açı çeşitlerini ayrıca doğruların oluşturduğu tümler, bütünler ve ters açıların
+özelliklerini gösterecek şekilde kullanır. Öğrenciler, konuyu öğretmenin uygulamalı anlatımıyla takip eder.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Bir önceki derste cetvel ve açıölçer kullanarak çizdikleri şekillerin web aracı ile nasıl oluşturulduğunu inceler.
+Öğretmen, etkileşimli beyaz tahtadan kısa cevaplı sorular oluşturmayı sağlayan web araçlarıyla hazırladığı
+Doğru Açıyı Bul içeriğini açar (Ek-2). Etkinlikte verilen örnekteki gibi sadece sonuç bulunur ve ilgili kutucuğa
+yazılır. Gönüllü olan öğrenciler etkinliğe katılır. Öğrenciler tümler ve bütünler açılara dair bilgilerini pekiştirir.
+Ayrıca etkinliğin son sütununda verilen değerin her seferinde 90° çıkmasının nedenleri üzerine konuşulur.
+Öğretmen eksik öğrenmelere yönelik geri bildirimlerde bulunur.
+Ders Sonrası
+Öğretmen, EBA’dan öğrenilen kavramların pekişmesi ve yapılacak uygulamaya hazırlık için Bir Düzlemde Üç
+Doğrunun Birbirine Göre Durumları ve Komşu, Tümler ve Bütünler Açıları Gözlemleme isimli içerikleri öğren-
+cilere gönderir. Bir sonraki derse kadar bu içeriklerin dikkatle incelenmesini ister.
+Matematiksel muhakeme becerisi, Dijital araçlarla iş görme, Merak
+3. Ders (BT Sınıfı)
+Her grup, dinamik matematik ve geometri aracını kullanarak doğruların paralel ve dik durumlarını ayrıca
+kesişen doğruların oluşturduğu açıları gösteren bir uygulama hazırlar. Öğretmen, öğrencilerden uygulama
+içeriğinde paralel ve dik doğrular ile tümler, bütünler ve ters açıların özelliklerini gösteren çizimler yapma-
+larını ister (Ek-3). Ders süresince yapılacak çizimlerde öğretmen, çizim yapmakta zorlanan grupları yönlen-
+direcek geri bildirimlerde bulunur. Çizimleri bitirdikten sonra her grup, çalışmasının bağlantısını dijital pano
+ya da post-it oluşturma aracında hazırlanan Grup Çalışma Panasu’nda ilgili bölüme ekler. Öğretmen dersin
+son on dakikasını öz değerlendirme yapmayı sağlayan web araçlarıyla hazırlanan Yansıtıcı Günlük içeri-
+ğini öğrencilerin doldurmaları için ayırır (Ek-4). Böylece ders uygulamalarının öğrenciler üzerindeki etkisi
+hakkında bilgi sahibi olur.
+4. Ders (Sınıf)
+Öğretmen, görsel düzenleme araçlarıyla hazırladığı Etkinlik Zamanı isimli çalışma sayfalarını etkileşimli
+tahtada açar (Ek-5). Etkinlikler gönüllü öğrencilerin katılımıyla çözülecektir. Öğretmen, çalışmadaki etkinlikleri,
+öğrencilerin ilgisini çekecek şekilde sırasıyla yaptırır. Öğrenciler soruları çözerken onlara yönlendirici sorular
+sorar, eksik veya yanlış cevaplarıyla ilgili geri bildirimde bulunur. Bu etkinlikler için dersin ilk otuz dakikasını
+ayırır. Kalan on dakikada ise dijital pano ya da post-it oluşturma aracındaki Grup Çalışma Panosu’nu açar.
+Bu araçta her grubun varsayımları ve uygulama bağlantısı kayıtlıdır. Öğretmen, etkinlikten sonra her grubun
+kendi çalışmasını incelemesini ve gruptaki her öğrencinin en az bir önerme oluşturmasını ister.
+Ders Sonrası
+Öğretmen öğrencilerden etkileşimli sunum araçlarıyla uygulamalarını yansıtacak sunumlar hazırlamala-
+rını ister. Hazırlayacakları sunumda web aracına eklenecek olan üç çalışmaya da yer vermeleri gerektiğini
+vurgular. Bu çalışmalar şunlardır: varsayımlar, çizim uygulaması ve süreç boyunca edinilen öğrenmelerden
+hareketle üretilecek önermeler.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, sunumların grup olarak yapılacağını ve her grubun sunumu hazırlarken kullandığı aracı etkile-
+şimli tahtada açarak sunumlarını yapacağını söyler. Yapılacak sunumların öğrenciler tarafından grup
+değerlendirme formu kullanılarak değerlendirileceğinin bilgisini verir (Ek-6). Sunumların yönergeye uygun
+olarak şu şekilde hazırlanması gerektiğini belirtir:
+• Ders süresince oluşturduğunuz varsayımları, uygulama etkinliği bağlantısını ve önermeleri etkileşimli
+sunum aracına aktarınız.
+• Her bir üyeyi farklı bir çalışma için görevlendiriniz.
+1. Grup Üyesi: Varsayımları sunmak üzere görevlendirilir.
+2. Grup Üyesi: Uygulama etkinliği bağlantısını kullanarak yaptığınız çalışmaları sunmak üzere görevlendirilir.
+3. Grup Üyesi: Önermelerin neler olduğunu sunması için görevlendirilir.
+4. Grup Üyesi: Varsayımlar, uygulama ve önermeler arasındaki ilişkileri belirten bir sunum yapması için
+görevlendirilir.
+Matematiksel temsil becerisi, Dijital araçla iş görme, Çıkarım yapma becerisi
+Ders Öncesi
+Öğretmen, grup değerlendirme formunu grup sayısı kadar çoğaltır (Ek-6).
+5. Ders (Sınıf)
+Öğretmen, grupların daha önce hazırladıkları sunumları etkileşimli sunum aracı kullanarak yapacaklarını
+belirtir. Tüm grup üyelerinin katılımıyla sunumların gerçekleştirilmesini ister. Sunum için ayrılan süreyi grup
+sayısına eşit olarak paylaştırır ve sunum sürecini organize eder. Dersin son on dakikasını öğrencilerin grup
+değerlendirmesi yapması için ayırır (Ek-6). Grup değerlendirme formunu gruplara dağıtır. Gruplar formu
+doldururken öğretmen de öğrenci uygulamalarını değerlendirmek için hazırladığı kontrol listesini doldurur
+(Ek-7). Bu değerlendirmeleri yapma amacının yapılan çalışmalardaki eksiklikleri ve aksakları belirlemek
+olduğunu açıklar. Yapılan tüm değerlendirmelerle ilgili öğrencilere dönütler verir.
+
+LINKS:[["Grup Çalışmaları Panosu", "Q9ZRLU"], ["Çizim Etkinliği", "UWRBhdO"], ["Tümler ve Bütünler Açılar", "AnHXJj"], ["Eşit Açıları Bul", "4OTGnk"], ["Doğru Açıyı Bul", "Uor9hIo"], ["EBA Bir Düzlemde Üç Doğrunun Birbirine Göre Durumları", "354gqw"], ["EBA Komşu, Tümler ve Bütünler Açıları Gözlemleme", "I2gO3P"], ["Yansıtıcı Günlük", "5C3lCp"], ["Etkinlik Zamanı", "UIc0PXm"]]

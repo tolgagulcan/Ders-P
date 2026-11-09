@@ -1,0 +1,195 @@
+## 7. Sinif/Matematik/Sayilar ve Islemler - Yagmur Suyunu Yakalayalim.pdf
+SURE:5 KOD:M.7.1.4.1. M.7.1.4.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders 1 (BT Sınıfı)
+Öğretmen, öğrencilerin geçmiş öğrenmelerini tekrar etmek ve varsa eksik bilgileri hatırlamalarını sağlamak
+için EBA üzerinden 6. sınıf oran konusunu özetleyen İki Niceliğin Karşılaştırılması: Oran videosunu öğrencilere
+izletir. Böylece öğrencilerin bilgi eksikliklerinin giderilmesini sağlar. Öğretmen, izlenen videonun ve yaptığı
+açıklamaların ardından öğrencilerin 6. sınıf oran konusu ile ilgili kavramları hatırlama düzeyini anlamak
+için çevrim içi tartışma araçlarını kullanır. Öğrenciler, bu araçlar yardımıyla kendilerinde soru işareti
+oluşturan durumları tartışmaya açarak cevaplar bulmaya çalışırlar. Ardından öğretmen, EBA üzerinden
+6. sınıf oran konusunun Alıştırmalar-Oran testini etkileşimli tahtadan açar ve öğrencilerle beraber çözer.
+Böylece 6. sınıf oran konusunun kazanımları öğrenciler tarafından pekiştirilmiş olur.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim
+Ders 2 (BT Sınıfı)
+Öğretmen, öğrencilerin dikkatini çekmek ve konuyla ilişki kurmak için EBA’da yer alan Dünyadaki Su
+Kaynakları isimli videoyu açıp öğrencilere izletir. Öğrencilerden dörder veya beşer kişilik gruplar oluşturur.
+Öğrencilere videoyu tekrar izleteceğini söyler. Öğrencilere bu videoda geçen verilerden yola çıkarak
+oranlar oluşturmalarını beklediğini ifade eder ve öğrenciler hazır olunca videoyu tekrar oynatır. Öğrenciler,
+dijital pano ya da post-it oluşturma araçlarını kullanarak grup hâlinde video içeriğinden elde ettikleri
+oranları paylaşırlar. Öğrencilerin konuya ilişkin eksik ya da hatalı öğrenmeleri varsa öğretmen tarafından
+geri bildirimlerle düzeltilir.
+Öğretmen; videodan yola çıkarak öğrencilere aslında dünyamızda tatlı su kaynaklarının oldukça kısıtlı
+olduğunu, eğer kaynaklar dikkatli kullanılmazsa dünya nüfusunun tatlı su sıkıntısı çekeceğini ifade eder.
+Öğrencilerden aşağıdaki sorulara grup olarak cevap aramalarını ister:
+• Dünyamızdaki tatlı su kaynaklarının azalmasına sebep olan unsurlar nelerdir?
+• Tatlı su kaynaklarının artmasını ya da boşa harcanmamasını nasıl sağlayabiliriz?
+Gruplar, cevaplarını beyin fırtınası yapmayı sağlayan web araçlarını kullanarak kendi ekranlarına yansıtır.
+Grupların cevapları sınıfça değerlendirilerek ortak fikirler belirlenir, geliştirilmesi gereken konular hakkında
+öğretmen öğrencilere geri bildirimde bulunur.
+Ödev: Öğretmen, öğrencilerden gruplarıyla belirledikleri çözüm önerilerine yönelik çizim veya üç boyutlu
+bir model geliştirmelerini ister. Bu prototipleri oluştururken öğrendikleri oran konusunu da dikkate alarak
+ilerlemeleri gerektiğini vurgular. Hazırlanan sunumların 4. derste yapılacağı bilgisini verir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Eleştirel düşünme
+Ders 3 (BT Sınıfı)
+Öğretmen, bir önceki derste oluşturduğu gruplara “Yağmur sularının asfalt ve beton zeminlerden akıp
+gitmesi yerine doğada olduğu gibi şehir merkezlerinde de direkt yer altına karışması mümkün olabilir
+mi? Bunun için bir çözüm öneriniz var mıdır?” şeklinde yeni sorular yöneltir. Öğrencilerden bu soruya
+grup olarak cevap vermelerini ve cevaplarını dijital pano ya da post-it oluşturma araçlarını kullanarak
+yazmalarını ister. Grupların cevapları sınıfça değerlendirilir.
+Yapılan değerlendirmenin ardından yağmur sularının denizlere veya kanalizasyonlara karışmadan yer
+altına inmesini sağlamak ve su baskınlarının önüne geçmek için geliştirilen bir proje hakkında öğrencilere
+bilgi verir. Bu proje geçirgen beton uygulaması olarak bilinen, şehirlerde sıklıkla yer alan beton ve asfalt
+zeminlere uygulanan bir beton çeşididir. Bu beton, yağmur sularının zeminde akıp gitmesine izin vermeden
+suların direkt yer altına geçmesini sağlamaktadır.
+Öğretmen, geçirgen beton uygulaması projesinin görselini oluşturmak için öğrencilerden zihinlerinde bunu
+canlandırmalarını ve bu canlandırmayı yapay zeka destekli görsel düzenleme araçlarına yazmalarını
+ister, oluşan görseller incelenir ve sınıfça yorumlanır.
+Öğretmen, zeminin hem suyu geçirmesi hem de üzerinden arabalar geçecek kadar sert ve sağlam
+olmasının nasıl mümkün olacağını gruplara sorar. Grupların bu soruya verdikleri cevapları dijital pano ya
+da post-it oluşturma araçları yardımıyla derler. Öğrencilerin daha detaylı ve teknik bilgileri de edinmeleri
+için yapay zekâ destekli araçlara “Geçirimli beton uygulaması nedir?” sorusunu sorar, etkileşimli tahtadan
+yapay zekânın oluşturduğu metni öğrencilere dinletir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Eleştirel düşünme
+Ders 4 (Sınıf)
+Öğrenciler önceki derste sorulan “Tatlı su kaynaklarının artmasını ya da boşa harcanmamasını nasıl
+sağlayabiliriz?” sorusuna çözüm önerileri olarak geliştirdikleri prototiplerin sunumunu yaparlar. Sunumlar
+yapılırken öğretmen; gruplara geliştirdikleri prototipleri hazırlarken neleri dikkate aldıklarını, hangi sorun ve
+zorluklarla karşılaştıklarını, nasıl bir deneyim olduğunu ve oran konusunda öğrendiklerinin bu çalışmaya
+katkılarını sorar. Sunum yapan gruplara geri bildirimler verilir.
+Öğrencilere EBA üzerinden Oranı Verilen Çoklukların Değerini Bulma etkinliği açılır ve bu etkinlikte yer
+alan örnek durumlar gönüllü öğrenciler tarafından tamamlanır. Öğretmen, etkinlikte yer alan durumlar
+ve bu durumların oran konusu ile ilişkisi hakkında açıklamalarda bulunur.
+Ders 5 (Sınıf)
+Öğretmen, EBA üzerinden Zenginleştirilmiş Kitap açarak oran ile ilgili alıştırmaların yer aldığı bölümü
+öğrencilerin kendi kitapları üzerinden yapmalarını ister. Gönüllü öğrenciler alıştırmaların çözümlerini
+etkileşimli tahtadan yaparlar. Çözümün anlaşılmadığı durumlarda öğretmen ek açıklamalara yer verir.
+Öğretmen dersin devamında, geçirimli beton uygulaması bağlamında açık uçlu sorulardan oluşan
+geçirimli beton etkinlik kâğıdını öğrencilere dağıtır (Ek-1). Öğrencilere etkinlikte yer alan problemlerin
+çözümlerinin öğretmen değerlendirme formu ölçütleri ile değerlendireceğini bildirir (Ek-2). Öğrenciler,
+bu kâğıtta yer alan etkinlikleri bireysel olarak tamamlarlar. Öğretmen bu etkinlik için belirttiği sürenin
+sonunda öğrencilerden etkinlik kâğıtlarını değerlendirme yapmak için toplar. Gönüllü olan öğrencilere
+etkinlikteki problemlerin çözümlerini etkileşimli tahtayı kullanarak yaptırır. Öğretmen dersten sonra
+öğrencilerin etkinlik kâğıtlarını, öğretmen değerlendirme formu kullanarak değerlendirir ve değerlendirme
+sonuçlarını bir sonraki derste öğrencilere aktarır.
+İlgili Yetkinlikler/Beceriler: Eleştirel düşünme, İş birliği, İletişim
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + etkileşimli içerik
+• EBA + zenginleştirilmiş kitap
+• Öğretmen değerlendirme formu
+• Beyin fırtınası yapmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA İki Niceliğin Karşılaştırılması-Oran: http://meb.ai/UivHpnB (Son erişim tarihi: 09.05.2024)
+2. EBA Alıştırmalar-Oran: http://meb.ai/Uol7EKY (Son erişim tarihi: 09.05.2024)
+3. EBA Dünya’daki Su Kaynakları: http://meb.ai/CsUgYW (Son erişim tarihi: 09.05.2024)
+4. EBA Oranı Verilen Çoklukların Değerini Bulma: http://meb.ai/Um2hwKt (Son erişim tarihi: 09.05.2024)
+5. EBA Zenginleştirilmiş Kitap: http://meb.ai/lpAh1I (Son erişim tarihi: 09.05.2024)
+Kaynakça
+Hıdıroğlu, Çağlar Naci (Ed.). (2023). Ortaokul ve imam hatip ortaokulu matematik 7 ders kitabı. Millî
+Eğitim Bakanlığı Yayınları.
+Mengü, G. P. & Akkuzu, E. (2008). Küresel Su Krizi Ve Su Hasadı Teknikleri. Adnan Menderes Üniversitesi
+Ziraat Fakültesi Dergisi, 5(2), 75-85.
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Wcisło, A. (2015, Kasım-Aralık). Geçirimli beton yollar: gereklilikler, kullanım ve uygulama yöntemleri.
+Hazır Beton, 77-83. Son erişim tarihi 29 Temmuz 2024, http://www.thbb.org/media/123299/makale132.pdf
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Geçirimli Beton Etkinlik Kâğıdı
+Ek-2: Öğretmen Değerlendirme Formu
+EK-1
+Geçirimli Beton Etkinlik Kâğıdı
+Aşağıda verilen problemleri okuyarak problemden anladıklarım, çözüm için belirlediğim strateji ve çözümüm sütunlarını uygun ifadelerle
+doldurunuz.
+ÇÖZÜM İÇİN
+PROBLEMDEN
+PROBLEMLER BELİRLEDİĞİM ÇÖZÜMÜM
+ANLADIKLARIM
+STRATEJİ
+1. Geçirgen beton modeli yapılmak istenmektedir. Bu modelde zeminin geçirgenlik
+oranı -3- olarak belirtilmiştir.
+4
+Bu bilgilere göre metrekareye 120 kg yağışın düştüğü bir günde bu suyun
+metrekarede kaç kilogramı yer altına geçer?
+2. Bir otoparka uygulanan geçirgen beton uygulaması sayesinde hafta sonu düşen
+yağmurla otoparktan yer altına 30 ton yağmur suyu geçmiştir.
+Geçirgen beton uygulamasının suyu geçirme oranı -2- olduğuna göre hafta sonu
+3
+otoparka düşen yağmur miktarını hesaplayınız.
+3. Bir sitenin çocuk oyun sahasına uygulanan geçirgen beton uygulaması ile
+zeminden yer altına geçen sular bir depoda toplanmaktadır. Zeminin geçirgenlik
+oranı -1- olup depoda bir günde 3 ton su birikmiştir.
+2
+Buna göre alanı 60 metrekare olan oyun sahasında aynı gün bir metrekareye
+kaç kilogram yağış düşmüştür?
+4. Bir okulun bahçesindeki beton alana uygulanan geçirgen beton uygulaması ile
+bir günde bu alana düşen 7200 kilogram yağmurun 5400 kilogramı yer altına
+geçmiştir.
+Bu bilgilere göre aynı gün okulun bahçesine düşen 1 kg yağmurun kaç kilogramı
+yer altına geçmiştir?
+Yağmur Suyunu Yakalayalım
+EK-2
+Öğretmen Değerlendirme Formu
+Bu form, Ek-1’de yer alan geçirgen beton etkinliğinde öğrencilerin doldurduğu etkinlik kâğıtlarının değerlendirilmesinde kullanılacaktır.
+Her öğrencinin etkinlikte yer alan 4 probleme ait cevaplarını değerlendirmek için verilen kriterlerde 1 ile 5 arasında puanlama yapılması gerekmektedir.
+Öğrencilerin belirtilen etkinlikteki genel değerlendirmeleri ise belirlenen bölümlere yapılmalıdır.
+Puanlama
+Geliştirilmeli (1), Kısmen yeterli (2), Yeterli (3), İyi (4), Çok iyi (5)
+1. Problem 2. Problem 3. Problem 4. Problem
+Öğrenci Adı Soyadı GENEL DEĞERLENDİRME
+Problemi anlama
+Problemi anlama
+Problemi anlama
+Problemi anlama
+Çözümün doğruluğu
+Çözümün doğruluğu
+Çözümün doğruluğu
+Çözümün doğruluğu
+Uygun strateji belirleme
+Uygun strateji belirleme
+Uygun strateji belirleme
+Uygun strateji belirleme
+Yağmur Suyunu Yakalayalım
+Cevap Anahtarı
+Ek-1
+PROBLEMLER ÇÖZÜM
+1. Geçirgen beton modeli yapılmak istenmektedir. Bu modelde zeminin geçirgenlik oranı -3- olarak
+belirtilmiştir. 120 4
+4x=360
+Bu bilgilere göre metrekareye 120 kg yağışın düştüğü bir günde bu suyun metrekarede kaç x=90 kg
+kilogramı yer altına geçer?
+2. Bir otoparka uygulanan geçirgen beton uygulaması sayesinde hafta sonu düşen yağmurla 30=-2-
+otoparktan yer altına 30 ton yağmur suyu geçmiştir. x 3
+2x=90
+Geçirgen beton uygulamasının suyu geçirme oranı -2- olduğuna göre hafta sonu otoparka düşen x=45 ton
+3
+yağmur miktarını hesaplayınız.
+3. Bir sitenin çocuk oyun sahasına uygulanan geçirgen beton uygulaması ile zeminden yer altına
+geçen sular bir depoda toplanmaktadır. Zeminin geçirgenlik oranı -1- olup depoda bir günde 3 ton 3 ton=3000 kg
+2
+su birikmiştir. 3000 =-1-
+x 2
+x=6000 kg
+Buna göre alanı 60 metrekare olan oyun sahasında aynı gün bir metrekareye kaç kilogram yağış 6000:60=100 kg
+düşmüştür?
+4. Bir okulun bahçesindeki beton alana uygulanan geçirgen beton uygulaması ile bir günde bu alana 5400 x
+düşen 7200 kilogram yağmurun 5400 kilogramı yer altına geçmiştir. 7200 = 1
+7200x=5400
+54
+x=
+Bu bilgilere göre aynı gün okulun bahçesine düşen 1 kg yağmurun kaç kilogramı yer altına 72
+x=0,75 kg
+geçmiştir?
+Yağmur Suyunu Yakalayalı
+LINKS:[["EBA İki Niceliğin Karşılaştırılması-Oran", "UivHpnB"], ["EBA Alıştırmalar-Oran", "Uol7EKY"], ["EBA Dünya’daki Su Kaynakları", "CsUgYW"], ["EBA Oranı Verilen Çoklukların Değerini Bulma", "Um2hwKt"], ["EBA Zenginleştirilmiş Kitap", "lpAh1I"]]

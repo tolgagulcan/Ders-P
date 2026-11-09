@@ -1,0 +1,87 @@
+## 5. Sinif/Bilisim Teknolojileri/Bilisim Teknolojilerinin Hayatimizdaki Yeri - Dijital Dunyanin Kalbi.pdf
+SURE:2 KOD:BTY.5.1.5.
+KAV:Bilgisayar sistemleri, Donanım, İşletim sistemi, Veri sıkıştırma, Yazılım
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, her iki ders için de sınıf ortamını grup çalışmalarına uygun hâle getirir. Öğrencilerin yer alacağı
+grupları EBA’dan paylaşır. Birinci dersin sonunda öğrencilere dağıtmak üzere çevrim içi dergi, elektronik
+kitap, metin hazırlama araçları ile oluşturduğu Donanım Bileşenleri Sınıflandırma Çalışma Kâğıdı’nı öğrenci
+sayısı kadar çoğaltır (Ek-1).
+1. Ders (BT Sınıfı)
+Öğretmen, “Sizce bilgisayar hangi bölümlerden oluşuyor?” sorusuyla derse giriş yaparak öğrencilerin
+merakını uyandırır. Öğrencilerin bilgisayar sistemlerinin işleyişi hakkındaki ön bilgilerini toplayabilmek
+amacıyla dijital pano ya da post-it oluşturma araçlarını kullanarak hazırlanan Bilgisayarın Bölümleri etkinli-
+ğini EBA’dan sınıfla paylaşır. Öğrenciler bilgisayarlarından bireysel olarak dijital panoya bağlanarak düşün-
+celerini yazar. Öğretmen öğrencilerin düşüncelerini sınıfça tartışmalarını sağlar. Sınıf içerisindeki etkileşimin
+ve öğrenmenin ders sonrasında da devam etmesini sağlamak amacıyla paylaştığı bağlantıyı öğrenci-
+lerden ders sonrasında da incelemelerini ister. Ardından etkileşimli sunum araçları ile hazırlanan Temel
+Bileşenler Sunumu’nu etkileşimli tahtadan açarak donanım ve yazılım kavramlarını tanımlar. İç donanım ve
+dış donanım birimlerinin görevlerini sınıflandırır. Sunumun beşinci slaytındaki iş birlikli çalışmayı destekleyen
+araçlar ile hazırlanan Gizli Piksel etkinliğinin bağlantısını EBA’dan sınıfla paylaşır. Öğrenciler matris içindeki
+kutucukları grup hâlinde boyayarak gizli resmi ortaya çıkarır. Bu süreçte görevlerini özveriyle tamamlayan
+öğrenciler sorumluluk bilincini geliştirir. Ardından öğretmen, altıncı slaytta bilgisayarın dili olan bit ve byte
+kavramlarını açıklar. Yedinci slaytta ise yaptıkları boyama etkinliğinden yola çıkarak veri sıkıştırma (dizi
+boyu kodlaması) yöntemini ve alan tasarrufu mantığını öğrencilerin keşfetmelerini sağlar. Sekizinci slaytta
+yer alan açık uçlu sorularla öğrencilerin derinlemesine sorgulama yapmalarını ve düşüncelerini arkadaş-
+larıyla paylaşarak olumlu bir iletişim kurmalarını destekler.
+Öğretmen, günlük hayatta kullanılan ölçü birimlerine değinerek dijital hafıza birimlerini küçükten büyüğe
+sıralamak amacıyla tahtaya metre ve kilogram anlatımı için kullanılan merdiven modelini çizer. Sabit disk,
+SSD, USB bellek ve bulut depolama gibi farklı depolama yöntemlerinin ne olduğunu; bunların günlük hayattaki
+kullanım amaçlarını ve veri erişim hızlarını bu hafıza merdiveniyle ilişkilendirerek açıklar. Depolama birim-
+lerini tanıttıktan sonra öğrencilerin kavramları pekiştirmesi için doğru-yanlış soruları oluşturmayı sağlayan
+web araçları ile hazırlanan Donanım mı, Yazılım mı? etkinliğini EBA’dan öğrencilere gönderir (Ek-2). Öğren-
+ciler bu etkinlikleri tamamlayarak donanım ve yazılım kavramlarını ayırt eder.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, etkinlik sırasında yanlış yapan öğrencilere anında yapıcı geri bildirimlerde bulunur. Öğrencilerin
+eksiklerini belirlemelerine yardımcı olur ve gerektiğinde konuyu sınıfta yeniden ele alır. Daha sonra bilgisa-
+yarın iç ve dış donanım birimlerini gruplandırmak amacıyla eşleştirme yapabilmeyi sağlayan web araçla-
+rından biri ile oluşturulan Donanım Avı etkinliğini EBA’dan öğrencilerle paylaşır (Ek-3). Donanım birimle-
+rinin giriş ve çıkış işlevlerini pekiştirmek amacıyla sınıfla birlikte deve-cüce oyununu oynar. Oyunda giriş
+birimleri için “deve”, çıkış birimleri için “cüce” komutunu kullanarak öğrencilerin eğlenerek ve uyum içinde
+öğrenmelerini sağlar. Oyunun ardından Donanım Bileşenleri Sınıflandırma Çalışma Kâğıdı’nı öğrencilere
+dağıtır (Ek-1). Öğrenciler çalışma kâğıdında yer alan sınıflandırma görevlerini bireysel olarak sınıf içeri-
+sinde tamamlar. Öğretmen, sınıfta dolaşarak zorlanan öğrencilere anlık yapıcı geri bildirimlerde bulunur.
+Tüm öğrencilerin çalışmayı tamamlamasının ardından çalışma kâğıtlarını toplayarak dersi bitirir.
+Çözümleme, Sınıflandırma, Karşılaştırma, Merak, Sorumluluk, Oyunseverlik, Empati,
+Soru sorma, Bilişim teknolojilerini sınıflandırma, İletişim, İş birliği, Uyum, Dijital bilgiyi
+anlamlandırma
+2. Ders (BT Sınıfı)
+Öğretmen, fare ve klavyenin işlevlerini kısaca tanıtarak derse başlar. Etkileşimli sunum araçlarından biri
+ile hazırlanan Klavye Tuşları etkinliğini etkileşimli tahtadan açar ve EBA’dan öğrencilerle paylaşır (Ek-4).
+Öğrenciler içeriğin birinci sayfasında yer alan özel tuşların yerlerini dijital olarak bulur ve görevlerini keşfe-
+derek not alır. Etkinliğin ikinci sayfasındaki boşluk doldurma sorularını çözerek özel tuşların görevleriyle ilgili
+bilgilerini pekiştirir. Ardından öğretmen, “İşletim sistemi nedir? Arayüz ne demektir?” sorularıyla öğrenci-
+lerin merakını uyandırır. Öğrencilerin düşüncelerini toplayabilmek için beyin fırtınası yapmayı sağlayan
+web araçları ile hazırlanan İşletim Sistemi Fikirleri etkinliğini EBA’dan sınıfla paylaşır. Öğrenciler bilgisayar-
+larından beyin fırtınasına katılır ve ekranda oluşan cevapları sınıfça tartışır. Öğretmen; işletim sistemle-
+rinin temel görevleri, farklı işletim sistemlerinin neden var olduğu ve işletim sisteminin (çekirdek, kullanıcı
+arayüzü, dosya yönetimi, bellek yönetimi ve işlem yönetimi vb.) temel bileşenleri hakkında açıklamalar
+yapar. Öğrencilerin kavramları pekiştirmesi için doğru-yanlış soruları oluşturmayı sağlayan web araçları ile
+oluşturulan İşletim Sistemi Doğru/Yanlış etkinliğini etkileşimli tahtadan canlı olarak başlatır (Ek-5). Öğren-
+ciler kendi isimleriyle etkinliğe katılarak yarışır. Öğretmen birinci olan öğrenciye görsel düzenleme araçları
+ile hazırlanan Günün BT Uzmanı Rozeti verir. Yarışma sırasında yanlış yapan öğrencilere anında yapıcı geri
+bildirimlerde bulunur, öğrencilerin eksiklerini belirlemelerine yardımcı olur ve gerektiğinde konuyu sınıfta
+yeniden ele alır. Öğrencilere yaygın bilgisayar sorunları (yazıcının çalışmaması, bilgisayarın açılmaması
+vb.) hakkında bilgi verir. Poster ve afiş oluşturma araçları ile hazırlanan ve hoparlörden ses gelmeme
+sorununa yönelik adım adım çözüm yollarını içeren Sorun Giderme Afişi örnek görev görselini tahtaya yansı-
+tarak teknik sorunlarla başa çıkabilmek için izlenecek temel adımları (algoritmaları) anlatır. Öğrenciler, bu
+sorunların nedenlerini ve çözüm yollarını belirleyerek sınıf içi tartışma yapar. Öğretmen bu süreçte karşıla-
+şılan sorunları çözerken kararlı olmalarını sağlamak amacıyla sebat etmenin önemini vurgular. Öğrenci-
+lere bir sonraki derse kadar yapmak üzere afiş tasarım görevi verir ve öğrencileri gruplara ayırır. Yapılacak
+çalışma sonrasında afiş tasarımlarını grup değerlendirme yapmayı sağlayan web araçları ile oluşturduğu
+Afiş Değerlendirme Formu ile değerlendireceğini belirtir, ilgili formun kriterlerini açıklar ve görevlere ilişkin
+geri bildirimlerin çevirim içi olarak EBA’dan yapılacağını söyler (Ek-6).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğrenciler, ders sonrasında poster ve afiş oluşturma araçlarını kullanarak kendi sorun giderme adımlarını
+yansıtan afişlerini gruplarıyla tasarlar ve bağlantılarını EBA’dan öğretmene gönderir. Öğretmen, öğrenci-
+lerin gönderdiği afiş tasarımlarını Afiş Değerlendirme Formu ile nesnel bir şekilde değerlendirir ve onlara
+EBA’dan geri bildirimlerde bulunur (Ek-6). Ayrıca İşletim Sistemi Fikirleri ve İşletim Sistemi Doğru/Yanlış
+etkinliklerinin raporlarını inceleyerek süreç odaklı bireysel geri bildirimler sağlar. Konuyu daha iyi kavrama-
+ları amacıyla öğrencilere EBA’da yer alan Bilgisayarımı Öğreniyorum ve Bilgisayarımı Öğreniyorum 2 adlı
+etkileşimli içeriklerini gönderir ve takibini yapar.
+Çözümleme, Sorgulama, Merak, İletişim, İş birliği, Sorumlu karar verme, Dijital
+ortamlar için içerik oluşturma ve paylaşma, Görseli yorumlama, Dijital araçlarla
+iş görme
+
+LINKS:[["Bilgisayarın Bölümleri", "zIQfQH"], ["Temel Bileşenler Sunumu", "UX3f4S3"], ["Gizli Piksel", "R382tG"], ["Donanım mı, Yazılım mı?", "ZEi1zA"], ["Donanım Avı", "mwEVKW"], ["Donanım Bileşenleri Sınıflandırma Çalışma Kâğıdı", "SCcsdQ"], ["Klavye Tuşları", "v9B6bN"], ["İşletim Sistemi Fikirleri", "rVmfwV"], ["İşletim Sistemi Doğru/Yanlış", "UZdtQg6"], ["Günün BT Uzmanı Rozeti", "Ul50nfo"], ["Sorun Giderme Afişi", "UWKyFWs"], ["Afiş Değerlendirme Formu", "UkkRudS"], ["EBA Bilgisayarımı Öğreniyorum", "bnOJ1j"], ["EBA Bilgisayarımı Öğreniyorum 2", "rhnJQN"]]

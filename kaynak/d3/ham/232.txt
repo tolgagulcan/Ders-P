@@ -1,0 +1,209 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Dondurmadan Sivilara.pdf
+SURE:5 KOD:M.6.3.5.1. M.6.3.5.2. M.6.3.5.3.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, ders öncesinde anket araçlarını kullanarak sınıftaki öğrencilere en sevdikleri dondurma
+çeşidinin ne olduğunu soran bir anket gönderir. Ayrıca öğrencilerden dondurmanın tarihçesini araştırarak
+derse gelmesini ister.
+Öğretmen, dondurma yapımı için gerekli malzemeler ve miktarların yazılı olduğu kâğıttan yeterli sayıda
+çıktı alarak sınıfa getirir (Ek-1).
+1. Ders (Sınıf)
+Öğretmen, dersin başında öğrencilerin ankete verdikleri cevapları grafik ve tablolama araçlarını kullanarak
+tablo veya grafik şeklinde sınıfa sunar. Bu etkinliğin ardından öğretmen, dondurmanın tarihçesi ve yapılışı
+hakkında öğrencilere kısa bir bilgilendirme yapar. Öğrencilere dondurma yapımı için gerekli malzemeler
+ve miktarların yazılı olduğu kâğıtları verir (Ek-1).
+Öğretmen, öğrencilerin litre ve litrenin alt birimlerini tam olarak zihinlerinde canlandıramama ihtimaline
+karşı onlardan bu tabloda yazan malzemelerin miktarlarını tahmin etmelerini, cevaplarını etkileşimli
+tahtada dijital pano ya da post-it oluşturma araçlarını kullanarak yazmalarını ister (bir sürahi süt gibi). Bu
+sayede öğretmen, öğrencilerin sıvı ölçü birimlerini tanıyıp tanımadıklarını ya da bu sıvı ölçü miktarlarının
+somut olarak ne kadara karşılık geldiğini bilip bilmediklerini tespit eder. Verilen cevapları öğrencilerle
+birlikte değerlendirir.
+İlgili Yetkinlikler/Beceriler: Eleştirel düşünme, İletişim
+2. Ders (BT Sınıfı)
+Öğretmen, EBA’da yer alan sıvı ölçüleri ile farklı bir günlük yaşam durumu sunan Havacılık Kuralları isimli
+videoyu dersin başında etkileşimli tahtadan açarak öğrencilere izletir. Öğrenciler videonun sonunda yer alan
+soruları soru cevap yöntemi ile cevaplar. Öğretmen; sıvıların şeklini aldığı kaplar yardımıyla ölçüldüğünü,
+ölçü biriminin temelde litre olduğunu ancak miktarına göre alt birimlerinin de kullanılabileceğini sınıfa
+açıklar. Litre, desilitre, santilitre ve mililitre birimlerini ve miktarlarını sınıfa tanıttıktan sonra bu birimlerin
+birbirine dönüşümleri hakkında öğrencilerin fikir sahibi olmaları için EBA’dan Sıvı Ölçme Birimleri ve Bu
+Birimleri Birbirine Dönüştürme isimli videoyu öğrencilere izletir. Öğretmen, sıvı ölçü birimlerinin birbirine
+dönüştürülmesi ile ilgili açıklamalarda bulunduktan sonra boşluk doldurma soruları oluşturmayı sağlayan
+web araçlarıyla hazırlanan Sıvı Ölçme Birimleri etkinliğini uygular (Ek-2). Bu etkinlikle öğrenciler sıvı ölçü
+birimlerini birbirine dönüştürür. BT sınıfının kullanılamadığı durumlarda bu etkinlik bağlantısı öğrencilere
+ders dışı çalışma olarak EBA üzerinden gönderilebilir.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri
+Ders Öncesi
+Öğretmen, dersten önce öğrencileri dört veya beş kişilik gruplara ayırır. Her gruptan 500 ml su, en az bir
+ölçü kabı, dikdörtgenler prizması veya kare prizma şeklinde kaplar, kapların içine sığabilecek büyüklükte
+bir elma veya patates getirmesini ister. Ayrıca ölçüm yapmak için tüm gruplarda en az bir adet cetvel
+bulunması gerektiğini belirtir.
+Öğretmen, belli bir şekli olmayan cisimlerin hacim ölçüleri tablosunun ve prizmaların hacim ölçüleri ile
+sıvı ölçüleri arasındaki ilişki tablosunun yeterli sayıda çıktısını alarak sınıfa getirir (Ek-3 ve Ek-4).
+Öğretmen, dersin başında prizmaların hacimlerinin hesaplanması ile ilgili öğrencilerin ön öğrenmelerini
+yoklamak için görsel düzenleme araçları ile hazırlanan Dikdörtgenler Prizmasının Hacmi sorusunu
+etkileşimli tahtadan açar. Öğrencilerin çözümlerini inceleyerek eksik öğrenmesi olan öğrencilere gerekli
+açıklamalarda bulunur. Öğrencilerin dikkatini konuya çekmek için gruplara getirdikleri patatesin hacmini
+nasıl bulabileceklerini sorar. Gruplar, cevaplarını etkileşimli tahtadan dijital pano ya da post-it oluşturma
+araçları ile belirtir. Grupların cevaplarını öğretmen ve diğer öğrenciler tartışır. Devamında öğretmen, EBA
+üzerinden Hacim Ölçme Birimleri ve Sıvı Ölçme Birimleri Arasındaki İlişki isimli videoyu öğrencilere izletir.
+Öğrencilere dersin başında yönelttiği hacim sorusuna cevap olarak gruplardan, getirdikleri elma veya
+patateslerin hacimlerini ölçü kapları ve su kullanarak ölçmelerini ve elde ettikleri ölçümleri tabloya not
+etmelerini ister (Ek-3). Öğretmen etkinlik süresince öğrencilere rehberlik eder. Daha sonra hacim ölçüleri
+ile sıvı ölçüleri arasındaki ilişkiyi ve bu ölçü birimleri arasındaki dönüşümlerin nasıl yapıldığını sınıfa tekrar
+açıklar. Bu açıklamadan sonra öğrencilerden ölçtükleri nesnelerin hacmini hem sıvı ölçme birimleriyle
+hem de hacim ölçme birimleriyle tabloya yazmalarını ister.
+Öğretmen; çalışmanın ikinci aşamasında öğrencilerden getirdikleri prizma şeklindeki kapların hacimlerini,
+cetvel yardımıyla ölçtükleri ayrıt uzunluklarını kullanarak hesaplamalarını ister. Öğrenciler, hesaplama
+sonuçlarını hem santimetreküp cinsinden hem de mililitre cinsinden bularak tabloya not ederler (Ek-4).
+Daha sonra öğrenciler ölçü kaplarını kullanarak prizma şeklindeki kapların, içlerine ne kadar su aldığını
+ölçerler ve bunu da tabloya yazarlar (Ek-4). Öğretmen, son olarak öğrencilerden bu ölçülerin arasındaki
+ilişkiyi tabloya not etmelerini ister (Ek-4). Ölçümler veya kabın şeklinden kaynaklı sonuçlar birebir aynı
+çıkmayabilir, öğretmen bu durumu öğrencilere açıklar. Etkinliğin sonunda gruplar, kendi arasında tartışıp
+elde ettikleri çıkarımları dijital pano ya da post-it oluşturma araçlarını kullanarak etkileşimli tahtada
+sınıfla paylaşırlar. Öğretmen, tablolar doldurulmadan önce bu derste hazırlayacakları tabloların grup
+değerlendirme formu ile değerlendirileceğini söyler ve bu formun kriterleri hakkında bilgi verir (Ek-5).
+Öğrenciler çalışmalarını tamamladığında grup değerlendirme formunu doldurur ve geri bildirimlerde
+bulunur.
+İlgili Yetkinlikler/Beceriler: İletişim, Eleştirel düşünme, Matematiksel süreç becerileri
+Ders Sonrası
+Öğretmen, EBA üzerinden Sıvı Ölçme Birimleri ile Hacim Ölçme Birimleri Arasındaki Dönüşümler etkileşimli
+içeriğini ders dışı çalışma olarak öğrencilere gönderir. Çalışma için belirlenen sürenin tamamlanmasının
+ardından öğrencilerin çalışmalarını EBA üzerinden inceler.
+5. Ders (BT Sınıfı)
+Öğretmen, öğrencilere “Hadi, bu ders problem çözelim.” diyerek derse giriş yapar. “Hatta bu problemleri
+de siz oluşturun ve arkadaşlarınızdan çözmelerini isteyin.” diyerek sözüne devam eder. Önceki derste
+oluşturulan grupları tekrar oluşturur. Öğretmen, gruplara “Sıvı ölçü birimleri günlük yaşamda nerelerde
+kullanılır?” sorusunu sorar. Öğrencilerden, gelen cevapları dijital pano ya da post-it oluşturma aracına
+yazmalarını ister. Öğretmen, gelen cevapları etkileşimli tahtadan açar. Öğrencilerden şimdi de bu soruyu
+yapay zekâ destekli araçlara yazmalarını ister. Her grup bu soruya gelen cevapları inceler. Öğretmen,
+öğrencilerden her grubun kendi içinde tartışarak öncelikle bir “günlük yaşam durumu” belirlemelerini
+ve ardından bu durumla ilgili sıvı ölçü birimlerini kullanarak bir problem oluşturmalarını ister. Günlük
+yaşam durumunu belirlerken dijital panoya yazılan öğrenci fikirlerinden veya yapay zekâ destekli
+araçların önerilerinden faydalanabileceklerini söyler. Öğrencilere rehber olması için EBA üzerinden Sıvı
+Ölçme Birimleri ile İlgili Problem Kurma ve Çözme etkileşimli içeriği öğrencilerle birlikte yapılır. Öğrenciler,
+oluşturdukları problemleri iş birlikli çalışmayı destekleyen web aracı ile paylaşırlar. Gruplar, oluşturulan
+problemleri iş birlikli çalışmayı destekleyen araçlar üzerinden çözerler. Süreç boyunca öğretmen gruplara
+rehberlik eder ve çalışmanın sonunda problemlerin çözümlerini öğrencilerle birlikte tartışır.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Problem kurma, Yaratıcılık, Dijital yeterlilik
+Ders Sonrası
+Öğretmen EBA üzerinden Sıvı Ölçme Birimleri alıştırmasını öğrencilere ders dışı çalışma olarak gönderir.
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + etkileşimli içerikler
+• Boşluk doldurma soruları oluşturmayı sağlayan web araçları
+• Grup değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Havacılık Kuralları: http://meb.ai/RuGH0q (Son erişim tarihi: 03.06.2024)
+2. EBA Sıvı Ölçme Birimleri ve Bu Birimleri Birbirine Dönüştürme: http://meb.ai/UxnYSuE (Son erişim tarihi:
+03.06.2024)
+3. Sıvı Ölçme Birimleri: https://meb.ai/NXCSRh (Son erişim tarihi: 16.12.2024)
+4. Hacim Sorusu: https://meb.ai/IkfOap (Son erişim tarihi: 16.12.2024) (Son erişim tarihi: 16.12.2024)
+5. EBA Hacim Ölçme Birimleri ve Sıvı Ölçme Birimleri Arasındaki İlişki: http://meb.ai/M0JGFw (Son erişim
+tarihi: 03.06.2024)
+6. EBA Sıvı Ölçme Birimleri ile Hacim Ölçme Birimleri Arasındaki Dönüşümler: https://meb.ai/5nc3Ol (Son
+erişim tarihi: 17.12.2024)
+7. EBA Sıvı Ölçme Birimleri ile İlgili Problem Kurma ve Çözme: http://meb.ai/8MJVak (Son erişim tarihi:
+03.06.2024)
+8. EBA Alıştırmalar-Sıvı Ölçme Birimleri: https://meb.ai/U3oGCrO (Son erişim tarihi: 17.12.2024)
+Kaynakça
+Canva. (2024). Dondurmadan sıvılara-dikdörtgenler prizmasının hacmi sorusu. Son erişim tarihi
+view?utm_content=DAGZdWgEFAw&utm_campaign=designshare&utm_medium=link2&utm_
+source=uniquelinks&utlId=hbc02c5e4ea
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Öztürk, E., & Yaman, H. (2019). Dondurmanın tarihsel gelişimi ile kültürlerarası düzeyde karşılaştırması
+(Historical development of ice cream and comparison at intercultural level). Journal of Tourism &
+Gastronomy Studies, 7(3), 2336-2359.
+Quizizz. (2024). Dondurmadan sıvılara-sıvı ölçme birimleri. Son erişim tarihi 17 Aralık 2024, https://quizizz.
+com/admin/quiz/676025efcb0d23dc827eb9b8?at=6760275cda142f17a31ec485
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Dondurma Yapımı İçin Gerekli Malzemeler ve Miktarları
+Ek-2: Sıvı Ölçme Birimleri Boşluk Doldurma Etkinliği
+Ek-3: Belli Bir Şekli Olmayan Cisimlerin Hacim Ölçüleri Tablosu
+Ek-4: Prizmaların Hacim Ölçüleri ile Sıvı Ölçüleri Arasındaki İlişki Tablosu
+Ek-5: Grup Değerlendirme Formu (Öğretmen İçin)
+EK-1
+Dondurma Yapımı İçin
+Gerekli Malzemeler ve Miktarları
+Malzemeler Miktar Birimi
+Süt 1L Litre
+Krema 50 dL Desilitre
+Toz şeker 250 mL Mililitre
+Vanilya 10 g Gram
+Kakao tozu 13 cL Santilitre
+Dondurmadan Sıvılara
+EK-2
+Sıvı Ölçme Birimleri Boşluk Doldurma Etkinliği
+Aşağıdaki eşitliklerde boş bırakılan yerleri uygun sayılarla tamamlayınız.
+a) 8 L = ................. mL
+b) 5 L = ................. dL
+c) 15 L = ................. cL
+ç) 8700 mL = ................. cL
+d) 42 000 mL = ................. L
+e) 120 cL = ................. mL
+f) 0,1 L = ................. mL
+g) 2,5 L = ................. dL
+ğ) 560 mL = ................. L
+h) 12 cL = ................. L
+Dondurmadan Sıvılara
+EK-3
+Belli Bir Şekli Olmayan Cisimlerin Hacim Ölçüleri Tablosu
+Aşağıdaki tabloyu sınıfa getirdiğiniz elma veya patatesin hacimlerini ölçtükten sonra belirtilen türlerde doldurunuz.
+Cisim İsmi Mililitre Cinsinden Hacmi Santimetreküp Cinsinden Hacmi
+Dondurmadan Sıvılara
+EK-4
+Prizmaların Hacim Ölçüleri ile
+Sıvı Ölçüleri Arasındaki İlişki Tablosu
+Aşağıdaki tabloyu sınıfa getirdiğiniz prizmaların hacimlerini ölçtükten sonra belirtilen türlerde doldurunuz.
+Prizmayı Mililitre
+Prizmanın Ayrıt Prizmanın Santimetreküp Prizmanın Mililitre
+Prizma Adı Cinsinden Dolduran Su
+Uzunlukları (cm) Türünden Hacmi Türünden Hacmi
+Miktarı
+Dondurmadan Sıvılara
+EK-5
+Grup Değerlendirme Formu (Öğretmen İçin)
+Bu form grupların çalışmalarının değerlendirilmesinde kullanılacaktır. Her grup için kriterlere uygun 1 ile 5 arasında puanlama yapılarak
+toplam puan belirlenecektir.
+DERECELER: Geliştirilebilir: 1 , Kısmen Yeterli: 2 , Yeterli: 3 , İyi: 4 , Çok İyi: 5
+KRİTERLER 1. Grup Adı 2. Grup Adı 3. Grup Adı 4. Grup Adı 5. Grup Adı
+Grup üyeleri arası iş birliği
+Grup üyeleri arası iletişim
+Grup üyelerinin zaman yönetimi
+Grup üyelerinin çalışmaya olan katkıları
+Getirilen ve şekli belli olmayan nesnelerin hacimlerini grup
+üyelerinin belirtilen şekilde bulması
+Getirilen prizmaların hacimlerini grup üyelerinin belirtilen
+şekilde bulması
+Grup üyelerinin birimleri uygun yöntemlerle birbirine
+dönüştürmesi
+Grup üyelerinin yönergeleri uygulayarak tabloları
+doldurması
+TOPLAM PUAN
+Dondurmadan Sıvılara
+Cevap Anahtarı
+Ek-2
+SORULAR CEVAPLAR
+a) 8000
+b) 50
+c) 1500
+ç) 870
+d) 42
+e) 1200
+f) 100
+g) 25
+ğ) 0,56
+h) 0,12
+Dondurmadan Sıvılar
+LINKS:[["EBA Havacılık Kuralları", "RuGH0q"], ["EBA Sıvı Ölçme Birimleri ve Bu Birimleri Birbirine Dönüştürme", "UxnYSuE"], ["Sıvı Ölçme Birimleri", "NXCSRh"], ["Hacim Sorusu", "IkfOap"], ["EBA Hacim Ölçme Birimleri ve Sıvı Ölçme Birimleri Arasındaki İlişki", "M0JGFw"], ["EBA Sıvı Ölçme Birimleri ile Hacim Ölçme Birimleri Arasındaki Dönüşümler", "5nc3Ol"], ["EBA Sıvı Ölçme Birimleri ile İlgili Problem Kurma ve Çözme", "8MJVak"], ["EBA Alıştırmalar-Sıvı Ölçme Birimleri", "U3oGCrO"]]

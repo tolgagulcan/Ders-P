@@ -1,0 +1,106 @@
+## 6. Sinif/Matematik/Islemlerle Cebirsel Dusunme ve Degisimler - Zamanda Cebir Yolculugu.pdf
+SURE:5 KOD:MAT.6.2.3.
+KAV:Cebirsel ifade, Örüntü, Algoritma
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, grup çalışması için sınıfı 3-4 kişilik gruplara ayırır. Her grubun çalışması için A4 kâğıtlarını (akış
+çizimi için), renkli kalemleri (görsel temsil çeşitliliği için) ve yapışkanlı not kâğıtlarını (fikir panosu ve adım
+tanımlamaları için) sınıf ortamında ulaşılabilir şekilde hazırlar.
+1. Ders (Sınıf)
+Öğretmen, öğrencilerin dikkatini çekmek ve onları tarihî bir bağlamla algoritmik düşünmeye hazırlamak
+amacıyla şu sözlerle derse başlar: “Bugün hep birlikte zamanda yolculuğa çıkıyoruz. Hayal edin! Yüzyıllar önce
+bir mühendis bir saat tasarlıyor. Öyle bir saat yapıyor ki elektrik veya pille çalışmıyor. Üstelik saat düzene-
+ğinin içinde bir fil, üzerinde ejderhalar, bir kuş ve bir kâtip bulunuyor. Bu saat, her otuz dakikada bir kendi
+kendine çalışarak zamanı bildiriyor. Öğretmen, görsel düzenleme aracıyla hazırladığı Filli Su Saati görsel-
+lerini etkileşimli tahtada açar ve görsellere bakarak fikir üretmesini sağlar. Ardından şu soruları yöneltir:
+• Sizce bu sistemde hangi adım diğerini başlatıyor olabilir?
+• Verilen parçalardan hangisi olmazsa sistem çalışmaz?
+• Saatteki işlemleri adım adım açıklayabilir misiniz?
+Gönüllülük esasına göre öğrencilerin cevaplarını alır, cevaplar sınıfça yorumlanır. Ardından öğretmen
+Cezeri’nin filli su saatinin anlatıldığı Eski Zaman Robotları videosunu öğrencilere izletir.
+Videonun ardından öğrenciler videoyu izlemeden önceki tahminleri ile izledikleri bilgiler arasında karşı-
+laştırma yapar. Böylece öğrenciler gerçek bir düzeneğin adım adım işleyen yapısını fark eder, algoritmik
+yapının sıralama ve nedensellik yönlerini kavrar.
+Öğretmen, önceden belirlediği 3-4 kişilik öğrenci gruplarına çalışma materyallerini dağıtır ve öğrencilere
+grup çalışması yönergesini açıklar (Ek-1). Grup çalışması boyunca sınıfta dolaşır, öğrencilere rehberlik eder
+ve yönlendirici sorular sorar (Ek-2). Gönüllü gruplar hazırladıkları posteri sınıfa sunar. Öğrenciler sınıfça
+algoritmanın mantığını tartışır. Öğretmen tüm posterleri birlikte değerlendirir, güçlü yönlerini vurgular ve
+sözlü geri bildirim verir.
+Çözümleme, Mevcut bilgisi dâhilinde varsayımda bulunmak, Karşılaştırmak, Önerme
+bilgiyi değerlendirmek, Görseli anlama, Görseli yorumlama
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, görsel düzenleme araçlarından biri ile hazırlanan Fibonacci Sayıları etkinlik kâğıdının sınıf mevcudu
+kadar çıktısını alır (Ek-3).
+2. ve 3. Ders (Sınıf)
+Öğretmen, dersin başında öğrencilerin dikkatini doğadaki canlıların yapıları ile sayı örüntüleri arasındaki
+ilişkiye çeker. Örneğin bir çiçeğin yaprak diziliminde ya da bir salyangozun kabuğunda belirli bir örüntünün
+bulunup bulunmadığını fark etmelerini sağlar. Ardından etkileşimli sunum aracıyla hazırladığı Fibonacci
+Doğada sunumunu etkileşimli tahtada açarak öğrencilerin örüntü kavramını gerçek yaşam bağlamında
+görmelerini sağlar. Sunum esnasında öğretmen, öğrencilerle içeriği değerlendirir. Gördükleri örüntülerin
+hangi canlılarda bulunduğunu açıklar ve varsa farklı örnekler vermelerini ister. Daha sonra öğretmen hazır-
+ladığı Fibonacci Sayıları etkinliğini öğrencilere dağıtır (Ek-3). Öğrencilerden sunumda edindikleri bilgileri
+kullanarak verilen soruları cevaplamalarını ister.
+Öğretmen, örüntüler ile algoritmalar arasındaki ilişkiyi açıklamak amacıyla yapay zekâ destekli araç ile hazır-
+ladığı Örnek Örüntü Sorusu etkileşimli içeriğini etkileşimli tahtada açar. İçerikte yer alan masa–kişi örüntüsü
+örneği üzerinden öğrencilerle adım adım ilerler. Önce 1, 2 ve 3 masa için toplam kişi sayısı birlikte hesaplanır.
+Öğretmen bu verileri etkileşimli tabloda gösterir. Örüntüdeki kişi sayısının nasıl değiştiğini ve n. masa için bu
+ilişkinin nasıl ifade edileceğini öğrencilerin keşfetmesi amacıyla yönlendirici sorular sorar. Etkinlik aracın-
+daki “Tahmin Et” ve “Örüntü Kuralını Yaz” bölümlerini öğrencilerle doldurarak örüntünün genel kuralını yazar.
+Öğretmen, öğrencilerin örüntü kuralını algoritmik düşünceyle ifade etmeleri için birlikte oluşturulan kuralı
+adım adım açıklayan bir sözde kod geliştirir. Bu kod, masa sayısı girildiğinde kişi sayısını bulmaya yönelik
+işlem basamaklarını içerir. Bu adımlar öğrencilerle sözel olarak yazılır. Ardından öğretmen, bu adımları kulla-
+narak görsel düzenleme araçları ile örüntünün çözüm sürecini görselleştiren bir Sözde Kod ve Akış Şeması
+çizer. Öğretmen, örüntüyle ilgili oluşturulan algoritmayı pekiştirmek için şekil ve çizim aracıyla hazırladığı
+Algoritma Soruları içeriğini etkileşimli tahtada açar. Her bir soru; öğrencilerin örüntüyü tanıma, genel terimi
+oluşturma, sözde kod yazma ve akış şeması üretme becerilerini destekleyecek şekilde yapılandırılmıştır.
+Soruların çözümü sırasında öğrenciler düşüncelerini paylaşır. Öğretmen, öğrencilere farklı düşünme yolla-
+rını karşılaştırma fırsatı verir. Öğrencilerin akış şeması ve sözde kod üretimini destekleyecek geri bildirim-
+lerde bulunur. Dersin sonunda öğretmen, öğrencilerden süreci kendi cümleleriyle anlatmalarını isteyerek
+dersi tamamlar.
+Ders Sonrası
+Öğretmen, öğrencilerin örüntülerin kuralını bulma konusundaki bilgilerini pekiştirmek için yapılandırılmış
+grid etkinliğini ders dışı çalışma olarak verir (Ek-4). Öğrencilerin cevaplarını bir sonraki dersten önce kontrol
+eder ve onlara gerekli geri bildirimleri verir.
+Matematiksel doğrulama veya ispat yapma, Matematiksel temsillerden yararlanma,
+Matematiksel temsilleri değerlendirme, Matematiksel çözümler geliştirme,
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital bilgi üzerinden
+çıkarım yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+4. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin örüntüden sözde kod yazma ve algoritma oluşturma becerilerini pekiştirmek amacıyla
+hazırladığı etkinliği uygulamak için sınıfı ikişerli gruplara ayırır. Yapay zekâ destekli araçlar ile hazırladığı
+Aritmetik Örüntüler ve Algoritma etkinliğinin bağlantısını EBA’da paylaşır. Ayrıca akış şeması oluşturmak
+için şekil ve çizim aracıyla hazırladığı sözde kod ve akış şeması için Grup Çalışma Panosu bağlantısını da
+yine EBA’da gruplarla paylaşır. Etkinlikte öğrenciler, ilk aşamada verilen örüntüyü analiz ederek adım-terim
+tablosunu tamamlar, örüntüdeki değişimi yorumlar ve genel terimi cebirsel ifade şeklinde yazarlar. İkinci
+aşamada her soru için sözde kod yazarlar ve yazdıkları sözde kodlara uygun akış şeması hazırlarlar. Öğretmen,
+etkinlik süresince sınıf içinde dolaşarak öğrenci gruplarını gözlemler ve anlık geri bildirimde bulunur. Etkinlik
+sonunda her grup, bulduğu örüntü kuralını sözlü olarak ifade eder. Oluşturduğu sözde kodu ve akış şemasını
+diğer grupların çözümleriyle karşılaştırır. Böylece öğrenciler, farklı temsil biçimlerini tanır ve çeşitli çözüm
+yollarını değerlendirme fırsatı bulur.
+Ders Sonrası
+Öğretmen, çoktan seçmeli ve kısa cevaplı sorular hazırlamayı sağlayan web aracıyla hazırladığı Cebirsel
+İfadeler Değerlendirme Soruları bağlantısını EBA’dan paylaşır ve öğrencilere belirlediği tarihe kadar soruları
+çözmelerini söyler (Ek-5). Süreç tamamlanınca öğretmen, öğrencilerin yanıtlarını sistem üzerinden inceler.
+Tüm sorular sistem tarafından otomatik olarak değerlendirilir ve puanlanır. Değerlendirme süreci sonunda
+öğretmen, bir sonraki derste öğrencilere bireysel geri bildirimde bulunur ve sık hata yapılan sorular üzerinde
+kısa bir sınıf tartışması başlatır. Bu sayede öğrencilerin hem bireysel öğrenme sürecini destekler hem de
+ortak hatalarını sınıf ortamında analiz eder.
+Matematiksel doğrulama veya ispat yapma, Matematiksel çözümler geliştirme,
+Dijital bilgi üzerinden çıkarım yapmak
+5. Ders (BT Sınıfı)
+Öğretmen, öğrencilere bu derste cebir yolculuğunu heyecan verici bir serüvenle tamamlayacaklarını
+söyler. Ardından, oyunlaştırılmış ölçme ve değerlendirme web aracıyla hazırladığı Cebir Avcıları adlı oyunun
+bağlantısını paylaşır ve öğrencilerden bireysel olarak bilgisayarlarından oyuna başlamalarını ister (Ek-6).
+Öğretmen, oyunun tamamlanması için öğrencilere yeterli süre tanır ve süreç boyunca sınıfa rehberlik
+eder. Öğretmen, oyunu tamamlayan öğrencileri gösterdikleri çaba ve kararlılıktan dolayı tebrik eder. Oyun
+sürecinde karşılaştıkları sorularla ilgili kısa bir değerlendirme yaparak doğru strateji ve düşünme yollarını
+vurgular. Öğretmen, öğrencilerden ders süresince örüntüler ve algoritmalarla ilgili öğrendiklerini yansıtıcı
+bir şekilde ifade etmeleri için dijital Örüntü Günlüğü’ndeki soruları cevaplamalarını ister (Ek-7). Öğrenciler
+hangi etkinliklerden neler öğrendiklerini, karşılaştıkları güçlükleri nasıl aştıklarını ve öğrendiklerini nerelerde
+kullanabileceklerini bu günlüğe yazar ve ardından öğretmen dersi tamamlar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Filli Su Saati Görselleri", "UYuAPu7"], ["EBA Eski Zaman Robotları", "UKQfd2W"], ["Fibonacci Doğada", "UUgJAYq"], ["Fibonacci Sayıları", "UV06FPj"], ["Örnek Örüntü Sorusu", "RlMM91"], ["Sözde Kod ve Akış Şeması", "UHyXcWP"], ["Algoritma Soruları", "991YTl"], ["Aritmetik Örüntüler ve Algoritma", "Z19o9W"], ["Grup Çalışma Panosu", "RvoWzi"], ["Cebirsel İfadeler Değerlendirme Soruları", "iUdrjj"], ["Cebir Avcıları", "7IJUO7"], ["Örüntü Günlüğü", "cYCD6c"]]

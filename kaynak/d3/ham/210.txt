@@ -1,0 +1,94 @@
+## 6. Sinif/Fen Bilimleri/Kuvvet Etkisinde Hareket - Zamana Karsi Yolculuk.pdf
+SURE:4 KOD:FB.6.2.3.
+KAV:Hız, Sürat, Yer değiştirme, Alınan yol, Zaman
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, öğrencilere bu derste hız ve sürat kavramlarını inceleyeceklerini açıklar. Öğrencilere "Günlük
+hayatta bir yerden bir yere giderken 'araç çok hızlı' ya da 'aracın sürati yüksek' deriz. Sizce bu ikisi arasında
+bir fark var mıdır?" sorusunu yöneltir. Bu soru ile öğrencilerin hız ve sürat kavramları üzerinde düşünmesini
+sağlar. Öğrencilerin yanıtlarını dinleyerek hız ve sürat kavramlarına ilişkin görüşleri hakkında geri bildirim
+verir. Öğretmen etkileşimli tahtada alınan yol ve yer değiştirme kavramlarını somutlaştırmak amacıyla
+web sayfası düzenleme araçlarını kullanarak hazırladığı Eve Dönüş adlı haritayı açar. Ayşe adlı bir öğren-
+cinin okuldan eve gitmek üzere yola çıktığını ve Ayşe’nin eve en kısa sürede ulaşması gerektiğini öğrencilere
+söyler. Haritada Ayşe’nin eve gidebileceği üç farklı yol bulunduğunu belirtir. Sınıfa "Ayşe'nin yerinde olsay-
+dınız hangi yolu seçerdiniz? Nedenleri ile açıklayınız." sorusunu sorarak öğrencilerden konu üzerine düşün-
+melerini ve seçtikleri yolu ve seçme nedenlerini açıklamalarını söyler. Öğretmen, öğrencilerin yanıtlarını
+dinledikten sonra şu soruyu yöneltir: "Seçtiğiniz yol, haritada en kısa mesafeyi mi gösteriyor yoksa size en
+kısa sürede evi mi bulduruyor? Bu ikisi her zaman aynı yol mudur?" Öğrencilerin yanıtlarını dinler. Öğretmen,
+yönlendirici sorularla öğrencilerin "alınan yol" ile "yer değiştirme" kavramlarını birbirinden ayırt etmelerini
+sağlar. Ardından öğrencilere Ayşe’nin bir bisikleti olduğunu söyleyerek bisikletle mi yoksa yürüyerek mi okula
+daha kısa sürede varacağını sorar. Öğrencilerin yanıtlarını dinler ve farklı yanıtlar varsa gerekli geri bildi-
+rimde bulunur. Öğrencilerin yanıtları üzerine Ayşe’nin neden bisikletle daha çabuk varacağını sorar. Yanıt-
+ları tahtaya yazar. Devamında "Aynı mesafeyi daha kısa sürede almak ne anlama gelir?" sorusunu yöneltir.
+Öğrencilerin yanıtlarını dinleyerek onlara geri bildirimde bulunur. Dersin sonunda öğrencilere Ayşe'nin bisik-
+letle daha çabuk varmasının sebebinin süratinin yüksek olması olduğunu belirtir. “Bir arabanın gösterge
+tablosunda yazan 60 km/h onun hızı mıdır yoksa sürati midir? İşte önümüzdeki derslerde bu iki kavramı
+yani sürat (birim zamanda alınan yol) ve hızı (birim zamandaki yer değiştirme) detaylıca inceleyip karşı-
+laştıracağız.” der ve dersi sonlandırır.
+İletişim, Tartışma, Açık fikirlilik, Merak, Dijital bilgiyi anlamlandırma
+2. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin hız ve sürat konularında gözlem yapmaları amacıyla web sayfası düzenleme araçla-
+rını kullanarak hazırladığı Türkiye Seyahat Planlayıcısı etkinliğini EBA'dan paylaşır. Öğrencilerin seyahat
+süresini hesaplamaları için aşağıdaki yönergeleri okur:
+1. Öncelikle aralarındaki mesafeyi hesaplamak istediğiniz iki şehir seçiniz.
+2. Seyahat aracınızı belirleyiniz (araba veya uçak).
+3. Hızınızı seçiniz.
+4. Seyahat süresini hesapla düğmesini tıklayarak sonucu görünüz.
+5. Hesaplanan süreyi not ediniz.
+6. Daha sonra hız seçeneklerinden başka birini seçerek iki şehir arasındaki seyahat süresini, özellikle
+araba veya uçak yolculuğu için tekrar hesaplayınız.
+7. Hesaplanan süreyi not ediniz.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen; öğrencilerden gözlemleri sonucunda alınan yol, yer değiştirme ve süreyi görsel düzenleme
+araçları ile hazırladığı Seyahat Planlayıcısı Tablosu’na kaydetmelerini ister. Bir önceki derste üzerinde
+durdukları alınan yol ve yer değiştirme kavramları ile bu süreler arasında nasıl bir ilişki olabileceğini sorar.
+Öğrenciler, yanıtlarını dijital pano ya da post-it oluşturma araçlarıyla hazırlanan Alınan Yol ve Yer Değiş-
+tirme dijital panosuna kaydeder. Öğrendiklerinden yola çıkarak şehirler arasındaki seyahatlerde hız ve
+sürat kavramlarıyla nasıl bir ilişki kurulabileceğini öğrencilere sorar. Öğrencilerin yanıtlarını dinler, onlara
+geri bildirimlerde bulunur, gerekli düzeltmeleri yapar. Bu kavramları doğru şekilde ilişkilendirmeleri için
+öğrencileri yönlendirir.
+Ders Sonrası
+Öğretmen, verilen yanıtları öğrencilerin dersten sonra da inceleyebilmeleri için Alınan Yol ve Yer Değiş-
+tirme dijital panosunu EBA'dan paylaşır. Hız ve sürat kavramlarını pekiştirmek amacıyla çoktan seçmeli
+sorular hazırlamayı sağlayan web araçlarını kullanarak hazırladığı Hız ve Sürat etkinliğini EBA’dan paylaşır
+ve öğrencilerin tamamlamalarını ister (Ek-1).
+Ders Öncesi
+Öğretmen, grupların ölçüm yapabilmesi için her gruba yetecek sayıda kronometre ve şerit metre temin
+eder. Görsel düzenleme araçlarıyla hazırladığı Hız ve Sürat Tablosu’nun grup sayısı kadar çıktısını alır.
+3. Ders (Okul Bahçesi)
+Öğretmen, dersin başında öğrencileri dörder kişilik çalışma gruplarına ayırır. Yapılacak deney ve gözlem
+çalışmasıyla ilgili öğrencileri bilgilendirir ve etkinlik için okul bahçesine çıkarır. Grupların yapacakları etkin-
+liği grup değerlendirme yapmayı sağlayan web araçlarını kullanarak hazırladığı Etkinlik Değerlendirme
+Formu ile değerlendireceğini söyler (Ek-2). Formdaki kriterleri açıklar. Öğretmen, etkinlik alanında her biri
+yerlere yerleşir. Her gruptan seçilen bir öğrenciyi görsel düzenleme araçlarıyla hazırladığı Parkurlar görse-
+lindeki gibi piste yerleştirir. Gruplara Hız ve Sürat Tablosu’nu dağıtır. Öğretmen verdiği yönerge ve komut-
+larla etkinliği başlatır ve her gruptan seçilen öğrencilerin aynı anda koşmalarını ister. Bu sırada diğer grup
+üyelerinin de iş bölümü ile kronometre kullanmalarını ve süreleri not almalarını sağlar. 10 metrelik parkurda
+öğrencilerin hem aldığı yol hem de başlangıç ile bitiş noktaları arasındaki en kısa mesafe olan yer değiş-
+tirmenin büyüklüğü ölçülür. Gruplar; bu ölçüm esnasında koşan öğrencilerin 2, 4, 6, 8 ve 10 metrelik yol
+alımlarındaki süreyi tabloya kaydeder. Bunun için öğretmen; parkuru 2, 4, 6, 8 ve 10 metrelik aralıkları
+gösterecek biçimde işaretler.
+Öğrenciler, düz parkurda hareket tek yönde ve düz bir çizgi boyunca gerçekleştiği için alınan yol ile yer
+değiştirmenin büyüklüğünün birbirine eşit olduğunu gözlemler. Gruplar, mesafe ve zaman bilgisi verileri Hız
+ve Sürat Tablosu’na işler. Etkinlik süresince her öğrenci üstlendiği görevi (kronometre tutma, süre kaydetme,
+başlangıç-bitiş işaretleme) eksiksiz biçimde yerine getirerek grup çalışmasına katkıda bulunur. Öğretmen,
+etkinlik sonunda öğrencilere koşma süreleri ve sürat arasında nasıl bir ilişki kurabileceklerini sorar. Öğren-
+cilerin bu ilişkiye yönelik örnek vermelerini ister, cevaplarını dinler ve onlara geri bildirimde bulunur.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, Etkinlik Değerlendirme Formu ile öğrencilerin çalışmalarını değerlendirir (Ek-2).
+4. Ders (BT Sınıfı)
+Öğretmen, önceki derste oluşturulan gruplardan hız ile süratin benzerlik ve farklılıklarını gösteren birer
+sunum hazırlamalarını ister. Örnek olması amacıyla etkileşimli sunum araçlarıyla hazırladığı Hız ve Sürat
+Sunumu’nu öğrencilere etkileşimli tahtada açar. Etkileşimli sunum araçlarını kullanarak benzer bir sunum
+hazırlamalarını, sunumlarını görsel ve videolarla desteklemelerini öğrencilerden ister. Grup çalışmalarını
+grup değerlendirme yapmayı sağlayan web araçlarıyla hazırladığı Grup Değerlendirme Formu ile değer-
+lendireceklerini söyler. Formun kriterlerini öğrencilere kısaca anlatır (Ek-3). Gruplara çalışmalarını tamam-
+lamaları için yeterli süre verir. Çalışmasını tamamlayan gruplar, sunumlarını EBA’dan sınıfla paylaşır ve
+sırayla sunumlarını yapar. Sunum esnasında diğer öğrenciler gruba merak ettiği soruları yöneltir. Sunum
+yapan grup bu soruları yanıtlar. Öğretmen yanıtlarda gruplara destek olur.
+Ders Sonrası
+Öğretmen, öğrencilerin sunumlarını inceler ve EBA’dan onlara geri bildirimlerde bulunur. Grup Değerlen-
+dirme Formu’nu EBA’dan paylaşır (Ek-3). Öğrenciler grup arkadaşlarını değerlendirir.
+
+LINKS:[["Eve Dönüş", "qelCg0"], ["Türkiye Seyahat Planlayıcısı", "xC679W"], ["Seyahat Planlayıcısı Tablosu", "nTcxxi"], ["Alınan Yol ve Yer Değiştirme", "U8USid2"], ["Hız ve Sürat", "UeDNEyp"], ["Parkurlar", "UHTlcpy"], ["Hız ve Sürat Tablosu", "VwIFcn"], ["Etkinlik Değerlendirme Formu", "nQnnPc"], ["Hız ve Sürat Sunumu", "UVqr1Af"], ["Grup Değerlendirme Formu", "q2KgQP"]]

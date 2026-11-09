@@ -1,0 +1,91 @@
+## 5. Sinif/Matematik/Geometrik Sekiller - Acilar Benden Kacamaz.pdf
+SURE:5 KOD:MAT.5.3.3.
+KAV:Dar açı, Dik açı, Geniş açı, Doğru açı, Tam açı
+Öğrenme Etkinlikleri
+1. Ders (Okul Bahçesi)
+Öğretmen, öğrencilerin 4. sınıfta öğrendikleri açı çeşitlerini hatırlamaları için bir oyun oynatır. “Merhaba
+çocuklar, bugün sizlerle açı çeşitleri oyunu oynayacağız.” der. Öğretmen öğrencilerden bir daire oluştur-
+malarını ister. Sınıf mevcudu otuzdan fazla ise iki grup oluşturulabilir. Öğrencilere sırasıyla bir açı çeşidi
+söyler (dar açı, dik açı, geniş açı, doğru açı, tam açı). 5 açı çeşidini 5 öğrenci ile eşleştirdikten sonra tekrar
+sırasıyla öğrencileri açılarla eşleştirmeye devam eder. Tüm öğrencileri açılarla eşleştirdikten sonra öğren-
+cilere oyunu açıklar. “Çocuklar aranızdan bir arkadaşınız ebe olacak. Ebe bir açı ölçüsü söyleyecek. Bu açı
+ölçüsü ile eşleşen öğrenciler yer değiştirecek. Örneğin ebe “65°” dediğinde bu açıya denk gelen öğren-
+ciler yer değiştirecek. Bu sırada ebe olan arkadaşınız da kendisine bir yer bulmaya çalışacak. Bu yüzden
+hangi arkadaşlarınızın sizlerle aynı açı çeşidine sahip olduğuna dikkat edin. Eğer ebe olan arkadaşınız “açı
+sepeti” derse tüm açılar yer değiştirecek. Bu durumda kendinize bir yer bulmayı unutmayın.” der. Öğretmen
+istekli öğrenciler arasından bir ebe seçer ve öğrenciyi dairenin ortasına alır. Diğer öğrencilere tebeşir veya
+tahta kalemi verir ve bulundukları yeri daire içine alarak belirlemelerini ister. Öğretmen açılar oyunu kontrol
+listesi ile oyunun hazırlık aşamalarını kontrol eder (Ek-1). Tüm öğrenciler yerini belirledikten sonra öğretmen
+özellikle tam açı kavramını anlatır ve gerek görürse açı çeşitleri hakkında kısa bir bilgilendirme yaparak
+oyunu başlatır. Oyun sırasında oluşabilecek kazaların engellenmesi için öğretmen gerekli uyarıları yapar.
+Çıkarım yapma, Oyunseverlik
+Ders Öncesi
+Öğretmen şekil ve çizim araçlarından biri ile Açılar etkinliğini hazırlar. Bu aracı öğrencilere kısaca tanıtır ve
+öğrencileri 4-5 kişilik gruplara ayırır.
+2. Ders (BT Sınıfı)
+Öğretmen “Sevgili öğrencilerim; bu ders sizlerden şekil ve çizim araçlarından birini kullanarak dar açı, dik
+açı, geniş açı, doğru açı ve tam açıya birer örnek çizmenizi istiyorum. Ancak çizimlerinizi yaparken uygulama
+içerisinde yer alan açıölçeri kullanmayı unutmayın!” der. Öğretmen, aşağıdaki adımlara dikkat ederek etkin-
+liği uygular:
+• İçerik bağlantısını paylaşır.
+• Öğrencilerin açı çeşitlerini oluşturmak için içerikteki açı ölçülerini değiştirmesi gerektiğini belirtir.
+• Her öğrencinin farklı açı çeşidine yönelik çalışma yapmasını sağlar.
+• Araç içeriğindeki çalışmaları takip ederek eksik bilgileri düzeltmek üzere geri bildirimde bulunur.
+Öğrencilere örnek olması için Açılar etkinliğini etkileşimli tahtada açar. Öğrenciler çizimlerini yaparken onlara
+rehberlik eder. Her açı çeşidini gruptaki farklı bir öğrencinin çizmesini sağlayarak grup içi etkileşimi arttırır.
+Tüm açı çizimleri tamamlandıktan sonra öğretmen, dersin tamamlanması için kalan süreyi göz önünde
+bulundurarak öğrencilerden dar ve geniş açı ile ilgili örnekleri artırmalarını isteyebilir.
+Matematiksel araç ve teknolojiden yararlanma, Ekip (takım) çalışması yapmak
+ve yardımlaşmak, Grup iletişimine katılmak, Dijital araçların kullanımında kendi
+yetkinliklerini güncellemek
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen öğrencileri 3 gruba ayırır. İstasyon tekniğini uygulamak için öğrencilerle grup masalarını düzenler
+ve yapılacak etkinlikler için gerekli malzemeleri masalara yerleştirir.
+3. Ders (BT Sınıfı)
+Öğretmen; öğrencilere derste açı çeşitleri konusu ile ilgili birinci masada zihin haritası oluşturma araçla-
+rından birini kullanarak zihin haritası oluşturmalarını, ikinci masada resim yapmalarını ve üçüncü masada
+görsel düzenleme araçlarından birini kullanarak açı dedektifi rozeti tasarlamalarını söyler. Her grubun
+masalarda 10 dakika süresinin olduğunu ve süre tamamlanınca saatin dönme yönünde yer alan diğer
+masaya geçmeleri gerektiğini söyleyerek etkinliği başlatır. Her grup tüm masalarda süresini tamamlayınca
+etkinliği sonlandırır. Oluşturulan zihin haritası, resim ve açı dedektifi rozetini çıktı alarak sınıf panosuna asar.
+Matematiksel araç ve teknolojiden yararlanma, Özgün düşünme, Yaratıcılık, Başka-
+nımında kendi yetkinliklerini güncellemek
+Ders Öncesi
+Öğretmen derste EBA’da yer alan Açılar Materyali 3D’nin nasıl kullanıldığını öğretecektir. Öğretmenler,
+materyalin kullanımına ilişkin bilgiye Açılar Materyali Tanıtım Video’sundan ulaşabilir. Öğretmen öğren-
+cileri 3-6 kişilik gruplara ayırır. Açı ölçme materyali etkinlik kâğıdının grup sayısı kadar çıktısını alır ve her
+gruba dağıtır (Ek-2).
+4. Ders (BT Sınıfı)
+Öğretmen öğrencilere EBA’dan Açılar Materyali Uygulama Videosu 2’yi izletir. Video tamamlandıktan sonra
+“Sizce bu parçalarla başka kaç derecelik açılar oluşturabiliriz? Cevaplarınızda hangi açı ölçülerini kullan-
+dığınızı da belirtiniz.” der. İstekli öğrencilere söz hakkı verir. Öğrencilerden 750, 1050, 1350,1500, 1650, 1800, 1950,
+2100, 3600 vb. ölçüleri söylemeleri beklenmektedir. Söylenmeyen açı ölçülerini öğretmen tamamlar. “Çocuklar
+sizler de bu materyalin benzerini dinamik matematik ve geometri araçlarından birini kullanarak tasarla-
+maya ne dersiniz? Açı ölçülerine dikkat ederek tasarımında en fazla sayıda farklı açı oluşturan grup, açı
+dedektifi rozetini kazanacak.” der. Öğretmen, gruplar tasarımlarını yaparken onlara rehberlik eder. Gruplar,
+oluşturdukları materyalde elde ettikleri açı ölçülerine göre etkinlik kâğıdını doldururlar (Ek-2).
+Matematiksel araç ve teknolojiden yararlanma, Matematiksel temsil, Çıkarım
+yapma, Eleştirel bakma, İş birliği, İletişim, Dijital araçların kullanımında kendi
+yetkinliklerini güncellemek
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Gruplar, oluşturdukları materyali tanıtmak üzere birer sözcü belirler. Öğretmen, bir gruptaki öğrenci sayısı
+kadar açı dedektifi rozetinin çıktısını alır.
+5. Ders (Sınıf)
+Her grup sözcüsü sırasıyla kendi oluşturdukları materyalin tanıtımını yapar ve oluşturdukları açıları belirtir.
+Öğretmen, sunum yapmayan öğrencilere de söz hakkı vererek soruları varsa sormalarını söyler. Sunum
+yapan öğrenciden de bu soruları cevaplandırmasını ister. Tüm gruplar sunumunu yaptıktan sonra en fazla
+açıyı oluşturan grup belirlenir. Öğretmen, birinci olan grubu tebrik ederek açı dedektifi rozetini grup üyele-
+rinin yakasına takar. Öğretmen, EBA’dan Açılar Materyali Uygulama Videosu 3’ü izletir. “Çocuklar bu dersi-
+mizde de standart açı ölçme aracı olan açıölçeri kullanacağız. Şimdi defterlerinizi açmanızı ve açıölçeri kulla-
+narak birer tane dar, dik, geniş, doğru ve tam açı çizmenizi istiyorum.” der. Öğrenciler çizimlerini yaparken
+hatalı çizim yapan öğrencilere rehberlik eder. Öğretmen dersin tamamlanması için kalan süreyi göz önünde
+bulundurarak örnek sayısını arttırabilir.
+Ders Sonrası
+Öğretmen, EBA’da yer alan Açı Çeşitleri alt konu testini öğrencilerle paylaşır. Çalışmanın takibini EBA rapor-
+larım bölümünden yapar.
+Çıkarım yapma, Eleştirel bakma, Başkalarını etkin şekilde dinlemek, Duygu ve
+paylaşma
+
+LINKS:[["EBA Açılar Materyali 3D", "XHDtmR"], ["EBA Açılar Materyali Tanıtım Videosu 1", "UXpT9gi"], ["EBA Açılar Materyali Uygulama Videosu 2", "Ui9VHIe"], ["EBA Açılar Materyali Uygulama Videosu 3", "UVs4tGO"], ["Açılar", "U7TWjMv"], ["EBA Açı Çeşitleri Alt Konu Testi", "7NjdJJ"]]

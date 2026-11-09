@@ -1,0 +1,122 @@
+## 6. Sinif/Matematik/Islemlerle Cebirsel Dusunme ve Degisimler - Bilinmeyenlerle Biyocesitlilik.pdf
+SURE:5 KOD:MAT.6.2.1.
+KAV:Biyoçeşitlilik, Cebirsel ifade, Beta çeşitlilik, Değişken, Bilinmeyen
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Biyoçeşitlilik ve Koruma Biyolojisi ve Biyoçeşitlilik içeriklerinin bağlantılarını EBA’dan öğrencilerle
+paylaşır. Öğrencileri 3-6 kişilik gruplara ayırır. Görsel düzenleme araçları ile hazırlanan Beta Çeşitlilik 1 ve
+Beta Çeşitlilik 2 etkinlik kâğıtlarının grup sayısı kadar çıktısını alır (Ek-1 ve Ek-2). Bunun yanında çevrim içi
+dergi, elektronik kitap, metin hazırlama araçları ile hazırlanan Beta Çeşitlilik Hesaplama etkinlik kâğıdının
+da her gruba ikişer tane verilecek şekilde çıktısını alır (Ek-3).
+1. Ders (Sınıf)
+Öğretmen, dersin girişinde biyoçeşitlilik konusundan kısaca bahseder ve daha önce paylaştığı Biyoçeşitlilik
+ve Koruma Biyolojisi ve Biyoçeşitlilik içerikleri hakkında öğrencilerin soruları olup olmadığını sorar. Öğrenci-
+lerin soruları varsa cevaplandırır. Ekosistemdeki biyoçeşitliliği ölçmek için alfa, beta ve gama çeşitlilik terim-
+lerinin kullanıldığını söyler. “Sevgili öğrenciler, bugün sizlerle beta çeşitliliğin nasıl hesaplandığını öğrene-
+ceğiz.” der. Her gruba Beta Çeşitlilik 1 ve Beta Çeşitlilik Hesaplama etkinlik kâğıtlarından birer tane dağıtır
+(Ek-1 ve Ek-3). Öğrencilere Beta Çeşitlilik 1 etkinlik kâğıdında yer alan iki alandaki nesneleri karşılaştırarak
+Beta Çeşitlilik oranını hesaplamayı öğreneceklerini söyler. Beta çeşitliliğin farklı iki alanda yer alan türleri
+karşılaştırmak için kullanıldığını söyler. Ayrıca beta çeşitliliğin iki topluluk arasındaki benzemezliği karşılaş-
+tırmak için kullanıldığını ve D sabiti değiştikçe iki alanda bulunan çeşitliliğin de değiştiğini belirtir.
+Öğretmen, “Şimdi sizlerle Beta Çeşitlilik 1 etkinlik kâğıdında yer alan nesnelerin beta çeşitlilik sabitini hesap-
+layalım.” diyerek etkinliğe başlar. Öğrenciler tabloyu doldururken onlara rehberlik eder (Sınıf seviyesi göz
+önünde bulundurulduğunda tam sayılarla çıkarma işlemi henüz işlenmediğinden öğrencilerin sonucu
+bulabilmeleri için gerekli yönlendirmeleri yapar.).
+Öğretmen, Beta Çeşitlilik 2 ve Beta Çeşitlilik Hesaplama etkinlik kâğıtlarını öğrencilere dağıtır. Öğrencilerden
+etkinlik kâğıdındaki D sabitinin değerini bulmalarını ister (Ek-2 ve Ek-3). Gruplar hesaplamalarını yaparken
+onlara rehberlik eder. Tabloyu eksiksiz dolduran ilk üç grubu tebrik eder. Etkinliğini tamamlayamayan gruplara
+da işlemleri yaparken yanlış sonuçlar bulabileceklerini, bu nedenle etkinliklerini ders süresi içinde tamam-
+lamaya dikkat etmeleri gerektiğini söyler.
+Merak, Matematiksel doğrulama veya ispat yapma, Çözümleme, Karşılaştırma,
+Matematiksel temsillerden yararlanma, Grup iletişimine katılmak, Verileri düzenleme
+ve işleme
+Ders Öncesi
+Öğretmen, okul bahçesinde bitki bulunmuyorsa veya bitki çeşitliliği azsa etkinlik için bitki resimleri hazırlar ve
+resimleri çoğaltarak bahçenin çeşitli yerlerine asar. Öğrencileri 2-5 kişilik gruplara ayırır. Grup sayısı kadar
+Beta Çeşitlilik Hesaplama etkinlik kâğıdını çoğaltır (Ek-3).
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+2. Ders (Bahçe)
+Öğretmen, “Çocuklar bu dersimizde okul bahçemizdeki bitkilerin beta çeşitliliğini hesaplayacağız. Okul
+kapısından çıktığınızda sağ tarafta kalan bölge birinci alan, soldaki bölge ise ikinci alan olacak. Buna göre
+elinizdeki tabloyu yönergelere uygun biçimde doldurmanızı ve ardından hesaplamalarınızı yapmanızı
+istiyorum.” der. Öğrencilere tabloda belirtilen 15 türün tamamını doldurmak zorunda olmadıklarını ancak
+yazdıkları her tür için o satırdaki tüm bilgileri eksiksiz şekilde tamamlamaları gerektiğini hatırlatır.
+Öğretmen, Beta Çeşitlilik Hesaplama etkinlik kâğıdını gruplara dağıtır (Ek-3). Etkinliği yaparken önce bitki-
+leri bulmalarını, tüm bitkileri bulduktan sonra hesaplamalara geçmeleri konusunda öğrencileri yönlendirir.
+Hesaplamalarını tamamlayıp doğru sonuca ulaşan öğrencileri tebrik eder ve istekli öğrencilerden birine
+söz hakkı vererek çözümü açıklamasını ister. Öğrencilere “Farklı değişkenler ve cebirsel ifade kullanarak aynı
+sonucu bulabilir miyiz?” diye sorar. Öğrencileri farklı cebirsel ifadelerle aynı sonuca ulaşmaları için yönlen-
+dirir. Çözümü ilk bulan grubu tebrik eder.
+Oyunseverlik, Karşılaştırma, Sorgulama, Değerlendirme, Matematiksel çözümler
+işleme
+Ders Öncesi
+Öğretmen, kodlama-programlama aracının kullanımı hakkında öğrencileri bilgilendirir. Öğrencileri 2-4 kişilik
+gruplara ayırır. Grup sayısı kadar Beta Çeşitlilik Hesaplama etkinlik kâğıdını çoğaltır (Ek-3).
+3. Ders (BT Sınıfı)
+Her grup, çalışmalarını gerçekleştirmek için bir bilgisayarın karşısına oturur. Öğretmen, kodlama-program-
+lama aracındaki Okyanuslar İçin Yapay Zekâ etkinliğinin bağlantısını öğrencilerle paylaşır. Öğrencilerden
+ikinci etkinliği yaparken “Balık” ve “Balık Değil” düğmesini kaç defa işaretlediklerini not etmelerini ister. Tüm
+öğrenciler ikinci etkinliği tamamladıktan sonra ekranda yanlış nesneler olup olmadığını sorar ve öğrenci-
+lerden yanlış nesnelerin olası nedenlerini açıklamalarını ister. Bilgi girişinin az olması durumunda yapay
+zekânın yanlış sonuçlara ulaşacağını fark etmeleri için öğrencileri yönlendirir. Ayrıca öğrencilere sonraki
+etkinlikte en az yüz nesne seçmeleri gerektiğini söyler.
+Öğretmen, öğrencilerden dördüncü etkinlik olan “Bu Suya mı Ait?” etkinliğindeki suya ait nesneleri kullanarak
+Beta Çeşitlilik Hesaplama tablosunu doldurmalarını ister (Ek-3). Gruplar formlarındaki birinci alanı doldur-
+duktan sonra öğretmen, grupları ikişerli olarak eşleştirir ve grupların buldukları sonuçlara göre okyanuslar-
+daki beta çeşitliliğini hesaplamalarını ister. Öğrenciler sonuçlarını karşılaştırır, farklı sonuçlar bulan gruplar
+birbirlerine açıklama yapar ve hataları birlikte düzeltir. Düzeltmeler tamamlandıktan sonra öğretmen, öğren-
+Matematiksel doğrulama veya ispat yapma, Matematiksel temsillerden yararlanma,
+cilerden bir önceki ders oluşturdukları formülü kullanarak aynı sonucu elde edip edemeyeceklerini kontrol
+Matematiksel temsilleri değerlendirme, Matematiksel çözümler geliştirme,
+etmelerini ister. Aynı sonucu elde eden grupları tebrik eder. Kodlama-programlama aracındaki etkinlik ders
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+sonuna Çerçevesi
+kadar devam ettirilir.
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital bilgi üzerinden
+çıkarım yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, öğrencilerle kelime bulutu oluşturma aracının bağlantısını paylaşır. Öğrencilerden işledikleri konu
+ile ilgili akıllarında kalan kelimeleri bu araca yazmalarını ister.
+Karşılaştırma, Eleştirel düşünme, Matematiksel çözümler geliştirme, Matematiksel
+Verileri düzenleme ve işleme
+Ders Öncesi
+Öğretmen; kullandığı oyunlaştırma web araçları, dinamik matematik ve geometri araçları hakkında öğren-
+cileri bilgilendirir. Öğrencilerin kelime bulutuna yazdıkları kelimeleri kullanarak oyunlaştırma web araçla-
+rından biri ile Kelime Avı etkinliğini hazırlar. Dinamik matematik ve geometri aracını kullanarak Cebirsel
+İfadeler etkinliğini hazırlar. Öğrencileri 2-5 kişilik gruplara ayırır. Cebirsel ifadeler etkinlik tablosunun grup
+sayısı kadar çıktısını alır (Ek-4).
+4. Ders (BT Sınıfı)
+Her grup, çalışmasını yapmak üzere bir bilgisayarın başına geçer. Öğretmen, gruplara cebirsel ifadeler etkinlik
+tablosunu dağıtır (Ek-4). Daha sonra Cebirsel İfadeler etkinliğini etkileşimli tahtada açar ve bağlantısını
+öğrencilerle paylaşır. Etkinliği öğrencilere “Bu etkinlikte grup arkadaşlarınızdan birinin söylediği sözel ifadeyi
+cebirsel ifadeye çeviriniz. Bulduğunuz ifadeyi dinamik matematik ve geometri aracındaki ‘fonksiyon’ alanına
+yazınız. Ardından arkadaşınızın söylediği doğal sayıyı cebirsel ifadede uygun yere yerleştirip sonucu bulunuz.
+Aynı işlemi dinamik matematik ve geometri aracıyla da yapınız ve sonuçları karşılaştırınız. Eğer aynı sonucu
+bulduysanız etkinlik kâğıdınızı sağınızdaki gruba veriniz, farklıysa grup arkadaşlarınızdan yardım alarak doğru
+sonucu elde ediniz. Daha sonra solunuzdaki grubun kâğıdını alınız. Onların yazdığı cebirsel ifadeyi karşı-
+layan yeni bir sözel ifade ve cebirsel ifade yazınız. Grup arkadaşınızın söylediği doğal sayıyı değişken yerine
+yazarak sonucu bulunuz. Aynı sayı değerini kullanarak işlemi dinamik matematik ve geometri aracıyla da
+yapınız. Her iki cebirsel ifade için aynı sayı değerini kullanarak sonuçları bulunuz ve karşılaştırınız. Sonuçlar
+farklıysa doğru sonucu bulmak için grup arkadaşlarınızla birlikte çalışınız. Doğru sonucu bulduğunuzda yeni
+bir sözel ifade oluşturarak etkinliğe devam ediniz.” şeklinde açıklar. Öğrencilerden etkinliği yaparken cebirsel
+ifadeler etkinlik tablosunu doğru şekilde doldurmalarını ister (Ek-4). Etkinlik ders sonuna kadar devam eder.
+Ders Sonrası
+Öğretmen, Kelime Avı etkinliğinin bağlantısını EBA’dan paylaşarak öğrencilerden etkinliği yapmalarını ister.
+Ayrıca EBA’dan 6. Sınıf Beceri Temelli Testler (2. Kitap) bağlantısını da paylaşır ve öğrencilerden 56, 57 ve
+58. sayfalardaki soruları cevaplamalarını ister.
+Matematiksel araç ve teknolojiden yararlanma, Karşılaştırma, Yorumlama, Matema-
+üzerinden çıkarım yapmak, Dijital araçlarla iş görme, Verileri düzenleme ve işleme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, çoktan seçmeli sorular hazırlamayı sağlayan web araçlarından birini kullanarak Alıştırma Soruları
+etkinliğini hazırlar (Etkinlikte EBA’da yer alan sorular kullanılmıştır.).
+5. Ders (Sınıf)
+Öğretmen, ilk olarak EBA’dan paylaştığı 6. Sınıf Beceri Temelli Testler (2. Kitap) bağlantısına ilişkin öğrenci-
+lerin soruları olup olmadığını sorar, soruları varsa cevaplandırır. Hazırladığı Alıştırma Soruları etkinliğini etkile-
+şimli tahtada açar. Öğrencilerden bu soruları cevaplamalarını ister. Her bir soru için öğrencilere 5 dakika
+süre verir. Süre tamamlandığında istekli öğrencilerden biri soruyu etkileşimli tahtada cevaplar. Öğretmen,
+doğru cevap veren öğrenci/öğrencileri tebrik eder. Etkinlik ders sonuna kadar devam eder.
+Matematiksel çözümler geliştirme, Dijital bilgi üzerinden çıkarım yapmak
+
+LINKS:[["Biyoçeşitlilik ve Koruma Biyolojisi", "UIPaN2X"], ["EBA Biyoçeşitlilik", "PE2b7Q"], ["Beta Çeşitlilik 1", "UjPlYI2"], ["Beta Çeşitlilik 2", "lzAvrD"], ["Beta Çeşitlilik Hesaplama", "UiybNhp"], ["Okyanuslar İçin Yapay Zekâ", "2p4meZ"], ["Kelime Avı", "Uq1XdKG"], ["Cebirsel İfadeler", "UEnr051"], ["EBA 6. Sınıf Beceri Temelli Testler (2. Kitap)", "UjGQTqq"], ["Alıştırma Soruları", "n0RJdO"]]

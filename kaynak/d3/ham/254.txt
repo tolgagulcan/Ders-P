@@ -1,0 +1,83 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (1) - Bolmeden Bil.pdf
+SURE:5 KOD:MAT.6.1.2.
+KAV:Bölünebilme, Bölünebilme kriterleri, Katlar
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, görsel düzenleme araçları ile hazırlanan Doğal Sayıların Katları etkinlik kâğıdının öğrenci sayısı
+kadar çıktısını alarak öğrencilere dağıtır (Ek-1). Birden fazla seçim yapmayı sağlayan web araçları ile hazır-
+lanan Bölünebilme/Yapılandırılmış Grid adlı çalışmanın bağlantısını ileti olarak EBA sayfasından seçtiği
+sınıf grubuyla paylaşır (Ek-2). Öğrencilerden bir sonraki derse kadar çalışmayı tamamlamalarını ve derse
+gelirken çalışma kâğıtlarını yanlarında bulundurmalarını ister. Öğretmen, etkinliklere ayrılan zamanı daha
+verimli kullanmak için ders öncesinde 4-5 kişilik öğrenci grupları oluşturur.
+Öğretmen, etkileşimli tahtada oyunlaştırma web aracı ile hazırlanan Hangimiz Daha Hızlı? oyununu açar. Bir
+doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünüp bölünemediğini belirleyecek oyun için gönüllü bir öğrenci
+seçer. Oyuna başlamadan önce oyunun zorluk seviyesini ve tur sayısını belirler, oyuncu isimlerini girer.
+Öğretmen gönüllü öğrenci ile oyunu oynar. Gerekirse başka gönüllü öğrencilerle de oyunu oynar. Oyun
+sırasında hızlı bir şekilde doğal sayıların 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünüp bölünemediğini belirler. Böylece
+öğrencilerin kendi hızına yetişemeyip bu durumu merak etmelerini sağlar. Oyun sonunda öğrencilere “Sizce
+bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünüp bölünemeyeceğini bölme işlemi yapmadan hızlı bir
+şekilde nasıl belirledim?” sorusunu yöneltir.
+Öğretmen, öğrencilerin düşünmesini ister ve fikirlerini alır. Gerekirse oyunu tekrar açar. Oyundaki sorular
+üzerinden varsayım yapmaları için öğrencileri teşvik eder. Ders öncesi paylaştığı Doğal Sayıların Katları
+adlı çalışmayı etkileşimli tahtada açar. Yüzlük tabloda istenen doğal sayıların katlarını öğrencilerin katılımı
+ile belirler. Yüzlük tabloda yapılan çalışmanın ardından Bölünebilme/Yapılandırılmış Grid sorularını öğren-
+cilerin katılımı ile cevaplar. Ders öncesi oluşturduğu öğrenci gruplarını bir araya getirir. Gruplardan yüzlük
+tablo üzerinde oluşturulan katları inceleyerek sayıları karşılaştırmalarını, sayılar arasındaki ortak ilişkileri
+belirlemelerini ve tam bölünebilme kriterlerine ilişkin genelleme yapmalarını ister. Süreç boyunca grupları
+gözlemler ve gerektiğinde öğrencilere yardımcı olur. Etkileşimli beyaz tahta aracı ile hazırlanan Bölüne-
+bilme ile İlgili Genellemeler adlı çalışmayı etkileşimli tahtada açar. Öğrenci grupları yaptıkları genelleme-
+leri etkileşimli beyaz tahta aracına yazar.
+Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardımlaşmak,
+bulunmak ve iş birliği yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, bölünebilme tablosu etkinlik kâğıdının öğrenci grup sayısı kadar çıktısını alır (Ek-3).
+3. Ders (BT Sınıfı)
+Öğretmen, bir önceki derste oluşturduğu öğrenci gruplarını etkinlik için bilgisayarlara yönlendirir. Gruplardan
+dinamik matematik ve geometri araçları ile hazırlanan Bölme Makinesi adlı etkinliği açmalarını ister. Bölüne-
+bilme tablosu etkinlik kâğıdını gruplara dağıtır. Öğrencilerden bir önceki ders belirledikleri ortak ilişkileri ve
+genellemeleri farklı sayılar üzerinde deneyerek test etmelerini ister. Bölünebilme tablosunda verilen doğal
+sayıları, bölme makinesi etkinliğinde bulunan fonksiyon makinelerine sırasıyla girmelerini söyler. Gruplardan
+verilen doğal sayıların 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünüp bölünemediğini gözlemleyerek tabloyu doldurma-
+larını ister. Öğretmen, süreç boyunca grupları gözlemler ve gerektiğinde öğrencilere yardımcı olur.
+Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardımlaşmak, Dijital
+teknolojiyi kullanmak, Gözleme dayalı tahmin etme becerisi
+4. Ders (Sınıf)
+Öğretmen; öğrenci gruplarından bir önceki dersteki deneyimlerinden yola çıkarak tam bölünebilme kriter-
+lerine ilişkin önermeler yazmalarını ister. Etkinlik için gruplara yeterli süre verir ve süreç boyunca grupları
+gözlemler. Kavram haritası oluşturmayı sağlayan web aracıyla hazırlanmış Bölünebilme Kriterleri kavram
+haritasını etkileşimli tahtada açar. Öğrenci gruplarından elde ettikleri önermeleri kavram haritasına yazma-
+larını ister. Gruptaki her öğrencinin etkinliğe katılmasını sağlar. Öğrencilerin, bölünebilme kriterlerine ilişkin
+ortaya koydukları önermelerden yola çıkarak, bölme işlemi yapmadan bu kriterlerin sağladığı kullanışlılığı
+fark etmelerini amaçlar.
+Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardımlaşmak, Dijital
+leme becerisi
+Ders Öncesi
+Öğretmen, görsel düzenleme araçları ile hazırlanan Bölünebilme Tanılayıcı Dallanmış Ağaç etkinlik kâğıdının
+öğrenci sayısı kadar çıktısını alır (Ek-4).
+5. Ders (Sınıf)
+Öğretmen; grupların etkileşimli olarak katılacağı, kısa cevaplı sorular oluşturmayı sağlayan web aracı ile
+hazırlanan Sayıları Bul etkinliğini etkileşimli tahtada açar (Ek-5). Öğrenci gruplarından sırayla, oyunda istenen
+Matematiksel doğrulama veya ispat yapma, Matematiksel temsillerden yararlanma,
+doğal sayıları belirlenen sürede bulmalarını ve cevaplarını boş bir kâğıda yazmalarını ister. İlk soruyu tüm
+Matematiksel temsilleri değerlendirme, Matematiksel çözümler geliştirme,
+gruplar
+İlgilibelirlenen
+Beceriler sürede yanıtladıktan sonra öğretmen, gruplara cevap kâğıtlarını göstermelerini söyler.
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+Gruptaki öğrencilerin katılımıyla sorunun doğru cevabı bulunur. Diğer sorular da aynı şekilde cevaplanır.
+iletişimine katılmak, Analitik düşünme, Empati, Oyunseverlik, Dijital bilgi üzerinden
+Öğretmen grupların doğru sayılarını takip eder. Daha sonra Bölünebilme Tanılayıcı Dallanmış Ağaç etkinlik
+çıkarım yapmak
+kâğıdını öğrencilere dağıtır ve doğru çıkışa ulaşmaları için soruların cevaplarını takip etmeleri gerektiğini
+belirtir (Ek-4). Tüm öğrenciler çalışmayı tamamladıktan sonra öğrencilerin katılımı ile etkileşimli tahtada
+doğru çıkış noktasına ulaşılır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, EBA Bölünebilme Kriterleri adlı etkileşimli çalışmayı öğrencilere gönderir. Gönderilen çalışmanın
+tamamlanma durumunu EBA’dan takip eder.
+Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardımlaşmak, Dijital
+araçlar aracılığıyla etkileşimde bulunmak ve iş birliği yapmak, Oyunseverlik, Sorum-
+luluk, Matematiksel çözümler geliştirme
+
+LINKS:[["Doğal Sayıların Katları", "dVBMrL"], ["Bölünebilme/Yapılandırılmış Grid", "BmwNmB"], ["Hangimiz Daha Hızlı?", "U6s8KDF"], ["Bölünebilme ile İlgili Genellemeler", "LuUTu0"], ["Bölme Makinesi", "UU8ikEX"], ["Bölünebilme Kriterleri", "UxlM5F2"], ["Bölünebilme Tanılayıcı Dallanmış Ağaç", "aFQM9E"], ["Sayıları Bul", "UH7a6Zm"], ["EBA Bölünebilme Kriterleri", "UULJPZ3"]]

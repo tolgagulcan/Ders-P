@@ -1,0 +1,139 @@
+## 7. Sinif/Matematik/Geometri ve Olcme - Origami ile Dogrular ve Acilar.pdf
+SURE:5 KOD:M.7.3.1.2.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+6. sınıf açılar alt öğrenme alanı ilgili kazanımına ait EBA’dan Bir Açının Komşusu, Tümleri, Bütünleri ve
+Tersi sıralı anlatımı geçmiş öğrenmelerini tekrar etmeleri için çalışma olarak dersten önce öğrencilere
+gönderilir. Gönderilen bu çalışmanın tamamlanma durumu ve öğrencilerin sınav performansı EBA
+üzerinden takip edilir. Öğretmen Ders 1’de kullanılacak aynı düzlemde olan üç doğrunun birbirine göre
+durumlarını ifade eden kartları ders öncesinde basılı olarak alır (Ek-1).
+Ders 1 (BT Sınıfı)
+EBA’dan İki Doğrunun Birbirine Göre Durumları konu anlatımı öğrencilere izletilir. İki doğrunun hangi
+durumda kesiştiği, hangi durumda birbirine dik ve hangi durumda paralel olduğu soru-cevap etkinliği
+ile belirlenir. Öğrencilerin konuyu hatırlamaları sağlanır.
+Öğretmen, öğrencileri hedeften haberdar etmek için “Aynı düzlemde iki doğrunun birbirine göre durumlarını
+inceledik. Bu dersimizde ise aynı düzlemde olan üç doğrunun birbirine göre durumlarını ele alacağız.”
+der. Öğretmen öğrencileri gruplara ayırır. Gruplardaki kişi sayısını belirlerken sınıfta bulunan bilgisayar
+sayısını dikkate alır. Öğrenci gruplarına aynı düzlemde olan üç doğrunun birbirine göre durumlarını ifade
+eden kartları dağıtır (Ek-1). Öğrencilerden kartlarda verilen ifadeleri dinamik matematik ve geometri
+araçları ile oluşturmaları istenir. Öğrencilere aynı düzlemde üç doğrunun birbirine göre durumlarını
+nasıl oluşturdukları, oluştururken nelere dikkat ettikleri ve neler fark ettikleri sorulur. EBA’dan Bir Düzlemde
+Üç Doğrunun Birbirine Göre Durumlarının anlatıldığı konu anlatımı öğrencilere izletilir. Öğrencilerden
+çizimlerini tekrar incelemeleri, hatalı oluşturulan “doğru durumlarını” düzeltmeleri ve bir sonraki ders için
+de açıölçer (iletki), renkli kalemler, A4 kâğıdı ile cetvel getirmeleri istenir.
+İlgili Yetkinlikler/Beceriler: Akıl yürütme, İş birliği, Bilgi ve iletişim teknolojileri (BİT)
+Ders 2 (Sınıf)
+“Bir önceki dersimizde aynı düzlemde üç doğrunun birbirine göre durumlarını inceledik. Bu dersimizde
+ise bu durumlardan biri olan paralel doğruların bir kesenle yaptığı açıları, açıların isimlerini ve özelliklerini
+yapacağımız origami çalışması ile keşfedeceğiz.” diyerek öğrencileri öğrenecekleri yeni bilgiden haberdar
+eder.
+Öğretmen; video paylaşım platformunda bulunan “Paralel İki Doğrunun Bir Kesenle Yaptığı Açıları Origami
+ile Oluşturma” adlı videoyu EBA içeriklerime ekler, öğrenciler ile paylaşır, origami adımlarını yerine
+getirir. Bazı adımlarda videoyu durdurarak “Bir doğruya paralel bir doğru oluşturmak için kâğıdı nasıl
+katlayabiliriz?”, “İki paralel doğruyla bir kesenin oluşturduğu açılardan hangileri eştir?” gibi sorularla bir
+sonraki adımı tahmin etmelerini ister. Öğrencilerden kâğıtları katlamaları ile oluşan açıları, açıölçer ile
+ölçmelerini söyler ve eş açıları gözlemler. “Açıölçerimiz olmasaydı eş açıları göstermek için ne yapabilirdik?”
+sorusunu öğrencilere yöneltir ve öğrencilerden farklı çözüm yolları bulmalarını ister. Dijital pano ya da
+post-it oluşturma araçları kullanılarak öğrenci fikirleri kaydedilir. Daha sonra EBA’dan birbirine paralel
+iki doğrunun bir kesenle yaptığı yöndeş, ters, iç ters ve dış ters açı kavramlarının özelliklerinin incelendiği
+Yöndeş, Dış Ters ve İç Ters Açılar konu anlatımı etkileşimli tahtadan izlenir. İki paralel doğrunun bir
+kesenle yaptığı açılardan bir tanesi bilindiğinde açılar arasındaki ilişkileri kullanarak diğer açıların
+nasıl hesaplanabileceğine dair EBA’dan Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar konu anlatımı
+öğrencilere izletilir. Gerekli yerlerde video durdurularak öğrencilere sorular sorulur. Öğrencilerin fikirleri
+alındıktan sonra videoya devam edilir ve bir sonraki derste açıların hesaplanacağı interaktif etkinliğe
+geçmek üzere ders bitirilir.
+İlgili Yetkinlikler/Beceriler: Akıl yürütme, İletişim, Bilgi ve iletişim teknolojileri (BİT)
+Ders 3 (Sınıf)
+Bu derste öğrenciler, EBA’dan uygulama yapacakları Açı Çeşitlerini Oluşturma interaktif etkinliği ile paralel
+iki doğrunun bir kesenle yaptığı açılarla ilgili soruları çözer. Soru çözümünde tüm öğrencilerin aktif olarak
+yer alması sağlanır. Öğretmen, süreçte öğrencilere rehber olmaya devam eder.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri
+Ders 4 ve 5 (BT Sınıfı)
+Öğretmen, öğrencileri sınıftaki öğrenci sayısına göre gruplara ayırıp onlara bu derste çözüm bulacakları
+problem durumunu “İki doğrunun birbirine paralel olup olmadığına nasıl karar veririz?” sorusuyla açıklar.
+Öğrenciler, problem durumuna çözüm ararken cetvel, açıölçer gibi materyallerden ve dinamik matematik
+ve geometri araçları ile yapabilecekleri çizimlerden yararlanabilir. Problem çözümünde öğrencilerden
+doğruların ortak kesenle yaptığı açıların eş olma durumlarından da yararlanmaları istenmektedir.
+Gruplar, ulaştıkları çözümleri kullanarak etkileşimli sunum araçları ile önce sunum oluşturur, sonra sınıfta
+paylaşırlar. Yapılan sunumlar, grup değerlendirme yapmayı sağlayan web aracı kullanılarak hazırlanan
+grup değerlendirme formu ile değerlendirilir (Ek-2). Bu derste öğrenilen bilgileri pekiştirmek ve farklı soru
+tarzlarını görmek için Paralel Doğruların Bir Kesenle Yaptığı Açılar isimli öğretmene özel çalışma soruları
+öğrencilerle birlikte çözülür.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, İletişim, İş birliği, Bilgi ve iletişim teknolojileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + çalışma soruları
+• EBA + interaktif etkinlik
+• Grup değerlendirme yapmayı sağlayan web araçları
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Bir Açının Komşusu, Tümleri, Bütünleri ve Tersi: http://meb.ai/p8d37Y (Son erişim tarihi: 09.05.2024)
+2. EBA İki Doğrunun Birbirine Göre Durumları: http://meb.ai/UI64eG2 (Son erişim tarihi: 09.05.2024)
+3. EBA Bir Düzlemde Üç Doğrunun Birbirine Göre Durumları: http://meb.ai/UqSVvIT (Son erişim tarihi:
+09.05.2024)
+4. EBA Yöndeş, Dış Ters ve İç Ters Açılar: http://meb.ai/4AZ6xC (Son erişim tarihi: 09.05.2024)
+5. EBA Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar: http://meb.ai/ZZ2VVB (Son erişim tarihi: 09.05.2024)
+6. EBA Açı Çeşitlerini Oluşturma: http://meb.ai/VNISwg (Son erişim tarihi: 09.05.2024)
+7. EBA Paralel Doğruların Bir Kesenle Yaptığı Açılar Çalışma Soruları: http://meb.ai/5U2hJH (Son erişim
+tarihi: 09.05.2024)
+Kaynakça
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim
+ve Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Ekler
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ek-1: Aynı Düzlemde Olan Üç Doğrunun Birbirine Göre Durumlarını İfade Eden Kartlar
+Ek-2: Grup Değerlendirme Formu
+EK-1
+Aynı Düzlemde Olan Üç Doğrunun Birbirine Göre Durumlarını İfade
+Eden Kartlar
+Üç doğru aynı
+Üç doğru da noktadan
+çakışık olabilir. geçebilir yani
+noktadaş
+doğrular olabilir.
+Üç doğru birbirini Üç doğru
+ikişer ikişer birbirine paralel
+kesebilir. olabilir.
+İki doğru İki doğru
+çakışık olur ve birbirine paralel
+diğer doğru bu olur ve üçüncü
+çakışık doğruları doğru bunları
+kesebilir. kesebilir.
+Origami ile Doğrular ve Açılar
+EK-2 Origami ile Doğrular ve Açılar
+GRUP DEĞERLENDİRME FORMU (SUNUM)
+Konu: İki Doğrunun Birbirine Paralel Olma Durumunun Açılar ile Gösterilmesi
+Grubun Adı:
+Bu form grupların çalışmalarını değerlendirmek amacıyla hazırlanmıştır. Her kriter için belirlenen
+derecelerden sadece birini işaretleyiniz.
+DERECELER
+KRİTEERLER Geliştirilmeli Kısmen Yeterli İyi Çok İyi
+(1) Yeterli (2) (3) (4) (5)
+Grup üyeleri tarafından yapılan
+sunum, derste öğrenilen paralel iki
+doğrunun bir kesenle yaptığı açılar
+konusunu kapsamaktadır.
+Grup üyeleri tarafından bulunan
+çözüm önerileri, probleme cevap
+niteliği taşımaktadır.
+Grup üyeleri çalışma süresince
+yararlı fikirler üretmiştir.
+Grup üyeleri birbirleri ile
+yardımlaşmıştır.
+Grup üyeleri sunumu akıcı ve etkili
+bir şekilde yapmıştır.
+Grup üyeleri görevi zamanında
+yerine getirmiştir.
+TOPLAM PUAN
+“ Bu formdan alınabilecek puan en fazla 30 iken, en az 6’dır.”
+Eklemek istediklerim: ………………………………………………………………………………………………………………………………………………………………………………………………………………………....................................…
+Dinamik Geometri Programı İle Üçgenin Alan
+LINKS:[["EBA Bir Açının Komşusu, Tümleri, Bütünleri ve Tersi", "p8d37Y"], ["EBA İki Doğrunun Birbirine Göre Durumları", "UI64eG2"], ["EBA Bir Düzlemde Üç Doğrunun Birbirine Göre Durumları", "UqSVvIT"], ["EBA Yöndeş, Dış Ters ve İç Ters Açılar", "4AZ6xC"], ["EBA Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar", "ZZ2VVB"], ["EBA Açı Çeşitlerini Oluşturma", "VNISwg"], ["EBA Paralel Doğruların Bir Kesenle Yaptığı Açılar Çalışma Soruları", "5U2hJH"]]

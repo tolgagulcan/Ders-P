@@ -1,0 +1,92 @@
+## 5. Sinif/Sosyal Bilgiler/Evimiz Dunya - Afetler Hazir Misiniz-.pdf
+SURE:3 KOD:SB.5.2.3.
+KAV:AFAD, Afet, STK
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, yaşadıkları yerde görülen doğa kaynaklı afet türlerine yönelik araştırma yapmalarını öğrenci-
+lerden ister. Doğa kaynaklı afetlere yönelik faaliyetler yürüten sivil toplum kuruluşlarını genel ağ üzerinden
+araştırarak sivil toplum kuruluşlarının faaliyetlerini incelemelerini söyler. Ayrıca öğrencilerin EBA’da yer alan
+Afet Risk Haritası S.73’ü inceleyerek derse hazırlıklı gelmelerini ister.
+1. Ders (Sınıf)
+Öğretmen, derse doğa kaynaklı afetlerin hayatımızdaki etkilerinden söz ederek başlar ve bunların tamamen
+engellenemese de alınacak önlemlerle etkilerinin azaltılabileceğini vurgular. Toplumda afet bilinci oluştur-
+manın can ve mal kayıplarını önlemede hayati rol oynadığını, farkındalık çalışmalarının ise bireylerin afetler
+karşısında bilinçli ve hazırlıklı hareket etmelerini sağladığını belirtir. Ayrıca sivil toplum kuruluşlarının düzen-
+ledikleri eğitimler ve etkinliklerle insanlara doğa kaynaklı afetler hakkında bilgi vererek toplumda afet bilinci
+oluşturmada önemli bir rol üstlendiğine değinir. Bir sonraki derste gruplara ayrılarak gelecekte kurmayı
+düşündükleri bir sivil toplum kuruluşunun web sayfası için farkındalık içeriği hazırlayacaklarını öğrencilere
+açıklar. Öğretmen, öğrencilere web sayfasında hangi bilgilerin yer alabileceğine dair örnekler verir (Bulun-
+dukları bölgede görülen ya da seçtikleri bir afet türüne ilişkin açıklayıcı bilgiler, alınacak önlemler, acil
+durum telefonları vb.). Öğretmen, kullanılacak web aracını tanıtır ve öğrencilerin birlikte çalışmak istedik-
+leri arkadaşlarıyla 5 kişilik çalışma grupları oluşturmalarını ister. Ardından her öğrencinin web sayfası
+şablonundan bir sayfa düzenleyeceğini söyler. Öğrencilerden kendi aralarında görev dağılımı yapmala-
+rını ister. Web tasarım sürecinde öğrencilere rehberlik edeceğini açıklar. Daha sonra web sayfası düzen-
+leme araçları ile hazırlanmış Bir Tıkla Bilinçlen! etkinlik şablonunu açarak öğrencilerin web sayfası düzen-
+leyeceği şablonu tanıtır.
+Ders Sonrası
+Öğretmen, web sayfası düzenleme araçları ile hazırlanmış Bir Tıkla Bilinçlen! etkinlik şablonunu ders sonra-
+sında öğrencilerle paylaşır. Kullanılan web aracına girerek etkinlik şablonunu öğrencilerin incelemelerini
+ister. Şablon içerisindeki doldurulabilecek alanlara yazacakları içeriklere ilişkin her bir öğrencinin araştırma
+yapmasını ve bir sonraki derse hazırlıklı gelmesini söyler. Öğrencilere araştırmalarında EBA’daki Deprem,
+Sel, Çığ, Erozyon, Orman Yangını ders içeriklerinden yararlanabileceklerini söyler.
+Odaklanma, İletişim, Fikir üretme, Dijital bilgiye ulaşma ve dijital bilgiyi tanıma
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, dersin başında düzenlenecek web sayfası çalışmasının amacını açıklar. Bu etkinliğin sadece bir
+ders etkinliği olmadığını, aynı zamanda yaşadıkları yerde karşılaşabilecekleri doğa kaynaklı afetlere karşı
+toplumu bilinçlendirme amacı taşıdığını belirtir. Hazırlanacak web sayfalarının afetle ilgili açıklayıcı bilgiler,
+afet öncesi alınabilecek önlemler, afet anında yapılması gerekenler, afet sonrası ilk yardım bilgileri, acil
+durum telefonları ve ilin özel risklerini içermesi gerektiğini vurgular. İçeriğin doğru, anlaşılır ve görsellerle
+desteklenmiş olmasını ayrıca, kullanılan içeriklerin telif hakkına uygun kaynaklardan seçilmesi gerektiğini
+hatırlatır. Gruplar tarafından düzenlenen her bir web sayfasının topluma afet bilinci kazandırmaya yönelik
+çalışan bir sivil toplum kuruluşunu temsil ettiğini ifade eder. Öğretmen, etkinliğin sonunda akran değerlen-
+dirme yapmayı sağlayan web araçlarıyla hazırlanmış Akran Değerlendirme Formu ile grup üyelerinin birbi-
+rini değerlendireceğini söyler (Ek-1). Ardından akran değerlendirme formundaki kriterler hakkında öğren-
+cileri bilgilendirir, çalışmalarını bu kriterlere dikkat ederek sürdürmeleri gerektiğini belirtir.
+2. Ders (BT Sınıfı)
+Bu derste öğrenciler, web sayfası düzenleme araçları ile hazırlanmış Bir Tıkla Bilinçlen! şablonunu açarak
+düzenleme yapmaya başlar. Her grup, yaşadıkları yerde ya da ülkemizde yaygın görülen doğa kaynaklı afet
+türüne uygun olarak toplumu bilinçlendirmeyi amaçlayan ve gelecekte kurmayı düşündükleri bir STK’nin
+web sayfasını düzenleyeceğini bilir. Öğretmen, aynı gruptaki öğrencilerin etkinlik şablonunda eş zamanlı
+olarak ortak çalışabilmesi için her gruba özel iş birliği bağlantısı sağlar. Öğrenciler, grup arkadaşlarıyla iş
+birliği içinde içerik üretir. Her grup; ilgili afet türü hakkındaki bilgileri, afet öncesi alınabilecek önlemleri, afet
+anında yapılması gerekenleri, afet sonrası ilk yardım bilgilerini, acil durum telefonlarını ve yaşadıkları ile
+özgü risk faktörlerine ilişkin araştırmalarını açık bir şekilde ifade eder. Tasarım sürecinde öğrenciler; içerik-
+lerini uygun başlıklarla düzenler, bilgi kutucukları oluşturur, telif hakkına uygun görseller kullanır ve sayfanın
+okunabilirliğine özen gösterir. Öğrenciler, içerik oluşturma sürecinde yapay zekâ destekli araçlardan da
+yararlanır. Öğretmen; sınıf içinde dolaşır, öğrencilere rehberlik eder, teknik destek sağlar ve yaratıcı fikir-
+leri teşvik eder. Dersin sonuna doğru gruplar, tasarımlarını gözden geçirir. Eksik ya da geliştirilmesi gereken
+noktaları not alır ve çalışmalarını bir sonraki derste sunmak üzere planlama yapar. Ders sonunda öğren-
+ciler, web sayfası çalışmalarını tamamlamaya yönelik sorumluluklarını bilir ve gruplarıyla iş birliği içinde
+ürünlerini son hâline getirir.
+Ders Sonrası
+Öğrencilerin çalışmalarını tamamlayamaması durumunda ders sonrası tamamlamaları ve bir sonraki
+derse hazır gelmeleri istenir.
+Bilgiyi toplama, Dijital bilgiyi anlamlandırma, Görseli yorumlama, Dijital ortamda
+bilerek davranma, Sorumlu karar verme, Yaratıcılık
+Ders Öncesi
+Öğretmen; hazırlanan web sayfalarının yalnızca bir teknoloji ürünü değil, toplumu bilinçlendirme amacı
+taşıyan önemli bir farkındalık çalışması olduğuna ve öğrenci katılımının önemine değinir. Bu nedenle değer-
+lendirme sürecinde hem içerik hem de tasarım açısından özenli olunması gerektiğine dikkat çeker.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+3. Ders (BT Sınıfı)
+Öğrenciler birbirlerinin çalışmalarını inceleyerek yorum yapar. Ardından öğretmen, sınıf genelinde öğrenci
+çalışmalarına ilişkin kısa bir değerlendirme yapar. Daha sonra grupların hazırladığı web sayfalarını payla-
+şarak öğrencilerden grupça çalışmaları incelemelerini ister. Her gruptan hazırlanan web sayfalarını incelerken
+sayfanın afetle ilgili genel bilgiler, afet öncesi, afet anı ve afet sonrası bilgileri içerip içermediğini; içeriğin
+doğru, açık ve anlaşılır biçimde sunulup sunulmadığını; bilgi kaynaklarının güvenilirliğini, kullanılan görsel-
+lerin telif hakkı kurallarına uygunluğunu ve sayfa düzeninin estetik yönden ve okunabilirlik açısından yeter-
+liliğini incelemesini ister. Her grubun emeğine saygı gösterilmesi gerektiğine değinir ve öğrencilerin ürettik-
+leri içeriğin toplum için değerli bir katkı olabileceğini hatırlatır. Öğretmen, hazırlanan web sayfalarının bir
+sivil toplum kuruluşu bilinciyle hazırlandığını ve topluma katkıda bulunan ürünler olduğunu tekrar vurgu-
+layarak öğrencilere teşekkür eder. Ardından değerlendirme kriterlerini dikkate alarak Akran Değerlendirme
+Formu ile öğrencilerin grup arkadaşlarını değerlendirmelerini ister (Ek-1).
+Ders Sonrası
+Öğrenciler akranlarından gelen geri bildirim ve önerileri de dikkate alarak çalışmalarını gözden geçirir.
+Ardından öğrenci çalışmalarının EBA, okul web sitesi ve sosyal medya hesaplarında paylaşılması ve yaygın-
+laştırılması öğretmen desteğiyle sağlanır.
+Eleştirel bakma, Dijital bilgiyi anlamlandırma, Fikri eyleme dönüştürme, İletişim,
+Dijital bilgiyi kullanarak eleştirel düşünme, Mevcut olay/konu/duruma ilişkin ölçme
+yapmak, Sorumlu karar verme
+
+LINKS:[["EBA Afet Risk Haritası S.73", "U2Z1aNt"], ["Bir Tıkla Bilinçlen!", "3CMSer"], ["EBA Deprem", "C6RVZF"], ["EBA Sel", "zr9aRW"], ["EBA Çığ", "UHaNS0Z"], ["EBA Erozyon", "00J77m"], ["EBA Orman Yangını", "UTIKZ03"], ["Akran Değerlendirme Formu", "UGocZWd"]]

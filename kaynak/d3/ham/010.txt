@@ -1,0 +1,250 @@
+## 8. Sinif/Matematik/Geometri ve Olcme - Krallarin Oyununda Oteleme.pdf
+SURE:5 KOD:M.8.3.2.1.
+KAV:
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, öğrencilere derse ön hazırlık olması için satranç oyunu hakkında bilgi veren Satranç Hakkında
+Genel Bilgi (Bölüm 1) ile satranç taşlarını tanıtan Satranç Tahtası ve Taşları (Bölüm 2) isimli videoları EBA
+üzerinden gönderir. Öğrencilerden bu videoları izleyerek derse gelmelerini ister.
+Öğretmen, satranç hamleleri ve öteleme hareketi etkinlik kâğıdının yeterli sayıda çıktısını alır (Ek-1).
+Öğretmen, etkileşimli tahtadan genel ağda bilgisayara karşı satranç oynanabilen bir sayfa açar ve “Atı
+C3’e gönder.” komutunu verir. Öğrencilere bu ifadenin ne anlama geldiğini ve satranç oyunu ile ilgili
+neler bildiklerini sorar. Gelen cevapları etkileşimli tahtaya not eder ve öğrencilerle cevapları gözden
+geçirir. Öğretmen, videodaki bilgilere ilave olarak satrancın hem sosyalleşmeye katkıda bulunduğunu
+hem de zekâ oyunları arasında oldukça popüler olduğunu vurgular. Ayrıca bu oyunun her yaştan insana
+hitap ettiğini belirtir. Satrancın yaratıcılık, analitik düşünme, muhakeme gibi becerileri geliştirdiğini
+gösteren araştırmaların olduğunu söyler. Satranç taşlarının belli kurallara göre belli yönlerde satranç
+tahtası üzerinde hareket ettiğinden bahseder. Öğrencilere “Bu hareketleri genel olarak tek bir kelime ile
+ifade edecek olsanız ne derdiniz?” diye sorar. Cevapları aldıktan sonra öğrencilerin dikkatini öteleme
+kavramına çeker.
+Öğretmen “Öteleme; bir noktanın, bir doğrunun veya bir cismin doğrusal olarak ilerletilmesidir.” tanımını
+sınıfa yapar. Öğrencilere bu derste geometrinin alt kollarından biri olan dönüşüm geometrisinde öteleme
+hareketini öğreneceklerini, öteleme ile bir cismin hareket ettirilmesi için komutlar vereceklerini söyler.
+Bu konunun günlük yaşamda robotik kodlama, haritalandırma gibi pek çok alanda kullanıldığını ifade
+eder. Öteleme hareketi ile cismin şekli, büyüklüğü veya yönünde bir değişiklik olmayacağı bilgisini verir.
+Öğretmen, tekrar oyuna dönerek dersin başında söylediği “Atı C3’e gönder.” ifadesinde aslında satranç
+tahtasında A2 karesinde yer alan beyaz atın L hareketini yaparak C3’e gelmesinden bahsettiğini açıklar.
+Bu hareketi oyun üstünde uygular. Aslında bu hareketin 2 birimkare yukarı ve 1 birimkare sağa ötelemeye
+denk olduğunu vurgular.
+Öğretmen bu bilgilendirmenin ardından öğrencileri dörder veya beşer kişilik gruplara ayırır. Etkileşimli
+tahtadaki satranç oyununda taşları oyun başlama moduna getirerek gruplara satranç hamleleri ve
+öteleme hareketi etkinlik kâğıdını dağıtır (Ek-1). Öğrencilerden taşların dizilimine ve satranç tahtası
+üzerindeki konumlarına dikkat ederek yaptıkları hamlelere uygun öteleme hareketini tabloya yazmalarını
+veya öteleme hareketi verilen hamlelerde taşın hangi kareye geleceğini bulmalarını ister. Etkinliğin sonunda
+bir değerlendirme yapacağını önceden söyleyerek değerlendirme kriterleri hakkında gruplara bilgi verir.
+Grup değerlendirme formu ile grupların etkinliklerini değerlendirir (Ek-2). Değerlendirme bittikten sonra
+sonuçları öğrenciler ile paylaşır.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri
+Ders Öncesi
+Öğretmen, dinamik matematik ve geometri araçları ile çokgenlerde öteleme etkinliği yönergesini EBA
+duvarda öğrencilerle paylaşır ve onlardan incelemelerini ister (Ek-3).
+3. Ders (BT Sınıfı)
+Öğretmen, dinamik matematik ve geometri araçlarını kullanarak öteleme hareketini farklı şekil ve
+cisimlerle uygulamak için dersi bilişim teknolojileri sınıfında organize eder. Öğrencilere önceki ders
+yaptıkları öteleme işlemini bu derste teknoloji araçlarını kullanarak yapacaklarını söyler. Öğrencilerinden
+EBA duvarda paylaşılan dinamik matematik ve geometri araçları ile çokgenlerde öteleme etkinliği
+yönergesini bilgisayardan açmalarını ister (Ek-3). Ardından öğrencilerine dinamik matematik ve geometri
+araçlarını açarak yönergede belirtilen adımları uygulamalarını ve bir çokgenin öteleme hareketini
+gerçekleştirmelerini söyler. Öğretmen, bu aşamada aracın kullanılması ile ilgili öğrencilere yol gösterir.
+Ayrıca öğrencilerden yönergeye uygun olarak yaptıkları ötelemelere ek olarak nokta, doğru parçası
+ve doğruları kullanarak da birer öteleme yapmalarını ister. Dersin devamında uzun cevaplı sorular
+oluşturmayı sağlayan web araçlarını kullanarak oluşturduğu Uzun Cevaplı Sorular etkinliğini öğrencilere
+yaptırır (Ek-4). Öğrencilerin cevapları sınıfça tartışılır.
+İlgili Yetkinlikler/Beceriler: Bilgi ve iletişim teknolojileri (BİT), Eleştirel düşünme
+Ders Sonrası
+Öğretmen, dersin sonunda EBA’da yer alan Öteleme Hareketi etkileşimli içeriğini öğrencilere çalışma
+olarak gönderir. EBA üzerinden öğrencilerin alıştırma sonrası elde edilen değerlendirme sonuçlarını inceler.
+4. Ders (Sınıf)
+Bu derste öğretmen, öğrencilerin bir noktanın ötelenmesi ile o noktanın koordinatlarında meydana gelen
+değişikliği görmelerini ve öteleme ile koordinat arasındaki ilişkiyi keşfetmelerini amaçlar. Öğretmen, sınıfı
+dörder veya beşer kişilik gruplara ayırır. Etkileşimli tahtadan dinamik matematik ve geometri araçlarını
+açarak bir noktanın öncelikle sağa veya sola doğru ötelenmesi ile ilgili örnekler verir. Gruplardan ötelenen
+noktanın koordinatlarındaki değişiklikleri açıklamalarını ister. Grup sözcüleri açıklamalarını yaptıktan
+sonra öğretmen, noktaların aşağı veya yukarı doğru ötelenmesini etkileşimli tahta üzerinden gösterir.
+Öğrencilerden ötelenen noktaların ilk ve son konumlarının koordinatları arasındaki ilişkiyi açıklamalarını
+ister ve grupların açıklamalarını dinler. Öğretmen, bu sefer noktaları hem aşağı veya yukarı hem de sağa
+veya sola olacak şekilde öteleyerek öğrencilerden açıklamalarının doğru olup olmadığını kontrol etmelerini
+ister. Gruplar, bu örneklerle ilgili açıklamalarının son hâlini oluşturduktan sonra öteleme hareketleri
+ile noktanın koordinatları arasındaki ilişkiyi dijital pano ya da post-it oluşturma araçlarını kullanarak
+etkileşimli tahtaya not eder. Öğrenciler, ortaya çıkan tespitleri hep birlikte tartışır ve ortak bir açıklama
+belirler. Öğretmen, belirlenen ortak açıklamayı etkileşimli tahtada dijital pano ya da post-it oluşturma
+aracına not eder. Ardından doğru-yanlış sorular oluşturmayı sağlayan web araçları yardımıyla hazırladığı
+Ötelemenin Doğrusu Yanlışı etkinliğini sınıfa uygular (Ek-5). Etkinlik yapılırken yanlış olduğu düşünülen
+her bir ifadenin doğrusu öğrenciler tarafından belirlenir. Etkinlik sonrasında cevaplar sınıfça tartışılır.
+İlgili Yetkinlikler/Beceriler: Keşfetme, İletişim, Bilgi ve iletişim teknolojileri (BİT)
+Ders Öncesi
+Öğretmen öğrenciler için EBA üzerinden bir sınav oluşturur (Ek-6).
+5. Ders (BT Sınıfı)
+Öğretmen, dersin başında öğrencilere öğrendikleri bilgileri tekrar etmeleri ve pekiştirmeleri için EBA
+üzerinden Koordinat Sisteminde Öteleme isimli etkileşimli videoyu çalışma olarak gönderir ve onlardan
+videodaki etkinlikleri tamamlamalarını ister. Videodaki boşluk doldurma bölümlerinde zorlanan öğren-
+cilere yardımcı olur. Ders öncesinde hazırladığı sınavı öğrencilere çalışma olarak gönderir. Öğrenciler
+bu sınavı bireysel olarak ders esnasında öğretmenin verdiği sürede tamamlar. Öğretmen, öğrencilerin
+değerlendirme raporlarını EBA üzerinden inceler. Öğrencilerin yanlış yaptığı veya yapamadığı soruları
+gönüllü öğrencilere çözdürür veya kendisi çözer.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri
+Değerlendirme Yöntemleri/Araçları
+• EBA + sınav
+• EBA + etkileşimli içerikler
+• Doğru-yanlış sorular oluşturmayı sağlayan web araçları
+• Uzun cevaplı sorular oluşturmayı sağlayan web araçları
+• Grup değerlendirme formu
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. EBA Satranç Hakkında Genel Bilgi (Bölüm 1): http://meb.ai/rSIACF (Son erişim tarihi: 06.06.2024)
+2. EBA Satranç Tahtası ve Taşları (Bölüm 2): http://meb.ai/UsA7spe (Son erişim tarihi: 06.06.2024)
+3. Uzun Cevaplı Sorular: https://meb.ai/zKCRaH (Son erişim tarihi: 06.06.2024)
+4. EBA Etkileşimli İçerik-Öteleme Hareketi: http://meb.ai/URgZQnI (Son erişim tarihi: 06.06.2024)
+5. Ötelemenin Doğrusu Yanlışı: https://meb.ai/URRaoVm (Son erişim tarihi: 06.06.2024)
+6. EBA Koordinat Sisteminde Öteleme: http://meb.ai/ULUZF7e (Son erişim tarihi: 06.06.2024)
+Kaynakça
+Köksal, A. (2006). Eğitimde satranç. Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi Dergisi, 12, 17-27. Son
+erişim tarihi 6 Haziran 2024, https://app.trdizin.gov.tr/makale/T0RVM09UazU/egit
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Eylül 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Quizizz. (2024). Kralların oyununda öteleme-ötelemenin doğrusu yanlışı. Son erişim tarihi 29 Kasım 2024,
+https://quizizz.com/admin/quiz/67486237faa4eea5811c7417?at=67486237681cfe6b15d64f2d
+Quizizz. (2024). Kralların oyununda öteleme-uzun cevaplı sorular. Son erişim tarihi 29 Kasım 2024, https://
+quizizz.com/admin/quiz/674860d558f9620f6d509e20?aiQuizGen=true&aiQuizPublished=true
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Satranç Hamleleri ve Öteleme Hareketi Etkinlik Kâğıdı
+Ek-2: Grup Değerlendirme Formu
+Ek-3: Dinamik Matematik ve Geometri Araçları ile Çokgenlerde Öteleme Etkinliği Yönergesi
+Ek-4: Uzun Cevaplı Sorular
+Ek-5: Noktanın Ötelenmesi ile İlgili Doğru-Yanlış Etkinliği
+Ek-6: EBA Üzerinden Sınav Oluşturmak İçin Kullanılacak Soru Kodları
+EK-1
+Satranç Hamleleri ve Öteleme Hareketi Etkinlik Kâğıdı
+Aşağıda bir satranç tahtasında bulunan bazı taşlar ile bu taşların ilk ve hamle yaptıktan sonra ulaşacağı konum bilgileri verilmiştir. Her bir taş için yaptığı
+hamleye uygun olan öteleme ifadesini örnekte olduğu gibi yazınız.
+Taş İsmi ve Rengi Taşın İlk Konumu Taşın Hamle Yapacağı Taşın Hamlesine Uygun Öteleme İfadesi
+Konum
+Örnek: Beyaz At A2 C3 2 birim yukarı 1 birim sağa
+Beyaz Piyon G2 G4 …
+Siyah Vezir D8 A5 …
+Siyah Kale H8 H3 …
+Beyaz Fil F1 B5 …
+Siyah At G8 … 2 birim aşağı 1 birim sola
+Siyah Şah E8 … 1 birim aşağı 1 birim sağa
+Beyaz Vezir D1 … 4 birim sağa 4 birim yukarı
+Kralların Oyununda Öteleme
+EK-2
+Grup Değerlendirme Formu
+Bu form, grupların yaptıkları öteleme etkinliğinin öğretmen tarafından değerlendirilmesi amacıyla geliştirilmiştir. Her bir kriter ve grup için verilen derecelerden
+uygun olanın puanını yazınız.
+DERECELER Geliştirilebilir: 1, Kısmen yeterli: 2, Yeterli: 3, İyi: 4, Çok iyi: 5
+1. Grup Adı 2. Grup Adı 3. Grup Adı 4. Grup Adı 5. Grup Adı
+KRİTERLER
+........................ ........................ ........................ ........................ ........................
+Grup içi iş birliği
+Grup üyeleri arasındaki iletişim
+Grup üyelerinin zaman yönetimi
+Grup üyelerinin satranç oyunu hamleleri ile öteleme
+hareketini ilişkilendirmesi
+Grup üyelerinin öteleme hareketini kavrama durumu
+TOPLAM PUAN
+GENEL DEĞERLENDİRME
+................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................
+Kralların Oyununda Öteleme
+EK-3
+Dinamik Matematik ve Geometri Araçları ile
+Çokgenlerde Öteleme Etkinliği Yönergesi
+İŞLEM ADIMLARI UYGULAMA
+1. Adım Dinamik matematik ve geometri araçları açılır.
+2. Adım Alana bir çokgen eklenir.
+3. Adım Vektörle öteleme işlemi yapılır.
+Ekranda ötelenmek istenen şekil seçilir. Daha sonra ekranda
+herhangi bir nokta seçilerek ötelenmek istenilen yön ve uzaklıkta
+4. Adım bir nokta daha seçilir ve öteleme işlemi tamamlanır. Bu iki noktanın
+oluşturduğu ışının uzunluğu ve yönü öteleme hareketinin uzunluğu
+ve yönünü temsil etmektedir.
+Kralların Oyununda Öteleme
+EK-4
+Uzun Cevaplı Sorular
+Aşağıdaki soruları okuyunuz ve cevaplarını altında verilen noktalı bölümlere yazınız.
+1. Dinamik matematik ve geometri araçlarını kullanarak öteleme yaparken
+zorlandığınız yerler var mıdır? Açıklayınız.
+...............................................................................................................................................................................................
+...............................................................................................................................................................................................
+2. Dinamik matematik ve geometri araçları ile hangi geometrik şekilleri
+öteleyebilirsiniz?
+...............................................................................................................................................................................................
+...............................................................................................................................................................................................
+3. Öteleme sonucu elde edilen şekil ile ilk şekil arasında ne gibi benzerlikler veya
+farklılıklar oluştu?
+...............................................................................................................................................................................................
+...............................................................................................................................................................................................
+4. Ötelenen şeklin köşe isimlerinde ne gibi değişiklikler oldu?
+...............................................................................................................................................................................................
+...............................................................................................................................................................................................
+5. Ötelenen şekil ile ilk şeklin köşe noktalarının koordinatları arasında bir ilişki var
+mıdır? Açıklayınız.
+...............................................................................................................................................................................................
+...............................................................................................................................................................................................
+6. Uygulamayı kullanırken sol bölümde oluşan bölüm dikkatinizi çekti mi? Sizce bu
+bölümün amacı ne olabilir?
+...............................................................................................................................................................................................
+...............................................................................................................................................................................................
+Not: Cevaplar öğrencilere ve öğrencilerin gözlemlerine göre değişiklik göstereceğinden
+cevap anahtarına yer verilmemiştir. Uygulayıcı öğretmen sınıftaki öğrencilerin cevaplarına
+göre bir değerlendirme yapar.
+Kralların Oyununda Öteleme
+EK-5
+Noktanın Ötelenmesi ile İlgili
+Doğru-Yanlış Etkinliği
+Aşağıdaki verilen ifadeleri okuyarak doğru mu yanlış mı olduğunu
+belirleyiniz. Yanlış olduğunu düşündüğünüz ifadenin doğrusunu sözlü
+olarak arkadaşlarınız ile paylaşınız.
+İFADELER Doğru/Yanlış
+1. A (1,3) noktası 3 birim sağa ötelenirse
+A’(4,3) noktasına gelir.
+2. B (-4,8) noktası 2 birim aşağı
+ötelenirse B’(-4,6) noktasına gelir.
+3. C (-8,-3) noktası 3 birim yukarı
+ötelenirse C’(-5,-3) noktasına gelir.
+4. D (6,0) noktası 3 birim sola, 4 birim
+aşağı ötelenirse D’(2,-3) noktasına
+gelir.
+5. E (0,1) noktası 5 birim sağa, 2 birim
+aşağı ötelenirse E’(5,-1) noktasına
+gelir.
+Kralların Oyununda Öteleme
+EK-6
+EBA Üzerinden Sınav Oluşturmak İçin
+Kullanılacak Soru Kodları
+SORU
+SORU KODLARI
+NUMARASI
+Kralların Oyununda Öteleme
+CEVAP ANAHTARLARI
+Ek-1
+Taşın Hamle
+Taşın İlk
+Taş İsmi ve Rengi Yapacağı Taşın Hamlesine Uygun Öteleme İfadesi
+Konumu
+Konum
+Örnek: Beyaz At A2 C3 2 birim yukarı 1 birim sağa
+Beyaz Piyon G2 G4 2 birim yukarı
+Siyah Vezir D8 A5 3 birim aşağı 3 birim sola
+Siyah Kale H8 H3 5 birim aşağı
+Beyaz Fil F1 B5 4 birim sola 4 birim yukarı
+Siyah At G8 F6 2 birim aşağı 1 birim sola
+Siyah Şah E8 F7 1 birim aşağı 1 birim sağa
+Beyaz Vezir D1 H5 4 birim sağa 4 birim yukarı
+Ek-5
+1.Soru 2.Soru 3.Soru 4.Soru 5.Soru
+Yanlış/ Yanlış/
+Doğru Doğru Doğru
+Doğrusu: C’(-8,0) Doğrusu: D’(3,-4)
+Kralların Oyununda Ötelem
+LINKS:[["EBA Satranç Hakkında Genel Bilgi (Bölüm 1)", "rSIACF"], ["EBA Satranç Tahtası ve Taşları (Bölüm 2)", "UsA7spe"], ["Uzun Cevaplı Sorular", "zKCRaH"], ["EBA Etkileşimli İçerik-Öteleme Hareketi", "URgZQnI"], ["Ötelemenin Doğrusu Yanlışı", "URRaoVm"], ["EBA Koordinat Sisteminde Öteleme", "ULUZF7e"]]

@@ -1,0 +1,52 @@
+## 5. Sinif/Turkce/Geleneklerimiz - Kirk Yillik Hatir.pdf
+SURE:3 KOD:T.O.5.3. T.O.5.16. T.Y.5.1.
+KAV:Türk Kahvesi, Okuma stratejisi, Yazma süreci
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, Türk Kahvesi adlı metni ve Kelime İlişkilendirme Testi’ni öğrenci sayısı kadar çoğaltır (Ek-1, Ek-2).
+1. Ders (Sınıf)
+Öğretmen, konuya dikkat çekmek için öğrencilere “Kahve denince aklınıza neler geliyor?” sorusunu yöneltir.
+Aldığı yanıtları kullanarak kelime bulutu oluşturma araçlarından biri ile bir kelime bulutu oluşturur ve ortaya
+çıkan sonuçlara yönelik bir tartışma ortamı oluşturur. Ardından görsel düzenleme araçları ile hazırlanan
+Kelime İlişkilendirme Testi’ni öğrencilere dağıtır ve doldurmalarını ister (Ek-2). Gönüllü öğrencilerden cevap-
+larını sözlü olarak aldıktan sonra Türk Kahvesi adlı metni öğrencilere dağıtır ve görsel düzenleme araçlarıyla
+hazırlanan Okuma Stratejisi Planlama Tablosu’nu etkileşimli tahtada açar. Öğrencilere okuma öncesinde
+tabloda yer alan soruları defterlerine yazarak cevaplamalarını ve sonrasında metni okumalarını söyler.
+Okunan metnin anlaşılmasına yönelik olarak öğrencilere “Sizce bir içecek, kültürün parçası hâline nasıl
+gelebilir?” ve “Türk kahvesinin sosyal ilişkilerdeki rolü hakkında neler söyleyebilirsiniz?” sorularını yöneltir.
+Öğrenci cevaplarını sözlü olarak aldıktan sonra öğrencilere anahtar kelimelerin bir metnin konusunu, ana
+düşüncesini ve önemli noktalarını anlamayı sağlayan temel kelime veya kavramlar olduğunu açıklar. Türk
+Kahvesi metninin anahtar kelimelerini belirlemeleri için oyunlaştırılmış ölçme ve değerlendirme web araçları
+ile hazırlanan Anahtar Kelimeler etkinliğini açar ve öğrencilere yaptırır. Öğretmen, etkinlik esnasında belir-
+lenen her bir anahtar kelimeden sonra öğrencilerden anahtar kelimenin metinle olan ilişkisini açıklama-
+sını ister.
+Ders Öncesi
+Öğretmen, Yazma Görevi Planlama Formu’ndan beş adet çoğaltır (Ek-3).
+2. Ders (Sınıf)
+Öğretmen, bu dersin başında sınıfı beş gruba ayırır ve her grubun Türk kahvesinin yabancılara tanıtılma-
+sına ilişkin farklı bir dijital metin yazma görevi üstleneceğini bildirir. Yazma görevlerini belirleyebilmeleri için
+oyunlaştırma web araçları ile hazırlanan Yazma Görevimi Belirliyorum etkinliğini açar. Görevler belirlen-
+dikten sonra grup üyelerine bir araya gelerek görevlerine ilişkin planlama yapmalarını söyler ve gruplara
+Yazma Görevi Planlama Formu’nu dağıtır (Ek-3). Öğrencilerin yazacakları metni planlarken formdan yarar-
+lanabileceklerini belirtir ve onlardan formu doldurmalarını ister. Yazacakları metinlerin grup değerlendirme
+yapmayı sağlayan web araçları ile hazırlanan Yazma Görevi Grup Değerlendirme Formu ile değerlendi-
+rileceğini bildirir ve formdaki kriterleri öğrencilere açıklar (Ek-4). Gruplar planlamalarını yaptıktan sonra
+metinlerini yazmaya başlar. Öğretmen, ders süresinde metnini tamamlayamayan gruplara çalışmalarını
+ders sonrasında tamamlamalarını söyler ve dersi sonlandırır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen Yazma Görevi Grup Değerlendirme Formu’nu EBA’dan sınıfla paylaşır. Ders süresinde metinle-
+rini tamamlayamayan gruplar, iş birlikli çalışmayı destekleyen araçları kullanarak metinlerini tamamlar
+ve EBA’dan sınıfla paylaşır. Öğrenciler, değerlendirme formunu kullanarak Türk kahvesi ile ilgili hazırladık-
+ları metinleri bireysel olarak değerlendirir.
+Bilgi toplama, Yapılandırma, Sorumluluk, Oyunseverlik, Sistematiklik, Yazmayı yönetme,
+İçerik oluşturma, Kural uygulama, Süreci değerlendirme, İş birliği, Bilgiyi sentezleme,
+Dijital ortamlar için içerik oluşturma ve paylaşma
+3. Ders (Sınıf)
+Bu derste gruplar, yazdıkları metni sırayla etkileşimli tahtada açar ve arkadaşlarına okur. Her okumanın
+sonunda diğer öğrenciler grup üyelerine metne ilişkin merak ettiklerini sorar. Öğretmen, soru-cevap kısmını
+grup üyelerinin yönetmesine izin vererek doğru zamanda söz alma ve verme davranışlarını pekiştirir.
+Okumaların tamamlanmasının ardından öğrencilerin yazdıkları metinlere ve grup değerlendirme formla-
+rına ilişkin geri bildirimler vererek dersi sonlandırır.
+
+LINKS:[["Kelime İlişkilendirme Testi", "UkdDRFn"], ["Okuma Stratejisi Planlama Tablosu", "0PDlJz"], ["Anahtar Kelimeler", "PbSt45"], ["Yazma Görevimi Belirliyorum", "Uqdh6JM"], ["Yazma Görevi Grup Değerlendirme Formu", "UWphQp4"]]

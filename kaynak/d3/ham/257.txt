@@ -1,0 +1,133 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (2) - Bilim Insanlarinin Elinden Ondalik.pdf
+SURE:5 KOD:MAT.6.1.5.
+KAV:Basamak değeri, Yuvarlama, Sıralama
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, “Döndür Bakalım” etkinliği için kullanacağı kesirleri hazırlanan kesir listesinden keserek bir torbaya
+koyar (Ek-1). Grup etkinliği için sınıf sıralarını dört öğrencinin birlikte çalışabileceği şekilde düzenler. Öğren-
+cileri öğrenme hızlarına göre heterojen şekilde dörder kişilik gruplara ayırır.
+1. Ders (Sınıf)
+Öğretmen, derse başlarken etkileşimli sunum aracı ile hazırlanan Bu Bilim İnsanı Kim? sunumunu etkileşimli
+tahtada açar. Sunumun her bölümünde verilen bilgilerle ilgili görüş belirtmek isteyen öğrencilere söz verir.
+Öğretmen, öğrencilere matematik tarihinde ondalık gösterimin kullanılma nedenlerini aktarır. Bu nedenler
+arasında kesirlere göre daha pratik olması, işlemlerde kolaylık sağlaması, günlük yaşamda daha kullanışlı
+ve teknolojik araçlara daha uyumlu olması gibi etkenlerin öne çıktığını belirtir. Öğretmen, görsel düzen-
+leme aracı ile hazırladığı Kesir mi? Ondalık mı? görselini etkileşimli tahtada açar ve öğrencilerden görseli
+inceleyip düşüncelerini paylaşmalarını ister.
+Öğretmen, EBA’dan Kesirlerin Ondalık Gösterimleri isimli videoyu açarak kesirlerin ondalık gösterime dönüş-
+türülmesiyle ilgili bilgileri öğrencilere hatırlatır. Öğretmen, video sonunda ek açıklamalarda bulunur ve
+öğrencilerin soruları varsa yanıtlar.
+Öğretmen, “Döndür Bakalım” etkinliğini sınıfa açıklar ve görsel düzenleme aracı ile hazırlanan, tamam-
+lanmış bir Örnek Etkinlik Görselini etkileşimli tahtada gösterir. Ardından sorusu olan öğrencilerin sorularını
+yanıtlayarak etkinliği başlatır. Her gruba bir kesir verir. Grup üyeleri, iş birliği içinde kesrin paydasını 10, 100
+veya 1000 yapma, kesrin ondalık gösterimini yazma, ondalık gösterimin okunuşunu yazma ve buna uygun
+bir model oluşturma görevlerini sırasıyla yerine getirir. Her turun sonunda grup sözcüsü, grubunun çalış-
+masını sınıfa sunar. Öğretmen, her grubun birden fazla kesirle çalışmasına özen gösterir ve etkinliği dersin
+sonuna kadar sürdürür.
+Ders Sonrası
+Öğretmen, öğrencilerden Kâşî ile ilgili araştırma yapmalarını ve özellikle ondalık gösterimleri kullandığı Miftâ-
+hu’l-hisâb (Hesabın Anahtarı) isimli eserini araştırmalarını ister. Ayrıca ondalık gösterimlerle çalışan Stevin
+(Ste:’vın), Napier (Napiyer) ve Kepler’in bu alandaki çalışmalarını incelemelerini söyler. Öğrencilerin yaptık-
+ları araştırmalardan elde ettikleri bilgileri paylaşmaları için EBA’da bir tartışma başlatır. Bir sonraki derste
+öğrencilerin paylaşımlarını sınıfça inceleyeceklerini belirtir.
+Bilgi toplama becerisi, İş birliği becerisi, Görseli yorumlama, Sorumluluk, Çalışkanlık
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, 5. sınıfta öğrenilen doğal sayıların basamak adları ve basamak değerleri konularını öğrencilerin
+hatırlamaları ve yeni bilgilerle bağ kurmaları amacıyla EBA’dan Doğal Sayıların Basamak Değerlerini Belir-
+leme adlı alıştırmayı çalışma olarak gönderir.
+2. Ders (Sınıf)
+Öğretmen, EBA’da başlattığı tartışmayı etkileşimli tahtada açarak öğrencilerin verdikleri cevapları sınıfa
+aktarır. Cevapları okuduktan sonra öğrencilerden paylaşımı yapan kişiye soruları varsa sormalarını ister.
+Öğretmen de paylaşımı yapan öğrenciye aktardığı bilgilerle ilgili sorular sorar.
+Öğretmen, her öğrenciyi yanındaki arkadaşıyla eşleştirerek ikişerli gruplar oluşturur. Öğrencilere Ahmet’in
+bir problemi olduğunu ve bu problemi çözmek için ona yardım etmeleri gerektiğini söyler. Görsel düzen-
+leme aracı ile hazırlanan Ahmet’in Para Problemi görselini etkileşimli tahtada açar. Her gruptan iş birliği
+içinde çalışarak problemin cevabını bulmalarını ister. Çalışmanın sonunda gönüllü öğrenciler cevapla-
+rını paylaşır. Öğretmen, öğrencilerin paylaştıkları cevapları tahtaya yazar. Yanlış veya eksik olan cevapları
+düzelterek gerekli açıklamaları yapar. Dersin devamında öğrencilerin her basamak için aynı para türünü
+kullandıklarını fark etmelerini sağlar. Örneğin 453,87 TL tutarındaki parayı elde etmek için 4 tane 100 TL, 5
+tane 10 TL, 3 tane 1 TL, 8 tane 10 kuruş ve 7 tane 1 kuruş kullanmak gerektiğini söyler. Öğretmen; 10 kuruşun
+TL’ye eşit olduğunu ifade eder. Buradan yola
+çıkarak ondalık gösterimlerde de doğal sayılarda olduğu gibi her basamağın bir basamak değeri olduğunu
+vurgular. Paralarla ilgili problemde görüldüğü gibi virgülün solundaki ilk basamak için 1 TL kullanılır, bu da
+bu basamağın birler basamağı olduğunu gösterir. Benzer şekilde virgülün sağındaki ilk basamak için de
+1
+her zaman 10 kuruş yani 10 TL kullanılır. Bu da bize bu basamağın onda birler basamağı olduğunu gösterir.
+Öğretmen, bu açıklamayı yaptıktan sonra görsel düzenleme aracı ile oluşturulan Basamak Adları ve Basamak
+Değerleri adlı görseli açarak öğrencilere ondalık gösterimlerin basamak adlarını ve bu basamaklara ait
+değerleri açıklar. Dersin devamında EBA’dan Ondalık Gösterimde Basamak Adları ve Basamak Değerleri
+adlı etkileşimli içeriği etkileşimli tahtada açar ve gönüllü öğrencilerden tahtaya gelerek alıştırmayı tamam-
+lamalarını ister.
+3. Ders (Sınıf)
+Öğretmen, bir önceki derste öğrenilen ondalık gösterimlerin basamak adları ve basamak değerlerini pekiş-
+tirmek amacıyla “Arkadaşım Basamak”
+Matematiksel oyununu oynatır.
+doğrulama Bunun
+veya ispat içinMatematiksel
+yapma, öğrencilere görsel düzenleme
+temsillerden aracı ile
+yararlanma,
+hazırladığı Sınıf Düzeni Görseli’ni açar. Butemsilleri
+Matematiksel oyun için öğretmen, yere öğrencilerin
+değerlendirme, içindeçözümler
+Matematiksel ayakta durabilecekleri
+geliştirme,
+büyüklükte olan yan yana altı kare çizer. Bu altı kare, ondalık gösterimin altı basamağını temsil edeceği için
+Yorumlama, Yansıtma, İş birliği, Sözlü ya da sözsüz olarak etkileşim sağlamak, Grup
+üçüncü kare ile dördüncü kare arasına da birAnalitik
+virgül çizer. Gönüllü altı öğrenci seçer ve yüzleri
+iletişimine katılmak, düşünme, Empati, Oyunseverlik, Dijital bilgisınıfa dönük
+üzerinden
+olacak şekilde karelere yerleştirir.
+çıkarım yapmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Karelerin içinde yer alan öğrenciler, parmaklarıyla 0’dan 9’a kadar bir rakamı gösterir. Hiçbir rakam göster-
+meyen öğrencinin rakamı sıfır kabul edilir. Öğretmen sınıftan gönüllü bir öğrenci seçerek oyunu başlatır.
+Seçilen öğrenciye ayaktaki öğrencilerden biri “Benim basamak adım ne?” ya da “Benim basamak değerim
+ne?” sorularından birini sorar. Gönüllü öğrenciye bir ya da birden fazla soru sorulabilir. Gönüllü öğrenci
+değiştikçe ayaktaki öğrenciler gösterdikleri rakamları değiştirebilir. Öğretmen tüm öğrencileri oyuna katıl-
+maları için teşvik eder. Öğretmen, öğrencilere geçen derste çözdükleri para problemini hatırlatır ve her
+basamağın basamak değeri kadar para kullanarak istenen miktarı elde ettiklerini belirtir. Aynı şekilde bir
+ondalık gösterimi elde etmek için ondalık gösterimi oluşturan rakamların basamak değerlerini toplamanın
+yeterli olduğunu söyler. Eşleştirme yapabilmeyi sağlayan web aracıyla tasarlanan Ondalığı Eşleştir etkinli-
+ğini etkileşimli tahtada açar (Ek-2). Gönüllü öğrenciler tahtaya gelerek her satırdaki ondalık gösterim için
+sırasıyla paydası 10, 100 ve 1000 olan kesirleri seçer ve uygun boşluklara sürükleyip bırakır. Öğretmen, etkin-
+liğin sonunda yanlış eşleştirmeler ve anlaşılmayan kısımlarla ilgili açıklamalarda bulunur.
+4. Ders (BT Sınıfı)
+Öğretmen, öğrencilerin ondalık gösterimleri kare ve dikdörtgen modeller ile sayı doğrusu üzerinde ifade
+etmeleri için eşleştirme yapabilmeyi sağlayan web aracıyla hazırlanan Ondalığını Söyle etkinliğini sınıf
+yönetimi aracında paylaşır (Ek-3). Öğrenciler, bu etkinliği bilgisayarları üzerinden bireysel olarak tamam-
+larlar. Tüm öğrenciler etkinliği tamamladıktan sonra öğretmen aynı etkinliği etkileşimli tahtada açarak
+gönüllü öğrencilerle etkinliği yeniden uygular. Gerekli yerlerde açıklamada bulunarak sorusu olan öğren-
+cilerin sorularını yanıtlar. Dersin devamında öğretmen, dijital hikâye oluşturma aracı ile hazırlanan Kırta-
+siye Alışverişi adlı animasyonu etkileşimli tahtada açar. Aynı animasyonu sınıf yönetimi aracıyla paylaşarak
+öğrencilere bilgisayarlarından da açmalarını ve dikkatli bir şekilde izlemelerini söyler. Öğrenciler animas-
+yonu izledikten sonra öğretmen “Benzer hesaplamaları yapan ya da yakınlarının bu şekilde hesaplamalar
+yaptığını gören var mı?” diye sorar. Öğrencilerden gelen cevapları dinledikten sonra EBA’dan Ondalık
+Gösterimleri Verilen Sayıları Yuvarlama adlı canlandırma videosunu tahtada açar. Video tamamlandıktan
+sonra öğretmen, ondalık gösterimlerin yuvarlanması ile ilgili bilgileri tekrarlayarak sorusu olan öğrencilerin
+sorularını yanıtlar. Dersin devamında EBA’dan Ondalık Gösterimleri Yuvarlama etkileşimli içeriğini öğren-
+cilere çalışma olarak gönderir ve öğrencilerden bilgisayarlarından etkinliği tamamlamalarını ister. Etkinlik
+süresince ihtiyaç duyan öğrencilere yardımcı olur. Öğrenciler etkinliği tamamladıktan sonra gönüllü öğren-
+cilerle etkileşimli tahtada etkinliği yeniden uygular.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+5. Ders (BT Sınıfı)
+Öğretmen, dersin başında öğrencilere “Kimler gizemleri çözmeyi veya gizli hazineleri bulmayı sever?”
+sorusunu yöneltir. Öğrencilerin cevaplarından sonra etkileşimli sunum aracı ile hazırladığı Gizli Hazine adlı
+etkileşimli sunumu sınıf yönetimi aracıyla öğrencilerle paylaşır. Öğrencilere sunumdaki haritada yer alan
+adımları izleyerek hazineye ulaşmalarını söyler. Öğrenciler etkinliği tamamladıktan sonra öğretmen, ulaştık-
+ları hazinenin ne olduğunu paylaşmalarını gönüllü öğrencilerden ister. Öğrencilerin paylaşımlarından sonra
+öğretmen aynı etkinliği etkileşimli tahtada açarak haritada yer alan bilgileri tekrar açıklar. Sorusu olan
+öğrencilerin varsa sorularını yanıtlar. EBA’dan Ondalık Gösterimleri Sıralama etkileşimli içeriğini öğrencilere
+çalışma olarak gönderir. Öğrencilere bu çalışmayı bilgisayarlarından tamamlamalarını söyler. Bu çalışmanın
+ardından öğretmen aynı alıştırmayı etkileşimli tahtada açarak gönüllü öğrencilerden sıralama yapmala-
+rını ve sıralama yaparken nelere dikkat ettiklerini açıklamalarını ister. Gerekli yerlerde ek açıklamalar da
+yapar. Dersin devamında öğretmen, ondalık gösterim konusuyla ilgili öğrencilerin öğrenmelerini ölçmek ve
+konuyu tekrar gözden geçirmek için çoktan seçmeli sorular hazırlamayı sağlayan web aracı ile hazırladığı
+Ondalık Gösterim Testi’ni sınıf yönetimi aracıyla paylaşır (Ek-4). Öğrencilerden bireysel olarak testi tamam-
+lamalarını ister. Öğrenciler testi tamamladıktan sonra aynı testi etkileşimli tahtada açar ve tahtaya gelerek
+soruları tekrar cevaplamalarını gönüllü öğrencilerden ister. Öğretmen, yanlış yapılan ya da anlaşılamayan
+sorularla ilgili açıklamalarda bulunur.
+
+LINKS:[["Bu Bilim İnsanı Kim?", "UIeIxTo"], ["Kesir mi? Ondalık mı?", "yX5iiO"], ["EBA Kesirlerin Ondalık Gösterimleri", "UYv4iEj"], ["Örnek Etkinlik Görseli", "M9pcH9"], ["EBA Doğal Sayıların Basamak Değerlerini Belirleme", "UPBlBJY"], ["Ahmet’in Para Problemi", "UYN7lbn"], ["Basamak Adları ve Basamak Değerleri", "UFRzw0K"], ["EBA Ondalık Gösterimde Basamak Adları ve Basamak Değerleri", "9cfCGK"], ["Sınıf Düzeni Görseli", "U3DYogA"], ["Ondalığı Eşleştir", "UqGLrop"], ["Ondalığını Söyle", "UD8lvpn"], ["Kırtasiye Alışverişi", "mEBmCO"], ["EBA Ondalık Gösterimleri Verilen Sayıları Yuvarlama", "UiywZw0"], ["EBA Ondalık Gösterimleri Yuvarlama", "U82DTwD"], ["Gizli Hazine", "uW24GZ"], ["EBA Ondalık Gösterimleri Sıralama", "Uq28aYA"], ["Ondalık Gösterim Testi", "Vrk9YO"]]

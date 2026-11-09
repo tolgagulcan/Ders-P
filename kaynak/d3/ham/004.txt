@@ -1,0 +1,342 @@
+## 8. Sinif/Matematik/Cebir - Matematiksel Esitsizlikler Ile Gunluk Hayat Problemlerini Cozme.pdf
+SURE:3 KOD:M.8.2.3.3.
+KAV:
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, dersin başında Suyumuzun Geleceği Tehdit Altında videosunu öğrencilere izleterek suyun
+hayatımızdaki rolüne ve her gün kullandığımız bu değerli kaynağı daha sürdürülebilir bir şekilde nasıl
+değerlendirebileceğimize dikkat çeker. “Su, hayatın temel kaynağıdır ve sürdürülebilir su yönetimi, gelecek
+nesiller için çok büyük bir öneme sahiptir. Bugün, su kaynaklarımızı daha verimli nasıl kullanabileceğimizi
+ve su tüketimini nasıl daha sürdürülebilir hâle getirebileceğimizi; bir şehrin su tüketiminin sürdürülebilirliği
+ile ilgili bir problem üzerinde çalışacağız.” şeklinde açıklama yapar ve etkileşimli beyaz tahta araçlarıyla
+hazırladığı Bilinçli Su Tüketimi çalışma panosunda problem durumunu açar (Ek-1). Öğrencilerle panodaki
+problemi inceleyerek soruları adım adım cevaplandırır. Bu süreç, öğrencilerin eşitsizliklerin çözümünü
+anlamalarına yardımcı olur. Ayrıca öğretmen öğrencilere su tasarrufu için alınabilecek önlemleri sorar ve
+bu önerileri çalışma panosuna kaydeder. Bu sayede öğrencilerin suyun değerini anlamalarını ve günlük
+yaşamlarında suyu daha verimli kullanmak için somut adımlar atmalarını sağlar.
+Öğretmen, eşitsizliklerin çözümünü kavratabilmek için eşitsizlik kavrama soruları ile derse devam eder
+(Ek-2). Öğrenciler, bu örneklerde nasıl işlem yapılması gerektiğini öğrendikten sonra oyunlaştırılmış ölçme
+ve değerlendirme web araçlarıyla hazırlanan Eşitsizlik Eşleştirme oyununu etkileşimli tahtada gönüllülük
+esasına dayalı olarak oynar. Öğretmen, soru çözümlerinde öğrencilere rehberlik eder (Ek-3). Soru çözümü
+için söz alan öğrencilere pekiştirme amaçlı eğlenceli etiketler verir. EBA’da yer alan Birinci Dereceden Bir
+Bilinmeyenli Eşitsizliklerin Çözümü konu anlatım videosunu öğrencilere izleterek anlamadıkları yerlerde
+geri bildirimde bulunur ve dersi tamamlar.
+Ders Sonrası
+Öğretmen EBA’dan Birinci Dereceden Bir Bilinmeyenli Eşitsizlikler alıştırma sorularını ek çalışma olarak
+verir ve bir sonraki ders kontrolünü sağlayacağını öğrencilere söyler.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Matematiksel yetkinlik, Bilgi ve iletişim
+becerileri (BİT)
+Ders öncesi
+Öğretmen, öğrencileri ikişerli gruplara ayırır ve yapacakları grup çalışmasıyla ilgili bilgilendirir.
+Öğretmen, etkileşimli tahtada açtığı dikkat çekici bir problemle derse devam eder (Ek-4). Öğrencilere
+sorunun çözümünde hangi adımları kullanmaları gerektiğini sorar. Burada ders öncesinde eşitsizliğin
+çözümü ile ilgili izledikleri videoyu hatırlatarak öğrencilerden kendi çözümlerini defterlerine yapmalarını
+ister. Öğrencilerin çözümlerini kontrol eder ve etkileşimli tahtada doğru çözümün adımlarını anlatır.
+Öğretmen, gıda hijyeni ve güvenliği ile ilgili farkındalık oluşturmak amacıyla etkileşimli sunum aracıyla
+hazırladığı Gıda Güvenliği ve Hijyeni sunumunu öğrencilerle paylaşır ve ardından öğrencilerden yaşadıkları
+olumlu ve olumsuz hijyen deneyimlerini anlatmalarını ister. Bu paylaşımlar, öğrencilerin konuya dikkatlerini
+çekmeyi ve günlük yaşamlarında karşılaştıkları hijyen uygulamalarını gözden geçirmelerini sağlar.
+Öğretmen, öğrencilere etkileşimli beyaz tahta araçlarıyla hazırladığı bilgi temelli gerçek yaşam problemini
+içeren Gıda Depolama ve Hijyen Kontrolü’nü açar (Ek-5). Öğrencilere problemdeki soruları anlamaları
+için kısa bir süre verir ve gruplara kendi aralarında tartışma imkânı sağlar. Verilen çalışmanın grup
+değerlendirme formu ile değerlendirileceğinin bilgisini veren öğretmen formun kriterlerini açıklar (Ek-6).
+Her grup, depoda kalan bakteri miktarını gösteren bir eşitsizlik kuralı oluştururken başlangıç miktarı,
+temizlik işlemi sayısı ve kalan miktar arasındaki ilişkileri düşünmeleri için gruplara rehberlik eder. Gruplar
+oluşturdukları eşitsizlik kuralı ile soruları çözmeye çalışır. Öğretmen eşitsizlik kuralları oluşturulurken ve
+çözüm aşamasında dikkat edilmesi gereken konular hakkında öğrencilere bilgi verir, problem çözme
+sürecinde öğrencilere geri bildirimlerde bulunur. Her grup, kendi çalışma panosunda hazırladığı soruların
+çözümlerini ve eşitsizlik kuralını sunmak üzere bir temsilci seçer ve bu öğrenci kendi grubunun çözümü
+için oluşturdukları eşitsizlik kuralını ve sorulara verdikleri cevapları sınıfa açıklar. Öğretmen sınıf genelinde,
+öğrenci katılımını sağlamak ve soruların çözümü hakkında tartışma ortamı oluşturmak için zaman ayırır.
+Dersin sonunda grup değerlendirme formunu kullanarak öğrencileri değerlendirir (Ek-6). Bu sayede, ders
+akışı öğrencilerin etkileşimli öğrenme deneyimlerini artırırken öğrenciler matematiksel süreç becerilerini
+günlük hayat problemleri üzerinde uygulama fırsatı bulur.
+Ders Sonrası
+Öğretmen, hazırladığı beceri temelli eşitsizlik problemlerini öğrencilerin çözmesi için çıktı alır ve öğrencilere
+bir sonraki ders çözümleri birlikte kontrol edeceklerini söyler (Ek-7).
+İlgili Yetkinlikler/Beceriler: İş birliği, Matematiksel süreç becerileri, İletişim, Akıl yürütme
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Grup değerlendirme formu
+• Eşitsizlik kavrama soruları
+• Beceri temelli sorular
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Suyumuzun Geleceği Tehdit Altında: https://meb.ai/UPrQZ1l (Son erişim tarihi: 30.12.2024)
+2. Bilinçli Su Tüketimi: https://meb.ai/dIPUqt (Son erişim tarihi: 30.12.2024)
+3. Eşitsizlik Eşleştirme: http://meb.ai/UcN6nlC (Son erişim tarihi: 30.12.2024)
+4. EBA Birinci Dereceden Bir Bilinmeyenli Eşitsizliklerin Çözümü: http://meb.ai/UaHaqp4 (Son erişim tarihi:
+30.12.2024)
+5. EBA Birinci Dereceden Bir Bilinmeyenli Eşitsizlikler: http://meb.ai/UvuiaJN (Son erişim tarihi: 30.12.2024)
+6. Gıda Güvenliği ve Hijyeni Sunumu: https://meb.ai/91yQDG (Son erişim tarihi: 30.12.2024)
+7. Gıda Depolama ve Hijyen Kontrolü Problemi: https://meb.ai/U2fnFVx (Son erişim tarihi: 30.12.2024)
+Kaynakça
+Canva. (2024). Matematiksel eşitsizlikler ile günlük hayat problemlerini çözme-bilinçli su tüketimi. Son
+erişim tarihi 27 Aralık 2024, https://www.canva.com/design/DAGaZPEToOw/9-Fy9OPS-ntEwEkdZlyeiQ/
+view?utm_content=DAGaZPEToOw&utm_campaign=designshare&utm_medium=link&utm_
+source=publishsharelink&mode=preview
+Canva. (2024). Matematiksel eşitsizlikler ile günlük hayat problemlerini çözme-gıda depolama ve hijyen
+kontrolü. Son erişim tarihi 27 Aralık 2024, https://www.canva.com/design/DAGafDn_ihU/aYiYM01jTEoid-
+D7bOBybg/view?utm_content=DAGafDn_ihU&utm_campaign=designshare&utm_medium=link&utm_
+source=publishsharelink&mode=preview
+Canva. (2024). Matematiksel eşitsizlikler ile günlük hayat problemlerini çözme-gıda hijyeni ve güvenliği.
+Son erişim tarihi 27 Aralık 2024, https://www.canva.com/design/DAGaektF1DE/kjzqQnSSsEdzpzs8390-
+jA/view?utm_content=DAGaektF1DE&utm_campaign=designshare&utm_medium=link2&utm_
+source=uniquelinks&utlId=h77e8dd8948
+Çevre, Şehircilik ve İklim Değişikliği Bakanlığı. (2024). Suyumuzun geleceği tehdit altında. Son erişim tarihi
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve
+Terbiye Kurulu Başkanlığı. Son erişim tarihi 12 Temmuz 2024, https://ttkb.meb.gov.tr/meb_iys_
+dosyalar/2023_05/11153521_21.yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Millî Eğitim Bakanlığı. (2024). Sağlıklı besleniyorum-gıda hijyeni. Son erişim tarihi 27 Aralık 2024, https://
+sagliklibesleniyorum.meb.gov.tr/en/gida-hijyeni/
+Millî Eğitim Bakanlığı. (t.y.). Ortaöğretim proje hazırlama ders kitabı. Son erişim tarihi 27 Aralık 2024, https://
+ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/projehazirlama/sec/unite1/index.html#p=116
+Wordwall. (2024). Matematiksel eşitsizlikler ile günlük hayat problemlerini çözme-eşitsizlik eşleştirme.
+Son erişim tarihi 27 Aralık 2024, https://wordwall.net/resource/74034500/tomat242010-e%c5%9fitsizlik-
+e%c5%9fle%c5%9ftirme
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Bilinçli Su Tüketimi Problem Durumu
+Ek-2: Eşitsizlik Kavrama Soruları
+Ek-3: Eşitsizlik Eşleştirme Soruları
+Ek-4: Problem Durumu ve Çözümü
+Ek-5: Gıda Depolama ve Hijyen Kontrolü Problemi
+Ek-6: Grup Değerlendirme Formu
+Ek-7: Beceri Temelli Sorular
+Ek-1
+Bilinçli Su Tüketimi Problem Durumu
+Bir şehirdeki su tüketimi, günlük 300 000 litre olarak ölçülmektedir. Şehirde su
+kaynaklarının korunması ve sürdürülebilir kullanımın sağlanması amacıyla
+su tüketiminin en fazla %30’unun dışarıdan temin edilmesi planlanmaktadır.
+Şehirde dışarıdan temin edilen su miktarı “x” litre olarak belirlenmektedir.
+Buna göre
+a) Şehirde su tüketiminin sürdürülebilir olması için dışarıdan temin
+edilen suyun en fazla ne kadar olması sağlanmalıdır?
+b) Şehirde su tüketimi %20 azaltılırsa günlük tüketim miktarı ne kadar
+olur?
+c) Bir başka şehirde günlük 200 000 litre su tüketiliyor ve dışarıdan sadece
+bu miktarın %25’inin temin edilmesi planlanıyor.
+Bu şehrin planının gerçekleştirilmesi için dışarıdan temin edilen su
+miktarı ne olmalıdır?
+Matematiksel Eşitsizlikler ile Günlük Hayat Problemlerini Çözme
+Ek-2
+Eşitsizlik Kavrama Soruları
+Aşağıda verilen soruların çözümlerini altlarında verilen boşluklara yapınız.
+1. 8<10 eşitsizliği için aşağıdaki işlemleri yapınız.
+a) Eşitsizliğin her iki tarafına –5 ekleyelim.
+b) Eşitsizliğin her iki tarafını 2 ile çarpalım.
+2. 15>10 eşitsizliği için aşağıdaki işlemleri yapınız.
+a) Eşitsizliğin her iki tarafını −4 ile çarpalım.
+b) Eşitsizliğin her iki tarafını −3’e bölelim.
+3. 5a<8a–24 eşitsizliğinde a’nın alabileceği en küçük tam sayı değerini bulunuz.
+4. −8<−3x−5≤13 eşitsizliğinde x’in alabileceği en küçük ve en büyük tam sayı
+değerlerini bulunuz.
+Matematiksel Eşitsizlikler ile Günlük Hayat Problemlerini Çözme
+Ek-3
+Eşitsizlik Eşleştirme Soruları
+Aşağıda verilen eşitsizliklerin çözümünü yanında verilen alana yaparak tablonun altında verilen
+eşitsizliklerden uygun olanın harfini ( ) içine yazarak eşleştiriniz.
+Eşitsizlik Çözüm
+1. 3x-35>10 ................................................................................................................................................. ( )
+2. 16x+40<296 ................................................................................................................................................. ( )
+3. 8x-32≤72 ................................................................................................................................................. ( )
+x 9
+4. ≥ ................................................................................................................................................. ( )
+5. 9x+15≥42 ................................................................................................................................................ ( )
+6. 6x≤12 ................................................................................................................................................ ( )
+7. x -28>12 ................................................................................................................................................ ( )
+8
+7x
+8. <14 ................................................................................................................................................ ( )
+11
+9.
+x <3 ................................................................................................................................................ ( )
+9
+10. 8x+96>40 ................................................................................................................................................ ( )
+Eşitsizlikler
+a) x≤2 e) x≥3
+b) x>15 f ) x≤13
+c) x<27 g) x≥27
+ç) x>320 ğ) x<16
+d) x<22 h) x>-7
+Matematiksel Eşitsizlikler ile Günlük Hayat Problemlerini Çözme
+Ek-4
+Problem Durumu ve Çözümü
+Bir aile, evlerinde su tüketimini kontrol altına almak için iki farklı duş başlığı
+kullanmaktadır.
+• İlk duş başlığında, su tüketimi günlük 3x-20 litre olarak ölçülmektedir.
+• İkinci duş başlığında ise su tüketimi günlük x+40 litre olarak ölçülmektedir.
+Aile, su faturalarını daha ekonomik hâle getirmek istemektedir. Öncelikle ikinci duş
+başlığının su tüketim miktarının %25 fazlasını bulmuştur. Daha sonra ilk duş başlığının
+su tüketim miktarının bulduğu sonuçtan az olmasını istemiştir.
+Bu durumda, x’in alabileceği tam sayı değeri en fazla kaçtır?
+Çözüm
+3x−20≤ 5 .(x+40)
+4
+3x−20< (5x+200)
+4
+12x-80<5x+200
+7x<280
+x<40 olduğundan
+x’in alabileceği tam sayı değeri en fazla 39’dur.
+Matematiksel Eşitsizlikler ile Günlük Hayat Problemlerini Çözme
+Ek-5
+Gıda Depolama ve Hijyen Kontrolü Problemi
+Aşağıda bir problem durumu ve bu problem durumuna ait bazı sorular verilmiştir. Problemi
+okuduktan sonra verilen soruların cevaplarını grup arkadaşınızla bulunuz. Süre sonunda
+bulduğunuz sonuçları sınıf arkadaşlarınız ile paylaşınız.
+Problem Durumu
+Bir gıda depolama tesisinde belirli bir dezenfektan solüsyonu kullanılarak depo içindeki
+bakteri miktarını kontrol etmek ve gıda güvenliğini sağlamak amacıyla belirli aralıklarla
+temizlik işlemleri uygulanmaktadır. Her temizlik sonrasında depoda kalan bakteri miktarı,
+önceki bakteri miktarının yarısından daha fazladır. Başlangıçta depo içindeki bakteri miktarı
+B0=3200 olarak belirlenmiştir.
+Sorular
+a) Depoda kalan bakteri miktarını gösteren bir eşitsizlik kuralı oluşturunuz.
+b) Dördüncü ve altıncı işlem sonrası depoda en az kaç bakteri kalacağını bulunuz.
+Matematiksel Eşitsizlikler ile Günlük Hayat Problemlerini Çözme
+EK-6
+Grup Değerlendirme Formu (Öğretmen için)
+Aşağıdaki form, grup çalışması yapan öğrencilerin grup içindeki paylaşımlarının öğretmen tarafından
+değerlendirilmesi için geliştirilmiştir. Her bir kriter için verilen seçeneklerden uygun olanı işaretleyiniz.
+Grup Adı: ……………................……
+Grup Üyeleri: ………………………..………………………..………………………..……............................…………………..
+SEÇENEKLER
+KRİTERLER
+Evet Kısmen Hayır
+1. Grup üyeleri birbirlerinin düşüncelerini dinledi.
+2. Grup üyeleri birbirlerine saygı gösterdi.
+3. Grupta karşıt görüşler olduğunda gruptakiler farklı görüşleri
+tartışmaya açtı.
+4. Grup üyelerinin her biri çalışmalarda aktif rol aldı.
+5. Grup üyeleri görüşlerini rahatlıkla ifade etti.
+6. Grup üyeleri bireysel sorumluluklarını yerine getirdi.
+7. Grup üyeleri birbirlerine destek oldu.
+8. Grup üyeleri ortak bir görüş oluşturdu.
+9. Grup üyeleri ihtiyaç duyduklarında birbirlerinden yardım istedi.
+10. Grup verimli bir şekilde çalıştı.
+(MEB, Proje hazırlama ders kitabı, s. 116)
+Eklemek İstedikleriniz
+....................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................
+...................................................................................................................................................................................................................................................................
+(Bu form, Millî Eğitim Bakanlığı Ortaöğretim Proje Hazırlama ders kitabında yer alan formun revize edilmesi ile
+oluşturulmuştur.)
+Matematiksel Eşitsizlikler ile Günlük Hayat Problemlerini Çözme
+Ek-7
+Beceri Temelli Sorular
+Aşağıdaki soruları okuyarak çözümlerini altlarında verilen boşluklara yapınız.
+1. Bir mağaza, müşterilerinin yaptığı tüm alışverişlere %20 indirim sağlamaktadır.
+Bir müşteri 750 TL veya üzeri alışveriş yaptığında alışverişinden sonra ödemesi
+gereken tutarı belirten eşitsizliği yazınız.
+2. Aşağıdaki tabloda 4 katlı bir okuldaki derslik sayısı ve dersliklerin öğrenci kapasitesinin
+kat numarasına göre nasıl belirleneceğine dair bilgiler verilmiştir.
+Dersliklerin Öğrenci
+Kat Numarası Kattaki Derslik Sayısı
+Kapasitesi
+1≤ x<3 4x+2 10x+8
+3≤ x≤4 6x-13 12x-20
+Buna göre okuldaki öğrenci sayısı en fazla kaç olabilir?
+3. Bir Türk kahvesi makinesi, toplamda 300 ml kahve demleyebilmektedir. Makinenin
+düğmesine her basışta makineden bir fincan kahve miktarı olan 15√6 ml kahve
+dökülmektedir.
+Buna göre düğmeye kaçıncı kez basıldığında makinedeki kahve tamamen biter?
+Matematiksel Eşitsizlikler ile Günlük Hayat Problemlerini Çözme
+CEVAP ANAHTARLARI
+EK-1
+a) x≤30 ∙300 000
+100
+x≤90 000 litre
+20
+b) Su tüketimi %20 azalırsa günlük tüketim miktarı=300 000 – 300 000∙
+100
+=300 000 – 60 000
+=240 000 litre olur.
+1
+c) %25 =
+4
+1
+4
+EK-2
+SORULAR ÇÖZÜMLER
+a) 3<5
+1
+b) 16<20
+a) −60<−40 (Eşitsizlik yön değiştirir.)
+b) −5< (Eşitsizlik yön değiştirir.)
+3
+−8<−3x−5≤13
+−8 +5<−3x ≤13+5
+-3< -3x ≤ 18
+Buna göre x’in alabileceği en küçük tam sayı değeri (-6), en büyük tam sayı
+değeri ise 0 olur.
+EK-3
+1. b 6. a
+2. ğ 7. ç
+3. f 8. d
+4. g 9. c
+5. e 10. h
+CEVAP ANAHTARLARI
+EK-5
+a) Her bir temizlik işlemi sonrasında kalan bakteri miktarını hesaplamak için aşağıdaki formülü
+kullanabiliriz:
+Bn> Bo.( 1 )n
+2
+Burada
+• Bo, başlangıçtaki bakteri miktarını
+• Bn, n. temizlik işlemi sonrasında kalan bakteri miktarını
+• n, uygulanan temizlik işlemi sayısını temsil eder.
+b) O hâlde 4. ve 6. işlem sonunda en az bulunan bakteri sayısı şu şekilde hesaplanır:
+4. işlem
+B4 > 3200.( 1 )4
+2
+B4 > 3200. 1
+16
+B4 > 200 yani işlem sonucunda en az 201 tane bakteri yüzeyde kalır.
+6. işlem
+B6 > 3200.( 1 )6
+2
+B6 > 3200. 1
+64
+B6 > 50 yani işlem sonucunda en az 51 tane bakteri yüzeyde kalır.
+CEVAP ANAHTARLARI
+EK-7
+1.
+Müşterinin alışveriş miktarını x (TL) olarak temsil edelim ve mağazanın indirim politikasını şu
+eşitsizlikle ifade edelim: x≥750
+Bu durumda, müşterinin ödemesi gereken tutar şu şekilde hesaplanır:
+Ödenecek tutar: x-x. 20 olmaktadır.
+100
+20
+750-750∙ =600
+100
+x≥600
+2.
+Kat Dersliklerin Öğrenci Kattaki Toplam Öğrenci
+Derslik Sayısı
+Numarası Kapasitesi Sayısı
+Toplam Öğrenci Sayısı: 776
+3.
+1. basış = 15√6
+2. basış = 2∙ 15√6
+.
+.
+.
+x. basış = x∙15√6
+x∙15√6≥300
+x∙√6 ≥20
+√6x2 ≥√400
+6.x2≥400
+x2≥ 200
+3
+x2≥66,6
+Düğmeye 9. kez basıldığında kahve tamamen biter.
+LINKS:[["Suyumuzun Geleceği Tehdit Altında", "UPrQZ1l"], ["Bilinçli Su Tüketimi", "dIPUqt"], ["Eşitsizlik Eşleştirme", "UcN6nlC"], ["EBA Birinci Dereceden Bir Bilinmeyenli Eşitsizliklerin Çözümü", "UaHaqp4"], ["EBA Birinci Dereceden Bir Bilinmeyenli Eşitsizlikler", "UvuiaJN"], ["Gıda Güvenliği ve Hijyeni Sunumu", "91yQDG"], ["Gıda Depolama ve Hijyen Kontrolü Problemi", "U2fnFVx"]]

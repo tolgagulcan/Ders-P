@@ -1,0 +1,101 @@
+## 5. Sinif/Matematik/Islemlerle Cebirsel Dusunme - Astronotlarin Onceligi.pdf
+SURE:5 KOD:MAT.5.2.2.
+KAV:İşlem önceliği, Bir sayının karesi, Bir sayının küpü
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen, uzayda mahsur kalan astronotlarla ile ilgili bir haber ajansında yayımlanan haberi etkileşimli
+sunum araçlarından birini kullanarak sunum hâline getirir. Uzayda Mahsur Kalan Astronotlar Haberini
+EBA’dan paylaşır ve öğrencilerden haberi incelemelerini ister. Haberle ilgili EBA’dan bir tartışma başlatarak
+“Siz onların yerinde olsaydınız, karşılaşabileceğiniz olası problemler neler olurdu? Bu problemlere yönelik ne
+tür çözümler üretirdiniz?” sorularını yöneltir.
+Öğretmen, öğrencileri dörder veya beşer kişilik gruplara ayırarak grup üyelerine yer aldıkları gruplarla ilgili
+gerekli bilgilendirmeyi EBA’dan yapar.
+1. Ders (Sınıf)
+Öğretmen, öğrencilere EBA’da paylaştığı haberi okuyup okumadıklarını sorar. Habere ait sunumu etkile-
+şimli tahtadan açarak özetler. EBA’da oluşturduğu tartışmaya verilen cevapları etkileşimli tahtada açar ve
+bu cevapları sınıfça tartışırlar. Bu tartışmada öğrencilerin su, gıda ve oksijenin tükenmesi veya güvenlik gibi
+problemleri ifade etmeleri için gerekli yönlendirmeleri yapar. Ayrıca bu problemlere yönelik çözüm öneri-
+lerine, gıda ve suyun dikkatli kullanılmasını da ekler. Öğretmen, bu cevaplardan yola çıkarak astronotların
+mevcut su ve gıda stoklarını belirlemek için görsel düzenleme araçları ile hazırlanan astronotların istiflenmiş
+Astronotların Su ve Gıda Stoku görsellerini etkileşimli tahtada açar. Öğrencilere bu ürünlerin sayısını tek tek
+saymadan nasıl bulabileceklerini sorar. Cevaplarını etkileşimli tahtada beyin fırtınası yapmayı sağlayan
+web araçlarına yazar. Öğrencilerden gelen cevaplardan sonra etkileşimli tahtada EBA’dan Bir Sayının Karesi
+ve Küpü videosunu açar ve öğrencilere izletir. Video içeriği ile ilgili öğrencilerin neler düşündüğünü sorar,
+sorusu olan öğrencilerin sorularını cevaplar ve konu ile ilgili ek açıklamalarda bulunur.
+Ders Sonrası
+Öğretmen, Çarpma İşlemlerini Bir Sayının Karesi veya Küpü Şeklinde Yazma etkinliğini EBA’dan öğrencilerle
+paylaşır ve yapmalarını ister. Patlat Balonu Tamamla Yapbozu etkinliğini EBA’dan çalışma olarak gönderir.
+EBA raporlar kısmından çalışmanın takibini yapar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, işlem önceliği dondurması adlı etkinlik kâğıdının yeterli sayıda çıktısını alarak derse getirir (Ek-1).
+2. Ders (BT Sınıfı)
+Öğretmen, öğrencilere “Bir sayının üssü 2 olduğunda neden o sayının karesi veya bir sayının üssü 3 olduğunda
+neden o sayının küpü olarak ifade edildiğini biliyor musunuz?” sorusunu sorar. Öğrencilerden cevaplarını
+dijital pano ya da post-it oluşturma araçlarıyla vermelerini ister. Öğrencilerin verdiği cevaplar sınıfça tartı-
+şılır. Öğretmen, dinamik matematik ve geometri aracında hazırlanmış Sayının Karesini Hesaplama ve Sayının
+Küpünü Hesaplama etkinliklerini EBA’dan paylaşır. Bu etkinliklerde dinamik matematik ve geometri aracında
+kare ve küpün kenar uzunlukları birer sürgü ile ilişkilendirilmiştir. Öğrencilerin sürgüyü hareket ettirerek kenar
+uzunluğu ile şekil arasındaki ilişkiyi gözlemlemelerini ister. Kenar uzunluğunun karesi ile kareyi oluşturan
+birimkare sayısının, ayrıt uzunluğunun küpü ile de küpü oluşturan birimküp sayısının arasındaki ilişkiyi fark
+etmelerini bekler. Öğrencilere bununla ilgili yönlendirmelerde bulunur. Etkinliğin sonunda kare ve küp ifade-
+sinin neden kullanıldığı ile ilgili ek açıklamalarda bulunur.
+Öğretmen, EBA’dan Pascaline’den Hesap Makinesine isimli videoyu açarak öğrencilere izletir. Videonun
+bitiminde yer alan iki hesap makinesinin, aynı işleme neden iki farklı cevap bulduğunu ve hangi cevabın
+doğru olduğunu öğrencilere sorar. Öğrencilerden cevaplarını dijital pano ya da post-it oluşturma araçla-
+rıyla vermelerini ister. Öğrencilerin cevapları sınıfça tartışılır. Öğretmen, öğrencilere birden fazla işlem içeren
+hesaplamalarda bazı işlemlerin diğer işlemlere göre önceliği olduğunu açıklar. Öğrencilere EBA üzerinden
+İşlem Önceliği videosunu izletir. Video içeriği ile ilgili öğrencilerden geri bildirimler alır, sorusu olan öğren-
+cilerin sorularını cevaplar ve öğrencilere ek açıklamalarda bulunur. Öğretmen, öğrencilerin işlem önceliği
+ile ilgili alıştırma yapmaları için oyunlaştırılmış ölçme ve değerlendirme web araçları ile hazırlanmış Dart
+Etkinliğini yapmalarını ister (Ek-2). Öğrencilere etkinliği tamamlamaları için yeterli süre tanır ve bu sürenin
+tamamlanmasının ardından gönüllü öğrenciler ile etkileşimli tahtadan soruların çözümünü yapar.
+Ders Sonrası
+Öğretmen, işlem önceliği dondurması etkinlik kâğıdını öğrencilere dağıtarak bu çalışmayı evde tamam-
+lamalarını ister (Ek-1). Her öğrencinin çalışmasını bir sonraki derste sınıfa sunacağını ve en çok beğenilen
+etkinlik kâğıtlarının sınıf panosuna asılacağını belirtir.
+Yorumlama becerisi, Çıkarım yapma becerisi, Matematiksel araç ve teknoloji ile
+çalışma becerisi, Matematiksel muhakeme becerisi, Dijital bilgiyi anlamlandırma,
+İletişim becerisi, Dijital araçlarla iş görme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, astronotların su stoku adlı etkinlik kâğıdının yeterli sayıda çıktısını alarak derse getirir (Ek-3).
+3. Ders (Sınıf)
+Öğrenciler önceki derste verilen işlem önceliği dondurması etkinliklerini sunar. En çok beğenilen etkinlikler,
+etkileşimli tahtada anket araçları yardımıyla oylama ile seçilir. Seçilen çalışmalar sınıf panosuna asılır.
+Öğretmen öğrencileri dörder veya beşer kişilik gruplara ayırır. Uzayda mahsur kalan astronotları hatırla-
+tarak astronotların elinde kalan Astronotların Su Stoku görselini etkileşimli tahtadan açar. Etkinlik kâğıtlarını
+gruplara dağıtır ve onlardan etkinlikte yer alan problemleri çözmelerini ister (Ek-3). Çözümlerin grup değer-
+lendirme formu kriterlerine göre değerlendirileceğini söyler (Ek-4). Bu çalışma için öğrencilere 15 dakika süre
+verir. Öğretmen, öğrencilere verilen sürenin sona ermesinin ardından grup etkinliklerini değerlendirir (Ek-4).
+Gönüllü olan öğrencilerden problemlerin çözümlerini etkileşimli tahtada yapmalarını ister.
+Matematiksel problem çözme becerisi, İş birliği becerisi
+Ders Öncesi
+Öğretmen, işlem önceliği ağacı adlı etkinlik kâğıdının yeterli sayıda çıktısını alarak derse getirir (Ek-5).
+4. Ders (Sınıf)
+Öğretmen, işlem önceliği ağacı etkinlik kâğıtlarını öğrencilere dağıtır (Ek-5). Öğrencilerin etkinliği tamamla-
+ması için 10 ile 15 dakika arasında bir süre tanır. Etkinliğin tamamlanmasının ardından öğrencilerin ulaştığı
+çıkışlara göre puanlarını belirler. Etkinlikte yer alan soruların çözümlerini gönüllü olan öğrenciler etkileşimli
+tahtada yapar.
+Öğretmen bir önceki derste oluşturduğu grupları tekrar oluşturur. Etkileşimli tahtadan oyunlaştırılmış ölçme
+ve değerlendirme web araçlarından biri ile hazırlanan Problemler İle İşlemleri Eşleştirme etkinliğini açar
+(Ek-6). Bu etkinliği eşleşmeyi bul modunda çalıştırır. Her grup sırayla tahtaya çıkarak gelen problem cümle-
+sine uygun olan işlem grubunu eşleştirir. Eşleştirme yaparken grupça ortak karar verirler. Öğretmen, etkinlik
+sonunda yanlış eşleştirmeler ve anlaşılmayan durumlar ile ilgili açıklamalarda bulunur.
+Ders Sonrası
+Öğretmen, EBA üzerinden Parantezli İfadelerle İşlem Yapma etkinliğini çalışma olarak gönderir. Çalışmanın
+sonuçlarını EBA üzerinden analiz eder.
+İş birliği becerisi, Yorumlama becerisi, Matematiksel temsil becerisi
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+5. Ders (BT Sınıfı)
+Öğretmen, öğrencilerden bilgisayarları aracılığıyla anlık geri bildirim sağlayan web araçlarıyla oluşturulmuş
+Üslü İfadeler ve İşlem Önceliği etkinliğine katılmalarını ister (Ek-7). Bu etkinliği her öğrencinin bireysel olarak
+tamamlamasını söyler. Etkinliğin tamamlanmasının ardından öğretmen, çalışma sonuçlarının analizlerini
+etkileşimli tahtada inceler. Gönüllü öğrencilere etkinlikte yer alan soruları çözmeleri için söz hakkı verir. Gerekli
+durumlarda ek açıklamalarda bulunur. Öğretmen, bir diğer etkinlik olarak oyunlaştırılmış ölçme ve değer-
+lendirme web araçları ile oluşturduğu İşlemlerle Dans etkinliğini sınıfa uygular (Ek-8). Öğrencilere etkinliği
+tamamlamaları için yeterli süre tanır ve bu sürenin tamamlanmasının ardından gönüllü öğrencilere etkin-
+likte yer alan soruları çözmeleri için söz hakkı verir. Etkinlik sonrası varsa öğrencilerin sorularını cevaplar.
+Matematiksel temsil becerisi
+
+LINKS:[["Astronotların Önceliği-Uzayda Mahsur Kalan Astronotlar Haberi", "CCWofB"], ["Astronotların Su ve Gıda Stoku", "U4ryIfM"], ["EBA-Bir Sayının Karesi ve Küpü", "6EOZoR"], ["EBA-Çarpma İşlemlerini Bir Sayının Karesi veya Küpü Şeklinde Yazma", "d7Bq0l"], ["EBA-Patlat Balonu Tamamla Yapbozu", "hOkT0K"], ["Sayının Karesini Hesaplama", "xOIukk"], ["Sayının Küpünü Hesaplama", "rkciok"], ["EBA-Pascaline’den Hesap Makinesine", "UVlTTfY"], ["EBA-İşlem Önceliği", "UY7TMsj"], ["Dart Etkinliği", "AjhIbh"], ["Astronotların Su Stoku", "U7Ps0ct"], ["Problemler ile İşlemleri Eşleştirme", "UVoRQ12"], ["EBA-Parantezli İfadelerle İşlem Yapma", "8pw5zJ"], ["Üslü İfadeler ve İşlem Önceliği", "N8jf21"], ["İşlemlerle Dans", "SROeL0"]]

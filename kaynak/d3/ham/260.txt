@@ -1,0 +1,159 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (2) - Papirusun Gizeminde Carpma ve Bolme.pdf
+SURE:5 KOD:MAT.6.1.8.
+KAV:Kesirlerle çarpma, Kesirlerle bölme, Kesir problemi
+Öğrenme Etkinlikleri
+1. Ders (Sınıf)
+Öğretmen, görsel düzenleme aracıyla hazırlanan Ahmes (Rhind) Papirüsü görsellerini etkileşimli tahtada
+açar. Öğrencilere “Sizce bu şekillerde insanlar neyi anlatmaya çalışıyor olabilir?” sorusunu sorar. Öğrenci-
+lerin cevaplarından sonra görselde yer alan Ahmes Papirüsü ile ilgili açıklamalarda bulunur. Ahmes Papirüsü
+görselini işaret ederek bu görselin yaklaşık olarak MÖ 1700-1600’lü yıllarda Mısırlı Ahmes tarafından yazıldığını
+belirtir. Papirüsün başta kesirler olmak üzere matematikle ilgili 80’den fazla problemi içerdiğini söyler. Ayrıca
+papirüste kesir tablolarının ve kesirlerle ilgili problemlerin bulunduğunu yani kesirlere geniş yer verildiğini
+belirtir. Ahmes Papirüsü’nün “Gerçeğe ulaşmak, her şeyin bilgisini ve tüm sırları öğrenmek amacıyla doğru
+hesaplama” ifadesiyle başladığını belirtir. Buradan hareketle Eski Mısır’da matematiğin sadece hesaplama
+aracı değil aynı zamanda gerçeği ve gizemleri aydınlatan bir alan olarak görüldüğünü açıklar. Kesirler ve
+kesirlerle işlemlerin günümüzden yaklaşık 3800 yıl önce Mısır ve Babil gibi farklı medeniyetler tarafından kulla-
+nıldığını, hatta bu işlemlerin sonraki nesillere öğretilebilmesi için farklı araçlarla yazıya döküldüğünü belirtir.
+Öğretmen; Eski Mısırlıların günümüzde kullandığımızdan farklı bir işlem yöntemi geliştirdiklerini, kesirleri birim
+kesirlerin toplamı şeklinde ifade ettiklerini ve işlemlerde bu toplamları kullandıklarını açıklar. Görsel düzen-
+leme araçlarıyla hazırlanan Ahmes’in İlk 6 Problemi görselini açarak Ahmes Papirüsü’nün ilk sayfasında yer
+alan problemi ve çözümünü öğrencilere anlatır. Tahtaya + + işlemini yazarak “Ahmes Papirü-
+sü’nde bu işleme karşılık gelen kesri bulabilir misiniz?” sorusunu öğrencilere sorar. Cevabı bulan öğrencilerin
+birinden işlemi tahtada yapmasını ister. “Ahmes Papirüsü’nün ilk kısmı, payı 2 olan kesirleri birim kesirlerin
+toplamı şeklinde ifade eden bir tablodan oluşur.” diyerek görsel düzenleme aracıyla düzenlenmiş Ahmes
+Kesir Tablosu görselinin bir bölümünü etkileşimli tahtada açar ve öğrencilere gösterir. Tabloda görüldüğü
+gibi payı 2 olan kesirlerin farklı birim kesirlerin toplamı şeklinde yazılabileceğini ifade eder. Etkileşimli tahtada
+dijital pano ya da post-it oluşturma aracı ile hazırlanan Mısır Kesrini Oluşturalım etkinliğini açar. Öğrenci-
+lerden toplamları 2 kesrine eşit olan birim kesirleri bulmalarını ve buldukları toplamları etkileşimli tahtaya
+3
+çıkarak dijital panoya yazmalarını ister. Yazılan toplamların doğruluğunu kontrol ederek Ahmes Papirü-
+sü’nde 2 kesrine eşit olan toplamı öğrencilerle paylaşır.
+3
+Duygu ve düşüncelerini ifade etmek, Yorumlama, Gözleme dayalı tahmin etme,
+Matematiksel temsilleri değerlendirme, Eleştirel bakma, Dijital bilgiyi anlamlandırma,
+Görseli anlama
+2. Ders (Sınıf)
+Öğretmen, öğrencilere Eski Mısır’da geçen bir hikâyeyi paylaşacağını söyleyerek derse başlar. Dijital hikâye
+oluşturma aracıyla hazırlanan Fırıncının Çırağı adlı hikâyeyi etkileşimli tahtada açar ve öğrencilerden hikâyeyi
+okumalarını ister. Hikâye okunduktan sonra hikâyeyle ilgili akıllarında neler kaldığını öğrencilere sorar. Cevap-
+ları dinlerken etkileşimli tahtada hikâyenin işlemlerle ilgili sayfasını açar. Ardından öğrencilere bu sayfa-
+daki işlemler ve matematiksel ifadelerle ilgili ne düşündüklerini sorar ve gönüllü öğrencilere söz hakkı verir.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, matematiksel işlemlerin çoğunun günlük yaşamda karşılaşılan problemlere çözüm sunduğunu
+ve birçok işlemin bu şekilde ortaya çıktığını vurgular. Öğrencilere bu ders kesirlerle çarpma işlemi yapmayı
+gerektiren problemler üzerinde çalışacaklarını söyler. Etkileşimli tahtada etkileşimli sunum aracıyla hazır-
+lanan Mısır’da Bir Evim Olsun Problemi etkinliğini açar. Öğrencilerden bu problemi dikkatlice okuyarak çözme-
+lerini ister. Problemi çözen gönüllü bir öğrenciye çözümü tahtada da yapmasını söyler. Öğrenci, çözümü
+yaptıktan sonra soru görselinde yer alan çözümü görüntüler ve ekrandaki çözümle kendi çözümünü karşı-
+laştırır. Öğretmen, çözümün yanında yer alan “Üzerine Düşünelim” metnini öğrencilere okur ve bununla
+ilgili gönüllü öğrencilerden cevaplar alır. Öğrenci cevaplarından sonra “Sıfırdan farklı bir doğal sayı ile 1’den
+küçük bir kesir çarpıldığında sonuç, bu doğal sayıdan küçük olur. Sıfırdan farklı bir doğal sayı ile 1’den büyük
+bir kesir çarpıldığında sonuç, çarpan doğal sayıdan büyük olur.” şeklinde bir açıklama yapar. Etkileşimli
+tahtadan kısa cevaplı sorular oluşturmayı sağlayan web aracıyla hazırlanan ve bir doğal sayı ile bir kesrin
+çarpımını içeren Büyük mü? Küçük mü? etkinliğini açar. Öğrencilerden tahtaya gelerek birer soruya cevap
+vermelerini ister. Etkinlikle ilgili sorusu olan öğrencilerin sorularını cevaplar.
+3. Ders (Sınıf)
+Öğretmen, öğrencilere “Bazı bilim insanları, matematiğin Eski Mısır’da doğduğunu iddia eder. Bunu biliyor
+muydunuz?” sorusunu yöneltir. Eski Mısır’ın günümüzden yaklaşık 5000 yıl önce Nil Nehri etrafında kuruldu-
+ğunu söyler. Genellikle tarımla uğraşan Eski Mısırlıların en büyük probleminin, Nil Nehri’nin yılın belli dönemle-
+rinde taşması ve bunun sonucunda tarla sınırlarının karışması olduğunu açıklar. Eski Mısırlıların da bu soruna
+çözüm bulabilmek için tarlalarının alanlarını hesaplayıp kaydettiklerini ve böylece bilinen ilk matematiksel
+hesaplamaları yaptıklarını belirtir. Bu bilgilerin ardından etkileşimli tahtada görsel düzenleme aracıyla hazır-
+lanan Mısır’da Bir Tarla Problemi görselini açar ve öğrencilerden bu problemi dikkatlice okuyarak çözümle
+ilgili önerilerini ifade etmelerini ister. Cevapların ardından öğrencilere bu problemi çözmek için iki kesrin
+çarpılması gerektiğini ifade eder. Etkileşimli tahtada açılan problemin ikinci sayfasını açar ve burada yer
+alan çözüm modelini öğrencilerden incelemelerini ister.
+Öğretmen, sorusu olan öğrencilerin sorularını cevaplayarak modelin nasıl oluştuğunu öğrencilere açıklar.
+Ayrıca iki kesrin çarpımı yapılırken payların çarpılıp sonucun payına, paydaların çarpılıp sonucun payda-
+sına yazıldığını söyler. Problemin çözümünü iki kesrin çarpımını yaparak elde eder. Örnek olması için tahtada
+3
+kesri ile 2 kesirlerinin çarpımını da yapar. Sorusu olan öğrencilerin sorularını yanıtladıktan sonra etkile-
+şimli görsel düzenleme aracıyla hazırlanmış kesirlerde çarpma işlemi örneklerini içeren Kesirlerle Çarpma
+İşlemi etkinliğini açar. Gönüllü öğrencilerden tahtaya gelerek bu işlemleri yapmalarını ister. Öğrencilerin işlem-
+lerini kontrol eder ve varsa hatalı kısımları düzeltir. Son işlemin yapılmasının ardından öğrencilere kesirlerle
+yapılan işlemlerde bulunan sonucun en sade hâliyle elde edilmesi gerektiğini hatırlatır. Kesirlerle çarpma
+işlemi yaparken işleme başlamadan
+Matematiksel önce çarpan
+doğrulama kesirlerin
+veya paylarıyla
+ispat yapma, paydalarıtemsillerden
+Matematiksel arasında sadeleşebilen
+yararlanma,
+sayılar varsa sadeleştirme yapılması gerektiğini
+Matematiksel temsilleriaçıklar. Kesirlerle çarpma
+değerlendirme, işlemi etkinliğinde
+Matematiksel çözümler yer alan son
+geliştirme,
+işlemi paylarıyla paydaları arasındakiYansıtma,
+sadeleştirmeyi yaparak tekrar çözer.olarak
+Sorusuetkileşim
+olan öğrencilerin sorula-
+Yorumlama, İş birliği, Sözlü ya da sözsüz sağlamak, Grup
+rını cevaplar ve etkileşimli sunum aracıyla
+iletişimine hazırlanan
+katılmak, Kesirlerle Çarpma
+Analitik düşünme, İşlemi Problemleri
+Empati, Oyunseverlik, Dijitaletkinliğini etkile-
+bilgi üzerinden
+şimli tahtada açar (Ek-1).çıkarım
+Problemleri sırayla açarak öğrencilerin çözmeleri için süre verir. Ardından gönüllü
+yapmak
+öğrencilerden tahtaya gelerek problemleri çözmelerini ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Üçüncü probleme gelindiğinde öğretmen, “Tam sayılı kesirler içeren çarpma işlemlerinde çarpma işlemi
+yapmak için önce tam sayılı kesirler, bileşik kesre dönüştürülür.” cümlesini tahtaya yazar ve öğrencilere
+açıklar. Açıklamadan sonra gönüllü bir öğrenciden üçüncü problemi çözmesini ister. Problemin çözülme-
+sinin ardından sorusu olan öğrencilerin sorularını yanıtlar.
+4. Ders (BT Sınıfı)
+Öğretmen, dersin başında öğrencilerden geçen derste öğrendikleri çarpma işleminin modellemesini oluştur-
+malarını ister. Bunun için simülasyon aracıyla hazırlanan İki Kesrin Çarpımının Modellenmesi bağlantısını
+sınıf yönetimi aracıyla paylaşır. Öğrencilerden bu uygulamayı kullanarak istedikleri kesirlerin çarpımlarını
+modellemelerini ister ve seçtikleri bir işlemin modelini defterlerine çizmelerini söyler. Bu etkinlikten sonra
+etkileşimli tahtada görsel düzenleme aracıyla hazırlanan Sakanın Su Problemi görselini açar. Öğrencilerden
+problemin çözümüne ilişkin fikirlerini sınıf yönetim aracından göndermelerini ister. Sınıf yönetimi aracından
+anlık gelen cevapları kontrol eder ve problemin çözümü için iki kesrin bölünmesi gerektiğini vurgular. Öğren-
+cilere çözümün modellenmiş hâlini göstermek için etkileşimli tahtada problem görselinin ikinci sayfasını
+açar. Buradaki çözüm modelini ve işlemin sonucunun nasıl elde edildiğini sınıfa açıklar. Sorusu olan öğren-
+cilerin sorularını yanıtlar.
+Öğretmen öğrencilere kesirlerde bölmenin temel kurallarını açıklar. Örnek olması için etkileşimli tahtada yer
+alan problemi bu açıklamaya uygun olarak çözer. Konuyu pekiştirmek için etkileşimli tahtada EBA’dan İki Kesri
+Bölme etkileşimli videosunu açar. Gönüllü bir öğrenciyi tahtaya davet ederek videoda yer alan aşamaları
+tamamlamasını ister. Bu etkinliğin ardından etkileşimli tahtada EBA’dan Tam Sayılı Kesirlerle Bölme video-
+sunu açar. Öğrencilerden videoda yer alan problemin çözümünü düşünmelerini, devamında da videoda
+yer alan çözümleri incelemelerini ister. Videodan hareketle, bölme sonucunda elde edilen kesrin sadeleşti-
+rilebiliyorsa en sade hâlde yazılması gerektiğini vurgular. Ek açıklamalarda bulunarak sorusu olan öğrenci-
+lerin sorularını yanıtlar. Öğrencilerin öğrendiklerini kullanmaları için anlık geri bildirim sağlayan web aracıyla
+hazırlanan Kesirlerle Bölme İşlemi etkinliğinin bağlantısını sınıf yönetimi aracıyla paylaşır (Ek-2). Öğren-
+cilerden etkinliği açarak soruları cevaplamalarını ister. Öğrencilere bunun için yeterli süreyi verir. Sürenin
+sonunda gönüllü öğrencilerden etkileşimli tahtada soruları çözmelerini ister. Çözümlerle ilgili sorusu olan
+öğrencilerin sorularını yanıtlar.
+Ders Öncesi
+Öğretmen, dersten önce öğrencilerin akademik başarıları ve derse yönelik tutumlarını dikkate alarak 4-5
+kişilik rastgele gruplar oluşturur. Grup bilgilerini öğrencilerle paylaşır. Öğrencilerden derste grup arkadaş-
+larıyla birlikte oturmalarını ister.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+5. Ders (BT Sınıfı)
+Öğretmen, dersin başında öğrencilere problem çözme adımlarını hatırlatmak için görsel düzenleme aracıyla
+hazırlanan Problem Çözme Adımları görselini açar. Görselde yer alan problem çözme adımlarını öğren-
+cilere açıklar ve ders sonunda bu adımlara göre çözmeleri için bir problemi çalışma olarak gönderece-
+ğini belirtir. Ardından dersten önce oluşturduğu grupların problem kurma ve çözme etkinliği yapacakla-
+rını açıklar. Öğrencilerden grup arkadaşlarıyla birlikte öncelikle bir kesir problemi kurgulamalarını ister.
+Bu problemin kesirlerle çarpma veya bölme işlemi içermesi gerektiğini, bu işlemlerin yanında problemin
+toplama veya çıkarma işlemlerini de içerebileceğini ifade eder. Öğrencilerden kurguladıkları problemi sınıf
+yönetimi aracıyla paylaşmalarını ister. Etkinliğin ikinci aşamasında bu problemlerin diğer gruplar tarafından
+çözüleceğini ifade eder. Yapılacak çalışmaları grup değerlendirme yapmayı sağlayan web aracıyla hazır-
+lanan Problem Kurma ve Çözme Grup Değerlendirme Formu ile değerlendireceğini belirtir ve formun kriter-
+lerini açıklar (Ek-3). Öğrencilere problem kurmaları ve paylaşmaları için yeterli süreyi verir. Bu süre içinde
+paylaşılan çalışmaları Problem Kurma ve Çözme Grup Değerlendirme Formu ile değerlendirir (Ek-3). Hatalı
+kısımlar varsa diğer grupların bu problemi çözebilmesi için hatalarını düzeltir. Problem kurma süresinin
+sonunda öğrencilerden diğer grupların oluşturduğu problemleri çözmelerini ister. Öğrencilere çözümlerini
+boş bir kâğıda yapmalarını söyler. Grup değerlendirme formunun ilgili bölümlerini öğrencilerin çözümlerini
+değerlendirmek için kullanır. Grupların çözemedikleri problemler için onlara yardımcı olur.
+Ders Sonrası
+Öğretmen, uzun cevaplı sorular oluşturmayı sağlayan web aracıyla oluşturulmuş Zeytinyağı Problemi etkin-
+liğinin bağlantısını sınıf yönetimi aracı ile öğrencilere gönderir (Ek-4). Öğrencilerden görseldeki problemi,
+problem çözme adımlarına uygun şekilde çözmelerini ve ilgili soruları cevaplamalarını ister. Bir sonraki
+derse kadar çözümlerin kendisiyle paylaşılmasını söyler ve eksik ya da hatalı cevaplara ilişkin geri bildi-
+rimde bulunacağını belirtir.
+
+LINKS:[["Ahmes (Rhind) Papirüsü", "UseG95d"], ["Ahmes’in İlk 6 Problemi", "dVv25O"], ["Ahmes Kesir Tablosu", "dWZ3XG"], ["Mısır Kesrini Oluşturalım", "9J3ANl"], ["Fırıncının Çırağı", "CK33gW"], ["Mısır’da Bir Evim Olsun Problemi", "gv5O73"], ["Büyük mü? Küçük mü?", "qF6pfq"], ["Mısır’da Bir Tarla Problemi", "Uv0Nedx"], ["Kesirlerle Çarpma İşlemi", "UhOCILl"], ["Kesirlerle Çarpma İşlemi Problemleri", "U7G2iVk"], ["İki Kesrin Çarpımının Modellenmesi", "U7NoUFh"], ["Sakanın Su Problemi", "bcPTv2"], ["EBA İki Kesri Bölme", "Yl0OTP"], ["EBA Tam Sayılı Kesirlerle Bölme", "OrVhV9"], ["Kesirlerle Bölme İşlemi", "q6Nymb"], ["Problem Çözme Adımları", "UTzSn1m"], ["Problem Kurma ve Çözme Grup Değerlendirme Formu", "UslPEld"], ["Zeytinyağı Problemi", "T73ijp"]]

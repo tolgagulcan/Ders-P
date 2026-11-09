@@ -1,0 +1,293 @@
+## 6. Sinif/Matematik/Geometri ve Olcme - Takimyildizlarinin Geometrik Iliskileri.pdf
+SURE:3 KOD:M.6.3.1.3.
+KAV:
+Öğrenme Etkinlikleri
+1. ve 2. Ders (Sınıf)
+Öğretmen, dinamik matematik ve geometri aracında hazırladığı Pusula Görselini açarak derse başlar.
+Pusulanın ne amaçla kullanıldığını fark ettirmek ve öğrencilerin bu konudaki fikirlerini öğrenmek amacıyla
+kısa bir soru cevap etkinliği yapar. Pusulanın üzerinde ana yönleri (kuzey, güney, doğu, batı) ve ara yönleri
+(kuzeydoğu, güneydoğu vb.) gösterir. Öğrencilere aşağıdaki soruları yöneltir:
+• Kuzey ile doğu arasında kaç derece vardır?
+• Kuzey ile kuzeydoğu arasındaki açı kaç derecedir?
+• Kuzeybatı ile güneybatı arasındaki açı nasıl adlandırılır?
+Öğretmen, pusula görselindeki açıları keşfetmeleri için öğrencilerden defterlerine pergel yardımıyla birer
+pusula çizmelerini, cetvel kullanarak tüm ana ve ara yönleri çizimlerinde göstermelerini ister. Analog
+bir saatle pusulanın benzerliğini gösterir ve yönler arasında oluşan açıların kaçar derece olabileceğini
+sorar. Ardından öğretmen , EBA’dan Bir Açının Komşusu, Tümleri, Bütünleri ve Tersi adlı sıralı konu anlatım
+videosunu açar. Videodaki içeriklerle öğrencilerin bu açıların özelliklerini keşfetmelerini sağlar. Öğrencilerin
+etkileşimli bir şekilde bu açıların oluşumunu görmesi için uygulama adımları verilen dinamik matematik
+ve geometri aracıyla oluşturulmuş Tümler Açı, Bütünler Açı ve Ters Açı adlı etkinlikleri öğrencilere sırayla
+yaptırır (Ek-1). Etkileşimli tahtada dinamik matematik ve geometri aracı ile farklı tümler, bütünler, ters
+ve komşu açı örnekleri oluşturur. Oluşturduğu çevrim içi çizimleri daha sonra pergel, açıölçer ve cetvel
+kullanarak öğrencilerden defterlerine çizmelerini ister. Öğrenilenlerin pekiştirilmesi için öğretmen, görsel
+düzenleme aracıyla hazırladığı EBA’dan alınan Çalışma Sorularını etkileşimli tahtada açar ve gönüllülük
+esasına göre öğrencilere çözdürür (Ek-2). Soruları çözerken zorlanan öğrencilere anlık geri bildirimlerde
+bulunarak rehberlik eder.
+Ders Sonrası
+Öğretmen, dersin sonunda EBA’da yer alan Komşu, Tümler, Bütünler ve Ters Açı alıştırmalarını öğrencilere
+gönderir ve görev takibini EBA üzerinden yapar.
+İlgili Yetkinlikler/Beceriler: Matematiksel süreç becerileri, Akıl yürütme, İletişim, Sorumluluk,
+Dijital yetkinlik
+Ders Öncesi
+Öğretmen, noktalı kâğıt çıktısını sınıf mevcudu kadar alır.
+3.Ders (BT Sınıfı)
+Öğretmen; dersin başında önceki ders işlediği komşu, tümler, bütünler ve ters açı kazanımlarını hatırlatmak
+amacıyla oyunlaştırılmış ölçme ve değerlendirme web aracı ile hazırlanan Açılar Test Sorularını kullanarak
+bir yarışma düzenler (Ek-3). Öğrencileri 2-3 kişilik gruplara ayırarak yarışmayı başlatır. Gruplar, doğru
+cevaplar üzerinden puan kazanır ve öğretmen yarışma sonunda öğrencilere pekiştirme amacıyla neşeli
+etiketler hediye eder. Ardından öğretmen “Takımyıldızlar hakkında neler biliyorsunuz?” sorusuyla derse
+devam eder. Öğrenciler takımyıldızlarına dair bildiklerini arkadaşlarıyla paylaşır. Öğretmen, EBA’da yer
+alan Takımyıldızlar videosunu etkileşimli tahtada açarak öğrencileri kısaca bilgilendirir. Video hakkında
+konuşarak varsa öğrencilerin sorularını cevaplar. Çevrim içi harita uygulamasını kullanarak öğrencilere
+uzayda yıldızların görünümlerini ve birbirlerine göre konumlarını gösterir. Yıldızlar arasında oluşan açılara
+vurgu yaparak öğrencilerin dikkatini çeker. Öğretmen, öğrencilere etkileşimli tahtada dinamik matematik
+ve geometri aracında hazırlanan Büyükayı Takımyıldızı Yerleşim Planını açar ve dağıttığı noktalı kâğıda bu
+görseli çizmelerini söyler. Öğrencilerden Büyükayı Takımyıldızında bulunan tüm açı çeşitlerini bulmalarını
+ve çizimlerinin altına açıklama yapmalarını ister. Öğrencilere çizimleri ve soru çözümleri esnasında geri
+bildirimler verir ve yanlış öğrenmelerin önüne geçerek dersi tamamlar.
+Ders Sonrası
+Öğretmen, öğrencilere ekte yönergesi verilen kendi takımyıldızlarını tasarlama performans görevini verir
+(Ek-4).
+İlgili Yetkinlikler/Beceriler: İletişim, Matematiksel süreç becerileri, Sorumluluk, Dijital yetkinlik,
+Akıl yürütme
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + çalışma soruları
+• Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Takımyıldızı tasarlama performans görevi
+REFERANS
+İlgili Bağlantılar
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Pusula: https://meb.ai/56xKUH (Son erişim tarihi: 13.12.2024)
+2. EBA Bir Açının Komşusu, Tümleri, Bütünleri ve Tersi: http://meb.ai/rlYkgQ (Son erişim tarihi: 13.12.2024)
+3. Tümler Açılar: https://meb.ai/VRvCEK (Son erişim tarihi: 25.06.2025)
+4. Bütünler Açılar: https://meb.ai/RDVxVj (Son erişim tarihi: 25.06.2025)
+5. Ters Açılar: https://meb.ai/UKNTcnb (Son erişim tarihi: 25.06.2025)
+6. Çalışma Soruları: https://meb.ai/UffDtoO (Son erişim tarihi: 13.12.2024)
+7. EBA Alıştırmalar-Komşu, Tümler, Bütünler ve Ters Açılar: http://meb.ai/UUnxZ6g (Son erişim tarihi:
+13.12.2024)
+8. Açılar Test Soruları: https://meb.ai/UGkVFxt (Son erişim tarihi: 13.12.2024)
+9. EBA Takımyıldızlar: https://meb.ai/h31fRp (Son erişim tarihi: 13.12.2024)
+10. Büyükayı Takımyıldızı Yerleşim Planı: https://meb.ai/UFrl8jA (Son erişim tarihi: 25.06.2025)
+Kaynakça
+Canva. (2024). Takımyıldızlarının geometrik ilişkileri-çalışma soruları. Son erişim tarihi 13 Aralık 2024, https://www.
+canva.com/design/DAGZKlWLtM4/iXsUXDP5ufCYgwBPQgveoA/view?utm_content=DAGZKlWLtM4&utm_
+campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h67b384fdc0
+GeoGebra. (2025). Takımyıldızlarının geometrik ilişkileri-bütünler açılar. Son erişim tarihi 25 Haziran 2025,
+https://www.geogebra.org/m/r9gdcxyp
+GeoGebra. (2025). Takımyıldızlarının geometrik ilişkileri-büyükayı takımyıldızı yerleşim planı. Son erişim
+tarihi 25 Haziran 2025, https://www.geogebra.org/m/r5pcwebk
+GeoGebra. (2024). Takımyıldızlarının geometrik ilişkileri-pusula. Son erişim tarihi 13 Aralık 2024, https://
+www.geogebra.org/m/bz3eqkn7
+GeoGebra. (2025). Takımyıldızlarının geometrik ilişkileri-ters açılar. Son erişim tarihi 25 Haziran 2025,
+https://www.geogebra.org/m/tt8majmr
+GeoGebra. (2025). Takımyıldızlarının geometrik ilişkileri-tümler açılar. Son erişim tarihi 25 Haziran 2025,
+https://www.geogebra.org/m/wqbd4vnx
+Millî Eğitim Bakanlığı. (2018). Matematik dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=329
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Eylül 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2025). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Sarıgül, T. (2017). Takımyıldızlardaki yıldızlar birbirine yakın mı? Son erişim tarihi 13 Aralık 2024, https://
+bilimgenc.tubitak.gov.tr/makale/takimyildizlardaki-yildizlar-birbirine-yakin-mi
+Quizizz. (2024). Takımyıldızlarının geometrik ilişkileri-açılar test soruları. Son erişim tarihi 13 Aralık 2024,
+https://quizizz.com/admin/assessment/675d3fb0506ec88f8b514e7a?source=lesson_share
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Dinamik Matematik ve Geometri Aracı Uygulaması Adımları
+Ek-2: Çalışma Soruları
+Ek-3: Yarışma Test Soruları
+Ek-4: Takımyıldızı Tasarlama Performans Görevi Yönergesi
+Ek-1
+Dinamik Matematik ve Geometri Aracı
+Uygulaması Adımları
+Bütünler Açı Oluşturma
+1. Dinamik matematik ve geometri aracı açılır, geometri görünümüne geçilir.
+2. Bir doğru çizilir ve üzerine iki nokta A ve B şeklinde isimlendirilir.
+3. A noktasını açının köşesi (merkez) olarak belirlenir.
+4. Araç çubuğundan “Açı Ölçme” aracı seçilir. Bütünler açıyı oluşturmak için doğru
+üzerinde bir nokta daha belirlenir (örneğin C noktası). Bu noktayı belirlerken AC
+doğru parçasının AB doğru parçası ile kesişecek şekilde olmasına dikkat edilir.
+5. Açı aracını kullanarak B noktasından A noktasına bir açı ( ) çizilir.
+6. Aynı merkezden (A) C noktasına açısının tamamlayıcısı olan (180°- ) açı çizilir
+(bütünler açı).
+7. Oluşan açının ölçüleri gösterilir ve etiketlenir.
+8. Uygulamaya uygun nesne eklenerek birbirini 180°ye tamamlayan etkileşimli
+bütünler açılar elde edilir.
+Tümler Açı Oluşturma
+1. Dinamik matematik ve geometri aracı açılır, geometri görünümüne geçilir.
+2. Başlangıç noktası A olan bir ışın çizilir, ışının üzerine bir B noktası yerleştirilir.
+3. A noktasından dik geçen ikinci bir ışın çizilir ve bu ışının üzerine C noktası yerleştirilir.
+A, B ve C noktaları arasında oluşan açının 90° olmasına dikkat edilir.
+4. [AB ve [AC arasında kalacak şekilde üçüncü bir ışın çizilir ve bu ışın üzerinde D
+noktası işaretlenir.
+5. B, A ve D noktaları işaretlenir ve açı ölçülür. C, A, D arasındaki açı da aynı şekilde
+ölçülür.
+6. Oluşan bu açıların tümler açılar olduğu gözlemlenir.
+Ek-1
+Ters Açı Oluşturma
+1. Dinamik matematik ve geometri aracı açılır, geometri görünümüne geçilir.
+2. İki nokta belirleyerek bir doğru çizilir (örneğin A ve B noktaları).
+3. Aynı “doğru” aracı ile A ve B noktasının dışındaki başka bir nokta seçilerek doğrunun
+uzantısı çizilir.
+4. İlk doğruya bir açı yapacak şekilde başka bir doğru çizilir. Bu doğru da iki nokta
+belirlenerek çizilebilir (örneğin C ve D noktaları).
+5. Oluşturulan iki doğrunun kesişim noktası (örneğin B noktası) ve iki doğrunun diğer
+iki noktası seçilir, bu noktalarla iki doğru arasında oluşan açı ölçülür.
+6. İki doğru arasındaki açı ters açıları oluşturur. Açı ölçüm aracı ile iki doğrunun
+kesişim noktası ve iki doğru seçilerek bu açılar görüntülenir.
+Büyükayı Takımyıldızı Yerleşim Planı
+1. Dinamik matematik ve geometri aracı açılır, geometri görünümüne geçilir.
+2. Büyükayı takımyıldızı modeline uygun olarak 7 nokta belirlenir. Bu noktalar doğru
+parçalarıyla birbirine bağlanır.
+3. Şeklin aslına uygun çizilmesine dikkat edilir.
+Ek-2
+Çalışma Soruları
+Aşağıdaki soruları okuyarak cevaplarınızı soruların altında verilen
+boşluklara yazınız.
+1. Aşağıda verilen AF, BE ve CD doğruları O noktasında kesişmektedir.
+Buna göre aşağıdaki durumları sağlayan açıları yazınız.
+EOD‘nın tümleyeni: …………………………………………………………….........
+EOD‘nın bütünleyeni: ………………………………………………………….......
+EOD‘nın komşu tümleyeni: …………………………………………………...
+EOD‘nın komşu bütünleyeni: ……………………………………………….
+EOD ile ters açı olan açı: ………………………………………………………..
+2. Aşağıda verilen şekilde KL ve MN doğruları birbirini O noktasında
+kesen doğrulardır.
+m(NOL) =156°, m(KOP)=87° ve m(POM)=a° olduğuna göre a kaçtır?
+Ek-2
+3. Aşağıda verilen köprünün ana destek ayağının yerle yaptığı açı
+60°, destek halatının yerle yaptığı açı ise 26°dir.
+Buna göre 60°nin bütünleyeni ile 26°nin tümleyeninin toplamı kaç derecedir?
+Ek-3
+Yarışma Test Soruları
+Aşağıdaki soruları okuyarak doğru olduğunu düşündüğünüz seçeneği işaretleyiniz.
+1. Aşağıda verilen ifadelerden hangisi yanlıştır?
+A) Bir açının tümlerinin tümleri kendisine eşittir.
+B) Bir geniş açının bütünleri bir dar açıdır.
+C) Bir dar açının tümleri bir geniş açıdır.
+D) Bir açının bütünlerinin bütünleri kendisine eşittir.
+2. Aşağıda “Tümler iki açıdan birinin ölçüsü, diğerinin ölçüsünün 2 katının 14 fazlası ise
+bu iki açının ölçüleri farkı kaç derecedir?” sorusunun çözüm adımları verilmiştir.
+I. 180-14=166
+II. 166 ÷2=83
+III. 180-83=97
+IV. 97-83=14
+Buna göre ilk hatalı çözüm hangi adımda yapılmıştır?
+A) I
+B) II
+C) III
+D) IV
+C
+3. B
+A E D
+Verilen şekilde A, E ve D doğrusaldır.
+AEB ve CED açılarının ölçüsü 30° olduğuna göre BEC açısının bütünlerinin ölçüsü
+kaç derecedir?
+A) 30°
+B) 60°
+C) 120°
+D) 150°
+Ek-3
+4. Ölçüsü 62° olan açının tümleri ile bütünlerinin toplamı kaçtır?
+A) 118°
+B) 146°
+C) 156°
+D) 180°
+d
+B
+5.
+E I
+A C
+D
+Yukarıda verilen şekilde d ve l doğruları A noktasında kesişmektedir.
+I. EAB açısının ölçüsü BAC açısının ölçüsünün 2 katına eşittir.
+II. EAB açısı ile BAC açısı komşu tümler açılardır.
+III. EAD açısı ile BAC açısı komşu bütünler açılardır.
+Buna göre yukarıdaki ifadelerden hangileri kesinlikle yanlıştır?
+A) Yalnız II
+B) Yalnız III
+C) I ve II
+D) II ve III
+6. Aşağıda verilen ifadelerden hangisi yanlıştır?
+A) 65°lik açının tümleri 25°dir.
+B) 110°lik açının bütünleri 70°dir.
+C) Tümleri 50° olan açının bütünleri 130°dir.
+D) Bütünleri 100° olan açının tümleri 10°dir.
+Ek-3
+7. A
+F
+E
+H B C D
+Yukarıdaki şekilde ABC üçgeni, CF ışını ve HD doğrusu verilmiştir.
+Buna göre hangi açılar komşu bütünler açılardır?
+A) ACE açısı ile BCE açısı
+B) AEF açısı ile FEB açısı
+C) FCB açısı ile ACD açısı
+D) CEB açısı ile ABC açısı
+8.
+n
+ve
+di
+er
+M
+Duvar
+Yukarıdaki şekilde düz bir duvara dayanan bir merdiven gösterilmiştir. Bu merdivenin
+duvarla oluşturduğu dar açının duvarla oluşturduğu geniş açıya oranı 3 ‘dir.
+7
+Buna göre bu merdivenin duvarla oluşturduğu dar açı kaç derecedir?
+A) 72°
+B) 60°
+C) 54°
+D) 48°
+Ek-4
+Takımyıldızı Tasarlama Performans Görevi Yönergesi
+Sevgili öğrencilerim bu görevin amacı; takımyıldızlarının temel özelliklerini anlamak, yıldızlar arasındaki açı ilişkilerini belirlemek ve yaratıcılığınızı
+matematikle birleştirerek bir tasarım ortaya çıkarmaktır.
+Yapmanız Gerekenler
+1. Takımyıldız Tasarımı: Bir yıldız haritasından veya kendi hayal gücünüzden esinlenerek yeni bir takımyıldız tasarlayınız. Tasarımınızı bir kâğıt
+üzerine çizin. En az 5 yıldızdan oluşan bir yapı oluşturunuz.
+2. Açıların Belirlenmesi: Tasarladığınız yıldızların birbirine göre oluşturduğu açıları belirleyiniz. Takımyıldızınızda tümler, bütünler, komşu ve ters
+açı örneklerini göstermeye çalışınız. Her bir açı türü için yıldızların arasını belirleyerek görsel üzerinde işaretleyiniz.
+3. Açıklama Yazısı: Tasarladığınız takımyıldızın ismini ve hikâyesini yazınız (Örneğin bu takımyıldız neden bu şekilde adlandırıldı? Ne tür bir
+hikâyesi var?). Yıldızların arasındaki açı çeşitlerini ve açı ölçülerini listeleyiniz (Matematiksel terimleri kullanarak kısa açıklamalar yapınız.).
+Takımyıldızınızın gerçek yıldızların konumlarıyla benzerlik taşıyıp taşımadığını belirtiniz.
+4. Bilimsel Bağlantı Kurma: Tasarımınızın günlük hayatta nerelerde kullanılabileceğini veya bilimsel çalışmalara nasıl katkıda bulunabileceğini
+yazınız (örneğin navigasyon, astronomi, teknoloji veya diğer alanlarda kullanım fikirleri).
+Çalışmalarınızı ……………… tarihinde teslim etmelisiniz. Aşağıda yer alan görevlendirme tablosuna göre puanlarınız belirlenecektir. Hepinize başarılar
+dilerim.
+Görev Açıklama Puan (100 puan) Öğrenci Puanı
+Yaratıcılık ve Özgünlük Takımyıldız tasarımının özgün ve yaratıcı bir şekilde yapılması 30 puan
+Matematiksel Yıldızlar arasındaki açıların doğru bir şekilde belirlenmesi ve tümler,
+Doğruluk bütünler, komşu, ters açılar gibi örneklerin gösterilmesi
+Bilimsel ve Anlaşılır Takımyıldızın adı, hikâyesi, açı ölçümleri ve bilimsel bağlantılarının açık
+Açıklama ve mantıklı bir şekilde ifade edilmesi
+Görsel Düzen ve
+Tasarımın estetik, düzenli ve anlaşılır bir şekilde hazırlanmış olması 20 puan
+Tasarım
+TOPLAM PUAN 100 puan
+Takımyıldızlarının Geometrik İlişkileri
+Cevap Anahtarları
+Ek-2
+SORULAR ÇÖZÜMLER
+EOD‘nın tümleyeni: EOF ile AOB
+EOD‘nın bütünleyeni: DOB ile COE
+1. EOD‘nın komşu tümleyeni: EOF
+EOD‘nın komşu bütünleyeni: DOB ile COE
+EOD ile BOC ters açılardır.
+87+a=156 (Ters açılar)
+2. a=156-87
+a=69°
+60°nin bütünleyeni
+180-60=120°
+3. 26°nin tümleyeni
+90-26=64°
+120+64=184° olur.
+Ek-3
+SORULAR CEVAPLAR
+Takımyıldızlarının Geometrik İlişkiler
+LINKS:[["Pusula", "56xKUH"], ["EBA Bir Açının Komşusu, Tümleri, Bütünleri ve Tersi", "rlYkgQ"], ["Tümler Açılar", "VRvCEK"], ["Bütünler Açılar", "RDVxVj"], ["Ters Açılar", "UKNTcnb"], ["Çalışma Soruları", "UffDtoO"], ["EBA Alıştırmalar-Komşu, Tümler, Bütünler ve Ters Açılar", "UUnxZ6g"], ["Açılar Test Soruları", "UGkVFxt"], ["EBA Takımyıldızlar", "h31fRp"], ["Büyükayı Takımyıldızı Yerleşim Planı", "UFrl8jA"]]

@@ -1,0 +1,96 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (2) - Kesir Avcilari Antik Misir'da.pdf
+SURE:5 KOD:MAT.6.1.8.
+KAV:Birim kesirler, Denk kesirler, Kesirlerle toplama ve çıkarma işlemi, Kesir problemleri
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen grup çalışması için öğrencileri ikişerli gruplara ayırır. Yapılacak etkinlik için şekil ve çizim aracı
+ile hazırladığı Kesir Çarkları çalışma kâğıtlarının grup sayısı kadar çıktısını alır. Öğrencileri gerekli materyal-
+leri (açıölçer, cetvel, makas, renkli boyalar, çift taraflı bant) hazır bulundurmaları için EBA’dan bilgilendirir.
+1. Ders (Sınıf)
+Öğretmen, derse dikkat çekici bir giriş yapmak için etkileşimli sunum aracıyla hazırladığı Antik Mısır Matema-
+tiği içeriğini etkileşimli tahtada açar ve kesirlerin tarihsel gelişimine değinir. Soru cevap tekniğiyle öğren-
+cileri yönlendirmek için onlara çeşitli sorular sorar (Ek-1). Böylece öğrenciler, kesirlerin tarihsel kullanım
+amacını kavrayarak birim ve denk kesirleri hatırlar, bunları günlük yaşamla ilişkilendirir. Aynı zamanda kesir-
+lerle toplama ve çıkarma işlemi yapmak için paydaları eşitleme amacıyla denk kesirlere ihtiyaç duyduk-
+larını fark eder.
+Öğretmen, öğrencilere bir etkinlik yapacaklarını ve ikişerli gruplarla çalışacaklarını söyler. Etkinlik yönerge-
+sini etkileşimli tahtada açar (Ek-2). Öğrenciler etkinlik için verilen daireleri yönergedeki adımları takip ederek
+önce 2, sonra 4, 6 ve 8 eş parçaya ayırır. Parçaları kesip farklı renklere boyar ve fon kartonuna çift taraflı
+bantla yapıştırarak kesir çarklarını oluşturur. Hazırladıkları çarklardaki dilimleri üst üste getirerek , ve ’in
+aynı büyüklüğü gösterdiğini gözlemler. ve ile kıyaslayarak büyükten küçüğe sıralama yapar ve bulgu-
+larını sınıfta paylaşır. Öğretmen, tartışmayı yönlendirerek öğrencilerin denk kesirleri ve birim kesirleri tekrar
+etmelerini, bunları günlük yaşamla ilişkilendirmelerini ve kesirlerle toplama ve çıkarma işlemi yapabilmek
+için denk kesirlere ihtiyaç duyduklarını fark etmelerini sağlar.
+Ders Sonrası
+Öğretmen, anlık geri bildirim sağlayan web aracıyla hazırladığı Sayı Doğrusu etkinliğinin bağlantısını
+EBA’dan öğrencilere gönderir. Öğrencilerden bu etkinliği bireysel olarak yapmalarını ve derse gelmeden
+önce tamamlamalarını ister. Etkinliğe katılım durumunu belirlemek için öğrencilere etkinlik sonunda elde
+ettikleri sonucun ekran görüntüsünü EBA mesajlar bölümünden göndermelerini söyler. Bu etkinlik sayesinde
+öğrenciler, önceki öğrenmelerini gözden geçirmiş olur.
+Muhakeme (akıl yürütme), Matematiksel temsillerden yararlanma, Çıkarım yapma,
+Merak, Matematiksel araç ve teknolojiden yararlanma, Görseli anlama, Görseli
+yorumlama, Ekip (takım) çalışması yapmak ve yardımlaşmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Öncesi
+Öğretmen, ders öncesinde hatırlatma amacıyla Paydaları Farklı Olan Kesirlerle Toplama ve Çıkarma İşlemi
+konu anlatım videosunu EBA’dan paylaşır ve öğrencilerden dersten önce videoyu izlemelerini ister.
+2. Ders (Sınıf)
+Öğretmen, EBA’da yer alan Kesirlerle Toplama ve Çıkarma İşlemi etkileşimli içeriğiyle derse başlar. Bu etkinlikte
+öğrenciler, paydaları farklı olan kesirlerle toplama ve çıkarma işlemiyle ilgili soruları cevaplar ve daha sonra
+buldukları sonuçları kesir modelleriyle görselleştirir. Gönüllü öğrenciler sırayla tahtaya gelerek çözümlerini
+sınıfla paylaşır. Öğretmen öğrencilerin verdiği cevaplara geri bildirim verir, varsa eksik veya hatalı öğrenme-
+leri giderir. Ardından bir önceki derste bahsettiği Ahmes (Rhind) Papirüsü’nde bulunan kesirli ifadeleri öğren-
+cilere hatırlatır. Burada verilen kesirlerin birim kesirlerin toplamı şeklinde yazıldığına dikkat çeker. Öğretmen,
+dinamik matematik ve geometri aracıyla hazırladığı Antik Mısır’da Kesirlerle Toplama İşlemi içeriğini etkile-
+şimli tahtada açar. Etkinliği hazırlarken yalnızca iki farklı birim kesrin toplamı şeklinde yazılabilen kesirleri
+seçer. Tahtada gösterilen kesrin iki farklı birim kesrin toplamı olup olmadığını öğrencilere sorar. Ardından
+kesrin yarımdan büyük veya küçük oluşuna göre nasıl ilerleyeceklerini öğrencilere açıklar:
+• Eğer kesir yarımdan büyükse ilk toplanan kesir olarak alınır. İkinci toplanan ise verilen kesir ile ‘nin
+farkı olur.
+Örnekte > olduğundan ilk kesir seçilir. İkinci kesir ise - = olur.
+Yani = + ’tür.
+• Eğer kesir yarımdan küçükse verilen kesirden küçük olan en büyük birim kesir seçilir. Sonra verilen kesirden
+bu birim kesir çıkarılarak ikinci birim kesir elde edilir.
+Öğrenciler, içerikteki örneği kesir çubuklarıyla modelleyerek görsel temsilini oluşturur. Böylece verilen kesrin
+iki farklı birim kesrin toplamı biçiminde yazılabileceğini somut olarak gözlemlemiş olurlar. Öğretmen, öğren-
+cilerin konuyu pekiştirmeleri için dinamik matematik ve geometri aracı ile hazırladığı Kesirlerle Toplama
+İşlemi Alıştırmalar etkinliğini açar ve etkinlikteki soruların çözümü için öğrencilere rehberlik eder (Ek-3).
+Gönüllü öğrencilerden etkileşimli tahtada soruları çözmelerini ister ve katılım gösteren öğrencileri tebrik
+eder. Yapılan örnekleri kısaca özetleyerek dersi tamamlar.
+Çözümleme, Çıkarım yapma, Analitik düşünme, Matematiksel çözümler geliştirme,
+etkileşim sağlamak, Dijital araçlarla iş görme
+Ders Öncesi
+Öğretmen, dinamik matematik ve geometri aracında Kesir Problemleri Grup Çalışma Soruları etkinliğini
+hazırlar ve hazırladığı bu etkinliğin sınıf mevcudu kadar çıktısını alır (Ek-4). Grup çalışması için öğrencileri
+3-4 kişilik gruplara ayırır. Grup değerlendirme yapmayı sağlayan web aracı ile hazırladığı Grup Değerlen-
+dirme Formu ile etkinlikleri değerlendireceğini bildirir ve kriterleri açıklar (Ek-5).
+Öğretmen, kesirlerle toplama ve çıkarma işlemlerini kısaca anlatır ve yapacakları grup çalışması hakkında
+öğrencileri bilgilendirir. Öğrencilerden kesirlerle toplama ve çıkarma problemlerini önce bireysel olarak
+sonra grup hâlinde çözmelerini ister. Daha sonra soruların çözümlerini grup hâlinde tartışacaklarını, ortak
+cevaplarını dinamik matematik ve geometri aracıyla modelleyerek sunacaklarını belirtir. Çalışma kâğıtla-
+rını öğrencilere dağıtır (Ek-4). Öğrenciler, kâğıttaki problemleri öğretmenin belirlediği süre içinde bireysel
+olarak çözer. Bu süreçte öğretmen sınıfta dolaşarak öğrencilere rehberlik eder. Tüm öğrenciler çözümle-
+rini tamamladıktan sonra ders öncesi oluşturduğu öğrenci gruplarını etkinlik için bilgisayarlara yönlendirir.
+Öğrenciler grup içinde bireysel çözümlerini karşılaştırır, farklılıkları tartışır ve ortak bir çözüme ulaşır. Gruplar,
+her bir problem için ulaştıkları ortak çözümleri ve modellemeleri Kesir Problemleri Grup Çalışma Soruları
+içeriğine kaydeder ve bağlantılarını EBA’dan paylaşır. Ardından her gruptan bir öğrenci, grup olarak ulaştık-
+ları çözümü etkileşimli tahtada sınıfa sunar. Sunumlar ve çözüm yolları sınıfça tartışılır. Öğretmen öğrenci-
+lerin eksik veya yanlış öğrenmeleri varsa giderir, katılımı olan öğrencileri tebrik eder. Hazırladığı Grup Değer-
+lendirme Formu ile öğrencileri değerlendirerek dersi tamamlar.
+Matematiksel çözümler geliştirme, Muhakeme (akıl yürütme), Karşılaştırma,
+Matematiksel temsillerden yararlanma, Matematiksel araç ve teknolojiden yarar-
+lanma, Dijital araçlarla iş görme, Dijital ortamlar için içerik oluşturma ve paylaşma,
+Sorumluluk, Grup iletişimine katılmak, Ekip (takım) çalışması yapmak ve yardım-
+laşmak, Görseli yorumlama
+5. Ders (BT Sınıfı)
+Öğretmen, oyunlaştırılmış ölçme ve değerlendirme web aracıyla hazırladığı Kesir Problemleri Testi adlı etkin-
+liği web aracının takım modunda başlatır ve bağlantıyı gruplarla paylaşır (Ek-6). Gruplar, soruları aynı anda
+çözerek yanıtlarını sisteme girer. Ekrandaki puan durumu yarışma atmosferini güçlendirir. Oturum sonunda
+en fazla doğruya ulaşan (eşitlik durumunda süre üstünlüğü olan) grup birinci olur ve tüm sınıf bu grubu
+tebrik eder. Öğretmen, testte öne çıkan hataları kısaca değerlendirir ve doğru çözüm yöntemlerini öğren-
+cilere hatırlatarak dersi tamamlar.
+Matematiksel araç ve teknolojiden yararlanma, Muhakeme (akıl yürütme), Değer-
+yapmak ve yardımlaşmak
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["Kesir Çarkları", "UJdxOed"], ["Antik Mısır Matematiği", "UEP4Co9"], ["Sayı Doğrusu", "B7YTPi"], ["EBA Paydaları Farklı Olan Kesirlerle Toplama ve Çıkarma İşlemi", "C1GgMI"], ["EBA Kesirlerle Toplama ve Çıkarma İşlemi", "XkV6IT"], ["Antik Mısırda Kesirlerle Toplama İşlemi", "DmBrmB"], ["Kesirlerle Toplama İşlemi-Alıştırmalar", "UbsxD8c"], ["Kesir Problemleri Grup Çalışma Soruları", "2WFHOJ"], ["Grup Değerlendirme Formu (Öğretmen için)", "UhS7qpf"], ["Kesir Problemleri Testi", "Ut1wULq"]]

@@ -1,0 +1,91 @@
+## 6. Sinif/Matematik/Sayilar ve Nicelikler (2) - Ucgen Oyunu ile Uzunluk Olcme.pdf
+SURE:5 KOD:MAT.6.1.7.
+KAV:Metre, Ölçme birimleri, Uzunluk ölçme
+Öğrenme Etkinlikleri
+Ders Öncesi
+Öğretmen ders öncesi Üçgen Oyunu videosunu EBA’da seçtiği sınıf grubu ile paylaşır. Öğrencilerden bir
+sonraki derse kadar videoyu izlemelerini, oyun kurallarını öğrenmelerini ve yanlarında 3 adet misket getir-
+melerini ister. Yeterli sayıda kâğıt bant ve metreyi derste hazır bulundurur. Etkinliklere ayrılan süreyi daha
+verimli kullanmak için ders öncesinde 4-5 kişilik öğrenci grupları oluşturur. Üçgen Oyunu etkinlik kâğıdının
+grup sayısı kadar çıktısını alır (Ek-1).
+1. Ders (Okul Bahçesi)
+Öğretmen öğrencileri bahçeye çıkarır. Öğrencilere aşağıdaki soruları yöneltir:
+• Üçgen Oyunu videosunu izlediniz mi?
+• Daha önce bu oyunu oynadınız mı?
+• Oynadığınız geleneksel çocuk oyunları varsa kısaca bahseder misiniz?
+• Büyüklerinizden öğrendiğiniz çocuk oyunları varsa kısaca bahseder misiniz?
+• Standart ve standart olmayan uzunluk ölçme birimleri nelerdir?
+• Standart ve standart olmayan uzunluk ölçme birimlerine örnek verir misiniz?
+Öğretmen öğrencilerle oyun hakkında kısaca konuşur. Üçgen Oyunu etkinlik kâğıdının çıktısını öğrenci grupla-
+rına dağıtır (Ek-1). Öğrencilerden etkinlik kâğıdındaki aşamaları takip ederek oyunu oynamalarını ister. Bir
+sonraki derste cevaplayacakları sorular için de Üçgen Oyunu etkinlik kâğıdını kullanacaklarını öğrencilere
+söyler. Kullanacakları malzemeleri öğrencilere verir. Süreç boyunca öğrencileri gözlemler ve gerektiğinde
+onlara yardımcı olur.
+Matematiksel çözümler geliştirme, Matematiksel temsillerden yararlanma,
+Matematiksel araç ve teknolojiden yararlanma, Kendi kültürünü fark etmek, Ekip
+(takım) çalışması yapmak ve yardımlaşmak, Oyunseverlik, Değerlendirme
+Ders Öncesi
+Öğretmen, öğrencilerden bir önceki derste tamamladıkları Üçgen Oyunu etkinlik kâğıdını derste hazır bulun-
+durmalarını ister. Etkinliği değerlendirmek için dijital pano ya da post-it oluşturma araçları ile Oyun Sonrası
+Sorular adlı çalışmayı hazırlar.
+2. Ders (Sınıf)
+Öğretmen, öğrencilerin Üçgen Oyunu sonrasındaki deneyimleriyle ilgili sorulardan oluşan Oyun Sonrası
+Sorular etkinliğini etkileşimli tahtada açar. Öğrenciler soruları yanıtlarken grupça karar verir ve her soruyu
+gruptan farklı bir öğrenci etkileşimli tahtada yanıtlar. Öğretmen, süreci gözlemleyerek gerektiğinde öğren-
+cilere destek olur. Verilen cevaplar, öğrencilerin uzunluk ölçme birimleri hakkındaki fikirlerini yansıtır.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Öğretmen, etkileşimli sunum araçları ile hazırladığı Kendine Has Birim örnek olayını öğrencilerle paylaşır.
+Ölçmenin anlamı hakkında öğrencilerin fikirlerini alır. Öğrenciler, standart bir birime duyulan ihtiyaç hakkında
+sınıfça tartışır ve standart uzunluk ölçme birimlerini (mm, cm, dm, m, dam, hm, km) sıralar.
+Ders Öncesi
+Öğretmen, etkinliklere ayrılan zamanı daha verimli kullanmak için ders öncesinde 4-5 kişilik öğrenci grupları
+oluşturur.
+Öğretmen ders öncesi oluşturduğu öğrenci gruplarını etkinlik için bilgisayarlara yönlendirir. Gruplardan
+kısa cevaplı sorular oluşturmayı sağlayan web araçları ile hazırlanan Birimi Tahmin Et etkinliğini açmala-
+rını ister. Onlardan günlük hayatta karşılaşabilecekleri uzunluk ölçüm örneklerinin yer aldığı sorularda hangi
+ölçü biriminin kullanıldığını tahmin etmelerini ve cevaplarını boşluklara yazmalarını ister. Etkinlik süresince
+öğrencileri gözlemler. Tüm gruplar soruları cevapladıktan sonra öğretmen, etkileşimli tahtada etkinliği açar.
+Öğrencilerin verdikleri cevaplar hakkında konuşulur. Gruplardan hangi uzunluk ölçü birimini neden seçtik-
+lerini tartışmalarını ister.
+Öğretmen, bir sonraki etkinlik olan dinamik matematik ve geometri araçlarıyla hazırladığı Ölçme Birimini
+Değiştir etkinliğini açmaları için öğrencileri yönlendirir. Etkinlik süresince öğrencileri gözlemler. Gerektiğinde
+onlara yardımcı olur. Etkinlik sonunda gruplara şu soruları yöneltir:
+• Dikdörtgenin çevre uzunluğunu verilen ölçme birimini kullanarak nasıl ölçtünüz?
+• Dikdörtgenin çevre uzunluğunu verilen ölçme birimini kullanarak nasıl tahmin ettiniz?
+• Tahminde bulunduğunuz ölçme birimleri ilk ölçme biriminin kaç katıydı?
+• Ölçme birimindeki değişiklik ölçümünüzü nasıl etkiledi?
+• Cetvel üzerindeki en küçük aralıklar hangi ölçme birimini temsil ediyor?
+• Cetveli kullanarak yaptığınız ölçümü cm biriminden mm birimine nasıl dönüştürdünüz?
+Öğretmen, sorular aracılığıyla ölçme birimi değişiminde öğrencilerin orantısal akıl yürütmelerine yardımcı
+olur. Öğrencilerin ölçme birimi büyüdükçe ölçüm değerinin küçüleceğini, ölçme birimi küçüldükçe ölçüm
+değerinin büyüyeceğini fark etmelerini sağlar. Gruplardan uzunluk ölçme birimlerinin dönüştürülmesi
+için yöntem geliştirmelerini ister. Bütün gruplar geliştirdikleri yöntemleri sınıfla paylaşır. Öğretmen; gerekli
+eklemeleri ve düzeltmeleri yapar, öğrencilerin uzunluk ölçme birimlerini ve bu birimler arasındaki ilişkileri
+pekiştirmeleri için EBA’dan Uzunluk Ölçme Birimleri Arasındaki İlişki etkileşimli etkinliğini açar. Uzunluk birim-
+leri arasında nasıl dönüşüm yapıldığını gözlemleyecekleri Metre ve Metreden Küçük Birimler Arasındaki
+Dönüşümler etkinliği ile dersi tamamlar.
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+Ders Sonrası
+Öğretmen, ders sonrası oyunlaştırılmış ölçme ve değerlendirme web araçları ile hazırlanan, standart uzunluk
+ölçme birimleri ile ilgili sorulardan oluşan Bilgi Yarışması adlı oyunun bağlantısını EBA sayfasında seçtiği
+sınıf grubu ile ileti olarak paylaşır (Ek-2). Öğrencilerden belirlediği saat aralığında oyunu oynamalarını ister.
+Öğrencilerden oyundaki görevlerini tamamladıktan sonra toplam puanlarını gösteren oyunun bitiş ekranının
+fotoğrafını EBA’dan mesaj olarak göndermelerini ister.
+Matematiksel temsillerden yararlanma, Matematiksel temsilleri değerlendirme,
+Kişi ve gruplarla iş birliği yapmak, Muhakeme, Analitik düşünme
+Ders Öncesi
+Öğretmen, Uzunluk Ölçme Çalışma Kâğıdı’nın öğrenci sayısı kadar çıktısını alır (Ek-3).
+5. Ders (Sınıf)
+Öğretmen, bir önceki dersin sonunda öğrencilerden oynamalarını istediği Bilgi Yarışması adlı oyunu etkile-
+şimli tahtada açar (Ek-2). Öğrencilere oyun ile ilgili aşağıdaki soruları sorar:
+• Yarışmayı oynarken eğlenceli zaman geçirdiniz mi?
+• Hangi soruları daha kolay yanıtladınız?
+• Yanıtlamakta zorlandığınız bir soru var mıydı?
+Böylece öğrencileri derse hazırlar. Oyun bir kere de sınıfça oynanır ve sorulara verilen yanıtlar tartışılır.
+Öğretmen Uzunluk Ölçme Çalışma Kâğıdı’nı öğrencilere dağıtır (Ek-3). Öğrencilerden bireysel olarak çalışma-
+larını ister. Süreçte öğrencilere rehberlik eder. Süreç sonunda öğrencilerin Uzunluk Ölçme Çalışma Kâğıdı’n-
+daki sorulara verdikleri yanıtları değerlendirmek için dereceleme ölçeğini kullanır (Ek-4).
+Matematiksel çözümler geliştirme, Oyunseverlik, Analitik düşünme, Problem çözme
+UYGULAMA TEKNOLOJİ ODAKLI ÖĞRENME SENARYOLARI
+
+LINKS:[["EBA Üçgen Oyunu", "d9JELW"], ["Oyun Sonrası Sorular", "UlBFpPP"], ["Kendine Has Birim", "Umz9Wwh"], ["Birimi Tahmin Et", "UqRPFIe"], ["Ölçme Birimini Değiştir", "UoVnQKm"], ["EBA Uzunluk Ölçme Birimleri Arasındaki İlişki", "arIQn7"], ["EBA Metre ve Metreden Küçük Birimler Arasındaki Dönüşümler", "UwxOaDm"], ["Bilgi Yarışması", "OnYi7F"]]
