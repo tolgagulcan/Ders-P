@@ -1,0 +1,42 @@
+[
+{"id":69,"unite":"Birlikte Yaşamak","ad":"Birlikte Daha Güçlüyüz",
+"ozet":"Yardımlaşma ve dayanışmanın toplumsal birliğe etkisi incelenir; gruplar çocuklar, yaşlılar veya okullar için sosyal sorumluluk projesi tasarlayıp sunar.",
+"ozu":"<p>Yardımlaşma ve dayanışma toplumu bir arada tutar. Sosyal sorumluluk projeleri, bir ihtiyacı fark edip çözüm için birlikte harekete geçmektir.</p>",
+"dersler":[
+["Yardımlaşma ve dayanışma","EBA'daki etkileşimli içerikle yardımlaşmanın toplumsal birliğe etkisi incelenir; MEB'in iyi örnekler sayfasından okul projeleri gösterilir."],
+["Proje fikri","5-6 kişilik gruplar “Sosyal Sorumluluk Projem” şablonuyla çocuklar, yaşlılar veya okullara yönelik bir proje fikri geliştirir."],
+["Proje sunumları","Gruplar projelerini tahtada sunar, sorular sorulup tartışılır; kontrol listesi ve dereceli puanlama anahtarıyla değerlendirilir."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları"},
+{"id":70,"unite":"Birlikte Yaşamak","ad":"Birlikte Yaşama Gücü",
+"ozet":"Kültür ve kültürel ögeler, şehirlerin kültürel zenginlikleri ve Türk misafirperverliği üzerinden farklılıklara saygının birlikte yaşamaya katkısı işlenir.",
+"ozu":"<p>Kültür; dil, gelenek, yemek, kıyafet, müzik gibi somut ve soyut ögelerden oluşur. Farklı kültürlere saygı ve misafirperverlik birlikte yaşamayı güçlendirir.</p>",
+"dersler":[
+["Kültür ve ögeleri","Kültür kavramı ve somut-soyut kültür ögeleri örneklerle açıklanır, “Kültür Ögelerimiz” etkinlikleri yapılır."],
+["Şehrimin kültürü","Öğrenciler yaşadıkları ya da seçtikleri şehrin kültürel ögelerini afiş aracıyla tanıtır ve kendilerini kontrol çizelgesiyle değerlendirir."],
+["Misafirperverlik","EBA'dan “Yabancıların Gözünde Türkiye” içeriğiyle Türk misafirperverliği konuşulur; “Hangisi Bizim Kültürümüz?” etkinliğiyle pekiştirilir."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları"},
+{"id":71,"unite":"Birlikte Yaşamak","ad":"Birlikte Yaşama Sanatı",
+"ozet":"Kelime oyunlarıyla “kültür” kavramına ulaşılır; mangala oyunu ve farklı ülkelerin kültürel özellikleri üzerinden kültürel çeşitliliğe saygı işlenir.",
+"ozu":"<p>Her toplumun kendine özgü kültürel ögeleri vardır. Farklı kültürleri tanımak hem kendi kültürümüzü daha iyi anlamamızı hem de farklılıklara saygı duymamızı sağlar.</p>",
+"dersler":[
+["Hangi kavramı öğreneceğim?","Kelime oyunu ve resfebe ile “kültür” kavramına ulaşılır; 23 Nisan videosuyla farklı ülkelerden çocukların kültürleri gösterilir."],
+["Kültürel ögelerimiz","Sınıftaki kültürel çeşitlilik konuşulur; öğrenciler kültürel ögeler etkinliğini dijital duvarda paylaşır. Ders öncesi araştırılan mangala oyunu oynanır."],
+["Ülkelerin kültürleri","Öğrenciler seçtikleri bir ülkenin kültürel özelliklerini anlatan bilgi görseli hazırlar; dereceli puanlama anahtarıyla değerlendirilir."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları, mangala (varsa)"},
+{"id":72,"unite":"Birlikte Yaşamak","ad":"Hayatın İçindeki Ben",
+"ozet":"Futbol takımı örneğiyle gruplar, roller, haklar ve sorumluluklar işlenir; öğrenciler bu konuda çizgi roman hazırlar.",
+"ozu":"<p>Herkes aile, sınıf, takım gibi farklı gruplarda yer alır ve her grupta farklı rolleri vardır. Her rol beraberinde hak ve sorumluluklar getirir.</p>",
+"dersler":[
+["Gruplar ve roller","Öğretmen futbol topu ve kaleci eldiveniyle gelir; takımdaki roller üzerinden grup, rol, hak ve sorumluluk kavramları tartışılır, EBA içerikleriyle aile rolleri işlenir."],
+["Çizgi roman","Çizgi roman aracı tanıtılır; gruplar rolleri, hakları ve sorumlulukları anlatan bir çizgi roman hazırlar."],
+["Sunum ve pekiştirme","Gruplar çizgi romanlarını tahtada sunar; “Hayatın İçindeki Ben” eşleştirme etkinliği yapılır, ders sonrası EBA'dan kısa sorular gönderilir."]],
+"gerek":"Akıllı tahta, öğrenci bilgisayarları"},
+{"id":73,"unite":"Birlikte Yaşamak","ad":"Hep Birlikte El Ele",
+"ozet":"Çubuk demeti deneyiyle birliğin gücü gösterilir; Tekâlif-i Milliye, sadaka taşları ve sivil toplum kuruluşları üzerinden yardımlaşma kültürü işlenir.",
+"ozu":"<p>Tek tek kolayca kırılan çubuklar demet olunca kırılamaz; toplum da birlik olunca güçlenir. Tarihimizdeki sadaka taşları ve Tekâlif-i Milliye, bugün ise STK'lar bu dayanışmanın örnekleridir.</p>",
+"dersler":[
+["Çubuk demeti","Öğrenciler bağlanmış çubuk demetlerini kırmaya çalışır ama başaramaz; birliğin gücü konuşulur. EBA'dan Tekâlif-i Milliye emirleri incelenir."],
+["Sadaka taşları","EBA'dan sadaka taşları videosu izlenir, doğru-yanlış etkinliği yapılır; “Kelimeler Bize Bir Şey Söylüyor” sözlük çalışması yapılır."],
+["Sivil toplum kuruluşları","Yardımlaşmayı destekleyen kurumlar örneklenir; EBA içerikleriyle STK'ların etkinlik alanları belirlenir ve tartışılır."]],
+"gerek":"Akıllı tahta, ahşap çubuklar ve ip"}
+]
