@@ -1,5 +1,61 @@
 [
  {
+  "id": 32,
+  "unite": "Adventures",
+  "ad": "Move More, Live More",
+  "ozet": "Fiziksel aktivite ve sağlık sorularından sonra öğrenciler Epic Dance Challenge oyununda çöp adamla dans eder; spor tercihleri konuşulur, Extreme Sports görseliyle macera sporları tanıtılıp balık kavanozu tekniğiyle karşılaştırılır, ardından okul bahçesinde ip, ağ ve tahtalarla bir macera parkuru kurma projesi başlatılır: bir grup anket, duyuru ve parkur kurulumunu üstlenir, kara, hava ve su sporları grupları yapay zekâyla araştırıp broşür hazırlar ve bahçedeki standlarda tanıtır.",
+  "ozu": "<p>Senaryo tercih bildirme, gerekçe verme ve karşılaştırma kalıplarını (<i>I prefer…, because…, more challenging than…</i>) <b>okul çapında gerçek bir projeyle</b> kullandırıyor: bahçede tüm öğrencilerin kullanabileceği bir macera parkuru kuruluyor. Risk ve zorluklar “Güvenlik Ekibi, Organizatörler, Öğrenci Kulübü, Çevre Ekibi” rolleriyle farklı açılardan tartışılıyor. Dil, standlarda ziyaretçilere sporları anlatırken ve parkuru kurarken anlamlı bir bağlamda kullanılıyor; öğretmen her aşamada güvenlik kontrolü yapıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“Fiziksel aktivite ile sağlık arasında nasıl bir ilişki var? Ne sıklıkla spor yaparsınız?” sorularından sonra Epic Dance Challenge oyununda öğrenciler müzik eşliğinde çöp adamla dans eder ve durduğunda pozunu taklit eder. “Kapalı mı açık alan mı, takım mı bireysel mi? Yeni bir spor icat etsen nasıl olurdu? Antrenör olsan tembel insanları nasıl teşvik ederdin?” gibi sorular konuşulur. Extreme Sports görselindeki kısa metinler okunur; balık kavanozu tekniğinde iç çember macera sporları tercihlerini ve karşılaştırmalarını anlatır, dış çember nedenlerini sorar, sonra roller değişir. İkililer Group the Sports'ta kano, rafting, paraşüt gibi sporları yapıldıkları yere göre gruplar."
+   ],
+   [
+    "2. ders",
+    "Bahçede öğretmen ip, ağ ve tahta gibi malzemeleri gösterip ne için getirildiğini tahmin ettirir; “Macera hayatınızda ne kadar önemli? Hiç ekstrem spor yaptınız mı?” soruları konuşulur. Öğrencileri sosyalleşmeye ve hareket etmeye teşvik edecek bir macera parkuru projesi başlatılır; öğrenciler kampanya afişleri ve duyurular hazırlamakla görevlendirilir. Güvenlik Ekibi, Organizatörler, Öğrenci Kulübü ve Çevre Ekibi rolleriyle olası riskler ve çözümler tartışılır, parkur için uygun yer seçilip malzemeler oraya taşınır."
+   ],
+   [
+    "3. ders",
+    "Kontrol listesi EBA'da paylaşılır ve sınıf Macera Parkuru, Kara Sporları, Hava Sporları ve Su Sporları gruplarına ayrılıp görevlerini çıkarır. Macera Parkuru grubu okul sitesinde favori ekstrem sporlarla ilgili anket yayımlar, gönüllü ve malzeme çağrısı yapar, tanıtım afişleri basıp asar. Diğer gruplar kendi spor kategorilerini yapay zekâ sohbet botlarıyla araştırıp tercih, gerekçe ve karşılaştırma yapılarını içeren broşür ya da afişler hazırlar. Ürünler EBA'da paylaşılıp beğeni ve yorumlarla değerlendirilir."
+   ],
+   [
+    "4. ders",
+    "Bahçede Macera Parkuru grubu okulun sağladığı malzemelerle gönüllülerin de katılımıyla parkuru kurar; kara, hava ve su sporları grupları standlarında ziyaretçilere sporları “challenging, amusing, fascinating” gibi kelimeler ve karşılaştırma yapılarıyla tanıtır. Öğretmen güvenlik kontrollerini yapar ve dönüt verir. Öğrenciler öz değerlendirme formunu doldurur. Ödev: Türkiye'de ekstrem sporların yapılabildiği yerleri gösteren bir harita tasarlamak."
+   ]
+  ],
+  "gerek": "İp, ağ, tahta gibi parkur malzemeleri, stand malzemeleri, basılı afiş ve broşürler, kontrol listesi (Ek-2), öz değerlendirme formu (Ek-3), okul bahçesi, BT sınıfı, etkileşimli tahta, EBA; oyunlaştırma, eşleştirme, anket, yapay zekâ ve görsel tasarım araçları."
+ },
+ {
+  "id": 33,
+  "unite": "Chores",
+  "ad": "Chores Build Responsibility",
+  "ozet": "Ters yüz öğrenmeyle öğrenciler EBA'daki Chores videosunu izleyip çalışma kâğıdını evde doldurur; sınıfta kelimeler eşleştirmeyle pekiştirilip ev işleriyle ilgili sevme, sevmeme ve zorunluluk ifadeleri ikili konuşmalarla çalışılır, Sharing Chores at Home dijital hikâyesinden sonra gruplar ev işlerinin aile içinde adil paylaşımını sunar, Chores Wheel oyunu ve ev-okul sorumlulukları gruplaması yapılır ve son derste gruplar robotların ev işlerine yardım ettiği “Geleceğin Akıllı Evi” canlandırmalarını hazırlar.",
+  "ozu": "<p>Senaryo ev işleri kelimelerini <b>sorumluluk ve adil paylaşım</b> düşüncesiyle birleştiriyor. Ters yüz öğrenme sayesinde sınıf süresi konuşmaya ve problem çözmeye kalıyor: öğrenciler hikâyedeki ailenin işleri nasıl adil bölüşebileceğine karar verip grafikle sunuyor. Son derste konu geleceğe taşınıyor; akıllı buzdolabı, yemek pişiren ya da ütü yapan robotların avantajları ve komik sorunları sanal arka planlı canlandırmalarla tartışılıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Chores videosunu izleyip wash dishes, take out the trash, make the bed, vacuum, do the laundry gibi kelimeleri içeren Chores Worksheet'i evde doldurur."
+   ],
+   [
+    "1. ders",
+    "“Evde hangi işleri yapıyorsunuz? Çocuklar ev işi yapmalı mı? Ev işleri sorumluluk kazandırır mı?” soruları konuşulur. Çalışma kâğıdı birlikte gözden geçirilir, cümleler kontrol edilir. Chores Match-Up oyununda kelimeler anlamlarıyla eşleştirilir. İkililer 3-4 kelime kullanarak kolay ve zor buldukları, sevmeseler de yapmak zorunda oldukları işleri ve ne sıklıkla yaptıklarını soru-cevapla konuşur."
+   ],
+   [
+    "2. ders",
+    "Sharing Chores at Home dijital hikâyesinin ilk sahnesi gösterilip “Bu mutfak sizinkine benziyor mu? Tom olsan annene ne cevap verirdin?” soruları sorulur. Hikâye izlendikten sonra küçük gruplar ailenin işleri nasıl paylaşabileceğini tartışır ve her aile üyesinin hangi işi yapacağını gösteren kısa bir sunum ya da grafik hazırlayıp sınıfa sunar."
+   ],
+   [
+    "3. ders",
+    "A House in Chaos görselleriyle “Bu ev düzenli mi dağınık mı? Senin evin olsa ne yapardın?” soruları sorulur. Gruplar Chores Wheel çarkında çıkan tanımlara göre ev işini tahmin eder ve puan toplar. Home Responsibilities vs. School Responsibilities etkinliğinde sorumluluklar tahtada ev ya da okul olarak gruplanır."
+   ],
+   [
+    "4. ders",
+    "Robotic Chores in the Future afişi üzerinden robotların ev işlerini nasıl değiştirdiği, avantajları ve dezavantajları, “Bir robot tasarlasan hangi işi yapardı?” sorusu konuşulur. Gruplar robotların ve akıllı cihazların ev işlerine yardım ettiği bir aile sahnesi için senaryo yazar, görsel araçla sanal arka planlar hazırlar ve canlandırmalarını sunar; arkadaşları kısa akran dönütü verir. Ödev: Ailede ev işlerinin nasıl paylaşıldığını gösteren, en az 4-5 yeni kelimeyi içeren 2-3 dakikalık bir video hazırlamak."
+   ]
+  ],
+  "gerek": "Chores Worksheet çıktısı, BT sınıfı, etkileşimli tahta, EBA; eşleştirme, etkileşimli sunum, oyunlaştırma ve görsel tasarım araçları."
+ },
+ {
   "id": 34,
   "unite": "Friendship",
   "ad": "Life Is Meaningful with Friends!",
@@ -58,5 +114,163 @@
    ]
   ],
   "gerek": "Müzik, kum saati, poster kâğıdı ve boyalar, etkileşimli tahta, BT sınıfı, EBA; dijital hikâye, eşleştirme, oyun, çark, kısa cevap, animasyon ve sunum araçları, değerlendirme formu."
+ },
+ {
+  "id": 36,
+  "unite": "On the Phone",
+  "ad": "Phone Time",
+  "ozet": "Telefon konuşması kalıpları dört derste dinleme ağırlıklı işlenir: öğrenciler iki arkadaşın hafta sonu planı yaptığı, bir kuryenin adres doğruladığı ve bir müşterinin teknik servisi aradığı konuşmaları dinleyip soruları cevaplar ve benzer konuşmalar canlandırır; telefon, mesaj, e-posta ve görüntülü arama istasyonlarında farklı iletişim yollarını dener, arayan-aranan cümlelerini sınıflandırır, kısa telefon diyaloglarını okuyup kendi dijital diyaloglarını hazırlar ve Phone Quiz ile değerlendirilir.",
+  "ozu": "<p>Senaryo telefon dilini (plan yapma ve değiştirme, yardım teklif etme, kibarca reddetme, bilgi doğrulama, sorun bildirme) <b>gerçekçi dinleme metinleriyle</b> öğretiyor ve her dinlemeden sonra öğrencilere aynı kalıpları kendi konuşmalarında kullandırıyor. İstasyon etkinliği dört iletişim yolunun dilini karşılaştırıyor. Her ders bir ısınma oyunu, bir dinleme/canlandırma ve dijital bir değerlendirmeyle ilerliyor; ödevde öğrenciler gerçekten birbirini arayıp konuşmalarını kaydediyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğrenciler önceden EBA'daki Vocabulary Exercise 1: On the Phone'u yapmıştır. What's Behind Game'de gizli görsel açılır. Ways of Communication'da ses kayıtları dinlenip iletişim yolları resimlerle eşleştirilir. Plans on the Phone dijital hikâyesinde James ile Leo'nun hafta sonu planı konuşması dinlenir; “Leo neden şimdi oyun oynayamıyor? Leo'nun kararına katılıyor musun?” soruları konuşulur. İkili ya da küçük gruplar plan yapma ve değiştirme kalıplarıyla benzer konuşmalar yazıp canlandırır. Listen & Find'da iki arkadaşın mesajlaşmasındaki altı boşluk dinlenerek doldurulur."
+   ],
+   [
+    "2. ders",
+    "Find the Pairs hafıza kartı oyunu oynanır. Courier Call'da kurye ile müşterinin konuşması dinlenir, “Kurye hangi adresi doğruluyor, ne zaman gelecek?” soruları cevaplanır ve “Is it 45 Elm Street, Apartment 3B?” gibi doğrulama ifadeleri bulunur. İkililer konuşmayı rol değiştirerek, adres ve saati değiştirip yeniden canlandırır. Değerlendirme Ways We Connect etkinliğinde iletişim araçlarının adlarını yazmakla yapılır."
+   ],
+   [
+    "3. ders",
+    "Find the Double ısınmasından sonra Customer Service Call animasyonunda müşteri ile servis temsilcisi dinlenir; “I'm calling because…” gibi sorun bildirme ve yardım ifadeleri vurgulanır. Telefon, mesaj, e-posta ve görüntülü arama istasyonları kurulur: telefonda hafta sonu planı konuşulur, mesajla bugün ne yapıldığı yazılır, öğretmene ödevle ilgili e-posta yazılır, görüntülü aramada hobi konuşulur; öğrenciler istasyonlar arasında döner. Caller or Receiver'da cümleler arayan ya da aranan kişiye göre sınıflandırılır."
+   ],
+   [
+    "4. ders",
+    "Communication Bowling'de iletişim yollarıyla etiketli lobutlar doğru cevapla devrilir. Match & Learn'de kelimeler tanımlarıyla eşleştirilir. Reading Time'da randevu ayarlama, plan değiştirme ve bilgi doğrulama içeren kısa telefon diyalogları okunup sorular cevaplanır. Öğrenciler gerçek bir durum için kısa bir telefon diyaloğu yazıp görsel, emoji ve ses efektleriyle dijital olarak sunar ve ortak platformda yorumlaşır. Değerlendirme Phone Quiz ile yapılır. Ödev: İkili olarak birbirini arayıp 2-3 dakikalık bir telefon konuşması kaydetmek ve sınıf yönetim aracıyla göndermek."
+   ]
+  ],
+  "gerek": "BT sınıfı, etkileşimli tahta, EBA; oyunlaştırma, eşleştirme, dijital hikâye, boşluk doldurma, kısa cevap, animasyon, etkileşimli video ve çoktan seçmeli test araçları."
+ },
+ {
+  "id": 37,
+  "unite": "Teen Life",
+  "ad": "World of Teenagers",
+  "ozet": "Müzik türü tahmin oyunuyla açılan senaryoda öğrenciler Plans for the Weekend animasyonunda gençlerin düzenli etkinliklerini ve tercih ifadelerini (I'm crazy about, I'm fond of, I can't stand) bulup kendileri hakkında cümleler kurar, “Four Corners of Me” etkinliğinden sonra gruplar hafta sonu planı içeren animasyon diyalogları hazırlar, duygu sıfatları sunum ve eşleştirmeyle öğrenilir, son derste pandomim oyunu oynanır ve öğrenciler rutinlerini ve hobilerini emoji ve sıfatlarla dijital panoda anlatır.",
+  "ozu": "<p>Senaryo gençlerin dünyasını <b>öğrencilerin kendi zevkleri ve duyguları</b> üzerinden işliyor: sevdikleri ve dayanamadıkları şeyleri, hafta sonu planlarını ve etkinliklerin onlara nasıl hissettirdiğini anlatıyorlar. Tercih kalıpları ve duygu sıfatları (embarrassed, happy…) ayrı ayrı öğretilip son derste emojilerle birleştiriliyor. Müzik tahmini ve pandomim gibi hareketli etkinlikler dersleri canlı tutuyor; animasyonlar grup içi değerlendirme formuyla puanlanıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Guess the Music etkinliğinde caz, tekno, pop, klasik gibi müzik türleri tahmin edilir; doğru bilen isterse müzikle dans eder. Plans for the Weekend animasyonunda tercih ifadeleri ve gençlerin düzenli etkinlikleri bulunur. Öğrenciler “I'm crazy about…, I'm fond of…, I can't stand…” kalıplarıyla sevdikleri ve sevmedikleri boş zaman etkinlikleri, müzik ve filmler hakkında cümleler kurar. Elizabeth's Routines çoktan seçmeli sorularında en hızlı ve en çok doğru yapan kazanır."
+   ],
+   [
+    "2. ders",
+    "Four Corners of Me görseliyle dörtlü gruplar kendileriyle ilgili dört şeyi (bayıldığım bir şey, dayanamadığım bir şey vb.) düşünüp paylaşır. Gruplar animasyon aracıyla gençlerin düzenli etkinliklerini anlatan ve bir hafta sonu planı yapan kısa diyaloglar oluşturur; günlük etkinliklerini, tercihlerini, sevdiklerini ve sevmediklerini ifade eder. Grup üyeleri birbirini grup değerlendirme formuyla değerlendirir. Ödev: EBA'daki Reading Exercise: Teen Life."
+   ],
+   [
+    "3. ders",
+    "How Do You Feel? etkinliğinde öğrenciler o anki duygularına uyan kutuya bilye sürükleyip nedenini birkaç cümleyle açıklar. Adjectives for Emotions sunumunda duygu sıfatlarının anlamları bulunur, tahtadaki ek örneklerle tercihler hakkında cümleler kurulur. Adjectives and Explanations eşleştirmesiyle değerlendirme yapılır."
+   ],
+   [
+    "4. ders",
+    "Bir gönüllü pandomimle bir sıfatı ya da boş zaman etkinliğini anlatır, bilen sıradaki olur. Öğrenciler dijital panodaki örnek notu izleyerek rutinlerini, hobilerini, en sevdikleri ve en sevmedikleri etkinlikleri bir emoji ve bir sıfatla nasıl hissettirdiğini belirterek yazar ve paylaşır. Ardından emojilere karşılık gelen sıfatları bulup birbirlerine dönüt verir."
+   ]
+  ],
+  "gerek": "Farklı türlerde müzik kayıtları, grup değerlendirme formu (Ek-3), BT sınıfı, etkileşimli tahta, EBA; oyunlaştırma, animasyon, çoktan seçmeli test, etkileşimli sunum, eşleştirme ve dijital pano araçları."
+ },
+ {
+  "id": 38,
+  "unite": "The Internet",
+  "ad": "Worldwide Explorers",
+  "ozet": "Öğrenciler günde kaç saat internet kullandıklarını parmaklarıyla gösterir ve “altı köşe” etkinliğinde en çok hangi amaçla kullandıklarını seçer; internetin artı ve eksileri video ve balık kavanozu tekniğiyle tartışılır, güvenli internet kuralları doğru-yanlış sorularla çalışılır, aynı amaçla interneti kullanan gruplar ikna edici sunumlar yapar, aile içi internet kullanımı zihin haritasına dönüştürülür ve son derste sınıf, örnek bir seyahat blogunun eksik sayfalarını gruplar hâlinde tamamlar.",
+  "ozu": "<p>Senaryo internet kelimelerini <b>güvenli ve bilinçli kullanım</b> farkındalığıyla birleştiriyor: iki saati aşan kullanımda bağımlılık riski vurgulanıyor, tanımadığı birinden arkadaşlık isteği ya da kişisel bilgi talebi gibi senaryolara hızlı cevaplar veriliyor. Son ürün ortak bir web sitesi: beş grup seyahat fotoğrafları, “Hakkımda” sayfası, vlog, podcast ve popüler destinasyonlar sayfasını hazırlıyor. “Download” ve “upload” gibi terimler gerçek bir site üzerinde öğretiliyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“Günde kaç saat internet kullanıyorsunuz?” sorusu parmaklarla cevaplanır, iki saati aşanlara bağımlılık riski hatırlatılır. Araştırma, alışveriş, e-kitap gibi altı kullanım amacı sınıfın köşelerine asılır; öğrenciler en çok kullandıkları amacın köşesine gidip adını yazar ve konuşur. Pros and Cons of the Internet videosundan sonra balık kavanozu tekniğinde iç çember önce avantajları, roller değişince dezavantajları tartışır, dış çember not alır. Safety Rules doğru-yanlış sorularıyla güvenli internet kuralları değerlendirilip gerekçeleri konuşulur."
+   ],
+   [
+    "2. ders",
+    "Çevrim içi tartışma aracında sırayla “Tanımadığın birinden arkadaşlık isteği gelirse ne yaparsın? Biri kişisel bilgi isterse?” gibi senaryolara hızlı cevaplar verilir (bilemeyen “Pass” yazar), ardından güvenlik ilkeleri özetlenir. Aynı köşedeki öğrenciler grup olup internet kullanım amaçlarını, artı ve eksilerini, gerekirse infografikle anlatan ikna edici sunumlar hazırlar. Sunumlar yapılır ve EBA'da paylaşılır; en çok beğeni ve yorum alan kazanır."
+   ],
+   [
+    "3. ders",
+    "“Ailede interneti en çok kim, ne için kullanıyor?” sorusunun cevaplarıyla zihin haritası oluşturulur; internetin doğru kullanıldığında gelişim aracı, düzensiz kullanıldığında bağımlılık kaynağı olabileceği vurgulanır. Öğretmenin hazırladığı Travel Blog'un fotoğraf, podcast ve popüler destinasyonlar sayfaları incelenir, “download” ve “upload” farkı örneklerle gösterilir. İkililer Match the Definitions'ta internet kelimelerini tanımlarıyla eşleştirir."
+   ],
+   [
+    "4. ders",
+    "İkililer web sitesi tasarlarken dikkat edilecek noktaları içeren kontrol listesini tartışıp ekleme yapar. Beş grup Travel Blog şablonunu kullanarak siteyi tamamlar: seyahat fotoğrafları, blog yazarını tanıtan “Hakkımda” sayfası, seyahat vlogları, podcastler (kendileri de kaydedebilir) ve popüler destinasyonlar. Gruplar katkılarını sunar ve dönüt alır. Ödev olarak öz değerlendirme formu EBA'da doldurulur."
+   ]
+  ],
+  "gerek": "Six Corners of Using the Internet çıktısı, kontrol listesi (Ek-4), öz değerlendirme formu (Ek-5), BT sınıfı, etkileşimli tahta, EBA; video, doğru-yanlış, çevrim içi tartışma, sunum, zihin haritası, eşleştirme ve web sayfası araçları."
+ },
+ {
+  "id": 39,
+  "unite": "Tourism",
+  "ad": "Holiday!",
+  "ozet": "Öğrencilerin tatil tercihlerini soran EBA anketiyle hazırlanan senaryoda tatil türleri sunumla tanıtılır, benzer tercihli gruplar herkesin seveceği ortak bir tatil fikri geliştirip sunum hazırlar, çevrim içi haritada turistik yerler gezildikten sonra sunumlar renkli kartlarla akranca değerlendirilir, “Vacation Dreams” panosu ve kelime kutusu yarışmasından sonra öğrenciler gezdikleri bir yer hakkında paragraf ve broşür yazar, son derste Türkiye'nin bulanık gösterilen simge yapıları tahmin edilip kelime çağrışım testi yapılır.",
+  "ozu": "<p>Senaryo tercih bildirme ve karşılaştırma yapılarını (<i>I prefer…, I'd rather… than…</i>) <b>tatil planlama</b> üzerinden çalıştırıyor. Grup çalışmasında öğrenciler bireysel tercihlerini uzlaştırıp herkesin keyif alacağı bir tatil tasarlamak zorunda kalıyor. Değerlendirme çeşitli: yeşil-mavi-kırmızı kartlarla anlık akran değerlendirmesi, gözlem formu, yansıtıcı dijital günlük ve kelime/cümle başına puan veren çağrışım testi.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen EBA'da “Ne tür tatil tercih edersin, hangi etkinliği seversin, nereyi görmek istersin?” sorularını içeren bir anket hazırlar ve Holiday Types sunumunu oluşturur."
+   ],
+   [
+    "1. ders",
+    "Holiday Types sunumunda deniz tatili, şehir gezisi, macera tatili gibi türler gösterilir. “Ailenle tatile gitsen ne tür tatil tercih edersin, neden?” sorusu gruplarda tartışılır; benzer tercihli öğrenciler gruplanıp tercih ettikleri yeri ve nedenlerini özetleyen bir rapor yazar. Gruplar herkesin seveceği unsurları birleştiren yeni bir tatil fikri geliştirir ve bunu görsel, video ve ses içeren etkileşimli bir sunuma dönüştürür."
+   ],
+   [
+    "2. ders",
+    "Çevrim içi harita uygulamasında dünyadaki turistik yerler gezilir ve tanınan yerler paylaşılır. Öğrencilere yeşil (mükemmel), mavi (kabul edilebilir) ve kırmızı (geliştirilmeli) kartlar dağıtılır ve gözlem formunun ölçütleri açıklanır. Her gruptan bir öğrenci ideal tatillerini sunar, arkadaşları kartlarla değerlendirir. Ders sonrası öğrenciler deneyimlerini dijital yansıtıcı günlükte değerlendirir, öğretmen kişisel dönüt verir."
+   ],
+   [
+    "3. ders",
+    "EBA'daki “Vacation Dreams” panosuna öğrenciler hayallerindeki tatil yerlerini temsil eden görsel, video ya da metinler ekler. İki grup “ancient, rural, landmark” gibi kelimelerin bulunduğu kelime kutusundan sırayla kâğıt çekip tanımını yaparak puan toplar. EBA'daki Writing Exercise 1: Tourism'deki taslaktan yararlanılarak gezilen bir yer hakkında paragraf yazılır; örnek broşürler incelenip öğrenciler kendi broşürlerini tasarlar."
+   ],
+   [
+    "4. ders",
+    "Türkiye'deki simge yapıların bulanık ya da kısmen gizlenmiş fotoğrafları tahmin edilir ve bilinenler paylaşılır. EBA'daki Listening Exercise: Tourism dinlenip sorular cevaplanır. Kelime çağrışım testinde öğrenciler “turizm ve tercihler” ile ilgili kelimeler üretir (her biri 1 puan) ve bunları tatil planlarıyla ilgili anlamlı cümlelerde kullanır (her biri 2 puan); öğretmen değerlendirip dönüt verir."
+   ]
+  ],
+  "gerek": "Yeşil, mavi ve kırmızı değerlendirme kartları, gözlem formu (Ek-1), kelime kutusu, simge yapıların bulanık fotoğrafları, kelime çağrışım testi (Ek-2), BT sınıfı, etkileşimli tahta, EBA; anket, etkileşimli sunum, çevrim içi harita, öz değerlendirme ve dijital pano araçları."
+ },
+ {
+  "id": 40,
+  "unite": "Tourism",
+  "ad": "If I Were a Tourist!",
+  "ozet": "Öğrenciler önceden EBA'daki Tourism videosunu ve telif hakları infografiğini inceler; sınıfta “Would you rather…?” sorularıyla tercihler konuşulur, James ve Victor'un tatil deneyimlerini anlatan animasyon izlenir, ikililer en sevdikleri şehri tanıtan ikna edici dijital broşürler hazırlar, gruplar hafta boyunca ortak bir dijital hikâye kitabı yazar; ikinci iki derste dünya turizmi çarkı oyunu, tercih cümleleri panosu, Ayşe'nin tatil günlüğü okuma etkinliği ve Quiz Time yapılır.",
+  "ozu": "<p>Senaryo turizm dilini (<i>Have you ever been abroad? I'd rather… In my opinion…</i>) <b>ikna etme ve telif hakkına saygı</b> ile birleştiriyor: öğrenciler internetten araştırma yapmadan önce yaşlarına uygun bir telif hakkı infografiği inceliyor ve broşür yönergesinde “telif haklarına dikkat” maddesi yer alıyor. Panoya yazılan tercih cümleleri yüz yüze tartışmaya açılıp öğrencilerin katılıp katılmadıklarını gerekçelendirmesi isteniyor. Hafta boyu süren ortak dijital hikâye kitabı grup değerlendirme formuyla değerlendiriliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Tourism videosunu kendi hızlarında izler ve Own Your Creation & Respect Others telif hakkı infografiğini inceler. Öğretmen James ile Victor'un tatil deneyimlerini konuştuğu bir animasyon (senaryosunu isterse yapay zekâyla yazarak) ve sorularını hazırlar."
+   ],
+   [
+    "1-2. ders",
+    "Öğrenciler yanındaki arkadaşına soracağı “Would you rather visit the Taj Mahal or Giza?” gibi tercih soruları yazıp sorar. Animasyon bireysel olarak izlenir ve anlama soruları cevaplanır. İkililer en sevdikleri şehri araştırıp kapak görseli, başlıklar, okunaklı yazı, madde işaretleri ve telif haklarına dikkat yönergelerine uyarak insanları oraya gitmeye ikna eden bir dijital broşür hazırlar. Broşürler EBA'ya yüklenip en etkileyici olan oylanır. Ödev olarak EBA'daki Reading Exercise: Tourism verilir; 5-6 kişilik gruplar hafta boyunca yönergeye göre ortak bir dijital hikâye kitabı hazırlar.",
+    "1-2"
+   ],
+   [
+    "3-4. ders",
+    "How Much Do You Know about the World? çarkında ünlü ülkelerin turistik yerleriyle ilgili sorular cevaplanır (tümü doğruysa 1000 puan). Dijital panodaki “I prefer Italy for holiday…”, “I would rather visit Egypt…” gibi cümleler öğrencilerce tamamlanır ve herkes arkadaşlarının cevaplarına neden katılıp katılmadığını açıklar. 13 yaşındaki Ayşe'nin ulaşım, konaklama ve gezilerini anlattığı My Lovely Diary okunup sorular cevaplanır. Quiz Time ile değerlendirme yapılır; grupların ortak dijital hikâye kitabı tahtada izlenir ve grup değerlendirme formu doldurulur. Ödev: EBA'daki Vocabulary Exercise 3 ve Listening Exercise: Tourism.",
+    "3-4"
+   ]
+  ],
+  "gerek": "Telif hakkı infografiği (Ek-2), ortak görev yönergesi (Ek-3), grup değerlendirme formu (Ek-7), BT sınıfı, etkileşimli tahta, EBA; animasyon, görsel tasarım, dijital hikâye, oyunlaştırma, dijital pano ve anlık geri bildirim araçları."
+ },
+ {
+  "id": 41,
+  "unite": "Tourism",
+  "ad": "Travel Adventures: Exploring the World",
+  "ozet": "Türkiye'nin turistik yerleriyle ilgili bilgi yarışması ve Famous Landmarks of Türkiye sunumuyla başlanır, öğretmen yapay zekâya ünlü turistik yerler sunumu hazırlatır ve öğrenciler “Have you ever been to…?” kalıbıyla birbirine sorular sorar, en çok görmek istenen yerler anketle belirlenir; dünyadaki simge yapılar bilmecelerle tahmin edilir, gruplar kendi bölgelerinin turistik yerlerini, yemeklerini ve kültürünü tanıtır, öğrenciler seyahat blogu yazıp akran dönütü alır ve son derste seyahat planlama ve rezervasyon gibi durumlar için diyaloglar canlandırılır.",
+  "ozu": "<p>Senaryo deneyim anlatma (<i>Have you ever been to…? I have been to Side before.</i>) ve tercih bildirme yapılarını <b>Türkiye'nin ve öğrencilerin kendi bölgesinin</b> turistik değerleri üzerinden çalıştırıyor. Sunumlardan sonra diğer gruplar “Bu şehir neyle ünlü, ne tadabiliriz?” gibi sorular soruyor, öğretmen de cevaplar üzerine derinleştirici sorular soruyor. Yazma etkinliğinde taslak ve akran incelemesi aşamaları var; ünite sonunda öğretmen gözlem formuyla her öğrenciye bireysel dönüt veriyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Takımlar Türkiye'deki ünlü yerlerle ilgili bilgi yarışmasında yarışır. Famous Landmarks of Türkiye sunumunda “Bu yer neden ünlü? Hiç gittiniz mi?” soruları konuşulur. Öğretmen yapay zekâ aracına Türkiye'nin en ünlü turistik yerlerini tarihî ve kültürel önemiyle anlatan görselli bir sunum hazırlatır; öğrenciler yerleri tahmin eder. Öğrenciler “Do you like travelling? Where have you been in Türkiye?” sorularını birbirine sorar ve deneyimlerini “I have been to…” ile anlatır. En çok görmek istenen yerler anketle toplanıp sonuçlar tartışılır."
+   ],
+   [
+    "2. ders",
+    "Takımlar “Bu ikonik kule Paris'te” gibi bilmecelerle dünyanın simge yapılarını tahmin eder. 3-4 kişilik gruplar kendi bölgelerinin turistik yerlerini, yöresel yemeklerini ve kültürel özelliklerini tanıtan sunumlar hazırlayıp iş birlikli araçta paylaşır. Diğer gruplar “Şehir neyle ünlü? Nereleri gezmeliyiz? Ne tadabiliriz?” gibi sorular sorar; cevaplar anlık geri bildirim aracında tahtaya yansıtılır ve öğretmen derinleştirici sorular sorar. Ödev: Hayalindeki yerden kelimeler ve kültürel ayrıntılar içeren dijital bir kartpostal hazırlamak."
+   ],
+   [
+    "3. ders",
+    "Takımlar çizim aracında bavul, harita, plaj gibi seyahat kelimelerini çizip süre içinde tahmin ettirir. Öğrenciler “adventure, explore, culture, experience, memorable” gibi kelimeleri kullanarak hayalî bir gezi hakkında seyahat blogu yazısı ya da bir kültürel etkinlik değerlendirmesi yazar; çevrim içi sözlüklerden eş anlamlılar bulur. Taslaklar eşler arasında değiştirilip akran incelemesi yapılır. EBA'daki Vocabulary Exercise 1: Tourism birlikte çözülür."
+   ],
+   [
+    "4. ders",
+    "Turistik yer görsellerini sırayla betimleme oyunu oynanır. Küçük gruplara gezi planlama, konaklama rezervasyonu, şehir keşfetme gibi senaryolar ve kelime listeleri verilir; gruplar seyahat sitelerinden yararlanarak gerçekçi diyaloglar yazar ve tonlama, jest ve mimiklerle canlandırır. Öğretmen grup çalışması gözlem formuyla değerlendirip her öğrenciye bireysel dönüt verir. Ödev: Gitmek istedikleri bir yer için görselli ve ikna edici bir seyahat broşürü tasarlamak."
+   ]
+  ],
+  "gerek": "Turizm kelime listesi, simge yapı bilmeceleri, kültür ve turizm videoları, grup çalışması gözlem formu (Ek-1), BT sınıfı, etkileşimli tahta, EBA; yapay zekâ, anket, etkileşimli sunum, iş birlikli çalışma, anlık geri bildirim, çizim ve afiş araçları."
  }
 ]
