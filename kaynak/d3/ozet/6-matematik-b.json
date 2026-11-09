@@ -1,0 +1,560 @@
+[
+ {
+  "id": 247,
+  "unite": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+  "ad": "Bilinmeyenlerle Biyoçeşitlilik",
+  "ozet": "Ekosistemlerdeki çeşitliliği ölçen beta çeşitlilik formülü cebirsel ifadelerle hesaplanır: önce etkinlik kâğıtlarındaki iki alan karşılaştırılır, sonra okul bahçesinin iki bölgesindeki bitkiler sayılır, ardından yapay zekâ eğitme etkinliğindeki okyanus nesneleriyle hesap yapılır; son derslerde sözel ifadeler cebirsel ifadeye çevrilip dinamik geometri aracıyla doğrulanır.",
+  "ozu": "<p>Senaryo cebirsel ifadeleri <b>bilim insanlarının gerçekten kullandığı bir formülle</b> öğretiyor: biyoçeşitlilik alfa, beta ve gama çeşitlilikle ölçülüyor; beta çeşitlilik iki farklı alandaki türlerin ne kadar farklı olduğunu gösteren D sabitiyle ifade ediliyor. Öğrenciler bu formülü kâğıtta, okul bahçesinde ve dijital bir yapay zekâ etkinliğinde kullanıyor; “Farklı değişkenler ve cebirsel ifadelerle aynı sonucu bulabilir miyiz?” sorusuyla eşdeğer ifadeler fark ediliyor. Yapay zekâ etkinliğinde az veri girilince yapay zekânın yanlış sonuç verdiği de gözlemleniyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'dan paylaşılan Biyoçeşitlilik ve Koruma Biyolojisi ile Biyoçeşitlilik içeriklerini inceler; 3-6 kişilik gruplar kurulur."
+   ],
+   [
+    "1. ders",
+    "Biyoçeşitlilik kısaca konuşulur, alfa, beta ve gama çeşitlilik terimleri tanıtılır ve beta çeşitliliğin iki topluluk arasındaki farklılığı karşılaştırdığı, D sabiti değiştikçe çeşitliliğin değiştiği açıklanır. Gruplar Beta Çeşitlilik 1 kâğıdındaki iki alandaki nesneleri karşılaştırıp hesaplama tablosunu doldurur (tam sayılarla çıkarma henüz işlenmediği için öğretmen yönlendirir), sonra Beta Çeşitlilik 2 ile D sabitini bulur; tabloyu ilk dolduran üç grup tebrik edilir."
+   ],
+   [
+    "2. ders",
+    "Okul bahçesinde (bitki azsa öğretmenin astığı bitki resimleriyle) kapının sağı birinci, solu ikinci alan kabul edilir. 2-5 kişilik gruplar önce bitkileri bulup tabloya yazar (15 türün hepsi zorunlu değildir, yazılan her satır eksiksiz olmalıdır), sonra beta çeşitliliği hesaplar. Gönüllüler çözümü açıklar; “Farklı değişkenler ve cebirsel ifadelerle aynı sonucu bulabilir miyiz?” sorusuyla farklı ifadelere yönlendirilir."
+   ],
+   [
+    "3. ders",
+    "Gruplar kodlama aracındaki Okyanuslar İçin Yapay Zekâ etkinliğini yapar; ikinci adımda “Balık / Balık Değil” seçimlerini sayar ve az veri girilince yapay zekânın yanlış sonuç verdiğini fark eder, sonraki adımda en az yüz nesne seçer. “Bu Suya mı Ait?” adımındaki nesnelerle hesaplama tablosu doldurulur, gruplar ikişerli eşleşip okyanuslardaki beta çeşitliliğini hesaplar, sonuçları karşılaştırıp hataları birlikte düzeltir ve önceki derste oluşturdukları formülle kontrol eder. Ders sonrasında akılda kalan kelimeler kelime bulutuna yazılır."
+   ],
+   [
+    "4. ders",
+    "2-5 kişilik gruplar Cebirsel İfadeler etkinlik tablosu ve dinamik geometri aracıyla çalışır: bir arkadaşın söylediği sözel ifade cebirsel ifadeye çevrilip araçtaki “fonksiyon” alanına yazılır, söylenen doğal sayı yerine konarak sonuç hem elle hem araçla bulunur ve karşılaştırılır. Kâğıtlar gruplar arasında dolaştırılır ve her grup bir öncekinin ifadesine yeni bir sözel ve cebirsel ifade yazarak aynı sayıyla sonucu kontrol eder. Ders sonrasında Kelime Avı ve EBA Beceri Temelli Testler (2. kitap, s. 56-58) gönderilir."
+   ],
+   [
+    "5. ders",
+    "Beceri temelli testlerle ilgili sorular cevaplanır. Alıştırma Soruları tahtada açılır; her soruya 5 dakika verilir ve süre bitince bir gönüllü tahtada cevaplar."
+   ]
+  ],
+  "gerek": "Beta Çeşitlilik etkinlik kâğıtları ve hesaplama tablosu çıktıları, gerekirse bitki resimleri, okul bahçesi, BT sınıfı, etkileşimli tahta, EBA; kodlama aracı (yapay zekâ etkinliği), kelime bulutu, kelime avı ve dinamik geometri araçları."
+ },
+ {
+  "id": 248,
+  "unite": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+  "ad": "Cebir Panayırı",
+  "ozet": "Yapay zekâyla bir panayır görseli oluşturulur ve sınıfta “cebir panayırı” kurulur: gruplar bilet, yiyecek ve oyun stantlarındaki ücret ve puanları cebirsel ifadelerle belirleyip materyallerini hazırlar, stantlarda alışveriş yapılırken siparişler cebirsel ifadeye çevrilir; Kerem ve annesinin yaşlarıyla “bakış açısı” ve değişkenin anlamı tartışılır, son derste “aklından bir sayı tut” oyunu oynanır.",
+  "ozu": "<p>Senaryo cebirsel ifadeleri <b>alışverişin diline</b> çeviriyor: tam bilet x TL, öğrenci bileti onun yarısı; bir gözleme a TL ve ayran 10 TL ise 2 gözleme ve 1 ayranın ücreti (2a+10) TL. Her öğrenci kendi standında x'in neyi temsil ettiğini yazarak sürece katılıyor. “Bakış açısı” kavramıyla aynı durumun değişkenin neyi gösterdiğine göre (Kerem'in mi annesinin mi yaşı) farklı cebirsel ifadelerle yazılabileceği gösteriliyor; ücret tablosunda değişken değiştikçe ifadelerin nasıl değiştiğinden genellemeler çıkarılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“Aranızda panayıra giden var mı? Panayırda neler bulunur?” sorularıyla başlanır ve panayır tanımlanır. Yapay zekâ destekli görsel aracında birlikte bir panayır görseli oluşturulur. “Konusu cebirsel ifadeler olan bir panayıra hangi stantları koyarız?” sorusunun cevapları dijital panoya yazılır; giriş bileti, yiyecek (pizza, hamburger) ve oyun (dart, balon patlatma) stantları gruplara dağıtılır. Gruplar fiyatları, oyunları ve puanları cebirsel ifadelerle belirler (ör. tam bilet x, öğrenci bileti x'in yarısı); her öğrenci küçük bir kâğıda kendi standında x'in neyi temsil ettiğini yazar. Ders sonrasında gruplar pano, renkli kartlardan biletler, oyun materyalleri ve menü görselleri hazırlar; değerlendirme formu açıklanır."
+   ],
+   [
+    "2-3. ders",
+    "Sınıf panayır düzenine getirilir; her grup standının türünü ve etkinliklerini materyalleriyle sunar, gönüllüler standı ziyaret edip alışveriş yapar (ör. gözleme a TL, ayran 10 TL; 2 gözleme ve 1 ayran = 2a+10 TL). Gruptan bir öğrenci sözel ve cebirsel ifadeyi Alışveriş Listesi'ne yazar. Öğretmen grupları formla değerlendirir ve kendi standı olarak Cebir Çarkı'nı açar; çarkı çeviren öğrenci soruyu doğru cevaplarsa puanı kazanır. Ders sonrasında EBA'daki Soruları Bil İlerle içeriği gönderilir.",
+    "2-3"
+   ],
+   [
+    "4. ders",
+    "“Bakış açısı” kavramı yüzücü ve antrenör örneğiyle açıklanır; cebirsel ifadelerde de değişkenin anlamına göre farklı ifadeler oluşturulabileceği Kerem ve Annesinin Yaşları görseliyle gösterilir. Panayır Ücret Tablosu'nda giriş ücretine bağlı stant ücretlerinin cebirsel ifadeleri gönüllülerce, her hücreyi farklı öğrenci doldurarak yazılır. “Değişken değişince ifade nasıl değişti, hangi genel kuralı çıkarırsınız?” sorularıyla genellemeler yapılır."
+   ],
+   [
+    "5. ders",
+    "Öğrenciler Aklından Bir Sayı Tut oyununu bilgisayarlarda bireysel oynar; bilinmeyen sayılarla işlem yaparak genelleme yapılabileceği vurgulanır ve “Tutulan sayı x olsaydı cevaba eşit cebirsel ifade ne olurdu?” diye sorulur. Cebir Soruları anlık dönütlü testi bireysel çözülür, sonra tahtada gönüllülerle cevaplanır."
+   ]
+  ],
+  "gerek": "Küçük kâğıtlar, renkli kartlar ve stant materyalleri, BT sınıfı, etkileşimli tahta, EBA; yapay zekâ görsel aracı, dijital pano, görsel tasarım, beyaz tahta, çark, tablo ve anlık dönüt araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 249,
+  "unite": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+  "ad": "Örüntü Var",
+  "ozet": "Sayı örüntülerinde eksik terim bulma ve “Sayılarla Örüntü” oyunuyla adım sayısı ile terim arasındaki ilişki cebirsel ifadeyle yazılır; gruplar dinamik geometri aracında çokgenlerin kenar sayısı ile iç açıları toplamı arasındaki örüntüden genel kuralı bulur, örüntü piramidi ve şekil örüntüleri tablo ve grafikle incelenir, son derste zihin haritası ve öz değerlendirme yapılır.",
+  "ozu": "<p>Senaryonun ana fikri: <b>örüntünün kuralı, adım sayısı ile o adımdaki terim arasındaki ilişkidir</b> ve bu ilişki cebirsel ifadeyle yazılabilir. En güçlü örnek geometriden geliyor: öğrenciler üçgen, dörtgen, beşgen… oluşturup kenar sayısı arttıkça iç açılar toplamının nasıl değiştiğini tabloya yazıyor ve düzgün çokgenlerde bir iç ve bir dış açının ölçüsünü veren genel ifadeye kendileri ulaşıyor. Örüntüler sözel, tablo ve grafik temsilleriyle birlikte gösteriliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Örüntü Tanımı ve Sayı Dizisinde Eksik Olan Sayıyı Bulma içeriklerini çalışır."
+   ],
+   [
+    "1. ders",
+    "Sayı Dizisinde Eksik Olan Sayıyı Bulma içeriği tahtada “İstenen adımı nasıl buluruz, önce kuralı belirlediniz mi?” sorularıyla birlikte tamamlanır. “Sayılarla Örüntü” oyunu oynanır; her adımda istenenler öğrencilerle birlikte beyaz tahtadaki tabloya yazılır ve cebirsel ifadelerin adım sayısı ile terim arasındaki ilişkiden oluştuğu fark ettirilir."
+   ],
+   [
+    "2. ders",
+    "4-5 kişilik gruplara Çokgenler ve Açılar çalışma kâğıdı dağıtılır; amaç çokgenlerin iç açıları toplamını ve düzgün çokgenlerde bir iç ve dış açının ölçüsünü veren genel ifadeye örüntüyle ulaşmaktır. Gönüllüler tahtada dinamik geometri aracında çokgenler oluşturur; gruplar Çokgenler ve Açılar etkinliğinde kenar sayısı ile iç açılar toplamı arasındaki ilişkiyi inceleyip soruları cevaplar ve cebirsel ifadeyi kullanarak istenen adımları bulur. Sözel ve cebirsel ifadeler Çokgenlerin Açılarını İfade Et şablonuna yazılır ve tahtada birlikte incelenir."
+   ],
+   [
+    "3. ders",
+    "Gruplar Örüntü Piramidi etkinlik kâğıdındaki sayı örüntüsü sorularını birlikte cevaplar; öğretmen yorumlama, eksik terimi bulma ve cebirsel ifade etme ölçütleriyle gözlem yapar. Sorular tahtada her biri farklı öğrenciye cevaplatılarak çözülür. Örüntülerin Grafikleri dinamik geometri çalışmasında piramitteki örüntülerin tablo ve grafikleri oluşturulup sayılar arasındaki ilişki incelenir."
+   ],
+   [
+    "4. ders",
+    "Gruplar Örüntüler çalışma kâğıdındaki sayı ve şekil örüntülerinde bir sonraki adımı çizer ve istenen terimi cebirsel ifadeyle belirler. Sorular tahtada her biri farklı öğrenciye cevaplatılarak çözülür, eksik ve hatalı öğrenmeler giderilir."
+   ],
+   [
+    "5. ders",
+    "Gruplar zihin haritası aracıyla sayı ve şekil örüntülerini; tablo, grafik, sözel temsil ve cebirsel ifadeyle gösteren bir harita hazırlayıp EBA'da paylaşır ve öz değerlendirme formunu doldurur. Ders sonrasında öğrenciler kendi grupları dışındaki bir çalışmayı beğenir; en çok beğenilen çalışma panoya asılır."
+   ]
+  ],
+  "gerek": "Çalışma ve etkinlik kâğıdı çıktıları, BT sınıfı, etkileşimli tahta, EBA; beyaz tahta, dinamik matematik ve geometri, zihin haritası ve öz değerlendirme araçları."
+ },
+ {
+  "id": 250,
+  "unite": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+  "ad": "Zamanda Cebir Yolculuğu",
+  "ozet": "El-Cezeri'nin filli su saati üzerinden algoritmik düşünmeye girilir ve gruplar saatin işleyişini adım adım gösteren posterler hazırlar; doğadaki Fibonacci sayıları incelenir, masa-kişi örüntüsünün genel kuralı bulunup sözde kod ve akış şemasına dönüştürülür, ikili gruplar aritmetik örüntüler için sözde kod ve akış şeması yazar, son derste “Cebir Avcıları” oyunu oynanıp örüntü günlüğü tutulur.",
+  "ozu": "<p>Senaryo örüntüleri <b>algoritma</b> ile birleştiriyor. Giriş tarihten: yüzyıllar önce elektriksiz çalışan, içinde fil, ejderhalar, kuş ve kâtip bulunan ve her yarım saatte zamanı bildiren bir saat. “Hangi adım diğerini başlatıyor? Hangi parça olmazsa sistem çalışmaz?” sorularıyla sıralama ve neden-sonuç ilişkisi kavranıyor. Ardından bir örüntünün genel kuralı (n. masada kaç kişi oturur?) önce cebirsel ifadeyle, sonra masa sayısı girilince kişi sayısını veren bir sözde kod ve akış şemasıyla yazılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğretmen “Bugün zamanda yolculuğa çıkıyoruz” diyerek elektriksiz çalışan filli su saatini anlatır ve görsellerini açar: “Hangi adım diğerini başlatıyor olabilir? Hangi parça olmazsa sistem çalışmaz? Saatteki işlemleri adım adım açıklayabilir misiniz?” EBA'daki Eski Zaman Robotları videosu izlenir ve tahminlerle karşılaştırılır. 3-4 kişilik gruplar A4 kâğıdı, renkli kalem ve yapışkanlı notlarla saatin işleyişini adım adım gösteren bir algoritma posteri hazırlar; gönüllü gruplar sunar ve algoritmanın mantığı tartışılır."
+   ],
+   [
+    "2-3. ders",
+    "Bir çiçeğin yaprak dizilimi ya da salyangoz kabuğundaki örüntülere dikkat çekilir ve Fibonacci Doğada sunumu incelenir; Fibonacci Sayıları etkinliği yapılır. Örnek Örüntü Sorusu içeriğinde 1, 2 ve 3 masa için toplam kişi sayısı birlikte hesaplanıp tabloya yazılır, “Tahmin Et” ve “Örüntü Kuralını Yaz” bölümleriyle n. masa için genel kural bulunur. Kural, masa sayısı girilince kişi sayısını bulan bir sözde koda ve akış şemasına dönüştürülür. Algoritma Soruları'nda örüntüyü tanıma, genel terim, sözde kod ve akış şeması çalışılır; ders sonrasında yapılandırılmış grid etkinliği verilir.",
+    "2-3"
+   ],
+   [
+    "4. ders",
+    "İkili gruplar yapay zekâ destekli Aritmetik Örüntüler ve Algoritma etkinliğinde önce adım-terim tablosunu tamamlayıp genel terimi cebirsel ifadeyle yazar, sonra her soru için sözde kod ve ona uygun akış şemasını Grup Çalışma Panosu'nda hazırlar. Gruplar kurallarını sözlü ifade eder ve çözümlerini karşılaştırır. Ders sonrasında Cebirsel İfadeler Değerlendirme Soruları gönderilir ve sık yapılan hatalar sonraki derste tartışılır."
+   ],
+   [
+    "5. ders",
+    "Öğrenciler “Cebir Avcıları” oyununu bireysel oynar; ardından oyundaki sorular ve doğru stratejiler kısaca değerlendirilir. Dijital Örüntü Günlüğü'nde hangi etkinlikten ne öğrendiklerini, güçlükleri nasıl aştıklarını ve öğrendiklerini nerede kullanabileceklerini yazarlar."
+   ]
+  ],
+  "gerek": "A4 kâğıdı, renkli kalemler, yapışkanlı not kâğıtları, Fibonacci etkinlik kâğıdı çıktıları, BT sınıfı, etkileşimli tahta, EBA; sunum, yapay zekâ destekli etkileşimli içerik, çizim (akış şeması), test ve oyun araçları."
+ },
+ {
+  "id": 251,
+  "unite": "İstatistiksel Araştırma Süreci",
+  "ad": "Veri Peşinde",
+  "ozet": "MEB'in ekran kullanımı araştırması haberiyle “Her merak ettiğimiz durum araştırma gerektirir mi?” sorusu tartışılır; gruplar durumları araştırma gerektirip gerektirmemesine ve veri türüne (kategorik/nicel) göre sınıflandırır, çark ve durum kartlarıyla betimleyici ve karşılaştırmalı araştırma soruları yazar, hazır veri ile kendi verisini toplama yollarını öğrenip veri toplama planı ve anket hazırlar, son derste kişisel verilerin gizliliği gözetilerek anketler gözden geçirilir.",
+  "ozu": "<p>Senaryo öğrencinin <b>bir istatistik araştırmasını baştan sona planlamasını</b> sağlıyor: durumun araştırma gerektirip gerektirmediğine karar vermek, iyi bir araştırma sorusunun ölçütlerini (amacın açık olması, değişkenlerin belirlenebilmesi, veriyle cevaplanabilmesi, değişkenlik göstermesi) belirlemek, soruyu betimleyici ya da karşılaştırmalı olarak yazmak, veriyi TÜİK gibi hazır kaynaklardan mı yoksa anketle mi toplayacağına karar vermek. Son aşamada iyi bir anket sorusunun açık, amaca uygun ve katılımcıya hitap eden olması ile <b>kişisel verilerin gizliliği</b> (“Ankette T.C. kimlik numarası istemek doğru mu?”) vurgulanıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "MEB'in Dijital Dünyada Ekran Kullanımı Araştırması haberi incelenir: “Bu araştırma neden yapıldı, kimin işine yarar? Her merak ettiğimiz durum araştırma gerektirir mi?” Kategorik ve nicel (kesikli) veri örneklerle açıklanır. 3-4 kişilik gruplar Araştırma Gerektirir mi? eşleştirmesinde durumları sınıflandırıp gerekçelendirir. “Bir durumun araştırma gerektirdiğini anlamak için hangi soruları sorabiliriz?” sorusunun cevapları dijital panoda toplanır ve iyi bir araştırma sorusunun ölçütleri netleştirilir. Ders sonrasında her grup araştırma gerektiren ve gerektirmeyen birer durum paylaşır ve diğer grupları akran formuyla değerlendirir."
+   ],
+   [
+    "2. ders",
+    "Paylaşımlar ve akran değerlendirmeleri tartışılır. Betimleyici soruların bir durumu tanımladığı, karşılaştırmalı soruların iki ya da daha fazla durumu karşılaştırdığı örneklerle gösterilir. İstatistiksel Araştırma Atölyesi oyununda gruplardan biri Araştırma Soru Türleri çarkını çevirir ve bir Araştırma Durum Kartı seçer; grup kısa sürede bu şartlara uyan bir araştırma sorusu yazıp paylaşır. Ders sonrasında öğrenciler bir durum için dört soru türünde (kategorik-betimleme, nicel-betimleme, kategorik-karşılaştırma, nicel-karşılaştırma) birer soru yazıp uygun veri toplama aracını açıklar."
+   ],
+   [
+    "3. ders",
+    "Öğrenci sorularından örnekler tahtada açılır ve veriye ulaşmanın iki yolu fark ettirilir: hazır veri ve kendi verisini toplamak. EBA'daki Hazır Veri ve Hazır Veri Kaynakları videosuyla TÜİK gibi kurumların verileri konuşulur. Öğrencilerin Gözünden Matematik anketi doldurularak kelime bulutu, derecelendirme ve açık uçlu sorularla nasıl veri toplandığı gösterilir. Gruplar aynı konuda (matematik başarısını etkileyen etmenler, tutumlar, günlük hayatta kullanım gibi) kontrol listesine göre veri toplama planı hazırlar, soru türü tercihlerini gerekçelendirir ve sınıfa sunar."
+   ],
+   [
+    "4. ders",
+    "“Bir anketin iyi tasarlandığını nasıl anlarız?” sorusuyla iyi anket sorusunun özellikleri (açık ve anlaşılır, amaca uygun, katılımcıya hitap eden) vurgulanır. Gruplar anket taslaklarını hazırlarken her sorunun araştırma sorusuna katkısını ve veri türüyle uyumunu açıklar; öğretmen yönlendiricilikten kaçınma konusunda dönüt verir. Taslaklar paylaşılıp tartışılır; ders sonrasında anketler dijital ortama aktarılıp EBA'da paylaşılır."
+   ],
+   [
+    "5. ders",
+    "Anket taslaklarına dönüt verilir. “Ankette T.C. kimlik numarası istemek doğru mu?” sorusuyla kişisel veri ve gizlilik kavramları açıklanır; EBA'daki Gizlilik ve Güvenlik içeriği incelenir. Gruplar anketlerini gizlilik açısından gözden geçirir, uygun olan ve olmayan soru örnekleri belirler ve “Hangi bilgileri istemek kişisel veri ihlaline yol açar? Sorularınız katılımcıyı rahatsız eder mi?” sorularıyla gerekli düzeltmeleri yapar."
+   ]
+  ],
+  "gerek": "Araştırma Durum Kartları çıktısı, BT sınıfı, etkileşimli tahta, EBA; eşleştirme, dijital pano, çark, sunum ve anket araçları, akran değerlendirme formu ve veri toplama planı kontrol listesi."
+ },
+ {
+  "id": 252,
+  "unite": "Oran",
+  "ad": "İnovasyonumun Koruyucusu Patentim",
+  "ozet": "İnovasyon ve patent kavramları videolar ve uzun cevaplı sorularla tartışılır; yıllara göre patent ve inovasyon sayılarından oluşan tabloda oranlar hesaplanarak sayısal artış-azalış ile oransal değişim karşılaştırılır, eksik değerler bulunur, birimli ve birimsiz oran grup etkinlikleriyle çalışılır ve son derste EBA testiyle değerlendirme yapılır.",
+  "ozu": "<p>Senaryo oranı <b>yenilik ve ekonomi</b> bağlamında öğretiyor: patentin inovasyonu koruduğu ve ülke ekonomisine katkı sağladığı sonucuna öğrenciler tartışarak ulaşıyor. Tablodaki verilerde dikkat çekici bir nokta vurgulanıyor: <b>sayısal olarak azalan bir değer oransal olarak artmış olabilir</b>; oranın iki çokluğu kıyaslamanın bir yolu olduğu buradan anlaşılıyor. Tablolama aracında oranların otomatik hesaplanması da gösteriliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki İnovasyon 1 ve 2 videolarını izler, Yaratıcılık ve İnovasyon belgesini okur ve önemli yerleri not alır."
+   ],
+   [
+    "1. ders",
+    "Gruplara patent ve inovasyon kavramlarına yönelik uzun cevaplı sorular yöneltilir; cevaplar tahtada paylaşılarak kavramlar netleştirilir. Patent-inovasyon ilişkisi tartışılır ve patentin inovasyonu koruduğu sonucuna ulaşılır; patentlerin inovasyon süreçlerine ve ülke ekonomisine katkısına dikkat çekilir."
+   ],
+   [
+    "2. ders",
+    "Yıllara göre patent ve inovasyon sayılarını içeren hesaplama tablosu tahtada incelenir; sayısal ve oransal artış-azalışlara dikkat çekilir. Tablonun üçüncü sütununa oranlar hesaplanarak eklenir ve yıllar karşılaştırılır. Sayısal azalışın olduğu bazı durumlarda oranın arttığı gösterilerek oranın kıyaslama anlamı vurgulanır."
+   ],
+   [
+    "3. ders",
+    "Patent sayısının artmasının inovasyon eğilimini artırdığı kabulüyle yeni bir tablo oluşturulur; gruplar eksik değerleri bulur ve tablolama aracındaki otomatik hesaplama gösterilir. Ödev: EBA'daki Oran ve Birimli ve Birimsiz Oran videoları; günlük hayatta karşılaşılan bir oranı araştırıp gelmek."
+   ],
+   [
+    "4. ders",
+    "Birimli ve birimsiz oran kısaca tekrar edilir, öğrenciler örnekler verir. Üç grup ortak çalışma aracında paylaşılan etkinlikleri 10'ar dakikada yapıp bir sonrakine geçer; etkinlikler gözlem formuyla değerlendirilir ve paylaşımlar tahtada gösterilir. Ödev: EBA'daki Oran çalışma soruları."
+   ],
+   [
+    "5. ders",
+    "Gruplar EBA'daki Oran öğretmene özel alt konu testini 20 dakikada çözer, zorlandıkları sorular birlikte çözülür. Test istatistiğine göre ilk üç grup ve tahtada soru çözenler ödüllendirilir; süreç gözlem formuyla değerlendirilir. Ödev: EBA'daki Oran alıştırmaları."
+   ]
+  ],
+  "gerek": "BT sınıfı, etkileşimli tahta, EBA; uzun cevaplı soru, tablolama ve ortak çalışma araçları, öğretmen gözlem formu."
+ },
+ {
+  "id": 253,
+  "unite": "Sayılar ve İşlemler",
+  "ad": "Sağlıklı Yaşam İçin Spor",
+  "ozet": "Sporun önemi ve obeziteyle mücadele beyin fırtınası ve EBA videosuyla tartışılır; kümeler, kesişim ve birleşim EBA içerikleriyle öğretilir, gruplar sınıfta en çok sevilen spor branşlarının verisini toplayıp kesişim ve birleşimlerini bulur, Venn şemalarıyla görselleştirip sunar.",
+  "ozu": "<p>Senaryo kümeler konusunu öğrencinin kendi verisine dayandırıyor: herkes en sevdiği en fazla iki spor branşını söylüyor, gruplar en çok tercih edilen iki branşı seçip <b>hem futbolu hem basketbolu seven</b> öğrencileri kesişim, en az birini sevenleri birleşim olarak buluyor. Sonuçlar Venn şemasında görselleştiriliyor. Matematik, 21. yüzyılın önemli sorunlarından obezite ve hareketsiz yaşamla mücadele, düzenli spor alışkanlığı ve sporun bir sosyalleşme aracı olması gibi sağlıklı yaşam mesajlarıyla birlikte işleniyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“Sporun yaşamımızdaki önemi nedir? Spor yapan ve yapmayan insan arasında ne fark var?” sorularıyla başlanır. Obezitenin önemli bir sorun ve hareketsizliğin temel etken olduğu vurgulanır; obeziteyle mücadele önerileri beyin fırtınası aracında toplanır. EBA'daki Sporun Sağlığımıza Etkisi videosu izlenir, en sevilen spor branşları beyaz tahtaya yazılır ve dörtlü gruplar en çok ilgilendikleri en fazla iki branşı belirler."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Kümeler ve Kümelerin Kesişimi ve Birleşimi anlatımlarıyla küme kavramı ve çeşitleri öğretilir. “İlgilendiğiniz spor branşlarıyla kümeler arasında nasıl bir ilişki var?” sorusu gruplarda tartışılır. Öğrencilerin branşları ve her branştaki öğrenci sayıları tabloya not edilir; gruplar en çok tercih edilen iki branşın kesişim ve birleşim sayılarını bulur."
+   ],
+   [
+    "3. ders",
+    "Gruplar topladıkları verileri, kendi spor branşlarını temsil eden ve kesişim kümesi içeren Venn şemalarıyla görsel tasarım aracında iş birliği içinde görselleştirir; şemalar sınıf yönetim aracıyla toplanır. Ders sonunda EBA'daki Kümeler alt konu testi çözülür."
+   ],
+   [
+    "4-5. ders",
+    "Venn şemaları tahtada açılır ve grup temsilcileri eşit sürelerle sunar, dönüt verilir. “Spor alışkanlığı obeziteyle mücadeleye nasıl katkı sağlar?” gibi sorularla düzenli spor yapmanın ve akranlarla spor etkinliklerinin önemi çevrim içi tartışma aracında konuşulur. Grup değerlendirme formu doldurulur; ödev olarak EBA'daki Kümeler öğretmene özel alıştırmaları gönderilir ve süreç gözlem formuyla değerlendirilir.",
+    "4-5"
+   ]
+  ],
+  "gerek": "Etkileşimli tahta, BT sınıfı, EBA; beyin fırtınası, beyaz tahta, görsel tasarım, sınıf yönetimi ve çevrim içi tartışma araçları, grup değerlendirme ve gözlem formları."
+ },
+ {
+  "id": 254,
+  "unite": "Sayılar ve Nicelikler",
+  "ad": "Bölmeden Bil",
+  "ozet": "Öğretmen bir oyunda sayıların 2, 3, 4, 5, 6, 9 ve 10'a bölünüp bölünmediğini çok hızlı söyleyerek merak uyandırır; gruplar yüzlük tabloda katları inceleyip bölünebilme kurallarına dair genellemeler yapar, “bölme makinesi” dinamik geometri etkinliğinde bunları test eder, önermeleri kavram haritasında toplar ve son derste sayı bulma oyunu ile dallanmış ağaç etkinliği yapılır.",
+  "ozu": "<p>Senaryonun sorusu: <b>“Bölme işlemi yapmadan bir sayının tam bölünüp bölünmediğini nasıl bu kadar hızlı anladım?”</b> Öğretmen bir oyunda öğrencilerin yetişemediği bir hızla cevap vererek merak uyandırıyor. Kurallar ezberletilmiyor: öğrenciler yüzlük tabloda katları işaretleyip ortak ilişkileri (son basamak, rakamlar toplamı gibi) kendileri buluyor, sonra bu varsayımları bir “bölme makinesi”ne farklı sayılar girerek test ediyor ve önermelere dönüştürüyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrencilere Doğal Sayıların Katları etkinlik kâğıdı dağıtılır ve Bölünebilme/Yapılandırılmış Grid çalışması EBA'dan gönderilir; 4-5 kişilik gruplar kurulur."
+   ],
+   [
+    "1-2. ders",
+    "Öğretmen “Hangimiz Daha Hızlı?” oyununda gönüllü öğrencilerle yarışıp sayıların 2, 3, 4, 5, 6, 9 ve 10'a bölünüp bölünmediğini çok hızlı söyler ve “Bölme yapmadan bunu nasıl belirledim?” diye sorar; öğrencilerin varsayımları alınır. Doğal Sayıların Katları çalışması tahtada açılıp yüzlük tabloda katlar birlikte belirlenir, yapılandırılmış grid soruları cevaplanır. Gruplar katları karşılaştırıp ortak ilişkileri bulur ve tam bölünebilme kurallarına dair genellemelerini Bölünebilme ile İlgili Genellemeler beyaz tahta çalışmasına yazar.",
+    "1-2"
+   ],
+   [
+    "3. ders",
+    "Gruplar dinamik geometri aracındaki Bölme Makinesi etkinliğini açar; bölünebilme tablosundaki sayıları fonksiyon makinelerine girerek 2, 3, 4, 5, 6, 9 ve 10'a bölünüp bölünmediklerini gözler ve tabloyu doldurur. Böylece önceki dersteki genellemeleri farklı sayılarla test ederler."
+   ],
+   [
+    "4. ders",
+    "Gruplar deneyimlerinden yola çıkarak tam bölünebilme kurallarına ilişkin önermeler yazar ve bunları Bölünebilme Kriterleri kavram haritasına ekler; her öğrencinin katılımı sağlanır. Kuralların bölme yapmadan karar vermeyi nasıl kolaylaştırdığı fark ettirilir."
+   ],
+   [
+    "5. ders",
+    "Sayıları Bul etkinliğinde gruplar istenen doğal sayıları belirlenen sürede bulup kâğıda yazar ve gösterir; doğru cevaplar birlikte bulunur ve puanlar takip edilir. Bölünebilme Tanılayıcı Dallanmış Ağaç kâğıdı bireysel çözülür ve doğru çıkış tahtada birlikte bulunur. Ders sonrasında EBA'daki Bölünebilme Kriterleri etkileşimli çalışması gönderilir."
+   ]
+  ],
+  "gerek": "Doğal Sayıların Katları, bölünebilme tablosu ve dallanmış ağaç çıktıları, boş kâğıtlar, BT sınıfı, etkileşimli tahta, EBA; oyun, yapılandırılmış grid, beyaz tahta, dinamik geometri, kavram haritası ve kısa cevaplı soru araçları."
+ },
+ {
+  "id": 255,
+  "unite": "Sayılar ve Nicelikler",
+  "ad": "Çarp, Böl, Keşfet",
+  "ozet": "Bahçede öğrenciler sınıf mevcudunu, kız ve erkek öğrenci sayısını eşit gruplara ayırarak çarpanları bulur; nohut ya da fasulyeyle sayıların katları gösterilir, dinamik geometri aracında “Çarpan mı, Kat mı?” oyunuyla dikdörtgenler çizilir, dört masalı istasyonda çarpan gösterme, kat bulma, şiir ve resim etkinlikleri yapılır, son derste öğrencilerin hazırladığı sorularla kart çevirme oyunu oynanır.",
+  "ozu": "<p>Senaryo çarpan ve katı <b>bedenle ve somut nesnelerle</b> öğretiyor: öğrenciler birli, ikili, üçlü… gruplar kurarak sınıf mevcudunun hangi sayılara eşit bölünebildiğini kendileri buluyor; grup sayısı ile gruptaki kişi sayısının çarpanlar olduğu ve 1 ile sayının kendisinin her zaman çarpan olduğu fark ediliyor. Dinamik geometri oyununda çarpanlar kenar uzunlukları bu sayının çarpanları olan dikdörtgenlerle, katlar ise alanı o sayının katı olan dikdörtgenlerle gösteriliyor; böylece sayılar ile alan arasında bağ kuruluyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Çarpanlar ve Katlar videosunu izler."
+   ],
+   [
+    "1. ders",
+    "Okul bahçesinde öğrenciler önce sınıf mevcudunun çarpanlarını tahmin eder, sonra tek tek, ikili, üçlü, dörtlü, beşli gruplar kurup sonuçları etkinlik kâğıdına yazar; eşit gruplara bölünebilen durumlarda grup sayısı ile gruptaki kişi sayısının çarpan olduğu gösterilir. Aynı etkinlik kız ve erkek öğrenci sayısıyla tekrarlanır, doğru tahmin edenler tebrik edilir ve 1 ile sayının kendisinin her zaman çarpan olduğu fark ettirilir. Ders sonrasında EBA'daki Çarpanlar ve Katlar etkileşimli içeriği gönderilir."
+   ],
+   [
+    "2. ders",
+    "3-6 kişilik gruplara nohut ya da kuru fasulye dağıtılır; gruplar 4, 7, 12, 20 gibi sayıların ilk dört katını tanelerle masada gösterip etkinlik kâğıdına yazar. Cevaplar tek tek kontrol edilir ve her sayının en küçük katının kendisi olduğu fark ettirilir. Ders sonrasında EBA'daki Bir Doğal Sayının Çarpanları ve Katları içeriği gönderilir."
+   ],
+   [
+    "3. ders",
+    "Öğrencilerin önceden çözdüğü Çarpan ve Kat Çalışma Soruları'ndaki sorunlu sorular tahtada çözülür. “Çarpan mı, Kat mı?” oyununda seçilen öğrenci “çarpan” derse gruplar dinamik geometri aracında kenar uzunlukları söylenen sayının çarpanları olan dikdörtgenler, “kat” derse alanı söylenen sayının katı olan dikdörtgenler çizer; cevaplar dinlenir ve cevap veren öğrenci sıradaki arkadaşını seçer. Ders sonrasında öz değerlendirme formu doldurulur."
+   ],
+   [
+    "4. ders",
+    "Dört masalı istasyonda gruplar 5'er dakikada saat yönünde döner: birinci masada üzerinde sayı yazan masa tenisi toplarından birini seçip çarpanlarını dinamik geometri aracında şekillerle gösterir, ikinci masada Saklanan Sayıları Bul etkinliğinde sayıların ilk beş katını bulur, üçüncüde çarpan ve katlarla ilgili şiir yazar, dördüncüde konuyla ilgili resim yapar. İlk iki masa tahtada birlikte cevaplanır, şiir okunur ve yapay zekâ aracıyla şarkıya dönüştürülüp dinlenir, resim panoya asılır."
+   ],
+   [
+    "5. ders",
+    "Öğrencilerin gönderdiği sorulardan oluşan Kart Çevirme etkinliği tahtada açılır; gruplar her problemi cevaplar, kart çevrilip çözüm gösterilir ve doğru yapan gruplar tebrik edilir. Gönüllüler çözüm yollarını, varsa farklı yöntemleri tahtada açıklar."
+   ]
+  ],
+  "gerek": "Etkinlik kâğıdı çıktıları, nohut ya da kuru fasulye, üzerine sayı yazılı 15 masa tenisi topu ve kutu, kâğıt ve boya, okul bahçesi, BT sınıfı, etkileşimli tahta, EBA; dinamik geometri, görsel tasarım, yapay zekâ şarkı ve kart çevirme araçları, öz değerlendirme formu."
+ },
+ {
+  "id": 256,
+  "unite": "Sayılar ve Nicelikler",
+  "ad": "Sayıların Yapı Taşları: Asal Sayılar, Bölenler ve Katlar",
+  "ozet": "1-50 arası sayı kartlarıyla öğrenciler bölen bulur ve yalnızca iki böleni olan sayılardan asal sayı kavramına ulaşır, Eratosten kalburu ve Goldbach sanısıyla asal sayılar pekiştirilir; asal çarpanlar “sayıların DNA'sı” benzetmesiyle çarpan ağacı ve algoritmayla bulunur, “Kripto Dedektifleri” oyununda şifre çözülür, kuyruklu yıldız ve afiş problemleriyle ortak kat, ortak bölen ve aralarında asal sayılar öğretilir.",
+  "ozu": "<p>Senaryo sayıları <b>keşfedilecek bir dünya</b> gibi sunuyor: “Bazı sayılar 1 ve kendileri dışında hiçbir sayıyla ilgilenmez.” Öğrenciler ellerindeki kartın bölenlerini bulup yalnızca iki böleni olanları tahtada topluyor ve asal sayı tanımına kendileri ulaşıyor. Goldbach'ın Euler'e yazdığı “2 dışındaki her çift sayı iki asalın toplamıdır” sanısı denenerek matematiğin hâlâ çözülmemiş sorularına dikkat çekiliyor. Asal çarpanlar her sayıya özgü bir DNA gibi anlatılıyor; ortak kat “iki olayın aynı anda gerçekleşmesi” (kuyruklu yıldızlar), ortak bölen ise sokak hayvanları temalı afiş tasarımı problemiyle somutlaştırılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Her öğrenciye 1-50 arası bir sayı kartı verilir ve sayısının tüm bölenlerini bulması istenir (çarpan ve bölenin aynı anlamda kullanıldığı hatırlatılır). “Kaç kişinin sayısının yalnızca iki böleni var?” sorusuyla bu sayılar tahtaya yazılır: “Neden farklılar, ortak bölenleri ne, özel bir adları olabilir mi?” Asal sayı kavramı açıklanır. Asal Sayı Bulma dinamik etkinliğinde rastgele seçilen sayıların asal olup olmadığı tahmin edilip bölenleriyle kontrol edilir; EBA'daki Eratosten Kalburu'nda asal olmayanlar elenir."
+   ],
+   [
+    "2. ders",
+    "Goldbach sanısı anlatılır (8 = 3 + 5, 24 = 11 + 13) ve öğrenciler Goldbach hesap makinesinde dener. “Sayıların da DNA'sı olabilir mi?” sorusuyla asal çarpanların her sayıya özgü yapı taşları olduğu açıklanır. Asal Çarpanlar dinamik etkinliğinde sürgüyle seçilen sayının bölenlerinden asal olanlar işaretlenir ve sayının yalnızca bunlarla yeniden oluşturulup oluşturulamayacağı tartışılır. EBA'daki Çarpan Ağacı ve Asal Çarpanlar Algoritması içerikleriyle iki yöntem gösterilir ve öğrenciler deftere örnekler çözer. Ödev: Asal Çarpanlara Ayırma Alıştırma Soruları."
+   ],
+   [
+    "3. ders",
+    "3-4 kişilik gruplar “Kripto Dedektifleri Görevde” oyununda ekrana gelen sayıları çarpan ağacı ya da algoritmayla asal çarpanlarına ayırır ve her asal çarpana karşılık gelen harfi (2 = A, 3 = B, 5 = C…) bularak şifreyi çözer. Yöntem seçimleri ve alternatif yollar tartışılır; gruplar en zorlandıkları soruyu ve tercih ettikleri yöntemi paylaşır."
+   ],
+   [
+    "4. ders",
+    "Kuyruklu Yıldız Örnek Sorusu'yla “İki olayın aynı anda gerçekleşmesi ne demek, hangi işlemlerle çözeriz?” sorulur ve ortak kat kavramı açıklanır; EBA'daki Ortak Kat Problemi Çözme içeriğiyle tekrar edilir ve Ortak Kat Alıştırma Soruları çözülüp değerlendirilir. Sokak hayvanlarını koruma temalı Afiş Tasarımı Örnek Sorusu'nda “[ZH] iki afiş için ortak olduğuna göre kaç cm olabilir?” sorusuyla ortak bölen keşfedilir ve adım adım nasıl bulunacağı gösterilir."
+   ],
+   [
+    "5. ders",
+    "EBA'daki Ortak Bölen Problemi Çözme içeriğiyle adımlar tekrar edilir, Ortak Bölen Alıştırma Soruları gönüllülerce tahtada çözülür. Aralarında Asal Sayılar Örnek Soruları'nda sayıların 1'den başka ortak böleni olup olmadığı incelenir ve “aralarında asal sayılar” tanımı birlikte oluşturulur. Ders sonrasında Değerlendirme Soruları gönderilir ve sık yapılan hatalar sonraki derste tartışılır."
+   ]
+  ],
+  "gerek": "1-50 arası sayı kartları, Ortak Kat Alıştırma Soruları çıktısı, defter, BT sınıfı, etkileşimli tahta, EBA; dinamik matematik ve geometri, Goldbach hesap makinesi, oyun, sunum ve test araçları."
+ },
+ {
+  "id": 257,
+  "unite": "Sayılar ve Nicelikler",
+  "ad": "Bilim İnsanlarının Elinden Ondalık",
+  "ozet": "Ondalık gösterimi kullanan bilim insanları (Kâşî, Stevin, Napier, Kepler) tanıtılır; gruplar “Döndür Bakalım” etkinliğinde kesirleri paydası 10, 100, 1000 olan kesirlere ve ondalık gösterime çevirip modeller, Ahmet'in para problemiyle basamak değerleri, “Arkadaşım Basamak” oyunuyla basamak adları öğrenilir; kırtasiye alışverişi animasyonuyla yuvarlama, “Gizli Hazine” sunumuyla sıralama çalışılır.",
+  "ozu": "<p>Senaryo ondalık gösterimi <b>tarihten ve paradan</b> öğretiyor: ondalık gösterimin kesirlere göre neden daha pratik, işlemlerde kolay ve teknolojiye uygun olduğu bilim insanlarının çalışmalarıyla anlatılıyor. Basamak değeri, 453,87 TL'yi 100 TL, 10 TL, 1 TL, 10 kuruş ve 1 kuruşlarla oluşturarak somutlaşıyor: 10 kuruş liranın onda biri olduğu için virgülün sağındaki ilk basamak onda birler basamağı. “Arkadaşım Basamak” oyununda yere çizilen altı karede duran öğrenciler bir ondalık sayının basamaklarını canlandırıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "“Bu Bilim İnsanı Kim?” sunumu incelenir ve ondalık gösterimin kullanılma nedenleri (pratiklik, işlem kolaylığı, teknolojiye uyum) anlatılır; Kesir mi? Ondalık mı? görseli tartışılır. EBA'daki Kesirlerin Ondalık Gösterimleri videosuyla dönüşümler hatırlatılır. “Döndür Bakalım” etkinliğinde her dörtlü gruba torbadan bir kesir verilir; grup kesrin paydasını 10, 100 ya da 1000 yapar, ondalık gösterimini ve okunuşunu yazar ve modelini çizer, sözcü sunar. Ders sonrasında Kâşî'nin Miftâhu'l-hisâb eseri ve Stevin, Napier, Kepler'in çalışmaları araştırılıp EBA tartışmasında paylaşılır."
+   ],
+   [
+    "2. ders",
+    "EBA tartışmasındaki paylaşımlar okunur ve sorular sorulur. İkililer Ahmet'in Para Problemi'ni çözer; 453,87 TL'nin 4 tane 100 TL, 5 tane 10 TL, 3 tane 1 TL, 8 tane 10 kuruş ve 7 tane 1 kuruşla oluştuğu ve 10 kuruşun liranın onda biri olduğu gösterilerek virgülün sağındaki basamakların değerleri açıklanır. Basamak Adları ve Basamak Değerleri görseli ve EBA'daki ilgili etkileşimli içerik gönüllülerce tamamlanır."
+   ],
+   [
+    "3. ders",
+    "“Arkadaşım Basamak” oyununda yere altı kare ve üçüncü ile dördüncü kare arasına virgül çizilir; altı gönüllü karelerde durup parmaklarıyla rakam gösterir. Sınıftan seçilen öğrenciye “Benim basamak adım ne? Basamak değerim ne?” diye sorarlar. Ondalık gösterimin rakamların basamak değerlerinin toplamı olduğu vurgulanır ve Ondalığı Eşleştir etkinliğinde her ondalık gösterim paydası 10, 100 ve 1000 olan kesirlerle eşleştirilir."
+   ],
+   [
+    "4. ders",
+    "Ondalığını Söyle etkinliğinde ondalık gösterimler kare ve dikdörtgen modellerle ve sayı doğrusunda ifade edilir. Kırtasiye Alışverişi animasyonu izlenir ve benzer hesaplamaların günlük hayatta yapılıp yapılmadığı konuşulur. EBA'daki Ondalık Gösterimleri Verilen Sayıları Yuvarlama videosu izlenir ve Ondalık Gösterimleri Yuvarlama içeriği bireysel yapılıp tahtada tekrar edilir."
+   ],
+   [
+    "5. ders",
+    "“Kimler gizemleri çözmeyi sever?” sorusuyla Gizli Hazine etkileşimli sunumu paylaşılır; öğrenciler haritadaki adımları izleyerek hazineye ulaşır ve sonuçlar tahtada birlikte açıklanır. EBA'daki Ondalık Gösterimleri Sıralama içeriği bireysel yapılır, ardından gönüllüler tahtada sıralama yaparken nelere dikkat ettiklerini açıklar ve Ondalık Gösterim Testi ile değerlendirme yapılır."
+   ]
+  ],
+  "gerek": "Torbaya konmuş kesir kartları, yere kare çizmek için tebeşir ya da bant, BT sınıfı, etkileşimli tahta, EBA; sunum, görsel tasarım, eşleştirme, animasyon, sınıf yönetimi ve test araçları."
+ },
+ {
+  "id": 259,
+  "unite": "Sayılar ve Nicelikler",
+  "ad": "Kesir Avcıları Antik Mısır'da",
+  "ozet": "Antik Mısır matematiği ve Ahmes (Rhind) Papirüsü üzerinden kesirlerin tarihine girilir; ikililer daireleri 2, 4, 6 ve 8 eş parçaya bölüp kesir çarkları yaparak denk ve birim kesirleri keşfeder, paydaları farklı kesirlerle toplama-çıkarma EBA içeriği ve modellerle çalışılır, bir kesir Mısırlılar gibi iki birim kesrin toplamı olarak yazılır, gruplar kesir problemlerini çözüp dinamik geometri aracında modeller ve son derste takım yarışması yapılır.",
+  "ozu": "<p>Senaryo kesirlerle işlemleri <b>Antik Mısır'a yolculuk</b> olarak kurguluyor: Mısırlıların kesirleri birim kesirlerin toplamı olarak yazdığı papirüsten yola çıkılıyor. Öğrencilerin kendi kesip boyadığı kesir çarklarında dilimler üst üste konunca 1/2, 2/4, 3/6 ve 4/8'in aynı büyüklükte olduğu görülüyor; buradan toplama-çıkarma için paydaları eşitlemek üzere denk kesirlere neden ihtiyaç duyulduğu fark ediliyor. Bir kesri iki farklı birim kesrin toplamına ayırma yöntemi de (yarımdan büyükse önce 1/2'yi almak) kesir çubuklarıyla modelleniyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "İkili gruplar kurulur, Kesir Çarkları çalışma kâğıtları çoğaltılır; öğrenciler açıölçer, cetvel, makas, renkli boya ve çift taraflı bant getirir."
+   ],
+   [
+    "1. ders",
+    "Antik Mısır Matematiği sunumuyla kesirlerin tarihsel gelişimine değinilir ve sorularla birim ve denk kesirler hatırlatılır. İkililer yönergeye göre daireleri önce 2, sonra 4, 6 ve 8 eş parçaya ayırır, parçaları kesip boyar ve fon kartonuna yapıştırarak kesir çarkları yapar. Dilimler üst üste konarak denk kesirler gözlenir, kesirler büyükten küçüğe sıralanır ve bulgular paylaşılır; toplama-çıkarma için denk kesirlere ihtiyaç duyulduğu fark ettirilir. Ders sonrasında Sayı Doğrusu etkinliği yapılıp ekran görüntüsü gönderilir."
+   ],
+   [
+    "2. ders",
+    "Öğrenciler önceden EBA'daki Paydaları Farklı Olan Kesirlerle Toplama ve Çıkarma İşlemi videosunu izlemiştir. EBA'daki Kesirlerle Toplama ve Çıkarma İşlemi içeriğindeki sorular çözülüp kesir modelleriyle görselleştirilir. Ahmes Papirüsü'ndeki kesirlerin birim kesirlerin toplamı olarak yazıldığı hatırlatılır; Antik Mısır'da Kesirlerle Toplama İşlemi içeriğinde bir kesrin iki farklı birim kesrin toplamı olarak nasıl yazılacağı (yarımdan büyükse önce 1/2 alınır, küçükse ondan küçük en büyük birim kesir seçilir) kesir çubuklarıyla modellenir. Kesirlerle Toplama İşlemi Alıştırmaları gönüllülerce tahtada çözülür."
+   ],
+   [
+    "3-4. ders",
+    "Kesirlerle toplama ve çıkarma kısaca tekrar edilir. 3-4 kişilik gruplara Kesir Problemleri Grup Çalışma Soruları dağıtılır; öğrenciler önce bireysel çözer, sonra grupta çözümlerini karşılaştırıp ortak çözüme ulaşır ve her problemi dinamik geometri aracında modelleyip EBA'dan paylaşır. Grup temsilcileri çözümlerini tahtada sunar, çözüm yolları tartışılır ve gruplar formla değerlendirilir.",
+    "3-4"
+   ],
+   [
+    "5. ders",
+    "Kesir Problemleri Testi oyunlaştırılmış aracın takım modunda başlatılır; gruplar soruları aynı anda çözüp yanıtlarını girer ve ekrandaki puan durumu yarışma havası yaratır. En çok doğru yapan grup birinci olur; öne çıkan hatalar ve doğru çözüm yöntemleri kısaca değerlendirilir."
+   ]
+  ],
+  "gerek": "Kesir Çarkları ve grup çalışma soruları çıktıları, açıölçer, cetvel, makas, renkli boyalar, çift taraflı bant, fon kartonu, kesir çubukları, BT sınıfı, etkileşimli tahta, EBA; sunum, anlık dönüt, dinamik geometri ve yarışma araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 260,
+  "unite": "Sayılar ve Nicelikler",
+  "ad": "Papirüsün Gizeminde Çarpma ve Bölme",
+  "ozet": "Yaklaşık 3800 yıllık Ahmes (Rhind) Papirüsü ve Mısırlıların kesirleri birim kesirlerin toplamı olarak yazması tanıtılır; “Fırıncının Çırağı” hikâyesi ve Mısır'da ev, tarla ve saka problemleriyle doğal sayıyla kesrin çarpımı, iki kesrin çarpımı ve kesirlerle bölme modellenerek öğretilir, son derste gruplar kesir problemi kurup birbirlerinin problemlerini çözer.",
+  "ozu": "<p>Senaryo kesirlerle çarpma ve bölmeyi <b>Eski Mısır'ın gerçek sorunlarından</b> çıkarıyor: Nil taştığında karışan tarla sınırları alan hesabını, ekmek paylaşımı ve su taşıma problemleri kesirli işlemleri gerektiriyor. Önemli bir kavram vurgusu var: sıfırdan farklı bir doğal sayı 1'den küçük bir kesirle çarpılınca sonuç küçülür, 1'den büyük bir kesirle çarpılınca büyür. Her işlem önce modelle (alan modeli, simülasyon) gösteriliyor, sonra kuralına (paylar ve paydalar çarpılır, işlem öncesi sadeleştirme, tam sayılı kesrin bileşik kesre çevrilmesi) geçiliyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Ahmes Papirüsü görselleriyle “Bu şekillerde ne anlatılıyor olabilir?” diye sorulur; papirüsün MÖ 1700-1600'lerde yazıldığı, 80'den fazla problem içerdiği ve “gerçeğe ulaşmak için doğru hesaplama” sözüyle başladığı anlatılır. Mısırlıların kesirleri birim kesirlerin toplamı olarak yazdığı Ahmes'in İlk 6 Problemi ile gösterilir, tahtadaki toplamın papirüsteki karşılığı bulunur. Payı 2 olan kesirlerin birim kesirlerle yazıldığı Ahmes Kesir Tablosu incelenir; “Mısır Kesrini Oluşturalım” dijital panosunda öğrenciler toplamı 2/3'e eşit birim kesirleri bulup yazar."
+   ],
+   [
+    "2. ders",
+    "“Fırıncının Çırağı” dijital hikâyesi okunur ve işlemlerle ilgili sayfası tartışılır; matematiksel işlemlerin günlük problemlere çözüm olarak doğduğu vurgulanır. “Mısır'da Bir Evim Olsun” problemi çözülüp ekrandaki çözümle karşılaştırılır ve “Üzerine Düşünelim” metni okunur: doğal sayı 1'den küçük bir kesirle çarpılınca sonuç küçülür, büyük bir kesirle çarpılınca büyür. “Büyük mü? Küçük mü?” etkinliği tahtada cevaplanır."
+   ],
+   [
+    "3. ders",
+    "Nil taşkınları ve tarla sınırlarının karışması anlatılarak “Mısır'da Bir Tarla Problemi” açılır; çözüm için iki kesrin çarpılması gerektiği ve alan modeli incelenir, payların ve paydaların çarpıldığı kural açıklanır. Kesirlerle Çarpma İşlemi etkinliği gönüllülerce yapılır, sonucun en sade hâlde yazılması ve işlemden önce sadeleştirme hatırlatılır. Kesirlerle Çarpma İşlemi Problemleri çözülür; tam sayılı kesirlerin önce bileşik kesre çevrildiği vurgulanır."
+   ],
+   [
+    "4. ders",
+    "Öğrenciler İki Kesrin Çarpımının Modellenmesi simülasyonunda istedikleri çarpımları modelleyip birini deftere çizer. “Sakanın Su Problemi”nde çözüm önerileri sınıf yönetim aracından gönderilir; iki kesrin bölünmesi gerektiği ve çözüm modeli açıklanır, kesirlerle bölmenin kuralları anlatılır. EBA'daki İki Kesri Bölme ve Tam Sayılı Kesirlerle Bölme videoları izlenir, Kesirlerle Bölme İşlemi anlık dönütlü etkinliği yapılıp tahtada çözülür."
+   ],
+   [
+    "5. ders",
+    "Problem Çözme Adımları görseli açıklanır. 4-5 kişilik gruplar kesirlerle çarpma ya da bölme (isteğe bağlı toplama-çıkarma da) içeren bir problem kurup paylaşır; öğretmen formla değerlendirip hataları düzeltir, sonra gruplar birbirlerinin problemlerini kâğıtta çözer. Ders sonrasında Zeytinyağı Problemi problem çözme adımlarına göre çözülüp gönderilir."
+   ]
+  ],
+  "gerek": "Defter, boş kâğıtlar, BT sınıfı, etkileşimli tahta, EBA; görsel tasarım, dijital pano, dijital hikâye, sunum, kısa ve uzun cevaplı soru, simülasyon ve sınıf yönetimi araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 261,
+  "unite": "Sayılar ve Nicelikler",
+  "ad": "Üçgen Oyunu ile Uzunluk Ölçme",
+  "ozet": "Okul bahçesinde misketlerle geleneksel “Üçgen Oyunu” oynanır ve standart olmayan birimlerle ölçme deneyimlenir; “Kendine Has Birim” örnek olayıyla standart birime duyulan ihtiyaç tartışılır, birim tahmin etme ve ölçme birimini değiştirme etkinlikleriyle birim büyüdükçe ölçüm sayısının küçüldüğü keşfedilir, uzunluk birimleri arasındaki dönüşümler EBA içerikleri, bilgi yarışması ve çalışma kâğıdıyla pekiştirilir.",
+  "ozu": "<p>Senaryo uzunluk ölçmeyi bir <b>geleneksel çocuk oyunuyla</b> başlatıyor: öğrenciler bahçede misketlerle oynarken mesafeleri adım, karış gibi standart olmayan birimlerle ölçüyor; büyüklerinden öğrendikleri oyunları da paylaşıyor. Herkesin kendi birimini kullanmasının yarattığı karışıklık standart birimlere (mm, cm, dm, m, dam, hm, km) duyulan ihtiyacı gösteriyor. Asıl keşif <b>orantısal akıl yürütme</b>: ölçme birimi büyüdükçe ölçüm değeri küçülür, birim küçüldükçe büyür; gruplar buradan birim dönüştürme yöntemlerini kendileri geliştiriyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Üçgen Oyunu videosunu izleyip kuralları öğrenir ve üç misket getirir; öğretmen kâğıt bant ve metre hazırlar, 4-5 kişilik grupları oluşturur."
+   ],
+   [
+    "1. ders",
+    "Bahçede “Videoyu izlediniz mi? Bu oyunu oynadınız mı? Büyüklerinizden öğrendiğiniz oyunlar var mı? Standart ve standart olmayan uzunluk birimlerine örnek verir misiniz?” soruları konuşulur. Gruplar Üçgen Oyunu etkinlik kâğıdındaki aşamaları izleyerek misket, bant ve metreyle oyunu oynar; kâğıt sonraki derste de kullanılacaktır."
+   ],
+   [
+    "2. ders",
+    "Oyun Sonrası Sorular dijital panosunda gruplar karar verip her soruyu farklı bir üyeyle tahtada cevaplar; cevaplar öğrencilerin birim hakkındaki fikirlerini ortaya koyar. “Kendine Has Birim” örnek olayıyla ölçmenin anlamı ve standart birime neden ihtiyaç duyulduğu tartışılır, standart uzunluk birimleri (mm, cm, dm, m, dam, hm, km) sıralanır."
+   ],
+   [
+    "3-4. ders",
+    "Gruplar Birimi Tahmin Et etkinliğinde günlük hayattaki ölçümlerde hangi birimin kullanıldığını tahmin edip gerekçelerini tartışır. Ölçme Birimini Değiştir dinamik geometri etkinliğinde bir dikdörtgenin çevresini farklı birimlerle ölçüp tahmin eder: “Yeni birim ilkinin kaç katıydı? Birim değişince ölçüm nasıl etkilendi? Cetveldeki en küçük aralık hangi birim? cm'yi mm'ye nasıl çevirdiniz?” Birim büyüdükçe ölçüm değerinin küçüldüğü fark edilir ve gruplar dönüşüm yöntemlerini geliştirip paylaşır. EBA'daki Uzunluk Ölçme Birimleri Arasındaki İlişki ve Metre ve Metreden Küçük Birimler Arasındaki Dönüşümler içerikleri yapılır; ders sonrasında Bilgi Yarışması oyunu oynanıp bitiş ekranı gönderilir.",
+    "3-4"
+   ],
+   [
+    "5. ders",
+    "Bilgi Yarışması'nın zevkli ve zorlayıcı yanları konuşulur, oyun sınıfça bir kez daha oynanıp cevaplar tartışılır. Uzunluk Ölçme Çalışma Kâğıdı bireysel çözülür ve dereceleme ölçeğiyle değerlendirilir."
+   ]
+  ],
+  "gerek": "Misketler, kâğıt bant, metre, cetvel, Üçgen Oyunu etkinlik kâğıdı ve uzunluk ölçme çalışma kâğıdı çıktıları, okul bahçesi, BT sınıfı, etkileşimli tahta, EBA; dijital pano, sunum, kısa cevaplı soru, dinamik geometri ve yarışma araçları, dereceleme ölçeği."
+ },
+ {
+  "id": 262,
+  "unite": "Veri İşleme",
+  "ad": "Araştırmacılar İş Başında",
+  "ozet": "Öğrenciler araştırma sürecini zihin haritasında toplar ve iki veri grubunu karşılaştıran araştırma soruları oluşturmayı öğrenir; gruplar EBA oylama aracıyla kız ve erkek öğrencilerin ekran, oyun ya da kitap okuma süreleri gibi alışkanlıklarını soran anketler yapar, verileri ikili sıklık tablosu ve ikili sütun grafiğine dönüştürüp yorumlarıyla sunar.",
+  "ozu": "<p>Senaryonun hedefi 5. sınıftan farklı olarak <b>iki veri grubunu karşılaştıran</b> bir araştırmayı baştan sona yürütmek: “Bir haftada bilgisayar oyunlarıyla, telefonla, kitap okuyarak kaç saat geçirirsiniz?” gibi sorular kız ve erkek öğrencilere ayrı ayrı değerlendiriliyor. Veriler sınıfın kendi EBA anketinden geldiği için tablo ve grafikler öğrenciler için gerçek bir anlam taşıyor; tekli grafik ile ikili sütun grafiği arasındaki fark ve neden ikili grafik gerektiği vurgulanıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Veri Toplama Yöntemleri, Araştırma Sorusu Oluşturma, Uygun Anket Sorusu Belirleme ve Sıklık Tablosu içeriklerini tekrar eder; dörder kişilik heterojen gruplar kurulup isim ve temsilci belirler."
+   ],
+   [
+    "1. ders",
+    "“Araştırma için önce ne yapılır? Bilgileri nasıl elde ederiz, nasıl gösteririz?” sorularının cevapları “veri analizi” zihin haritasında toplanır. EBA'daki Araştırma Sorularına Uygun Veri Toplama ve İki Veri Grubunu Karşılaştırmayı Gerektiren Araştırma Soruları Oluşturma anlatımları açılır ve zihin haritasıyla benzerlik ve farklar tartışılır."
+   ],
+   [
+    "2. ders",
+    "Her grup en az üç sorudan oluşan bir anket hazırlar; karşılaştırılacak iki grup örneğin kız ve erkek öğrencilerin günlük alışkanlıklarıdır (oyun, telefon, kitap okuma süreleri). Anketler EBA Sayfam/Oylama ile paylaşılır ve tüm öğrenciler cevaplar. Gruplar verileri iki gruba göre ayırıp beyaz tahta aracında ikili sıklık tablosu oluşturur; tablolar sınıf yönetim aracıyla toplanır."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Verileri Düzenleme içeriğiyle ikili sütun grafiği çizme kuralları anlatılır, tekli ve ikili grafik farkı ve tablonun neden ikili olduğu vurgulanır. EBA'daki Verileri İkili Sıklık Tablosunda ya da İkili Sütun Grafiğinde Gösterme içeriği ve Veri Toplama ve Değerlendirme alt konu testi çözülür."
+   ],
+   [
+    "4. ders",
+    "Gruplar tablolarını son kez düzenleyip beyaz tahta aracında ikili sütun grafiğini çizer; son on dakika sunum hazırlığına ayrılır ve grafikler toplanır."
+   ],
+   [
+    "5. ders",
+    "Tablo ve grafikler tahtada açılır; grup temsilcileri ikili karşılaştırma içeren tablo ve grafiklerini ve kendi yorumlarını sunar. Öğrenciler diğer grupları grup değerlendirme formuyla değerlendirir, öğretmen gözlem formunu doldurur. Ders sonrasında EBA'daki İkili Sütun Grafiği Oluşturma alıştırması, öğretmene özel alıştırma ve alt konu testi bir haftalık süreyle gönderilir."
+   ]
+  ],
+  "gerek": "Grup değerlendirme ve gözlem formları, BT sınıfı, etkileşimli tahta, EBA (Sayfam/Oylama); zihin haritası, beyaz tahta, sınıf yönetimi ve sunum araçları."
+ },
+ {
+  "id": 263,
+  "unite": "Veri İşleme",
+  "ad": "Elektrik Faturası Ortalama Tüketimi",
+  "ozet": "İklim değişikliğiyle mücadelede evde enerji tasarrufunun önemi görsellerle tartışılır; öğrenciler kendi elektrik faturalarındaki ortalama tüketimin nasıl hesaplandığını inceler, aritmetik ortalama ve açıklığı EBA anlatımı ve kitap sayfa sayıları örneğiyle öğrenir, son beş ayın tüketim verileriyle ortalama ve açıklık hesaplayıp yorumlar ve gruplar iki veri grubunu karşılaştıran çalışmalar sunar.",
+  "ozu": "<p>Senaryo aritmetik ortalamayı <b>öğrencinin kendi evinin elektrik faturasından</b> öğretiyor: “Faturadaki ortalama tüketim nasıl hesaplanmış? Son gösterge ile ilk gösterge arasındaki fark ne?” Böylece hem enerji tasarrufu ve dijital faturanın çevre dostu oluşu konuşuluyor hem de ortalama gerçek bir veriyle anlam kazanıyor. Önemli bir fikir vurgulanıyor: ortalama ile açıklık birlikte değerlendirilir; açıklık küçükse ortalama durumu yansıtmada ve gelecek tahmininde daha kullanışlıdır.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler evlerinin son beş aylık elektrik faturalarını (ya da dijital hâllerini) getirir; getirmeyenler için fatura görselleri hazırlanır ve gruplar kurulur."
+   ],
+   [
+    "1. ders",
+    "“Enerji Verimliliği ve İklim Değişikliği” dokümanındaki görseller yorumlanır ve evde enerjiyi verimli kullanma önerileri tahtaya yazılır; tasarrufun hem iklim hem bütçe için önemi ve dijital faturanın çevre dostu olduğu vurgulanır. Öğrenciler faturalarını inceler: “Ortalama tüketim nasıl hesaplanmış? Son ve ilk gösterge arasındaki fark ne? Hangi veriler ve işlemler kullanılmış?”"
+   ],
+   [
+    "2. ders",
+    "EBA'daki Aritmetik Ortalama ve Açıklık anlatımı izlenir. “Sınıfımızdaki kız ve erkek öğrencilerin son okudukları kitapların sayfa sayıları kaç? Karşılaştıralım.” sorusunun verileri dinamik matematik aracında tablolaştırılıp ortalama ve açıklık hesaplanır ve yorumlanır. Gruplarda her öğrenci son beş ayın tüketimini birler basamağına yuvarlayarak tabloya aktarır, ortalama ve açıklığı hesaplar ve beyaz tahtadaki ortak tabloya yazıp yorumlar; açıklığın ortalamayı nasıl etkilediği fark ettirilir."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Aritmetik Ortalamayı İnceleme etkinliğinde sayı doğrusuna ortalamadan büyük, küçük ya da eşit veri eklenip çıkarıldığında ortalamanın nasıl değiştiği gözlenip yorumlanır. EBA'daki Aritmetik Ortalama ve Açıklık alıştırmaları birlikte çözülür."
+   ],
+   [
+    "4. ders",
+    "EBA'daki İki Veri Grubunu Karşılaştırma etkinliğinde ortalama ve açıklıklar hesaplanıp yorumlanır; açıklık küçükken ortalamanın durumu ortaya koymada ve tahminde daha kullanışlı olduğu vurgulanır. Öğretmene özel çalışma soruları bireysel çözülüp tahtada tartışılır. Ders sonrasında gruplara iki veri grubunu ortalama ve açıklıkla karşılaştıran bir grup çalışması yönergesi EBA'dan gönderilir."
+   ],
+   [
+    "5. ders",
+    "Gruplar grup çalışmasında elde ettikleri değerleri ve günlük hayata dair yorumlarını sınıfta paylaşır; diğer gruplar sunumun akıcılığı, iş birliği ve araç kullanımı gibi ölçütlerle grup değerlendirme formunu doldurur."
+   ]
+  ],
+  "gerek": "Öğrencilerin son beş aylık elektrik faturaları ya da görselleri, tablo çıktısı, BT sınıfı, etkileşimli tahta, EBA; dinamik matematik, beyaz tahta ve ortak çalışma araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 264,
+  "unite": "Veri İşleme",
+  "ad": "Temiz Hava Savunucuları",
+  "ozet": "Türkiye'de hava kirliliği yükü raporu ve Kırıkkale'ye ait PM10 ve sıcaklık verileriyle ikili sütun grafiği çizilir; öğrenciler kendi illerinin hava kirliliğini araştırıp grafikleştirir, TÜBİTAK proje başvuru sayıları tablosu ikili sütun grafiğine dönüştürülerek yorumlanır ve son derste gruplar sunum yapıp grafikleri EBA'da değerlendirilir.",
+  "ozu": "<p>Senaryo ikili sütun grafiğini <b>gerçek ve güncel verilerle</b> çalıştırıyor: hava kirliliğinin sağlığa etkisi raporundan bilimsel bir makaledeki PM10 ve sıcaklık tablosuna, oradan da öğrencilerin kendi illerinin hava kirliliği verilerine geçiliyor. TÜBİTAK proje başvuru tablosunda “Hangi yıl KBAG alanında daha fazla proje desteklendi?” gibi soruları tablodan cevaplamanın zorluğu fark ettirilerek “Daha kolay yorumlamak için ne yapabiliriz?” sorusuyla grafiğin işlevi kavratılıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'da paylaşılan “Türkiye'de Hava Kirliliği Yükü-2021” içeriğini inceleyip yorum yapar; 2-4 kişilik heterojen gruplar birer bilgisayara oturur ve grafik aracı kısaca tanıtılır."
+   ],
+   [
+    "1. ders",
+    "Rapor ve öğrenci yorumları konuşulur; “Tablodaki verileri başka nasıl gösterebiliriz?” sorusuyla sütun grafiği hatırlatılır. EBA'daki Verileri Düzenleme videosu durdurularak sorularla izlenir. Kırıkkale ili hava kirliliği makalesindeki sıklık tablosu açılır ve gruplar yıllara göre PM10 ve sıcaklık verilerinin ikili sütun grafiğini (gerekirse değerleri yuvarlayarak) grafik aracında çizer. Ders sonrasında öğrenciler kendi illerinin hava kirliliğini araştırıp sütun grafiği hazırlar ve EBA Sayfam tartışmasında paylaşıp yorumlar."
+   ],
+   [
+    "2. ders",
+    "3-5 kişilik gruplara 2022 ve 2023 TÜBİTAK 1001 proje başvuru sayıları tablosu paylaşılır ve 5 dakika incelenir: “Hangi yıl KBAG alanında daha fazla proje desteklendi? 2023'te TOVAG'da kaç proje beklemeden başvuru hakkı kazandı? Önerilen proje sayısı en az kaç?” Zorlanıp zorlanmadıkları sorulur ve “Daha kolay yorumlamak için ne yapabiliriz?” sorusuyla ikili sütun grafiğine yönlendirilir. Gruplar ikinci dönem verilerini ikili sütun grafiğinde gösterir ve EBA tartışmasında paylaşıp yorumlar."
+   ],
+   [
+    "3. ders",
+    "Grup sözcüleri sunumlarını yapar, hatalı çizimler düzeltilir ve gruplar kendi çalışmalarını formla değerlendirir. EBA'daki grafikler birlikte incelenir, en beğenilen grafik panoda sergilenir ve soru-cevap etkinliği yapılır. Ders sonrasında EBA'daki Verileri İkili Sıklık Tablosunda ya da İkili Sütun Grafiğinde Gösterme içeriği ve Veri Toplama ve Değerlendirme alt konu testi gönderilir."
+   ]
+  ],
+  "gerek": "BT sınıfı (gruplara bilgisayar), etkileşimli tahta, EBA (Sayfam tartışması); grafik ve tablolama ve sunum araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 265,
+  "unite": "Veri İşleme",
+  "ad": "Verilerle Okul Sayılarını İnceleme",
+  "ozet": "Nitelikli eğitim ve fırsat eşitliği tartışılır, TÜİK tanıtılır ve öğrenciler TÜİK veri tabanından okul sayılarına ulaşmayı öğrenir; okul sayıları üzerinden açıklık ve aritmetik ortalama hesaplanıp yorumlanır, oyunla pekiştirilir, gruplar kendi illerindeki son dört yılın okul sayılarını kademelere göre bulup ortalama ve açıklıkla yorumlayarak sunar.",
+  "ozu": "<p>Senaryo istatistiği <b>resmî ve gerçek verilerle</b> yapmayı öğretiyor: öğrenciler TÜİK veri tabanında okul sayılarına adım adım ulaşıyor ve her yıl, her kademede okul sayısının arttığını görüyor. Açıklık kavramında değerler birbirine yaklaştıkça açıklığın azaldığı, uzaklaştıkça arttığı vurgulanıyor; ardından aritmetik ortalamanın nasıl hesaplanıp yorumlanacağı ve açıklıkla ilişkisi işleniyor. Konu Sürdürülebilir Kalkınma Amacı 4 (nitelikli eğitim) ve eğitimde fırsat eşitliğine bağlanıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler “Sürdürülebilir Kalkınma Amacı 4-Nitelikli Eğitim” içeriğini ve “Türkiye Yüzyılı Eğitimin Yüzyılı Olacak” haberini okur; gruplar kurulur."
+   ],
+   [
+    "1. ders",
+    "Nitelikli Eğitim panosunda gruplar “Nitelikli eğitim neden önemli? Eğitimde fırsat eşitliği nasıl sağlanır?” sorularını cevaplar. Okul sayısının artmasının fırsat eşitliği için önemi vurgulanır; TÜİK anlatılır ve tanıtım filmi izlenir. TÜİK veri tabanından verilere ulaşma adımlarını ve yapılacak çalışmaları içeren çalışma kâğıdı dağıtılır."
+   ],
+   [
+    "2. ders",
+    "Elde edilen verilerde her yıl ve her kademede artan okul sayılarına dikkat çekilir. Açıklık kavramı anlatılır; değerler yakınlaştıkça açıklığın azaldığı, uzaklaştıkça arttığı vurgulanır ve örnek bir ilin bir yıldaki okul sayılarının açıklığı bulunur. Çalışma kâğıdının 1. bölümü çözülür, rastgele seçilen öğrenciler hesaplamaları anlatarak yapar. Ödev: EBA'daki Veri Analizi videosu."
+   ],
+   [
+    "3. ders",
+    "Aritmetik ortalama ayrıntılı anlatılır ve örnek bir ilin okul sayılarının ortalaması bulunur. Çalışma kâğıdının 2. bölümünde hesaplama, 3. bölümünde ortalamayı yorumlama soruları çözülür. EBA kazanım testlerinden hazırlanmış Aritmetik Ortalama-Açıklık Oyunu tahtada oynanır. Ödev: EBA'daki Aritmetik Ortalama ve Açıklık videosu ve özeti."
+   ],
+   [
+    "4. ders",
+    "EBA'daki Aritmetik Ortalamayı İnceleme içeriğinde farklı değerlerle ortalamanın değişimi keşfedilir ve açıklıkla ilişkisi vurgulanır; öğretmene özel çalışma soruları gruplara gönderilir. Her grup TÜİK veri tabanından yaşadığı ildeki son dört yıla ait farklı bir kademenin (okul öncesi, ilkokul, ortaokul, ortaöğretim, mesleki) okul sayılarını bulur. Ödev: verilerin açıklık ve ortalamasını hesaplayıp yorumlayan bir sunum hazırlamak; ayrıca EBA alt konu testi ve alıştırmaları."
+   ],
+   [
+    "5. ders",
+    "Gruplar rastgele sırayla sunum yapar; öğretmen veri setini doğru yorumlamaları ve iki veri grubunu karşılaştırmaları için yönlendirir. Gruplar sunum değerlendirme formunu doldurur, öğretmen gözlem formuyla açıklık ve ortalama konusunda tüm öğrencileri değerlendirip sonuçları paylaşır."
+   ]
+  ],
+  "gerek": "TÜİK veri tabanı çalışma kâğıdı çıktıları, BT sınıfı, etkileşimli tahta, EBA; beyaz tahta, oyun ve sunum araçları, sunum değerlendirme ve gözlem formları."
+ }
+]
