@@ -1,0 +1,98 @@
+[
+ {
+  "id": 52,
+  "unite": "Meslekleri Tanıyorum",
+  "ad": "Kim, Ne İş Yapıyor?",
+  "ozet": "Türkçe öğrenen öğrenciler meslek adlarını kartlar, drama, şarkı ve tahmin oyunlarıyla öğrenir; doğru vurgu ve tonlamayla okumayı çalışır, son derste hayallerindeki mesleği tanıtan bir afiş hazırlar.",
+  "ozu": "<p>Senaryo yabancı uyruklu öğrenciler için: amaç meslek kelimelerini öğrenmek, bir mesleğin <b>ne iş yaptığını ve nerede çalıştığını</b> basit cümlelerle anlatabilmek. Kelimeler önce görsel ve canlandırmayla, sonra şarkı ve oyunla tanıtılıyor; telaffuz, vurgu ve tonlama öğretmen dönütleriyle düzeltiliyor. Mesleklerin hem bireyin yaşamı hem toplumdaki dayanışma için önemi vurgulanıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğretmen “Benim mesleğim ne?” diye sorarak başlar ve mesleklerin yaşamımızdaki ve toplumdaki önemini vurgular. Öğrencilerin bildiği meslekler sorulduktan sonra Meslek Kartları tahtada açılır, her görsel üzerinde soru-cevapla konuşulur. 4-6 kişilik gruplar bir meslek seçip o mesleği anlatan iki dakikalık bir drama hazırlar ve sunar."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Meslekler şarkısı birkaç kez dinlenir, geçen meslek adları tahtaya yazılır ve öğrenciler tek tek okur; öğretmen telaffuz, vurgu ve tonlamayı düzeltir. Çiftlikte Bir Gün oyununda verilen ipuçlarından meslek tahmin edilir. Ders, meslek adlarının gizlendiği Meslek Avı bulmacasıyla biter."
+   ],
+   [
+    "3. ders",
+    "“Hayalinizdeki meslek nedir, bu meslekteki kişiler ne iş yapar, nerede çalışır?” soruları sorulur, en çok söylenen meslekler tahtaya yazılır. Benzer meslekleri seçen öğrenciler aynı grupta toplanır ve seçtikleri mesleği tanıtan bir afiş hazırlar. Öğretmen sürece Grup Değerlendirme Formu ile değerlendirme yapılacağını açıklar, afişlere rehberlik eder ve sunulmasını sağlar. Ders sonrasında form EBA'dan paylaşılır ve öğrenciler grup çalışmasını değerlendirir."
+   ]
+  ],
+  "gerek": "Etkileşimli tahta, afiş için kâğıt ve boyalar, EBA; görsel kart, oyun, bulmaca ve form araçları."
+ },
+ {
+  "id": 53,
+  "unite": "Sınıfımız",
+  "ad": "Sayıları Öğreniyorum",
+  "ozet": "Türkçe öğrenen öğrenciler 1-20 sayılarını sınıfı sayma, şarkı, boyayıp kesme, kardeş sayısını anlatma, sürükle-bırak eşleştirme ve sayı kadar elma çizme etkinlikleriyle öğrenir.",
+  "ozu": "<p>Hedef, 1'den 20'ye kadar sayıları duyup söyleyebilmek, okuyup yazabilmek ve kendi hayatıyla ilgili basit bir bilgiyi (“Kaç kardeşin var?”) sayıyla anlatabilmek. Senaryo tamamen somut: öğretmen sınıftaki öğrencileri sayıyor, öğrenciler kendi boyayıp kestikleri sayı kartlarını kullanıyor, son derste sayı kadar elma çiziyor. Ölçme sıra arkadaşının kâğıdını kontrol ettiği sözlü akran değerlendirmesiyle yapılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğretmen en öndeki öğrenciden başlayarak sınıftakileri yüksek sesle sayar. EBA'daki Sayılar şarkısı birkaç kez dinlenir, öğrenciler eşlik eder; video ortasında durdurulup şarkıdaki sorular cevaplanır. Boyayalım etkinliğinin çıktısı dağıtılır, öğrenciler 1-20 sayılarını farklı renklere boyar ve her sayıyı makasla keser."
+   ],
+   [
+    "2. ders",
+    "Öğretmen tahtaya 5 yazılı kartı asıp kendini tanıtır ve kaç kardeşi olduğunu söyler. Sonra öğrencilere “Senin ismin ne? Kaç kardeşin var? Kardeşlerinle neler yapmayı seversin?” diye sorar; cevap veren öğrenci kestiği kartlardan kardeş sayısını gösteren kartı tahtaya asar, herkes katılır. Eşleştirelim (1-10) ve Eşleştirelim (11-20) sürükle-bırak etkinlikleri tahtada sırayla yapılır, soru işaretlerinin yerine hangi sayının geleceği tahmin edilir."
+   ],
+   [
+    "3. ders",
+    "Öğretmen 20 A4 kâğıdını ikiye böler, üst bölüme 1-20 arası birer sayı yazar ve karıştırıp dağıtır. Öğrenciler alt bölüme yazan sayı kadar elma çizer. Süre bitince sıra arkadaşlarıyla kâğıt değiştirip sayının ve elmaların tutup tutmadığını sözlü olarak kontrol ederler; öğretmen sonuçlar üzerinden dönüt verir."
+   ]
+  ],
+  "gerek": "Boyayalım çıktıları, boya kalemleri, makas, 20 adet A4 kâğıdı, sayı kartları, etkileşimli tahta, EBA."
+ },
+ {
+  "id": 54,
+  "unite": "Temel İhtiyaçlarımız",
+  "ad": "Şahane Pazar",
+  "ozet": "Türkçe öğrenen öğrenciler sebze ve meyve adlarını şarkı, yapboz, yaz-kış sebzeleri metni ve gerçek sebze-meyvelerle öğrenir; salata videosu üzerine konuşur ve son derste pazardan almak istediklerinin listesini yazar.",
+  "ozu": "<p>Senaryo günlük yaşamın temel bir ihtiyacı olan <b>pazar alışverişi</b> üzerine kurulmuş. Öğrenci önce sebze-meyve adlarını duyup tekrar ediyor, sonra okuyor (yaz ve kış sebzeleri metni), konuşuyor (masadaki ürünlerle hangi yemekler yapılır?) ve en son yazıyor (en az beş meyve, beş sebzelik alışveriş listesi). Dinleme, okuma, konuşma ve yazma becerileri dört derse sırayla yayılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "EBA'daki Kıpırdak ile Şıpırdak (Tanımalıyım Besinleri) şarkısı dinlenir; her sebze ya da meyve adından sonra durdurulup öğrencilere tekrar ettirilir. Şarkıda geçenler tahtada listelenir ve görselleri gösterilir. Gönüllülerden başlayarak öğrenciler EBA'daki Yapboz (Meyveler) içeriğini farklı seviyelerde tamamlar."
+   ],
+   [
+    "2. ders",
+    "Öğretmen Yaz-Kış Sebzeleri/Meyveleri metnini örnek olarak okur, öğrenciler birkaç kez sessiz okur. Yaz ve Kış Meyvelerini/Sebzelerini Eşleştir etkinliğinde iki grup iki sıra hâlinde tahtaya gelir; biri yaz, diğeri kış meyve ve sebzelerini eşleştirir."
+   ],
+   [
+    "3. ders",
+    "Öğretmen masaya getirdiği sebze ve meyveleri gösterip “Bunlarla hangi yemekler yapılabilir?” diye sorar, cevaplar tahtaya yazılıp konuşulur. EBA'daki Sipariş-Salata Yapıyoruz, Dikte Çalışması videosunun 8:05-12:48 arası izlenir. “Salatada hangi sebze ve meyveler var? Marul'dan sonra ilk ne eklendi? Siz bir salata yapsanız neler kullanırdınız?” sorularıyla konuşma etkinliği yapılır."
+   ],
+   [
+    "4. ders",
+    "Sebze-Meyveler bulmacası tahtada rastgele seçilen öğrencilerle çözülür. “Şu an pazarda olsaydınız ne alırdınız?” sorusu önce sözlü cevaplanır, sonra her öğrenci defterine en az beş meyve ve beş sebzelik bir alışveriş listesi yazar. Listeler öğrenci değerlendirme formuyla değerlendirilir, öğretmen düzeltme ve dönüt verir."
+   ]
+  ],
+  "gerek": "Yaz-Kış Sebzeleri/Meyveleri metninin çıktısı, gerçek sebze ve meyveler, defter, değerlendirme formu, etkileşimli tahta, EBA."
+ },
+ {
+  "id": 55,
+  "unite": "Yakın Çevrem",
+  "ad": "Nasıl Giderim?",
+  "ozet": "Türkçe öğrenen öğrenciler trafik işaretlerini ve basit yol tarifini dinleme oyunu, iç içe çemberlerde eşli yol tarifi ve gruplar arası soru-cevapla öğrenir; BT derslerinde yaşamak istedikleri mahalleyi anlatan bir dijital hikâye yazar.",
+  "ozu": "<p>Hedef, öğrencinin yakın çevresinde <b>bir yerden bir yere nasıl gidileceğini sorup tarif edebilmesi</b> (sağa dön, düz git, parkın yanında…) ve trafik işaretlerini tanıması. Bu, yeni geldiği ülkede günlük hayata ve toplumsal uyuma doğrudan katkı sağlayan bir beceri. Tarifler önce dinlenerek, sonra eşli konuşmayla, sonra dijital hikâyede yazarak kullanılıyor; hikâyeler dereceli puanlama anahtarıyla değerlendiriliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen Mekânları Buluyorum etkinlik kâğıdını öğrenci sayısı kadar çoğaltır."
+   ],
+   [
+    "1. ders",
+    "İşaretleri Tanıyorum oyununda öğrenciler cümleleri dinleyip görsel ve sesli ipuçlarından basit yol tariflerini tahmin eder. Mekânları Buluyorum kâğıdı dağıtılır. Öğrenciler sınıfın ortasında iç içe iki çember oluşturur (top taşıma tekniği); karşı karşıya gelenler kâğıttaki görsele bakarak birbirine yol tarif eder, sonra çember döner ve farklı eşlerle tekrarlanır."
+   ],
+   [
+    "2. ders",
+    "Öğrenciler yaşamak istedikleri bir mahalleyi düşünür ve oradaki insanları, mekânları ve mekânların konumlarını anlatan bir dijital hikâye yazar. Öğretmen örnek olarak Parka Gidiş Yolum hikâyesini paylaşır ve dereceli puanlama anahtarının ölçütlerini açıklar. Hikâyeler EBA'dan paylaşılır; ders sonrasında öğretmen bunları puanlama anahtarıyla değerlendirip dönütleri EBA'dan iletir."
+   ],
+   [
+    "3. ders",
+    "Sınıf dört gruba ayrılır ve Ne, Nerede? oyunu açılır; her grup kendisine gelen soruyu cevaplar. Ardından gruplar oyundaki görselden yola çıkarak en az iki benzer soru hazırlar ve diğer gruplara sorar. Öğretmen grup çalışmasına rehberlik ederek dersi tamamlar."
+   ]
+  ],
+  "gerek": "Mekânları Buluyorum çıktıları, dereceli puanlama anahtarı, etkileşimli tahta, bilgisayarlar, EBA; dijital hikâye ve oyun araçları."
+ }
+]

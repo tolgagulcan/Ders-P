@@ -7,6 +7,10 @@ import json, os, re, glob, html, unicodedata
 K = os.path.dirname(os.path.abspath(__file__))
 SITE = os.path.join(K, '..', '..', 'site')
 idx = {r['id']: r for r in json.load(open(os.path.join(K, 'index.json'), encoding='utf-8'))}
+# PDF klasöründe 'Diger' altında duran ama aslında belli bir derse ait senaryolar
+DERS_DUZELT = {200: 'Din Kulturu', 201: 'Din Kulturu', 202: 'Din Kulturu', 203: 'Arapca'}
+for _i, _d in DERS_DUZELT.items():
+    if _i in idx: idx[_i]['ders'] = _d
 
 DERS_AD = {'Arapca': 'Arapça', 'Bilisim Teknolojileri': 'Bilişim Teknolojileri', 'Din Kulturu': 'Din Kültürü',
            'Fen Bilimleri': 'Fen Bilimleri', 'Ingilizce': 'İngilizce', 'Matematik': 'Matematik',
