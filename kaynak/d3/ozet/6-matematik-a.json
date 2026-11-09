@@ -1,0 +1,502 @@
+[
+ {
+  "id": 229,
+  "unite": "Cebir",
+  "ad": "Cebir Bingo Oyunu",
+  "ozet": "Cebirsel ifadelerin değişkenin farklı değerleri için hesaplanması “aklından bir sayı tut” bilmecesi ve oyunlarla başlar; gruplar cebirsel ifadelerle kendi bingo kartlarını ve çağrı kartlarını tasarlayıp birbirlerinin oyununu oynar, son derslerde eşit cebirsel ifadeler yazılır ve konu testiyle değerlendirme yapılır.",
+  "ozu": "<p>Senaryo bir sihirbazlık numarasıyla merak uyandırıyor: “Aklından bir sayı tut, 3 ekle, 2 ile çarp, tuttuğun sayının 2 katını çıkar” denince herkes aynı sonuca ulaşıyor ve öğrenciler <b>bunun arkasındaki matematiği</b> açıklamaya çalışıyor. Ardından cebirsel ifadeler sözel cümlelere (3x+8: “bir sayı tuttum, 3 ile çarptım, 8 ekledim”) ve tersine çevriliyor. Ana ürün, grupların 5×5 matrisli bingo kartlarında cebirsel ifadelerin değerlerini kullanarak tasarladığı oyun; gruplar oyunları değiş tokuş edip oynuyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğretmen birkaç öğrenciye “Aklından 1-10 arası bir sayı tut, 3 ekle, 2 ile çarp, tuttuğun sayının 2 katını çıkar.” yaptırır; farklı sayılar tutulsa da sonucun hep aynı çıktığı fark ettirilir ve nedeni tartışılır. Aklından Bir Sayı Tut oyununda öğrenciler cebirsel ifadeleri cümleye çevirir (3x+8 → “bir sayı tuttum, 3 ile çarptım, 8 ekledim”) ve x'in farklı değerleri için ifadeyi hesaplayıp kutulara yazar. EBA'daki Değişkenin Alacağı Değere Göre Cebirsel İfadenin Değerini Hesaplama etkinliğinde rastgele seçilen öğrenciler sözel ifadeleri cebirsel ifadeye dönüştürüp değer hesaplar."
+   ],
+   [
+    "2-3. ders",
+    "Bilgisayar sayısına göre 3-4 kişilik gruplar kurulur; ısınma olarak Cebirsel İfadelerin Değerini Bulma oyunu bireysel oynanır ve en çok doğru yapanlar neşeli etiketlerle ödüllendirilir. Öğretmen bingo oyununu (5×5 matris, satır-sütun-çapraz tamamlama) anlatır ve kısa bir videoyla pekiştirir. Cebir bingo yönerge şablonu paylaşılır; gruplar görsel tasarım aracıyla bingo kartlarını ve cebirsel ifadeli çağrı kartlarını hazırlayıp Grup Çalışma Panosu'na ekler ve birbirine dönüt verir. Çıktılar alınır, her grup oyununu başka bir grupla değiştirip oynar; karşılaşılan zorluklar paylaşılır ve grup değerlendirme formu doldurulur.",
+    "2-3"
+   ],
+   [
+    "4. ders",
+    "EBA'daki Basit Cebirsel İfadelerin Anlamı videosu izlenir ve içindeki sorular cevaplanır. Öğretmen bir cebirsel ifadeye eşit farklı ifadelerin nasıl yazılabileceğini örneklerle gösterir. Cebirsel İfadeler eşleştirme soruları gönüllüler tarafından tahtada çözülür, katılanlara neşeli etiketler verilir."
+   ],
+   [
+    "5. ders",
+    "Öğretmenin çıktısını aldığı Cebirsel İfadeler konu testi bireysel çözülür, ardından sorular öğrencilerin katılımıyla tahtada çözülür ve zorlanılan sorular açıklanır. Ders sonrasında EBA'daki Cebirsel İfadeler alt konu testi belirli bir süreyle gönderilir ve sonuçlar EBA'dan kontrol edilir."
+   ]
+  ],
+  "gerek": "Neşeli etiketler, konu testi çıktıları, yazıcı, etkileşimli tahta, öğrenci bilgisayarları, EBA; oyun, görsel tasarım, dijital pano ve eşleştirme araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 230,
+  "unite": "Cebir",
+  "ad": "Kelimeleri Matematiğe Dönüştürmek",
+  "ozet": "Gönüllü ağaç dikme projesi problemiyle (85 ağaçlık kent ormanına her ay 30 ağaç) gruplar zamana bağlı ağaç sayısı tablosunu doldurup genel kuralı sembolle yazar; cebirsel ifade, değişken, katsayı, terim ve sabit terim kavramlarına ulaşılır, sözel durumlar cebirsel ifadeye ve cebirsel ifadeler sözel durumlara çevrilir.",
+  "ozu": "<p>Senaryo cebiri <b>gerçek bir örüntüden</b> doğuruyor: kent ormanında 85 ağaç var ve her ay 30 ağaç dikiliyor; öğrenciler aylara göre toplam ağaç sayısını tabloya yazıyor, kullandıkları yöntemi açıklıyor ve “herhangi bir ayda kaç ağaç olur?” sorusunu sembolle ifade ediyor (85 + 30·n gibi). Bu ifadede sabit terim ve değişken kendiliğinden ortaya çıkıyor. Konu çevre bilinciyle (daha yeşil bir dünya için ağaç dikmenin önemi) de ilişkilendiriliyor.</p>",
+  "dersler": [
+   [
+    "1-2. ders",
+    "Siz de Bir Ağaç Dikin! afişi tahtada paylaşılır ve ağaç dikmenin önemi konuşulur. Öğretmen problemi verir: kent ormanında 85 ağaç var, her ay 30 ağaç dikilecek; toplam ağaç sayısı ne olur? 4-5 kişilik gruplara zamana bağlı toplam ağaç sayısı tablosu dağıtılır. Gruplar önce bulduğu sayıları dijital panoya yazar, sonra izledikleri yöntemi açıklar, en son herhangi bir zamandaki toplam ağaç sayısını veren ifadeyi sembolle yazar. EBA'daki Cebirsel İfadeler anlatımıyla cebirsel ifade ve değişken kavramları tanımlanır, problemdeki ifadede sabit terim ve değişken fark ettirilir. Cebirsel İfadelerde Katsayı ve Terim videosu durdurularak izlenir ve terim, katsayı, sabit terim, benzer terim gösterilir.",
+    "1-2"
+   ],
+   [
+    "3. ders",
+    "EBA'daki Sözel Duruma Uygun Cebirsel İfade Yazma videosu durdurularak izlenir ve sorular sorulur. Gruplardaki her öğrenci EBA'daki Cebirsel İfadeye Uygun Sözel Durum Yazma etkileşimli içeriğinde verilen cebirsel ifadelere uygun sözel durumlar yazar; öğretmen yol gösterir."
+   ],
+   [
+    "4. ders",
+    "EBA'daki Cebirsel İfadeler öğretmene özel çalışma sorularının çıktısı bireysel çözülür, sonra tahtada öğrencilerin katılımıyla çözülür. Ders sonrasında öğrenciler öğrendikleri kavram ve terimleri içeren bir kavram haritası hazırlar, öğretmen EBA'dan takip eder."
+   ]
+  ],
+  "gerek": "Zamana bağlı ağaç sayısı tablosu çıktıları, çalışma soruları çıktısı, etkileşimli tahta, BT sınıfı, EBA; dijital pano ve kavram haritası araçları."
+ },
+ {
+  "id": 231,
+  "unite": "Cebir",
+  "ad": "Suyumu Tasarruflu Kullanıyorum",
+  "ozet": "Temiz suya erişim ve su tasarrufu TEMA su gönüllüsü testi, beyin fırtınası ve çökeltmeyle temiz su elde etme videosuyla tartışılır; öğrenciler farklı bölgelerde temiz su için arıtılması gereken su miktarını cebirsel ifadelerle hesaplayan bir tabloyu doldurur, ifadeleri dinamik geometri aracıyla modeller ve son derste grup yarışması yapılır.",
+  "ozu": "<p>Senaryo cebirsel ifadelerin değerini hesaplamayı <b>su tasarrufu</b> gibi gerçek bir soruna bağlıyor: “Evlerimizde kullandığımız bir litre su için kaç litre çökelti gerekir?” Öğrenciler çok az temiz su için çok fazla suyun arıtılması gerektiğini fark ediyor, sonra her bölge için verilen cebirsel ifadede değişkene 1-10 litre değerleri vererek tabloyu dolduruyor. 5x+10 = x+x+x+x+x+5+5 gibi farklı gösterimler dinamik geometri aracıyla modellenerek ifadenin anlamı somutlaşıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler Temiz Su ve Sanitasyon, Temiz Su ve Sıhhi Koşullar ve TEMA-Su içeriklerini okur."
+   ],
+   [
+    "1. ders",
+    "Öğrenciler TEMA Vakfı Su Gönüllüsü Testi'ni yapıp su gönüllüsü olur. “Musluğunuzdan su akmasa nasıl bir çözüm üretirsiniz? Su kaynaklarını bilinçli kullanmanın yolları neler?” soruları dijital beyin fırtınası aracında toplanır. EBA'daki Çökeltme ile Temiz Su Elde Etme videosu izlenir; “Az miktarda temiz su için harcanan su hakkında ne düşünüyorsunuz?” tartışılarak çok az temiz su için çok fazla suyun arıtılması gerektiği sonucuna varılır. Sonraki dersin problem durumu paylaşılır."
+   ],
+   [
+    "2. ders",
+    "Problem durumu tahtada açılır: verilen bölgelerde temiz su üretmek için arıtılması gereken su miktarı hesaplanacaktır. Dinamik matematik aracındaki hesaplama tablosunda 1-10 litre su için çökelti miktarını veren 40 örnek bulunur; ilk örneği öğretmen yapar, sonra rastgele seçilen öğrenciler tahtada tabloyu doldurup çözümlerini açıklar ve her öğrenci en az bir cebirsel ifadenin değerini hesaplar. Ödev: EBA'daki Alıştırmalar-Cebirsel İfadeler."
+   ],
+   [
+    "3. ders",
+    "Konu özetlenir ve ödev soruları gözden geçirilip zorlanılanlar yeniden çözülür. Farklı soru tiplerini tanımak için kısa cevaplı 15 soru sınıfla paylaşılıp çözülür."
+   ],
+   [
+    "4. ders",
+    "EBA'daki Cebirsel İfadelerin Anlamı videosuyla derse girilir. Önceki dersteki ifadelerin farklı gösterimleri incelenir (X bölgesi: 5x+10 = x+x+x+x+x+5+5, Y bölgesi: 10y−1 = 5y+3y+2y−1). Eşleştirme etkinliğiyle cebirsel ifadeler modellenir; gönüllüler oluşturdukları ifadeleri dinamik matematik ve geometri aracında modeller."
+   ],
+   [
+    "5. ders",
+    "Öğretmen EBA'daki beceri temelli testten seçtiği 8 soruyla oyunlaştırılmış bir yarışma hazırlar. Konular özetlenir, gruplar yarışmada soruları çözer ve en çok doğru cevaplayan grup puan alır; çözülemeyen sorular birlikte çözülür. Ödev: EBA'daki Özet-Cebirsel İfadeler ile tekrar."
+   ]
+  ],
+  "gerek": "Etkileşimli tahta, BT sınıfı, EBA; beyin fırtınası, dinamik matematik ve geometri, kısa cevaplı soru, eşleştirme ve yarışma araçları."
+ },
+ {
+  "id": 232,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Dondurmadan Sıvılara",
+  "ozet": "Sınıfın en sevdiği dondurma anketiyle başlayan senaryoda tarifteki sıvı miktarları tahmin edilir, litre-desilitre-santilitre-mililitre ve dönüşümler EBA videoları ve etkinlikle öğretilir; gruplar patates ya da elmanın hacmini su taşırma yöntemiyle, prizma kapların hacmini cetvelle ölçüp sıvı ölçüleriyle ilişkilendirir, son derste günlük hayattan sıvı ölçüsü problemleri kurar.",
+  "ozu": "<p>Senaryo sıvı ölçülerini <b>mutfaktan ve deneyden</b> öğretiyor: bir dondurma tarifindeki malzeme miktarları önce tahmin ediliyor (bir sürahi süt ne kadar?), böylece öğrencilerin birimleri zihinde canlandırıp canlandıramadığı görülüyor. Asıl kavram <b>hacim ölçüleri ile sıvı ölçüleri arasındaki ilişki</b> (1 cm³ = 1 mL): gruplar prizma kapların ayrıtlarını ölçüp hacmini cm³ olarak hesaplıyor, sonra içine aldığı suyu mL olarak ölçüp iki sonucu karşılaştırıyor. Ölçüm hatalarından kaynaklı küçük farklar da tartışılıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen en sevilen dondurma çeşidini soran bir anket gönderir, öğrencilerden dondurmanın tarihçesini araştırmalarını ister ve dondurma tarifindeki malzeme ve miktarları içeren kâğıdı çoğaltır."
+   ],
+   [
+    "1. ders",
+    "Anket sonuçları tablo ya da grafik olarak sunulur, dondurmanın tarihçesi ve yapılışı konuşulur. Tarif kâğıdı dağıtılır; öğrenciler malzeme miktarlarının somut olarak ne kadar olduğunu tahmin edip (bir sürahi süt gibi) dijital panoya yazar. Öğretmen böylece sıvı ölçü birimlerini ne kadar tanıdıklarını tespit eder ve cevaplar birlikte değerlendirilir."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Havacılık Kuralları videosu izlenip sonundaki sorular cevaplanır. Sıvıların kaplarla ölçüldüğü, temel birimin litre olduğu ve litre, desilitre, santilitre, mililitre birimleri tanıtılır. EBA'daki Sıvı Ölçme Birimleri ve Bu Birimleri Birbirine Dönüştürme videosu izlenir, ardından Sıvı Ölçme Birimleri boşluk doldurma etkinliğiyle dönüşümler yapılır (BT sınıfı yoksa ödev olarak gönderilir)."
+   ],
+   [
+    "3-4. ders",
+    "Gruplar 500 mL su, ölçü kabı, prizma şeklinde kaplar, elma ya da patates ve cetvel getirir. Dikdörtgenler prizmasının hacmi sorusuyla ön bilgiler yoklanır ve “Patatesin hacmini nasıl bulursunuz?” cevapları dijital panoya yazılır. EBA'daki Hacim Ölçme Birimleri ve Sıvı Ölçme Birimleri Arasındaki İlişki videosu izlenir. Gruplar patates ya da elmanın hacmini ölçü kabı ve suyla bulup hem sıvı hem hacim birimiyle tabloya yazar; prizma kapların ayrıtlarını ölçüp hacmini cm³ ve mL cinsinden hesaplar, sonra içine aldığı suyu ölçer ve aradaki ilişkiyi tabloya not eder. Çıkarımlar dijital panoda paylaşılır, grup değerlendirme formu doldurulur; ders sonrasında EBA'daki Sıvı Ölçme Birimleri ile Hacim Ölçme Birimleri Arasındaki Dönüşümler içeriği gönderilir.",
+    "3-4"
+   ],
+   [
+    "5. ders",
+    "“Sıvı ölçü birimleri günlük hayatta nerede kullanılır?” sorusunun cevapları dijital panoya, sonra yapay zekâ araçlarına yazılıp karşılaştırılır. Her grup bir günlük yaşam durumu seçip sıvı ölçüleriyle bir problem kurar; EBA'daki Sıvı Ölçme Birimleri ile İlgili Problem Kurma ve Çözme içeriği örnek olarak birlikte yapılır. Problemler ortak çalışma aracında paylaşılır, gruplar birbirinin problemlerini çözer ve çözümler tartışılır. Ödev: EBA'daki Alıştırmalar-Sıvı Ölçme Birimleri."
+   ]
+  ],
+  "gerek": "Dondurma tarifi çıktısı, 500 mL su, ölçü kabı, prizma şeklinde kaplar, elma ya da patates, cetvel, ölçüm tabloları, etkileşimli tahta, BT sınıfı, EBA; anket, grafik, dijital pano, boşluk doldurma, yapay zekâ ve ortak çalışma araçları."
+ },
+ {
+  "id": 233,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Escher ile Matematiğin Sanatsal Dili: Çember",
+  "ozet": "Matematik ve sanat ilişkisi Escher'in çemberli eserleri ve bir dergi yazısıyla tartışılır; öğrenciler pergelle farklı yarıçaplarda çemberler çizer, çevrelerini iple ölçüp çap ve çevreyi tabloya yazar, dinamik geometri aracıyla çevrenin çapa oranının hep aynı sayıya (π) yaklaştığını keşfeder ve son derste grup yarışmasıyla değerlendirme yapılır.",
+  "ozu": "<p>Senaryo çembere <b>sanat kapısından</b> giriyor: “Müzik, görsel sanatlar ve mimaride matematiğin rolü nedir? Sanatçılar matematikten nasıl ilham alır?” Escher'in eserlerindeki simetri, döndürme ve öteleme konuşulduktan sonra öğrenci kendi çemberlerini çiziyor ve ölçüyor. Asıl keşif <b>pi sayısı</b>: iple ölçülen çevre çapa bölündüğünde her çember için yaklaşık aynı oran çıkıyor; dinamik geometri aracındaki sürgüyle çember büyütülüp küçültülerek oranın değişmediği gösteriliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler Bilim ve Teknik dergisindeki “Mathart: Matematiksel Sanat” yazısını okur; öğretmen Escher'in çemberli eserlerinden bir sunum hazırlar."
+   ],
+   [
+    "1. ders",
+    "Yazıyı okuyan öğrenciler kısa bir özet yapar. “Farklı sanat dallarında matematiğin rolü nedir? Matematiksel kavramlar sanatın hangi yönlerini etkiler? Sanatçılar matematiği nasıl kullanır?” soruları tartışılır, herkese söz verilir. Escher'in eserleri sunulur, görsellerdeki simetri, döndürme ve öteleme üzerine konuşulur ve çemberin günlük hayattaki yansımalarına değinilir."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Çember videosu izlenir ve çemberin dönerken oluşturduğu şekillerle Escher'in eserleri ilişkilendirilir. Çember, çap ve yarıçap kavramları tekrar edilir; öğretmen tahtadaki dijital pergelle farklı yarıçaplarda çemberler çizer. Öğrenciler pergelle defterlerine 1-10 cm yarıçaplı çemberler çizer; çizimler öğretmen gözlem formuyla değerlendirilir."
+   ],
+   [
+    "3. ders",
+    "Öğrenciler çizdikleri çemberlerin çevresini iple ölçer ve yarıçap, çap ve çevreyi defterlerindeki tabloya yazar; çap büyüdükçe çevrenin arttığı vurgulanır. Dinamik geometri aracındaki hesaplama tablosuna birkaç öğrenci en az iki çemberinin değerlerini girer; son sütun bir sonraki derse bırakılır."
+   ],
+   [
+    "4. ders",
+    "Tablonun son sütunu (çevre ÷ çap) birlikte doldurulur; bu oranın özel bir sayı, π olduğu açıklanır. Dinamik geometri aracındaki sürgüyle farklı çemberlerde aynı orana ulaşılıp ulaşılmadığı tartışılır. EBA'daki Çemberin Çevre Uzunluğunun Çapına Oranı ve Pi Sayısı videolarıyla konu pekiştirilir; ödev olarak çember tekrar videosu gönderilir."
+   ],
+   [
+    "5. ders",
+    "EBA'daki Çember alt konu testi öğretmen rehberliğinde çözülür ve eksikler giderilir. Sınıf iki-üç gruba ayrılır, kısa cevaplı, doğru-yanlış ve çoktan seçmeli sorulardan oluşan oyunlaştırılmış bir yarışma yapılır; en çok doğru yapan grup ödüllendirilir. Ödev: EBA'daki Çember konu testi ve alıştırmaları."
+   ]
+  ],
+  "gerek": "Pergel, ip, cetvel, defter, öğretmen gözlem formu, etkileşimli tahta, BT sınıfı, EBA; sunum, dijital pergel, dinamik matematik ve geometri, yarışma araçları."
+ },
+ {
+  "id": 234,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Gizemli Halkalar",
+  "ozet": "Durgun suya atılan taşın oluşturduğu halkalar ve sesin yayılmasıyla çembere ulaşılır; gruplar pergelle kartona çemberler çizip ölçüm tablosunu doldurur, dinamik geometri aracında da çember oluşturur, çevreyi iple ölçüp çapa böler ve sonuçların hep birbirine yakın çıkmasından pi sayısını keşfeder; son derste zihin haritası, soru çarkı ve EBA testi yapılır.",
+  "ozu": "<p>Senaryonun merak sorusu: <b>Ses ve su dalgaları yayılırken neden halka şeklini alır?</b> Bu sorudan çemberin tanımına (bir merkeze eşit uzaklıktaki noktalar) ve temel elemanlarına geçiliyor. Öğrenciler önce elle (pergel, karton), sonra dijital araçla çember çiziyor; çevre/çap oranlarını grafik aracına girince farklı çemberlerde birbirine çok yakın sonuçlar çıkıyor ve “Neden hep aynı?” sorusuyla beyin fırtınası yapılıp π tanıtılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Su Halkaları görseli açılır: “Durgun suya taş atılınca ne olur?” Sesin de benzer şekilde yayıldığı ve canlıların ve cihazların bu özellikten yararlandığı anlatılır, EBA'daki Sesin Yansıması videosu izlenir. 4-5 kişilik gruplar “Ses ve su dalgaları nasıl yayılır, hangi şekli oluşturur, neden?” sorularını tahtaya cevaplar. Cevaplardaki halka şeklinden yola çıkılarak “Kusursuz bir çember nasıl çizilir? Temel elemanları neler?” diye sorulur ve EBA'daki Çember videosu izlenir. Öğrencilerden karton, pergel, ip ve cetvel getirmeleri istenir."
+   ],
+   [
+    "2. ders",
+    "Pergel Yardımıyla Çember Çizme videosu izlenir; pergel açıklığının cetvelle yarıçapa göre ayarlanacağı vurgulanır. Gruplar kartona çemberler çizer ve çember ölçüm tablosunun son iki sütunu dışındaki kısmını doldurur; çalışmalar grup değerlendirme formuyla değerlendirilir. Öğretmen dinamik geometri aracında merkez ve yarıçapla çember oluşturmayı gösterir, her grup tahtada en az bir çember oluşturup ölçülerini tabloya işler."
+   ],
+   [
+    "3-4. ders",
+    "Gruplar çemberlerinin uzunluğunu ip ve cetvelle ölçer, çevreyi çapa bölerek (isteyen hesap makinesiyle) tablonun son iki sütununu doldurur. Sonuçlar tahtadaki grafik ve tablo aracına girilir; öğretmen değerlerin birbirine çok yakın olduğuna dikkat çekip nedenini sorar ve cevaplar beyin fırtınası aracında toplanır. EBA'daki Pi Sayısı videosu izlenir ve ek açıklamalar yapılır.",
+    "3-4"
+   ],
+   [
+    "5. ders",
+    "Öğrenciler zihin haritası aracıyla pi sayısının kendilerinde çağrıştırdıklarını yazar, haritalar tahtada gösterilir. Soru Çarkı'nda her öğrenci çarkı çevirip gelen “… nedir?” sorusunu kendi cümleleriyle açıklar. EBA'daki Çember alt konu testi sınıfa uygulanır."
+   ]
+  ],
+  "gerek": "Karton, pergel, ip, cetvel, isteğe bağlı hesap makinesi, çember ölçüm tablosu çıktıları, etkileşimli tahta, BT sınıfı, EBA; dinamik geometri, grafik, beyin fırtınası, zihin haritası ve çark araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 235,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Kutunun İçinde Ne Olabilir?",
+  "ozet": "“Çantamdan Fil Çıktı” hikâyesi ve biri büyük biri küçük iki kutuyla hacim kavramı tanıtılır; öğrenciler 3B modelleme aracında birimküplerden prizmalar tasarlayıp hacim bağıntısını kendileri oluşturur, gruplar günlük hayattan bir prizma hacmi problemi bulup çözümünü sunar.",
+  "ozu": "<p>Senaryonun sorusu: <b>Hangi kutunun içinde daha fazla yer var ve bundan nasıl emin olabiliriz?</b> Öğrenciler önce tahmin ediyor, sonra kutular aynı nesnelerle doldurularak hacim kavramına ulaşılıyor. Hacim bağıntısı (en × boy × yükseklik) ezberletilmiyor; öğrenciler 3B modelleme aracında birimküplerle prizmalar kurup kaç küp kullandıklarını sayarak bağıntıyı kendileri çıkarıyor. Son ürün grupların günlük hayattan bulduğu problem ve çözümünü anlatan kısa sunum.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğretmen boyutları farklı iki boş kutu getirir ve günlük hayattan prizma örnekleri ile birimküpler içeren Dikdörtgenler Prizmasının Hacmi sunumunu hazırlar."
+   ],
+   [
+    "1. ders",
+    "Öğretmen iki kutuyla girer ve “Çantamdan Fil Çıktı” hikâyesinin özetini okur; çantadan fil çıkma olasılığı tartışılır. Öğrenciler kutulardan ne çıkabileceğini dijital panoya yazar ve arkadaşlarının tahminlerine yorum yapar. “Hangi kutuda daha fazla yer var, nasıl emin olursunuz?” sorusundan sonra hacim tanımlanır; gerekirse kutular aynı nesnelerle doldurulur. Sunumda hacmin birimküplerle bulunabileceği gösterilir, Birimküp 3B etkinliğinde prizmalarda kaç küp kullanıldığı incelenir. Öğrenciler 3B araçla birimküplerden kendi prizmalarını tasarlayıp hacmini hesaplar ve hacim bağıntısı birlikte oluşturulur."
+   ],
+   [
+    "2. ders",
+    "Gruplar 3B modelleme aracında farklı boyutlarda prizmalar yapıp birimküplerle doldurarak hacim tahmini yapar. EBA alıştırmalarındaki Prizma Olmayan Yapıların Hacmini Hesaplama ve Dikdörtgenler Prizmasının Hacmi bölümleri birlikte çözülür. Her gruptan günlük hayattan bir prizma hacmi problemi bulması ve çözümünü kısa bir sunumla hazırlaması istenir; değerlendirme ölçütleri açıklanır. Ödev: Dikdörtgenler Prizmasının Hacmi alt konu testi."
+   ],
+   [
+    "3. ders",
+    "“Ayrıtı 1 birim olan küpe ne denir? 2 birimlik küpün hacmi kaç birimküptür? Hacmi 24 birimküp olan prizmanın ayrıtları neler olabilir?” gibi sorularla kısa bir tekrar yapılır. Gruplar sunumlarını tahtada yapar, birbirine soru sorar; öğretmen anında dönüt verir ve sunum değerlendirme formunu doldurur. Ders sonrasında öğrenciler grup değerlendirme formunu EBA'dan doldurur."
+   ]
+  ],
+  "gerek": "Biri büyük biri küçük iki boş kutu, doldurmak için nesneler, sunum değerlendirme formu çıktıları, BT sınıfı, etkileşimli tahta, EBA; dijital pano, sunum ve 3B modelleme araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 236,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Millî Uçağımız KAAN",
+  "ozet": "Birimküplerle doldurulan bir kutuyla prizmanın hacmi keşfedilir; gruplar aynı sayıda birimküple farklı prizmalar kurup ayrıt çarpımlarının hep eşit olduğunu fark eder, millî muharip uçak KAAN'ın boyutlarıyla hacim hesaplanır, dijital araçlarda prizmalar oluşturulur, kâğıttan küpler yapılıp son derste hacim yarışmasında kullanılır.",
+  "ozu": "<p>Senaryonun matematiksel hedefi, <b>aynı hacme sahip farklı dikdörtgenler prizmaları</b> oluşturabilmek: öğrenciler eşit sayıda birimküple ayrıtları farklı prizmalar kurup “Bu prizmaların ortak özelliği ne?” sorusuna “ayrıt uzunluklarının çarpımı eşit” cevabını kendileri buluyor. Millî uçak KAAN'ın kanat açıklığı, uzunluk ve yükseklik değerleriyle hacim hesabı yapılarak konu güncel ve gurur verici bir bağlama oturtuluyor. Öğrencilerin kendi kesip yapıştırdığı kâğıt küpler son derste yarışma malzemesine dönüşüyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Öğretmen dikdörtgenler prizması şeklinde bir kutu ve birimküplerle girer: “Bu kutuya kaç birimküp sığar, kolay bir hesaplama yolu var mı?” Cevaplar ve açıklamalar dijital panoya yazılır, pano EBA'da paylaşılarak tartışma ders sonrasında da sürer. EBA'daki Dikdörtgenler Prizmasının Hacmi videosu içindeki sorular sorularak izlenir; öğretmen küpleri kutuya yerleştirip sonucu gösterir ve en yakın tahmini yapan öğrenci yöntemini açıklar. 3-6 kişilik gruplar aynı sayıda birimküpü kullanarak 5 dakikada birbirinden farklı prizmalar kurar ve ayrıtlarını not eder; sonuçlar tahtada kontrol edilir ve “Ortak özellikleri ne?” sorusuyla ayrıt çarpımlarının eşitliği bulunur."
+   ],
+   [
+    "2. ders",
+    "Öğrenciler önceden EBA'daki KAAN-TUSAŞ içeriğini okuyup yorum yazmıştır; yorumlar incelenir ve kanat açıklığı, uzunluk ve yükseklik değerleriyle uçağın kapladığı prizmanın hacmi hesaplanır. Üçer kişilik gruplar sırayla dinamik geometri ve 3B modelleme araçlarında dikdörtgenler prizması oluşturur, ayrıt uzunluklarını ve hacmi tabloya yazar; kontrol listesiyle ilerler. Ardından gruplar Küp Açınımı kâğıdını kesip yapıştırarak birimküpler yapar."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Prizmaların Hacmi ile İlgili Problem Çözme etkileşimli içeriği söz alınarak cevaplanır. 4-8 kişilik gruplar, önceki derste yaptıkları birimküplerle kuralları açıklanan hacim yarışmasına katılır; her etkinlikte dereceye girenlerin puanı tabloya yazılır ve en yüksek puanlı grup tebrik edilir. Ders sonrasında EBA'daki Dikdörtgenler Prizmasının Hacmi alıştırması ve alt konu testi gönderilir."
+   ]
+  ],
+  "gerek": "Dikdörtgenler prizması şeklinde kutu, birimküpler, Küp Açınımı çıktıları, makas, yapıştırıcı, kontrol listesi ve puan tablosu, etkileşimli tahta, BT sınıfı, EBA; dijital pano, dinamik geometri ve 3B modelleme araçları."
+ },
+ {
+  "id": 237,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Takımyıldızlarının Geometrik İlişkileri",
+  "ozet": "Pusuladaki ana ve ara yönler arasındaki açılarla başlayan senaryoda komşu, tümler, bütünler ve ters açılar EBA videosu ve dinamik geometri etkinlikleriyle keşfedilir, defterde pergel-açıölçerle çizilir; son derste takımyıldızları tanıtılıp Büyükayı takımyıldızı noktalı kâğıda çizilir ve içindeki açı çeşitleri bulunur.",
+  "ozu": "<p>Senaryo açıları <b>yön bulma ve gökyüzü</b> üzerinden işliyor: “Kuzey ile doğu arasında kaç derece var? Kuzey ile kuzeydoğu arasında? Kuzeybatı ile güneybatı arasındaki açının adı ne?” Öğrenciler pergelle kendi pusulalarını çizip analog saatle benzerliğini görüyor. Komşu, tümler, bütünler ve ters açılar dinamik geometri aracında hareketli olarak oluşturuluyor, sonra elle çiziliyor. Takımyıldızlarındaki yıldızlar arasında oluşan açılar konuyu gerçek bir bağlama taşıyor; performans görevi olarak öğrenci kendi takımyıldızını tasarlıyor.</p>",
+  "dersler": [
+   [
+    "1-2. ders",
+    "Dinamik geometri aracındaki Pusula görseliyle pusulanın ne işe yaradığı konuşulur, ana ve ara yönler gösterilip aralarındaki açılar sorulur. Öğrenciler pergel ve cetvelle defterlerine tüm yönleri gösteren bir pusula çizer; analog saatle benzerliği ve yönler arasındaki açıların ölçüsü konuşulur. EBA'daki Bir Açının Komşusu, Tümleri, Bütünleri ve Tersi videosu izlenir; Tümler Açılar, Bütünler Açılar ve Ters Açılar dinamik geometri etkinlikleri sırayla yapılır. Öğretmenin tahtada oluşturduğu örnekler pergel, açıölçer ve cetvelle deftere çizilir, EBA'dan seçilen çalışma soruları gönüllülerce çözülür. Ders sonrasında EBA'daki Komşu, Tümler, Bütünler ve Ters Açılar alıştırmaları gönderilir.",
+    "1-2"
+   ],
+   [
+    "3. ders",
+    "2-3 kişilik gruplar Açılar Test Soruları yarışmasıyla önceki dersi tekrar eder, kazananlara neşeli etiketler verilir. “Takımyıldızlar hakkında ne biliyorsunuz?” sorusundan sonra EBA'daki Takımyıldızlar videosu izlenir ve çevrim içi harita uygulamasıyla yıldızların birbirine göre konumları ve aralarındaki açılar gösterilir. Öğrenciler Büyükayı Takımyıldızı Yerleşim Planı'nı noktalı kâğıda çizer, içindeki tüm açı çeşitlerini bulup altına açıklar. Ders sonrasında kendi takımyıldızını tasarlama performans görevi verilir."
+   ]
+  ],
+  "gerek": "Pergel, açıölçer, cetvel, noktalı kâğıt çıktıları, defter, neşeli etiketler, etkileşimli tahta, BT sınıfı, EBA; dinamik matematik ve geometri, yarışma ve çevrim içi gökyüzü/harita araçları."
+ },
+ {
+  "id": 238,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Topraksız Tarım",
+  "ozet": "Alan ölçme birimleri ilginç istatistikler, EBA anlatımı ve kutudan soru çekme oyunuyla; arazi ölçme birimleri (ar, dekar, hektar) ve dönüşümleri EBA etkinlikleriyle öğretilir; gruplar topraksız tarım problemi üzerinde birim dönüşümleri yapıp metrekaredeki boru ve marul sayılarını sıklık tablosu ve sütun grafiğinde gösterip sunar.",
+  "ozu": "<p>Senaryo alan ve arazi ölçülerini <b>topraksız (hidroponik) tarım</b> gibi güncel bir tarım yöntemine bağlıyor. “1 dekar arazi sizce ne kadardır? Çevrenizden örnek verin. Büyük arazilerin alanını nasıl ölçeriz?” sorularıyla birimler somutlaştırılıyor. Ana etkinlikte gruplar bir problem durumunda birimleri birbirine çevirip kaç boru ve kaç marul üretileceğini hesaplıyor ve sonuçlarını sıklık tablosu ve sütun grafiğiyle sunuyor; böylece ölçme ile veri işleme birlikte çalışılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Alan ölçme birimleriyle ilgili ilginç istatistikler tahtada açılır ve birimlerin ne ifade ettiği sorulur. EBA'daki Alan Ölçme Birimleri konu anlatımı aşama aşama izlenir. Topraksız Tarım-Alan Ölçü Birimleri Dönüşümleri oyununda öğrenciler bir kutu seçip çıkan soruyu tahtada cevaplar."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Arazi Ölçme Birimleri konu anlatımıyla alan ölçülerinin arazi ölçülerine nasıl dönüştüğü gösterilir. EBA'daki Alan ve Arazi Ölçme Birimleri etkinliğinde aynı büyüklükteki alanlar bulunur; doğru cevaplayanlar eğlenceli etiketlerle ödüllendirilir. Ödev: Alan ve Arazi Ölçme Birimleri alt konu testi."
+   ],
+   [
+    "3. ders",
+    "2-3 kişilik gruplar birkaç alıştırmayla birimleri tekrar eder ve EBA'daki Alan Ölçme Birimleri Arasındaki Dönüşümler çalışması yapılır. Öğrencilere topraksız tarımı bilip bilmedikleri sorulur, EBA'daki Tarımın Gelişmesi videosu izlenir ve topraksız tarım görseli gösterilir. “1 dekar ne kadar büyüklüktedir? Büyük araziler nasıl ölçülür?” soruları konuşulur ve gruplara problem durumu sunulur."
+   ],
+   [
+    "4-5. ders",
+    "Gruplar problemle ilgili çözüm önerilerini yazar ve hesaplamaları birlikte yapar; gerekli birim dönüşümleriyle metrekaredeki boru sayısını ve bu borularda üretilen marul sayısını bulup infografik aracında sıklık tablosuna, ardından sütun grafiğine aktarır. Grup sözcüleri çalışmalarını sunum aracıyla tahtada sunar, sonuçlar sınıfça tartışılır ve grup değerlendirme formuyla değerlendirilir. İsteyen gruplar topraksız tarım yapılacak alanın 3B modelini oluşturup hangi uygulamanın daha verimli olduğunu görselleştirir.",
+    "4-5"
+   ]
+  ],
+  "gerek": "Eğlenceli etiketler, etkileşimli tahta, BT sınıfı, EBA; oyun, infografik, grafik, sunum ve 3B modelleme araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 239,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Ülkemize Nefes Olalım",
+  "ozet": "Orman yangınlarıyla ilgili UNESCO açıklamasıyla başlayan senaryoda çokgensel bölgelerin alanları EBA videoları ve etkileşimli içeriklerle öğretilir; gruplar okul bahçesinde ağaç dikmeye uygun bir yer seçip alanını hesaplar, bir fidanın ne kadar alana dikilmesi gerektiğini araştırıp sunar ve kazanan grubun planına göre fidan dikilir.",
+  "ozu": "<p>Senaryo alan hesabını <b>gerçek bir eyleme</b> dönüştürüyor: “Orman yangınlarından sonra ormanlarımızı geri kazanmak için ne yapabiliriz?” sorusundan okul bahçesine ağaç dikme fikri çıkıyor. Gruplar bahçede bir yer belirleyip alanını ölçüyor, fidan başına gereken alanı araştırıp kaç fidan dikilebileceğini hesaplıyor. En yüksek puanı alan grubun hesapladığı sayıda fidan okul idaresinden isteniyor ve öğrenciler yıl boyunca bakımını üstleniyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "UNESCO Türkiye Millî Komisyonunun orman yangınlarıyla ilgili basın açıklaması okunur; “Ormanlarımızı geri kazanmak için neler yapabiliriz?” sorusunun cevapları dijital panoya yazılır ve okul bahçesine ağaç dikme fikri öne çıkar. EBA'daki Çokgensel Bölgelerin Alanları videosu içindeki etkinlikler gönüllülerle yapılarak izlenir, Çokgensel Bölgelerin Alanını Hesaplama ve Düzlemsel Bölgelerin Alanları ile İlgili Problem Çözme içerikleri cevaplanır. 5-8 kişilik gruplar sonraki derse kadar bahçede en uygun yeri seçer, alanını hesaplar, bir fidanın kaç m² alana dikilmesi gerektiğini araştırır ve bunları bir sunuma dönüştürür."
+   ],
+   [
+    "2. ders",
+    "Grup temsilcileri sunumlarını yapar; öğretmen grup değerlendirme formunu doldurup sonuçları paylaşır. En yüksek puanı alan grubun belirlediği sayıda fidan okul idaresinden istenir ve tüm gruplardan öğrenciler yıl boyunca bakım için görevlendirilir. MEB Kazanım Kavrama Testi sorularıyla hazırlanan anlık dönütlü yarışma uygulanır."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Alan Problemleri testi tahtada sırayla çözülür, cevaplayamayanlara gönüllüler yardım eder. Ardından öğretmenin EBA Sınavlarım'dan hazırladığı 20 soruluk Alan Ölçme sınavı soruları sırayla sorulur; bitmezse EBA'dan ödev olarak gönderilir."
+   ]
+  ],
+  "gerek": "Okul bahçesi, ölçüm için metre, fidanlar (okul idaresinden), grup değerlendirme formu çıktıları, BT sınıfı, etkileşimli tahta, EBA; dijital pano, sunum ve yarışma araçları."
+ },
+ {
+  "id": 240,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Zaviyeden Açıya",
+  "ozet": "Osmanlı Türkçesiyle yazılmış üçgenin alan formülünü içeren yapbozla başlayan senaryoda Atatürk'ün matematik terimlerini Türkçeleştirmesi ve “zaviye”nin “açı” olduğu öğrenilir; açı kavramı EBA videolarıyla, eş açı çizimi pergel ve açıölçerle, dar-dik-geniş açılar dinamik geometri aracıyla çalışılır ve yarışmayla değerlendirme yapılır.",
+  "ozu": "<p>Senaryo bir <b>dil tarihi merakıyla</b> açılıyor: “Bir müsellesin mesaha-i sathiyesi, kaidesiyle irtifaının hasılı darbının nısfına müsavidir.” cümlesi yapboz olarak birleştirilince öğrenciler bunun üçgenin alan formülü olduğunu öğreniyor. Atatürk'ün “Geometri” kitabıyla matematik terimlerini Türkçeleştirmesinin konuları anlamayı nasıl kolaylaştırdığı vurgulanıyor. Ardından açı, eş açı ve açı çeşitleri hem elle (pergel, açıölçer) hem dijital olarak çiziliyor; gruplar birbirinin çizimlerini akran formuyla kontrol ediyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Osmanlı Türkçesiyle yazılmış üçgen alan formülünün 20-40 parçalık yapbozu tahtada açılır; öğrenciler sırayla 1-3 dakika parça yerleştirip devreder. “Bu cümle hangi matematik konusundan bahsediyor?” cevapları dijital panoya yazılır ve üçgenin alan formülü olduğu açıklanır. Atatürk'ün matematik terimlerini Türkçeleştirmesi anlatılır, ilgili tezden bir sayfa okunur ve EBA'daki Atatürk ve Matematik videosu izlenir; “zaviye”nin “açı” olduğu buldurulur. EBA'daki Açı videosu durdurularak sorularla izlenir. Ödev: EBA'daki Eş Açılar videosu; sonraki ders için cetvel, pergel ve açıölçer getirilir."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Pergel Kullanarak ve Açıölçer Kullanarak Verilen Bir Açıya Eş Bir Açı Çizme videoları izlenir. Sınıf ikiye ayrılır: bir grup pergelle, diğeri açıölçerle tahtadaki açıya eş açı çizer; öğretmen çizimleri kontrol eder. Sonra gruplar malzemeleri değiştirir ve yeni bir açı için tekrar çizer."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Eş Açılar etkinliği yapılır. Öğretmenin EBA Sınavlarım'dan hazırladığı 20 soru tahtada açılır; sınıf yönetim aracıyla rastgele seçilen öğrenciler cevaplar. Bitmeyen sorular EBA'dan ödev olarak gönderilir."
+   ],
+   [
+    "4. ders",
+    "2-5 kişilik gruplar birer bilgisayarla dinamik geometri aracında dar, dik ve geniş açı oluşturur; yanındaki grubun çalışmasını inceleyip hataları akran değerlendirme formuyla bildirir. Ardından her öğrenci çizdiği açılara eş bir açı oluşturur ve grup içinde birbirine yardım eder."
+   ],
+   [
+    "5. ders",
+    "EBA'daki Açı Kavramı ve Eş Açılar alıştırması ve alt konu testi yapılır. 3-6 kişilik gruplar birer bilgisayarla 10 soruluk anlık dönütlü yarışmaya katılır; eksik ve yanlış öğrenmeler dönütlerle giderilir."
+   ]
+  ],
+  "gerek": "Cetvel, pergel, açıölçer, defter, etkileşimli tahta, BT sınıfı, EBA; yapboz, dijital pano, dinamik geometri, sınıf yönetimi ve yarışma araçları, akran değerlendirme formu."
+ },
+ {
+  "id": 241,
+  "unite": "Geometrik Nicelikler",
+  "ad": "Benim Odam, Benim Dünyam",
+  "ozet": "Mimar Sinan okuma etkinliğinin ardından öğrenciler “iç mimar” olup 3B modelleme aracında hayallerindeki odayı gerçekçi ölçülerle tasarlar; tasarımlardaki nesnelerin kenar uzunlukları ve alanları farklı birimlerle hesaplanıp tabloya yazılır, park tasarımı ve “Yenilikçi Sınıf'ta Birim Karmaşası” etkinlikleriyle uzunluk ve alan birim dönüşümleri pekiştirilir.",
+  "ozu": "<p>Senaryo ölçü birimlerini <b>tasarım</b> üzerinden işliyor: öğrenci odasını tasarlarken nesnelerin en-boy-yükseklik oranının gerçeğe uygun olmasına, birbirine göre büyüklüklerine ve çalışma alanına sığmasına dikkat etmek zorunda. Uygulamada uzunluklar milimetre cinsinden olduğu için öğrenciler kenar uzunluklarını ve alanları istenen birime çevirerek hesaplıyor. Tasarımlar sınıf panosunda ve okul sitesinde sanal sergi olarak paylaşılıyor.</p>",
+  "dersler": [
+   [
+    "1-2. ders",
+    "EBA'daki Okuduğunu Anlama-Mimar Sinan içeriği tahtada açılır, öğrenciler 5 dakikada boşlukları doldurur ve gönüllüler tahtada tamamlar. “Sizler de birer mimar olmaya ne dersiniz?” denerek 2-4 kişilik gruplar iç mimar olur. “Odanızda hangi nesneler olsun?” sorusunun ortak cevapları belirlenir ve gruplar Hayalimdeki Odam bağlantısıyla 3B modelleme aracında odalarını tasarlar. Tasarım kuralları tahtada gösterilir: nesnelerin en, boy ve yükseklik oranı gerçeğe uygun olmalı, büyüklükleri birbirine uyumlu olmalı, nesneler çalışma alanına sığmalı ve uygun konumlandırılmalıdır.",
+    "1-2"
+   ],
+   [
+    "3. ders",
+    "Her grubun tasarımı tahtada incelenir; ölçüleri alana uymayan tasarımlara dönüt verilir, eksiksiz olanların renkli çıktısı panoda sergilenir. Uygulamadaki uzunlukların milimetre olduğu söylenir; gruplar tahtadaki bir tasarımdaki her nesnenin kenar uzunluklarını ve alanını kâğıttaki birime çevirip yazar, kâğıdı sağdaki grupla değiştirerek kontrol eder. Gönüllüler hesaplamaları tahtada yapar ve hatalar düzeltilir. Ders sonrasında tasarımlar EBA'da paylaşılır, bir öğrenci sanal sergi hazırlar ve bağlantı okulun web sayfasında yayımlanır."
+   ],
+   [
+    "4. ders",
+    "Öğrenciler önceden EBA'daki Alan Ölçme Birimleri video ve etkileşimli içeriğini izlemiştir; sorular cevaplanır. Park Tasarımı oyunlaştırılmış etkinliğindeki alıştırmalar yapılır ve gönüllüler tahtada açıklayarak çözer. Yenilikçi Sınıf'ta Birim Karmaşası etkinlik kâğıdı yapılır, sorular tahtada çözülür ve cevap anahtarı paylaşılır."
+   ],
+   [
+    "5. ders",
+    "Uzunluk ve Alan Ölçü Birimlerini Bul eşleştirmesi yapılır, gönüllüler çözümlerini açıklar. EBA sorularıyla hazırlanmış Uzunluk ve Alan Ölçme Birimleri testi, öğrencilerin kâğıt kodlarla cevap verdiği bir araçla uygulanır; her sorudan sonra doğru cevaplayan bir öğrenci çözümü tahtada açıklar ve en çok doğru yapanlar tebrik edilir."
+   ]
+  ],
+  "gerek": "Ölçüm tablosu ve etkinlik kâğıdı çıktıları, cevap kodu kâğıtları, BT sınıfı (gruplara bilgisayar), etkileşimli tahta, EBA; 3B modelleme, oyunlaştırma, eşleştirme ve kodla cevaplanan test araçları."
+ },
+ {
+  "id": 242,
+  "unite": "Geometrik Nicelikler",
+  "ad": "Tasarımın Matematiği",
+  "ozet": "Deniz çayırları videosu ve görseli üzerinden dikdörtgenin alanı tekrar edilir; paralelkenarda ve üçgende yükseklik gönye ve dinamik geometri aracıyla çizilip alan bağıntılarına ulaşılır (üçgen = paralelkenarın yarısı); son derslerde gruplar ünlü bir marka için 3B modelleme aracında ölçüleri tablolanmış bir gözlük tasarlar ve rubrikle değerlendirilir.",
+  "ozu": "<p>Senaryo alan formüllerini <b>bir görselden üç kez</b> türetiyor: deniz çayırları arasındaki boşluğun alanı önce dikdörtgen, sonra paralelkenar, sonra üçgen modeliyle hesaplanıyor. Öğrenciler dinamik geometri aracında yüksekliği sürükleyerek taban sabitken alanın yükseklikle değiştiğini görüyor ve “taban × yükseklik” kuralına kendileri ulaşıyor. Konu, bilim insanlarının ekosistemi korumak için bu alanları hesaplamasıyla ve son derste şıklık, yüze uygunluk, malzeme israfı ve maliyet gibi ölçütleri olan bir <b>gözlük tasarımı</b> göreviyle günlük hayata bağlanıyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Dikdörtgenin Alanı etkileşimli içeriğiyle tekrar yapar."
+   ],
+   [
+    "1. ders",
+    "EBA'daki Deniz Çayırları videosu izlenir: “Çayırlar arasında boşluk olursa canlıların yaşam alanı nasıl etkilenir? Çayır miktarı oksijen üretimini nasıl etkiler?” Bilim insanlarının boşlukların alanını hesaplayarak çözüm geliştirdiği anlatılır. Deniz Çayırı Görseli'ndeki dikdörtgensel alanın nasıl hesaplanacağı soru-cevapla bulunur; yükseklik kavramı ve dikdörtgenin alanı (kenar × o kenara ait yükseklik) tahtaya yazılır. Dikdörtgende Alan Çalışma Soruları gönüllülerce çözülür."
+   ],
+   [
+    "2. ders",
+    "“Bu alanı paralelkenar modeliyle hesaplasaydık ne yapardık?” tartışılır. EBA'daki Paralelkenarın Yüksekliği videosu “Yükseklik hangi kenara aittir, değişince alan nasıl etkilenir?” sorularına odaklanarak izlenir. Öğretmen gönyeyle farklı yönlerdeki paralelkenarlarda yükseklik çizer; ikililer defterlerine çizip dinamik geometri aracına aktarır ve yüksekliği değiştirerek alanı gözler. Paralelkenarın Alanı içeriğinde dikdörtgen ve paralelkenarın alanları karşılaştırılır ve alan = kenar × o kenara ait yükseklik kuralına ulaşılır. Ödev: EBA'daki Paralelkenarın Alanı alt konu testi."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Üçgenlerde Yükseklik videosu “Üçgenin kaç yüksekliği var, yükseklik hep içte mi çizilir?” sorularıyla izlenir. Deniz çayırı alanının üçgen yardımıyla nasıl hesaplanacağı tartışılır; gönüllüler dik, dar ve geniş açılı üçgenlerde yüksekliği gönye, cetvel ve açıölçerle çizer. Dinamik geometri aracındaki Üçgenin Alanı içeriğinde üçgenin alanının paralelkenarın yarısı olduğu keşfedilir ve alıştırmalar çözülür. Ders sonrasında Değerlendirme Soruları testi yapılıp sonuç ekranı öğretmene gönderilir."
+   ],
+   [
+    "4-5. ders",
+    "Öğretmen: “Siz bir tasarım ekibisiniz ve ünlü bir gözlük markası için yeni model geliştireceksiniz; gözlük şık, yüze uygun, israfsız ve makul maliyetli olmalı.” Etkinlik Soruları beyin fırtınası aracında cevaplanır; göz-burun mesafesi, çerçeve genişliği, cam büyüklüğü, sap uzunluğu gibi ölçütler vurgulanır. 3-4 kişilik gruplar yönerge ve rubriğe göre 3B modelleme aracında gözlüklerini tasarlar, parçaların ölçülerini tabloya kaydeder ve sunar; diğer gruplar gerçeğe uygunluğu tartışır. Ders sonrasında öğretmen tasarımları rubrikle puanlayıp sonuçları panoya asar.",
+    "4-5"
+   ]
+  ],
+  "gerek": "Gönye, cetvel, açıölçer, defter, tasarım yönergesi-ölçüm tablosu ve rubrik çıktıları, BT sınıfı, etkileşimli tahta, EBA; dinamik matematik ve geometri, test, beyin fırtınası ve 3B modelleme araçları."
+ },
+ {
+  "id": 243,
+  "unite": "Geometrik Nicelikler",
+  "ad": "Uçurtma Şenliği",
+  "ozet": "Gruplar çıta, ip, kâğıt ve kumaşla kendi uçurtmalarını yapıp bahçede uçurur; ardından uçurtmalardaki geometrik şekiller dinamik geometri aracında dörtgen ve üçgenlere ayrılarak alanları hesaplanır, farklı çözüm yolları tartışılır ve son derste alan problemleri çözülür.",
+  "ozu": "<p>Senaryo alan hesabını <b>öğrencinin kendi yaptığı nesne</b> üzerinden işliyor: “Uçurtma yaparken hangi çokgenleri kullanabiliriz?” sorusuyla başlanıyor, gruplar kontrol listesiyle uçurtmalarını üretiyor. Sonra bu uçurtmaların görselleri dijital ortamda incelenip, köşe noktaları aynı kalacak şekilde dörtgen ve üçgenlere bölünüyor ve alanlar bulunuyor. “Soruyu farklı bir yoldan çözebilir miydik? Arkadaşınızın çözüm yolu doğru mu?” soruları eleştirel düşünmeyi besliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki “Uçurtma Seven Arda” dokümanını okur ve uçurtma yapımını araştırıp sınıf yönetim aracında paylaşır; çıta, yapıştırıcı, cetvel, açıölçer, ip, makas, kurdele/kumaş, çöp poşeti/gazete ve renkli kâğıt getirir. 3-6 kişilik gruplar kurulur, sınıf küme düzenine getirilir."
+   ],
+   [
+    "1. ders",
+    "Doküman kısaca konuşulur ve “Uçurtma yaparken hangi çokgenleri kullanabiliriz?” diye sorulur. Gruplara Uçurtma Yapma Aşamaları Kontrol Listesi ve Uçurtma Şenliği Dereceli Puanlama Anahtarı verilir; gruplar isim belirler, uçurtmanın şekline ortak karar verir ve listeyi izleyerek uçurtmalarını yapar. Makas kullanımında önlem alınır; öğretmen süreç boyunca rubriğin ilk iki ölçütünü doldurur. Biten uçurtmalar okul bahçesinde uçurulabilir."
+   ],
+   [
+    "2. ders",
+    "Öğretmen uçurtma görselleriyle hazırladığı Geometrik Şekiller ortak çalışma etkinliğini paylaşır. 2-5 kişilik gruplar Tanıtım etkinliğindeki gibi her şekli dinamik geometri aracında, köşe noktaları aynı kalacak biçimde dörtgen ve üçgenlere ayırır ve ekran görüntülerini ilgili şeklin altına yorum olarak ekler. Gönüllüler sonuçlarını tahtada gösterir, cevaplar cevap anahtarıyla karşılaştırılır. Ardından dörtgen ve üçgen alan bilgileri hatırlatılır ve uçurtmaların alanları hesaplanır; her çözümde “Farklı bir yoldan çözebilir miydik?” sorulur. Rubriğin kalan ölçütleri doldurulur ve en yüksek puanlı grup tebrik edilir."
+   ],
+   [
+    "3. ders",
+    "Öğrenciler önceden EBA'daki Alan Problemleri içeriğini çözmüştür; sorular cevaplanır. Alıştırma Soruları tahtada sırayla açılır, öğrenciler cevaplarını sözlü söyler, doğru cevap açıklanır ve gönüllüler tahtada çözer."
+   ]
+  ],
+  "gerek": "Çıta, yapıştırıcı, cetvel, açıölçer, ip, makas, kurdele/kumaş, çöp poşeti ya da gazete, renkli kâğıt, kontrol listesi ve rubrik çıktıları, BT sınıfı, etkileşimli tahta, EBA; ortak çalışma, dinamik geometri ve test araçları."
+ },
+ {
+  "id": 244,
+  "unite": "Geometrik Şekiller",
+  "ad": "Dörtgenlerin Sırrı Köşegenlerde Saklı",
+  "ozet": "Öğrenciler dörtgenleri kenar ve açı özelliklerinin yanında köşegenleriyle de tanımlamayı keşfeder: dinamik geometri aracında birbirini ortalayan eşit ve farklı uzunlukta köşegenlerle dörtgenler oluşturup tabloya kaydeder, gizemli kelime ve “her zaman-bazen-hiçbir zaman” etkinlikleriyle genellemeleri tartışır, “Bir Dörtgen Tut” ve “Konuşan Eller” oyunlarını oynar ve son derste dörtgenleri sınıflandıran bir akış şeması hazırlar.",
+  "ozu": "<p>Senaryonun keşfi: <b>köşegenlerin özellikleri bir dörtgeni tanımlamaya yeter</b>. Birbirini ortalayan ve eşit uzunluktaki köşegenler dikdörtgen ya da kare, birbirini dik ortalayanlar eşkenar dörtgen ya da kare oluşturuyor. “Köşegenleri birbirini dik ortalayan tüm dörtgenler karedir.” gibi ifadeler eşkenar dörtgen örneğiyle çürütülüyor. İşaret dili videosu üzerinden matematiğin evrensel bir sembolik dil olduğu vurgulanıyor; öğrenciler parmaklarıyla köşegenleri gösterip dörtgen tahmin ettiriyor. Süreç akış şemasıyla sistematik bir sınıflandırmaya dönüşüyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "Dörtgen Örnekleri içeriğinde “Bu dörtgenleri tanımlarken hangi özelliklerden söz edebiliriz?” sorusuyla paralellik, kenar ve açı eşitlikleri tahtaya yazılır, sonra dikkat köşegenlere çekilir. Öğrenciler dinamik geometri aracında dörtgenlerin köşegenlerini çizip birbirini ortalayıp ortalamadıklarını, eşit olup olmadıklarını ve dik kesişip kesişmediklerini gözler; dört kategori oluşturup hangi dörtgenlerin ortaya çıkabileceğini tartışır. Ders sonrasında anket aracında “Bugün köşegenlerle ilgili fark ettiğim şey…” cümlesi tamamlanır."
+   ],
+   [
+    "2. ders",
+    "Birkaç yansıtma cümlesi paylaşılır. Öğrenciler Eşit Uzunlukta Köşegenler ile Dörtgenler etkinliğinde açı ve uzunluk sürgülerini hareket ettirip iç açıları, kenar ve köşegen uzunluklarını inceler ve tabloya kaydeder; aynısını Farklı Uzunlukta Köşegenler etkinliğiyle yapar. İki tablo karşılaştırılarak kare, dikdörtgen, eşkenar dörtgen ve paralelkenara ilişkin çıkarımlar yapılır. Yansıtma cümleleri renkli kâğıtlara geçirilip panoya asılır; Gizemli Kelime doğru-yanlış etkinliği dijital panoda paylaşılır."
+   ],
+   [
+    "3. ders",
+    "Gizemli Kelime ifadeleri gerekçeleriyle tartışılır (ör. “Köşegenleri dik ortalayan tüm dörtgenler karedir” neden yanlış?) ve doğru cevaplardan çıkan kelime tahtaya yazılır. Birbirini Ortalayan Köşegenler etkinliğinde cetvel ve açıölçerle köşegenler ölçülür, 12 köşegen çiftiyle dörtgenler oluşturulup deftere sistemli biçimde kaydedilir ve gerekçeleriyle açıklanır. Ders sonrasında Her Zaman-Bazen-Hiçbir Zaman soruları gönderilir."
+   ],
+   [
+    "4. ders",
+    "Her Zaman-Bazen-Hiçbir Zaman cevapları gerekçeleriyle tartışılır. İkililer “Bir Dörtgen Tut” oyununda aklındaki dörtgeni “Köşegenler eşit mi? Dik mi kesişiyor?” gibi evet-hayır sorularıyla buldurur. EBA'daki Konuşan Eller videosu konuşulur, matematiğin de işaret dili gibi sembolik bir dil olduğu vurgulanır; “Konuşan Eller” oyununda bir öğrenci parmaklarıyla köşegenleri gösterir (iki işaret parmağı dik kesişirse kare gibi), diğeri dörtgeni tahmin eder. Ders sonrasında Dörtgenlerin Özellikleri şablonu ve EBA'daki Akış Şeması içeriği gönderilir."
+   ],
+   [
+    "5. ders",
+    "3-4 kişilik gruplar etkileşimli beyaz tahta aracında, birbirini ortalayan köşegenlerle oluşan dörtgenleri sınıflandıran bir akış şeması hazırlar; başlangıç kutusu, karar noktaları ve evet-hayır dalları hatırlatılır. Gruplar sunum yapar ve şemalarını Akış Şeması Kontrol Listesi ile değerlendirir; farklı şemalar karşılaştırılarak aynı problemin farklı yollarla çözülebildiği görülür."
+   ]
+  ],
+  "gerek": "Defter, renkli kâğıtlar, BT sınıfı, etkileşimli tahta, EBA; dinamik matematik ve geometri, tablo, anket, dijital pano, oyunlaştırma ve beyaz tahta (akış şeması) araçları, akış şeması kontrol listesi."
+ },
+ {
+  "id": 245,
+  "unite": "Geometrik Şekiller",
+  "ad": "Geometrik Yolculuk",
+  "ozet": "Zeugma Mozaik Müzesi sanal gezisinde mozaiklerdeki geometrik şekiller bulunup zihin haritasına yazılır; ardından üçgen, kare, dikdörtgen, paralelkenar, eşkenar dörtgen ve yamuğun açı, kenar ve köşegen özellikleri dinamik geometri içerikleriyle sırayla keşfedilir, gruplar “kuş bakışı geometrik şehir” tasarlar ve son derste çevrim içi kitapta çizim ve hesaplama yapılıp akran değerlendirmesi yapılır.",
+  "ozu": "<p>Senaryo geometrik şekillere <b>sanat ve tarih</b> üzerinden giriyor: öğrenciler Zeugma mozaiklerini sanal olarak gezip üçgen, kare, paralelkenar, yamuk gibi şekilleri not alıyor; bu gözlemler bütün senaryo boyunca izlenen bir zihin haritasına dönüşüyor. Her şeklin özellikleri dinamik geometri içeriklerinde “açılar”, “köşegenler” kutucukları tıklanıp köşeler sürüklenerek keşfediliyor; örneğin üçgenin açıları değişse de toplamının hep 180° kaldığı, yamukta paralel kenarlar arasındaki açıların bütünler olduğu görülüyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'dan paylaşılan Zeugma Mozaik Müzesi sanal gezisini yapıp mozaiklerdeki geometrik şekilleri not alır."
+   ],
+   [
+    "1. ders",
+    "Sanal müze tahtada açılır, öğrencilerin deneyimleri ve notları alınır; şekillerin üçgen, kare, dikdörtgen, paralelkenar, eşkenar dörtgen ve yamuğa benzediği vurgulanır ve gözlemler Zihin Haritası'na yazılır, öğretmenin Sanal Müze Gezisi haritasıyla karşılaştırılır. Üçgenin Açıları içeriğinde köşeler sürüklenince iç açıların toplamının hep 180° kaldığı fark edilir; Üçgen Çeşitleri içeriğinde sürgülerle kenarlarına ve açılarına göre üçgen çeşitleri hatırlatılır ve gönüllüler şekilleri değiştirir."
+   ],
+   [
+    "2. ders",
+    "Sınıflandır ve Hesapla içeriğindeki sorular çözülür. Kare içeriğinde “açılar” ve “köşegen” kutucuklarıyla karenin açı, kenar ve köşegen özellikleri, ardından Dikdörtgen içeriğinde dikdörtgeninkiler incelenir; öğrenciler kendi bilgisayarlarında değişiklik yapar. Çiziyorum içeriğinde istenen çizimler yapılır, gönüllüler açıklar; kare ile dikdörtgenin benzer ve farklı yönleri belirtilir."
+   ],
+   [
+    "3. ders",
+    "Paralel doğruların bir kesenle yaptığı açılar ve dörtgenlerin iç açıları toplamı hatırlatılır. 4-5 kişilik heterojen gruplar Paralelkenar içeriğinde eşit ve bütünler açıları, paralel ve eşit kenarları, köşegenler ortaya çıkınca oluşan açıları keşfeder; Eşkenar Dörtgen içeriğinde kutucukları sırayla tıklayarak değişimleri gözler. İki şeklin benzer ve farklı özellikleri vurgulanır ve Problem Kartları çözülür. Ders sonrasında gruplar Kuş Bakışı Geometrik Şehir tasarım etkinliğini yapar."
+   ],
+   [
+    "4. ders",
+    "Şehir tasarımları kontrol edilir, hatalı çizim ve açı ölçümlerine dönüt verilir ve sınıf oylamasıyla en etkili tasarım seçilir. Yamuk içeriğinde köşeler değiştirilerek açılar gözlenir ve paralel kenarlar arasındaki açı çiftlerinin bütünler olduğu keşfedilir, köşegenler incelenir. Özellikleri Belirle yapılandırılmış grid etkinliği tamamlanır."
+   ],
+   [
+    "5. ders",
+    "Uzun cevaplı sorular içeren çevrim içi kitap “Öğrendiklerim” tahtada açılır; öğrenciler soruları sırayla deftere çizip hesaplar ve gönüllüler tahtada paylaşır. Son on dakikada her öğrenci yanındakinin defterindeki çizimleri akran değerlendirme formuyla değerlendirir ve formlar değiştirilir. Öğretmen senaryo boyunca performansları gözlem formuyla değerlendirir."
+   ]
+  ],
+  "gerek": "Defter, cetvel, akran değerlendirme ve gözlem formları, BT sınıfı, etkileşimli tahta, EBA; sanal müze, zihin haritası, dinamik matematik ve geometri, anlık dönüt, görsel tasarım ve çevrim içi kitap araçları."
+ },
+ {
+  "id": 246,
+  "unite": "Geometrik Şekiller",
+  "ad": "Herbaryum: Bitki Koleksiyonu",
+  "ozet": "Paralel iki doğrunun iki kesenle oluşturduğu şekiller dinamik geometri aracında çizilir; bahçede çubuk makarnayla çokgen oluşturma ve özellik sayma oyunu oynanır, dörtgenlerin özellikleri EBA içerikleriyle incelenip çizilir, kodlama aracında üçgen ve dörtgenlerle görsel oluşturulur; gruplar topladıkları bitkilerle bir çokgen şekline göre düzenlenmiş herbaryum sayfaları hazırlar.",
+  "ozu": "<p>Senaryo dörtgenleri ve çokgenleri <b>dokunarak ve üreterek</b> öğretiyor. Çubuk makarnayla oynanan oyunda gruplar ebenin söylediği çokgeni kırmadan oluşturuyor ve tüm özelliklerini sayamayan grup eleniyor. En özgün ürün herbaryum: gruplar herbaryum tekniğini araştırıp bitki topluyor, her gruba bir çokgen veriliyor ve herbaryum sayfaları bu çokgen şekline göre düzenleniyor; kurutulan herbaryumlar sınıf panosunda sergileniyor. Böylece matematik ile fen ve sanat bir araya geliyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "2-4 kişilik gruplar dinamik geometri aracına giriş yapar. EBA'daki Paralel İki Doğrunun İki Kesen ile Oluşturduğu Şekiller içeriği tahtada adım adım açılır ve gruplar her etkinliği kendi bilgisayarlarında uygular; oluşturdukları şekillerin görsellerini EBA'da paylaşır, görseller tahtada incelenir ve hatalı çizimlere dönüt verilir."
+   ],
+   [
+    "2. ders",
+    "Okul bahçesinde Çokgenler içeriği kısaca konuşulur ve her öğrenciye bir çubuk makarna verilir. Ebe 5. sınıfta öğrenilen bir çokgeni söyler, dörtlü gruplar makarnaları kırmadan o çokgeni oluşturur; ebe bir grup seçip çokgenin tüm özelliklerini saydırır, sayamayan grup elenir. Yeni ebelerle oyun tek grup kalana kadar sürer."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Dörtgenlerin Özellikleri içeriğinde dörtgenlere tek tek tıklanır ve öğrenciler günlük hayattan örnekler verir. Dörtgenlerin Çizimi içeriği dinlenir, ardından 2-5 kişilik gruplar dörtgenleri özelliklerine uygun biçimde şekil ve çizim aracında çizer. Ders sonrasında kodlama aracındaki Doğa İnsanı içeriğinde öğrenciler üçgen ve dörtgenlerle orman, piknik alanı gibi bir görsel oluşturur; görseller EBA'da oylanır ve en beğenilen üçü panoya asılır."
+   ],
+   [
+    "4. ders",
+    "Öğrenciler önceden herbaryumu araştırıp sınıf yönetim aracında paylaşmış; altı grup herbaryum tekniğine göre bitki toplamış ve renkli A4 kâğıdı, makas, yapıştırıcı, bant, zımba, cetvel ve açıölçer getirmiştir. Bitki Toplama, Teşhis ve Herbaryum Teknikleri makalesinin özeti birlikte okunur ve değerlendirme formu gösterilir. Her gruba bir çokgen adı verilir ve gruplar herbaryum sayfalarını bu çokgene göre düzenler; ardından öz ve akran değerlendirme formu doldurulur. Herbaryumlar bir hafta kurutulup panoda sergilenir."
+   ],
+   [
+    "5. ders",
+    "Ders öncesi gönderilen EBA içeriğiyle ilgili sorular cevaplanır. Tanılayıcı Dallanmış Ağaç etkinliği tahtada yapılır, öğrenciler ulaştıkları çıkışı deftere yazar ve her yoldaki sorular birlikte incelenir. EBA'daki Dörtgenlerin Çizimi çalışma kâğıdı cetvelle çözülür ve cevaplar tahtada birlikte kontrol edilir. Ders sonrasında Yansıtıcı Günlük doldurulur."
+   ]
+  ],
+  "gerek": "Çubuk makarna, toplanmış bitkiler, renkli A4 kâğıdı, makas, yapıştırıcı, bant, zımba, cetvel, açıölçer, çalışma kâğıdı ve değerlendirme formu çıktıları, okul bahçesi, BT sınıfı, etkileşimli tahta, EBA; dinamik geometri, çizim, kodlama, dallanmış ağaç ve öz değerlendirme araçları."
+ }
+]
