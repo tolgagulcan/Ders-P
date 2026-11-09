@@ -51,6 +51,7 @@ def link_dagit(i, dersler):
     elle = {int(k): v for k, v in oz[i].get('link_ders', {}).items()}  # özetteki elle düzeltme: link sırası -> ders no
     for j, (ad, kod) in enumerate(idx[i]['link'], 1):
         if 'Talim ve Terbiye' in ad or ad[:1].islower(): continue  # kaynakçadan kaçan bozuk satır
+        ad = re.sub(r'^\d{4}\)\s*\d+\.\s*', '', ad)  # 'xxxx) 3. Ad' gibi bitişik kalan satırı temizle
         key = norm(ad.replace('EBA ', ''))[:22]
         pos = t.find(key)
         no, son = None, 0
