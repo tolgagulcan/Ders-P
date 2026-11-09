@@ -98,7 +98,7 @@ def sayfa(title, ust, govde, desc='Halide Edip Adıvar Ortaokulu · Teknoloji od
 <meta property="og:image" content="https://halidedipadivar.netlify.app/icon-512.png">
 <link rel="icon" type="image/png" href="/favicon.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">{CSS}</head>
 <body><header><div class="w"><div class="k">D3 · Örnek Ders Planları</div><h1>{e(ust)}</h1>
-<p>Halide Edip Adıvar Ortaokulu · Tamamı: <a href="https://d3.eba.gov.tr/" target="_blank" rel="noopener">d3.eba.gov.tr</a></p></div></header>
+<p>Halide Edip Adıvar Ortaokulu · Tüm senaryolar: <a href="https://d3.eba.gov.tr/senaryolar" target="_blank" rel="noopener">d3.eba.gov.tr/senaryolar</a></p></div></header>
 <main><div class="w">{govde}</div></main></body></html>'''
 
 # --- özetleri yükle

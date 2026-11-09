@@ -1,0 +1,134 @@
+[
+ {
+  "id": 133,
+  "unite": "İletişim ve Sosyal İlişkiler",
+  "ad": "İletişimle Büyüyen Hayaller",
+  "ozet": "“Biri gölet, diğeri şehir yapmak isteyen iki kişi birbirine nasıl destek olur?” sorusuyla “Robot Muncuk” hikâyesi okunur; ipucu-çıkarım-kanıt çalışması yapılır, gruplar hikâyedeki problemi beş aşamalı bir çözüm yazısına dönüştürür, nokta, virgül ve iki nokta şiirlerle öğrenilir.",
+  "ozu": "<p>Çıkarım; metindeki ipuçlarından yola çıkıp kanıtla desteklenen bir sonuca varmaktır. Problem çözme yazısı problemin tanımı, özeti, alternatif çözümler, en uygun çözüm ve değerlendirme aşamalarını içerir. Nokta cümle sonunda, virgül sıralı kelimeler arasında, iki nokta açıklama ve örnekten önce kullanılır.</p>",
+  "dersler": [
+   [
+    "İpucu, çıkarım, kanıt",
+    "Tahtaya “Biri gölet yapmak, diğeri şehir kurmak isteyen iki kişi birbirine nasıl destek olabilir?” yazılıp tartışılır. EBA'daki “Robot Muncuk” kitabının 5-9. sayfaları önce öğretmen, sonra öğrenciler tarafından okunur. “İpucu, Çıkarım, Kanıt” etkinliğinde öğrenciler metinden ipuçlarını bulur, çıkarım yapar ve kanıtla destekleyip deftere yazar. Ödev: EBA'daki “Küresel Isınma” metin anlama alıştırması."
+   ],
+   [
+    "Problem çözme yazısı",
+    "Tahtaya yazılır: “Denizhan gölet kazmak, Dağhan şehir kurmak istiyor ama tek proje için zamanları var.” 4-6 kişilik gruplar problemin tanımı, özeti, alternatif çözümler, en uygun çözüm ve değerlendirme aşamalarından oluşan bir yazı hazırlayıp beyin fırtınası aracında paylaşır; dereceli puanlama anahtarıyla değerlendirilir."
+   ],
+   [
+    "Noktalama şiirleri",
+    "Öğretmen “Dur, Kes, Açıkla, Cevapla, Durakla” kartlarıyla gelir; ifadelerin noktalama işaretlerini temsil ettiği bulunur. EBA'daki nokta, virgül ve iki nokta içeriğiyle kullanım alanları çalışılır. Üç gruptaki öğrenciler kendilerine verilen işareti tanıtan iki dörtlüklük birer şiir yazar; oylamayla seçilen şiir yapay zekâyla şarkıya dönüştürülür. Ödev: EBA'daki “Sayıların Yazımı” içeriği."
+   ]
+  ],
+  "gerek": "Akıllı tahta, noktalama kartları"
+ },
+ {
+  "id": 134,
+  "unite": "İletişim ve Sosyal İlişkiler",
+  "ad": "Ne Yapmalı?",
+  "ozet": "“Ne Yapardın?” etkinliği ve “Kim Haklı?” öyküsüyle bir anlaşmazlığa farklı bakış açılarından bakılır; öğrenciler kendi anlaşmazlıklarını paylaşır, problem ağacıyla öyküdeki sorunun neden ve sonuçlarını çözümler, gruplar alternatif çözümle öyküyü yeniden yazar.",
+  "ozu": "<p>Bir anlaşmazlıkta herkesin kendine göre haklı olduğu bir bakış açısı olabilir. Problem ağacında gövde temel problemi, kökler nedenleri, dallar sonuçları gösterir. Sorunu çözmek için önce nedenleri anlamak, sonra alternatif çözümler üretmek gerekir.</p>",
+  "dersler": [
+   [
+    "Kim haklı?",
+    "Tahtadaki “Ne Yapardın?” etkinliği birkaç kez oynanarak farklı fikirler alınır. EBA'daki “İyiliğin Gücü” kitabından “Kim Haklı?” öyküsü örnek okunur ve gönüllülere okutulur. Sınıf, Tahsin Bey'in davranışını doğru ve hatalı bulanlar olarak ikiye ayrılır; gerekçeli notlar panoya asılır, beş dakika incelenip tartışılır. Ödev: dijital panoda olaylar, bakış açıları ve duygular."
+   ],
+   [
+    "Problem ağacı",
+    "Tahtaya “Ailenle ya da arkadaşınla yaşadığın bir anlaşmazlık oldu mu, neden çıktı, nasıl çözüldü?” soruları yazılır; cevaplar kâğıtlara yazılıp masaya bırakılır, rastgele seçilenlere çözüm önerileri aranır. 4-6 kişilik gruplar öykünün özetini okuyup problemi kendi cümleleriyle yazar; “Problem Ağacı”nın gövdesine problemi, köklerine nedenleri, dallarına sonuçları yerleştirip paylaşır."
+   ],
+   [
+    "Öyküyü yeniden yazma",
+    "Gruplar “Çözüm Önerileri” sunumundan ilham alarak probleme alternatif çözümler üretir ve öyküyü bu çözüme göre yeniden yazar, sınıfa okur. Grup değerlendirme formu doldurulur."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öykü özeti çıktıları"
+ },
+ {
+  "id": 135,
+  "unite": "İletişim ve Sosyal İlişkiler",
+  "ad": "Toplumsal Dostluk Ağı",
+  "ozet": "Birbirine bağlanan renkli iplerle insanlar arasındaki bağlar canlandırılır; “Mırnav Dostlar” dinleme metniyle merhamet konuşulur, öğrenciler yapay zekâyla kedi evi tasarlar, metni önemli bilgileri seçerek sözlü özetler ve hayvanları çeşitli ölçütlere göre sınıflandırır.",
+  "ozu": "<p>Sözlü özetlemede ayrıntılar çıkarılır, önemli bilgiler olay sırasına göre kendi cümlelerimizle anlatılır. Sınıflandırma; varlıkları yaşam alanı, beslenme, evcil-yabani gibi bir ölçüte göre gruplamaktır ve ölçüt değişince gruplar da değişir.</p>",
+  "dersler": [
+   [
+    "Dostluk ağı ve Mırnav Dostlar",
+    "Öğretmen renkli iplerle gelir; beş öğrenci yardımlaşma, nezaket, paylaşım sorularına cevap verdikçe ipleri birbirine bağlanır ve iplerin insanlar arasındaki bağları simgelediği anlatılır. EBA'dan “Mırnav Dostlar” metni birkaç kez dinletilir; olaylar çevrim içi tartışma aracında günlük hayatla ilişkilendirilir. Öğrenciler yapay zekâ destekli araçla bir kedi evi görseli oluşturup paylaşır. Ödev: “Metni Yorumluyorum” soruları."
+   ],
+   [
+    "Sözlü özetleme",
+    "Önemli ve ayrıntı bildiren bilgiler örneklerle açıklanır. Öğrenciler metinden alınmış cümleleri kesip karıştırır, “önemli” ve “ayrıntı” diye ayırır; önemli cümleleri olay sırasına koyup 5-10 dakikalık hazırlıktan sonra 1-2 dakikalık sözlü özet yapar. Konuşamayanlar ses kaydı yapıp öz değerlendirme formunu doldurur."
+   ],
+   [
+    "Hayvanları sınıflandırıyorum",
+    "Sınıflandırmada renk, tür, işlev gibi ölçütlerin gerektiği anlatılır. Tahtaya kedi, aslan, yunus, serçe, balina, yılan, kartal gibi hayvanlar yazılır; 4-6 kişilik gruplar 5 dakikada bunları yaşam alanı, biyolojik özellik ya da evcil-yabani gibi bir ölçüte göre sınıflandırır ve ölçütlerini açıklar. Ödev: sınıflandırmayı tablo veya grafikle görselleştirmek."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, farklı renk ipler, cümle kartları"
+ },
+ {
+  "id": 136,
+  "unite": "İletişim ve Sosyal İlişkiler",
+  "ad": "Zorbalığın Karşısındayım",
+  "ozet": "“Kahraman'ın Macerası” metni üzerinden zorbalık ve siber zorbalık konuşulur; öğrenciler kullandıkları okuma stratejilerini belirler, metni önemli bilgileri sıralayarak üç paragrafta özetler ve izinsiz paylaşılan fotoğraf sorununa problem çözme adımlarıyla çözüm üretir.",
+  "ozu": "<p>Zorbalık; birine kasıtlı ve tekrarlanan biçimde zarar vermektir, internette yapılana siber zorbalık denir. Zorbalığa tanık olunca sessiz kalmamak, yetişkinlere bildirmek gerekir. Yazılı özette önemli bilgiler seçilip olay ve düşünce sırasına göre kendi cümlelerimizle yazılır.</p>",
+  "dersler": [
+   [
+    "Zorbalık nedir?",
+    "Ders öncesi öğrenciler EBA'daki “Kahraman'ın Macerası”nı okur ve kullandıkları okuma stratejilerini (tahmin, görselleştirme, çıkarım, özetleme vb.) panoya yazar; derste bunlara dönüt verilir. “Zorbalık” merkezli zihin haritası oluşturulur. “Kişi neden zorbalık yapar, maruz kalan ne hisseder, tanık olunca ne yapabiliriz?” soruları tartışılır. EBA'daki SİBERAY içeriğiyle siber zorbalık konuşulur ve korunma yolları için beyin fırtınası yapılır."
+   ],
+   [
+    "Metni özetleme",
+    "Metin beş dakika incelenir; bilgiler önemli-önemsiz diye ayrılır ve önemli olanlar olay sırasına konur. “Sıralıyorum, Özetliyorum” etkinliği birlikte yapılır. Öğrenciler metni üç paragrafta kendi cümleleriyle özetler; öğretmenin örnek özeti okunup düzeltmeler yapılır. Ödev: özeti dijital hikâye aracıyla EBA'da paylaşmak, rubrikle değerlendirilir."
+   ],
+   [
+    "İzinsiz paylaşılan fotoğraflar",
+    "Metindeki problem tahtaya yazılır: Kiraz'ın fotoğrafları sınıf grubunda izinsiz paylaşılmış, bazıları susuyor, bazıları tepki gösteriyor. “Sen olsan ne hissederdin?” sorusundan sonra 4-6 kişilik gruplar problemi tanımlar, kendi bakış açılarıyla özetler, alternatif çözümler üretip en uygununu seçer ve sınıfa sunar. Ödev: “Söz Uçar, Yazı Kalır” kâğıdıyla bireysel çözüm yazısı taslağı."
+   ]
+  ],
+  "gerek": "Akıllı tahta"
+ },
+ {
+  "id": 137,
+  "unite": "Oyun Dünyası",
+  "ad": "Dilimizden Düşmeyen Oyunlar",
+  "ozet": "Öğrenciler hayallerindeki oyun şehrini anlatır; konuşma kuralları EBA videosuyla öğrenilir, gruplar seçtikleri bir sokak oyununu üç dakikalık sunumla tanıtır, ardından “oyunların çocuklar için önemi” üzerine konuşma planı hazırlayıp konuşmalarını kaydeder.",
+  "ozu": "<p>Etkili konuşmada ses tonu, vurgu ve beden dili bilinçli kullanılır; konuşma kurallarına (söz kesmemek, dinleyiciye bakmak, anlaşılır konuşmak) uyulur. Konuşma planı; giriş, gelişme ve sonuçta söylenecekleri önceden düzenler ve konuşmayı daha başarılı kılar.</p>",
+  "dersler": [
+   [
+    "Oyun şehrim ve konuşma kuralları",
+    "Ders öncesi öğrenciler “Oyun Şehrim” şablonuna hayali oyun şehirlerindeki alanları yazar. Derste gönüllüler orada geçirdikleri bir günü anlatır; oyunla ilgili kavramlar zihin haritasına aktarılır. “Oyun şehrinde karakterler nasıl konuşuyordu?” cevaplarıyla kelime bulutu oluşturulur. EBA'dan “Konuşma Kuralları ve Uygun Konuşma” izlenir, doğru-yanlış etkinliği yapılır. Beşerli gruplar ödev olarak bir sokak oyununu anlatan üç dakikalık sunum hazırlar; sesi ve beden dilini etkili kullanmanın önemi vurgulanır."
+   ],
+   [
+    "Sokak oyunları sunumu",
+    "Gruplar sunumlarını yapar, diğerleri soru sorar; grup değerlendirme formu doldurulup sonuçlar tartışılır. Konuşma planının nasıl hazırlanacağı anlatılır ve form dağıtılır. Ödev: “Oyunların çocuklar için önemi” konulu iki dakikalık konuşmayı plana göre hazırlayıp ses kaydı yapmak ve öz değerlendirme formunu doldurmak."
+   ],
+   [
+    "Planlı-plansız konuşma",
+    "Rastgele seçilen öğrencilerin ses kayıtları dinletilir, konuşmacı ve sınıf görüş bildirir. Öğrenciler plansız yaptıkları sunumla planlı hazırladıkları kaydı karşılaştırır; konuşmayı planlamanın önemi vurgulanır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, konuşma planı formu, ses kayıt imkânı"
+ },
+ {
+  "id": 138,
+  "unite": "Oyun Dünyası",
+  "ad": "Okuma Materyalimi Seçiyorum",
+  "ozet": "Okunacak metni neye göre seçtiğimiz sorgulanır; “Yüz Yüze 100 Çocuk Oyunu” kitapçığındaki Peçiç oyunu ve TÜBİTAK Bilim Çocuk'taki bir oyun metniyle akıcı ve sessiz okuma çalışılır, öğrenciler kendi oyunlarını tanıtan bir yazıyı yazım ve noktalama kurallarına uygun yazar.",
+  "ozu": "<p>Okuma materyali seçerken amaç, ilgi, düzey ve kaynağın güvenilirliği dikkate alınır. Akıcı okumada vurgu, tonlama, hız ve duraklamalar anlamı yansıtır. Büyük harf kuralları ile nokta (cümle sonu, kısaltma, sıra sayısı) ve virgül (eş görevli kelimeler, hitap) kullanımı yazıyı anlaşılır kılar.</p>",
+  "dersler": [
+   [
+    "Okuma materyali seçmek",
+    "“Bir metni okumadan önce nelere dikkat edersiniz?” cevaplarıyla kelime bulutu oluşturulup tartışılır. Temel Eğitim Genel Müdürlüğünün “Yüz Yüze 100 Çocuk Oyunu” kitapçığındaki “Peçiç” oyunu tahtaya yansıtılır: “Bu metin hangi amaçla, kimler için hazırlanmış?” Öğrenciler “Okuma Materyalimi Seçerken Dikkat Ettiklerim” sorularını cevaplar ve birlikte değerlendirilir."
+   ],
+   [
+    "Akıcı ve sessiz okuma",
+    "“Akıcı Okuma Unsurları” içeriği gösterilir, öğretmen Peçiç metniyle örnek okuma yapar. TÜBİTAK Bilim Çocuk'taki “Bilim İnsanları İşbaşında” oyununun kuralları öğrencilere bölüştürülüp sesli okutulur ve akıcılığa geri bildirim verilir. Ardından metin, hız ve duraklamalar anlama uygun düzenlenerek sessiz okunur; deneyimler paylaşılır. Ödev: “Kuralları Bil Şifreyi Çöz” oyunu."
+   ],
+   [
+    "Kendi oyunumu yazıyorum",
+    "EBA'daki “Büyük Harf Kullanımı” içeriği incelenir; nokta ve virgülün kullanımları örneklerle açıklanır. Öğrenciler kendi oyunlarını tasarlayıp amacını, oynanışını, oyuncu sayısını ve kurallarını anlatan bir yazı yazar; yazılar kontrol listesiyle yazım ve noktalama açısından değerlendirilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ }
+]

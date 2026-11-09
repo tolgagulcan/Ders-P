@@ -1,0 +1,226 @@
+[
+ {
+  "id": 115,
+  "unite": "Atatürk'ü Tanımak",
+  "ad": "Modern Türkiye'nin Mimarı Atatürk",
+  "ozet": "Atatürk'ün yenilikleri, doğa sevgisi ve bilime verdiği önem üzerine EBA dinleme/izleme metinleriyle “tahmin etme” stratejisi öğrenilir; öğrenciler videoyu belli saniyelerde durdurup devamını önce grupla, sonra bireysel olarak tahmin eder.",
+  "ozu": "<p>Tahmin etme stratejisi; başlıktan, görselden ve metnin ilk bölümünden yararlanarak devamında neler olacağını öngörmektir. Dinlemeden önce ve dinlerken kullanılır; merakı artırır ve metne odaklanmayı sağlar. Tahminler metin bitince kontrol edilir.</p>",
+  "dersler": [
+   [
+    "Ülkemizin modernleşmesi",
+    "Ders öncesi öğrenciler Atatürk'ün yeniliklerini araştırır. “Atatürk'ün ülkemize kazandırdığı yenilikler nelerdir?” sorusuyla başlanır. Öğretmen tahmin etme stratejisini anlatır ve “Atatürk'ün Son Günleri” videosunu 30. saniyede durdurarak nasıl tahmin yapılacağını gösterir. 4-6 kişilik gruplar “Ülkemizin Modernleşmesi” metninin başlığı ve ilk görselinden içeriği tahmin edip yazar; video 25. saniyede durdurulup “Atatürk Orman Çiftliği neden kuruldu, sonuçları ne oldu?” sorusu tahmin edilir, metin bitince tahminler kontrol edilir."
+   ],
+   [
+    "Atatürk'ün doğa sevgisi",
+    "İkili gruplar “Atatürk'ün Doğa Sevgisi” metninin başlığından içeriği tahmin eder; video 38. saniyede durdurulup devamı tahmin edilir ve sonunda tahminler kontrol edilir. Tahtada “Atatürk” kelimesinin çağrıştırdıklarıyla kelime bulutu oluşturulup tartışılır."
+   ],
+   [
+    "Bireysel tahmin",
+    "Bu kez öğrenciler bireysel çalışır: “Atatürk'ün Bilime Verdiği Önem” metninin başlığından tahmin yazar, video 57. saniyede durdurulunca devamını tahmin eder, sonunda kontrol eder. Öz değerlendirme formu doldurulur. Ödev: “Atatürk ve İnkılapları” tanılayıcı dallanmış ağaç etkinliği."
+   ]
+  ],
+  "gerek": "Akıllı tahta"
+ },
+ {
+  "id": 116,
+  "unite": "Atatürk'ü Tanımak",
+  "ad": "Mustafa Kemal'i Tanıyorum",
+  "ozet": "Gruplar Atatürk'ün sevdiği müziklerden bilime bakışına kadar farklı yönlerini araştırıp sunar; “Kurtuluştan Kuruluşa” videosundaki bilinmeyen kelimelerin anlamı tahmin edilir, hikâye unsurları öğrenilir ve öğrenciler Atatürk'ü anlatan dijital bir hikâye yazar.",
+  "ozu": "<p>Anlamı bilinmeyen kelimeler, geçtiği cümleden tahmin edilip sözlükle doğrulanır. Öyküleyici metinler (masal, hikâye) bir olay akışı anlatır ve dört temel unsuru vardır: olay, kişiler, yer ve zaman.</p>",
+  "dersler": [
+   [
+    "Atatürk'ü tanıyoruz",
+    "Ders öncesi 5-6 kişilik gruplar Atatürk'ün sevdiği müzik, yemek ve yazarları, giyim tarzı, bildiği diller, yaptığı sporlar, sanat ve bilim görüşü, Millî Mücadele'ye verdiği önem gibi başlıkları araştırıp sunum hazırlar. Derste grup sözcüleri sunar, soru-cevapla önemli noktalar vurgulanır, gruplar değerlendirme formunu doldurur. Video başlığından içerik tahmin edilir ve EBA'dan “Kurtuluştan Kuruluşa” izlenir."
+   ],
+   [
+    "Bilinmeyen kelimeler",
+    "Videodaki mektep, rüştiye, idadi, kurmay, madalya, işgal, antlaşma, cephe gibi kelimeler geçtikleri cümlelerle okunur; öğrenciler anlamlarını tahmin edip deftere yazar. “Bilinmeyen Kelimeler” bulmacasıyla tahminler sözlük anlamlarıyla karşılaştırılır. Ardından video metni sesli okunur ve anlama soruları cevaplanıp doğru yanıtlar tekrarlanır."
+   ],
+   [
+    "Hikâye unsurları",
+    "Masal ve hikâyenin öyküleyici metinler olduğu, olay, kişi, yer ve zaman unsurları anlatılır; EBA'daki “Hikâye Unsurları” etkinliği yapılır. EBA'dan “Deniz Yıldızı” dinletilir, öğrenciler hikâye haritası çalışma kâğıdını doldurur. Ödev: Atatürk'ün kişiliğini ve mücadelesini anlatan bir öykü haritası hazırlayıp yeni öğrendikleri kelimeleri kullanarak dijital bir hikâye yazmak; EBA'da paylaşılır ve yorumlanır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, hikâye haritası çalışma kâğıdı"
+ },
+ {
+  "id": 117,
+  "unite": "Atatürk'ü Tanımak",
+  "ad": "Tahmin Edelim, Kontrol Edelim!",
+  "ozet": "Atatürk'ün “Şarapnel Parçası” anısı yarıda kesilerek okunur; öğrenciler başlıktan ve okunan bölümden olayın devamını tahmin eder, gruplar tahminlerini bir paragraflık senaryoya dönüştürüp kısa animasyon hazırlar, metindeki bilinmeyen kelimelerin anlamı ipuçlarından bulunur.",
+  "ozu": "<p>Okurken tahmin etmek; başlıktan ve okunan kısımdan yola çıkarak metnin devamını öngörmek, sonra tahmini metinle karşılaştırmaktır. Bilinmeyen bir kelimenin anlamı, metindeki ipuçlarından tahmin edilip sözlükle doğrulanabilir.</p>",
+  "dersler": [
+   [
+    "Şarapnel parçası",
+    "Öğretmen okunacak anının adının “Şarapnel Parçası” olduğunu söyler; öğrenciler başlıktan içeriği tahmin edip deftere yazar. EBA'daki “Atatürk'ün Anıları” metni okunmaya başlanır ve “…ona parmağımla susmasını emrettim.” cümlesinden sonra durulur; ilk tahminler kontrol edilir. 5-7 kişilik gruplar olayların nasıl devam edeceğini tahmin edip bir paragraflık animasyon senaryosu yazar. Ödev: EBA'daki metni anlama ve çözümleme bölümleri."
+   ],
+   [
+    "Animasyon",
+    "Gruplar senaryolarından animasyon araçlarıyla kısa animasyonlar oluşturur ve iş birlikli araçla tüm sınıfla paylaşır. Gruplar kendi çalışmalarını grup değerlendirme formuyla değerlendirir."
+   ],
+   [
+    "Bilinmeyen kelimeler",
+    "Anı tahtada yeniden açılır; öğrenciler anlamını bilmedikleri kelimeleri listeler ve ortak kelimeler zihin haritasının merkezine yazılır. Metindeki ipuçları haritaya eklenir, öğrenciler anlamları tahmin edip deftere yazar ve Güncel Türkçe Sözlük'ten kontrol eder. Ödev: “Bilinmeyen Kelimeler” eşleştirme etkinliği."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları (animasyon aracı)"
+ },
+ {
+  "id": 118,
+  "unite": "Atatürk'ü Tanımak",
+  "ad": "Yolumuza Işık Atatürk",
+  "ozet": "“Atatürk ve Bilim” dinleme metnindeki söz varlığı incelenir; Atatürk'ün kişilik ve fiziksel özellikleri beyin fırtınasıyla toplanır, gruplar seçtikleri bir kişilik özelliğini anlatan üç dakikalık hazırlıklı konuşma yapar.",
+  "ozu": "<p>Söz varlığı; bir metinde geçen kelime, deyim ve kalıplaşmış ifadelerdir; anlamları bağlama göre değişebilir. Hazırlıklı konuşmada konuşmanın amacı, süresi ve dinleyiciye göre ikna edici, eleştirel ya da serbest konuşma yöntemi seçilir; konuşma uygun selam ve hitapla başlar, uygun bir ifadeyle biter.</p>",
+  "dersler": [
+   [
+    "Atatürk ve bilim",
+    "“Atatürk denince aklınıza hangi özellikler geliyor, bilime önem verdiğini düşünüyor musunuz?” sorularıyla başlanır. Seslendirilmiş “Atatürk ve Bilim” metni dinlenirken öğrenciler temayla ilgili söz varlığı unsurlarını not alır; bunların metindeki ve sözlükteki anlamları ile aralarındaki anlam ilişkileri tartışılır. Doğru-yanlış etkinliği yapılır; ödev olarak Mustafa Kemal Atatürk web sayfası incelenir ve Atatürk'ün eğitim hayatı araştırılır."
+   ],
+   [
+    "Atatürk nasıl biriydi?",
+    "“Atatürk nasıl bir öğrenciydi, onunla ortak yönleriniz var mı?” soruları konuşulur. “Atatürk sizce nasıl biridir?” sorusunun cevapları beyin fırtınası aracında toplanır, tartışılır ve “Kişilik Özellikleri” ile “Fiziksel Özellikler” başlıklarına ayrılır. Beşerli gruplar bir kişilik özelliği seçip üç dakikalık bir sunum hazırlayacaktır; ikna etme, eleştirel ve serbest konuşma yöntemleri tanıtılır, dereceli puanlama anahtarı paylaşılır."
+   ],
+   [
+    "Hazırlıklı konuşmalar",
+    "Gruplar sunumlarını yapar; konuşmayı uygun selam ve hitapla başlatıp uygun ifadeyle bitirmeleri istenir. Her sunumdan sonra soru-cevap bölümünü sunan grup yönetir, böylece söz alma-verme kuralları pekişir. Öğretmen dereceli puanlama anahtarıyla değerlendirip geri bildirim verir."
+   ]
+  ],
+  "gerek": "Akıllı tahta"
+ },
+ {
+  "id": 119,
+  "unite": "Duygularımı Tanıyorum",
+  "ad": "Duygu Dedektifleri",
+  "ozet": "“Bugün kendinizi nasıl hissediyorsunuz?” sorusuyla duygular zihin haritasında toplanır; altı temel duygu EBA içerikleriyle öğrenilir, öğrenciler bir metni farklı dinleme stratejileriyle dinler ve gruplar duygu çarkından seçtikleri duyguyu anlatan dijital hikâye yazar.",
+  "ozu": "<p>İnsanın altı temel duygusu mutluluk, üzüntü, korku, öfke, şaşkınlık ve iğrenmedir; yaşadığımız olaylar duygularımızı etkiler. Dinlerken not alma, soru oluşturma, tahmin etme ve özetleme stratejileri metni anlamayı kolaylaştırır.</p>",
+  "dersler": [
+   [
+    "Duygularımız",
+    "“Bugün kendinizi nasıl hissediyorsunuz, hep böyle mi hissedersiniz?” sorularıyla başlanır. “Hangi duyguları hissederiz?” cevaplarıyla zihin haritası oluşturulur, mutluluk-üzüntü gibi ilişkili duygular tartışılır. EBA'daki “Olaylar ve Hislerimiz” içeriğiyle olayların duygulara etkisi fark edilir. “Altı Temel Duygu” etkinliğindeki “Maymun Evi” hikâyesi dinlenip duygular konuşulur; “Sıra Sizde” bölümüyle pekiştirilir."
+   ],
+   [
+    "Dinleme stratejileri ve duygu çarkı",
+    "Öğretmen “Arda'nın Gizemli Bahçe Macerası” metnini okur; öğrenciler not alma, soru oluşturma, tahmin etme veya özetleme stratejilerinden birini seçip uygular. İkinci okumadan sonra sorular cevaplanır, hangi stratejinin nasıl işe yaradığı tartışılır. Altı grup “Duygu Çarkı”nı çevirip birer duygu seçer; ödev olarak bu duyguyu anlatan bir dijital hikâyeyi iş birlikli araçla hazırlar."
+   ],
+   [
+    "Dijital hikâyeler",
+    "Gruplar dijital hikâyelerini tahtada sunar, diğerleri soru sorar. Grup değerlendirme formu sonuçlarına göre dönüt verilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 120,
+  "unite": "Duygularımı Tanıyorum",
+  "ad": "Duygularımız Üzerine Konuşalım",
+  "ozet": "Duygu kartlarıyla jest ve mimik canlandırması yapılır; “bizi en zorlayan duygu” tahmin edilip dinleme metniyle karşılaştırılır, öfkeyle başa çıkma üzerine hazırlıksız konuşmalar yapılır ve gruplar “Duyguların İletişime Etkileri” konulu yaratıcı konuşma hazırlar.",
+  "ozu": "<p>Duygular jest, mimik ve davranışlarımıza yansır; özellikle öfkeyi yönetmek iletişim için önemlidir. Hazırlıksız konuşmada kısa bir zihinsel plan yapılıp konudan sapmadan konuşulur. Yaratıcı konuşmada ise gerçek bir sorun ele alınarak özgün karakterler, diyaloglar ve çözümler üretilir.</p>",
+  "dersler": [
+   [
+    "Duygu kartları",
+    "Gönüllü öğrenciler üzüntü, şaşkınlık, öfke, korku, sevinç gibi duygu kartlarını jest ve mimikle canlandırır; duyguların beden diline etkisi tartışılır. EBA'dan “Biraz Duygularımızdan Bahsedelim mi?” dinleme metni 40. saniyede durdurulur; “Bizi en çok zorlayan duygu…” cümlesini öğrenciler tamamlar ve cevaplar kelime bulutunda toplanır. Metnin devamı dinlenip metindeki duygu ile öğrencilerin tahmini karşılaştırılır. Ödev: çıkarım yapma etkinliği."
+   ],
+   [
+    "Hazırlıksız konuşma",
+    "“Öfkelendikten sonra pişman olacağımız şeyler yapmamak için ne yapmalıyız?” sorusuna öğrenciler kısa bir zihinsel planla hazırlıksız konuşma yapar; olabildiğince çok öğrenci konuşur ve öz değerlendirme formunu doldurur. Konuşamayanlar ses kaydı yapıp getirir."
+   ],
+   [
+    "Yaratıcı konuşma taslağı",
+    "Hazırlıksız konuşmalara geri bildirim verilir. Gruplar “Duyguların İletişim Üzerindeki Etkileri” konusunda günlük hayattan bir sorunu ele alan, özgün karakter ve diyaloglar içeren bir konuşma taslağı yazar ve 3 dakikalık bir sunum hazırlar; dereceli puanlama anahtarı tanıtılır."
+   ],
+   [
+    "Yaratıcı konuşmalar",
+    "Her gruptan bir öğrenci 3 dakikalık yaratıcı konuşmasını yapar; öğretmen dereceli puanlama anahtarıyla değerlendirip dönüt verir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, duygu durum kartları"
+ },
+ {
+  "id": 121,
+  "unite": "Duygularımı Tanıyorum",
+  "ad": "Duyguların İzinde",
+  "ozet": "Duygu kartları ve EBA videosuyla duyguları ifade etme yolları konuşulur, “Duygularımız” şarkısı söylenir; “Bulutla Konuşan Çocuk” metniyle giriş-gelişme-sonuç bölümleri, ardından benzetme ve kişileştirme söz sanatları öğrenilir.",
+  "ozu": "<p>Metinler genellikle giriş, gelişme ve sonuç bölümlerinden oluşur. Söz sanatları anlatımı etkili kılar: benzetme, bir varlığı ortak özellik yönünden başka bir varlığa benzetmektir (“kuş gibi hafif”); kişileştirme, insana ait özellikleri insan dışı varlıklara vermektir (“rüzgâr kulağıma fısıldadı”).</p>",
+  "dersler": [
+   [
+    "Duygularımızı nasıl belli ederiz?",
+    "Öğrenciler duygu kartlarındaki boşlukları iki dakikada doldurur, rastgele seçilenler okur. “Duygularımızı nasıl belli ederiz?” cevapları etkileşimli beyaz tahtaya yazılır. EBA'dan “Duygularımı, Düşüncelerimi Nasıl İfade Edebilirim?” videosu izlenip öğrenci cevaplarıyla karşılaştırılır. “Duygularımız” şarkısı “Arı Vız Vız Vız” melodisiyle sınıfça söylenir."
+   ],
+   [
+    "Metnin bölümleri",
+    "Öğrenciler not alma, tahmin etme veya özetleme tekniklerinden birini seçer; öğretmen “Bulutla Konuşan Çocuk” metnini okur ve ilgili yerlerde sorular sorar. Metinlerin giriş, gelişme ve sonuç bölümlerinden oluştuğu açıklanır, EBA'dan “Paragrafın Yapısı ve Özellikleri” izlenir. Öğrenciler etkinlik kâğıdında metnin bölümlerini belirler."
+   ],
+   [
+    "Söz sanatları",
+    "“Rüzgâr kulağımıza fısıldayabilir mi? ‘Kuş gibi hafifim’ diyen biri gerçekten kuş kadar hafif mi?” sorularıyla başlanır; bu kullanımların anlatımı etkili kıldığı anlatılır. EBA'dan benzetme ve kişileştirme videosu izlenir, “Söz Sanatları” oyunuyla pekiştirilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, duygu kartları, etkinlik kâğıdı"
+ },
+ {
+  "id": 122,
+  "unite": "Duygularımı Tanıyorum",
+  "ad": "Minik Bir Mutluluk",
+  "ozet": "“Arkadaşın taşınsa ne hissedersin?” gibi durumlarla duygular konuşulur ve sıra arkadaşıyla hazırlıksız konuşma yapılır; “Minik Bir Mutluluk” öyküsünde duygular ve öykünün bölümleri incelenir, öykünün şiire dönüştürülmüş hâli üzerinden dize, dörtlük ve şiir-düzyazı farkı öğrenilir.",
+  "ozu": "<p>Öykü düzyazıdır; serim, düğüm ve çözüm bölümlerinden oluşur. Şiir ise dizelerle yazılır; dört dize bir dörtlük oluşturur, dize sonlarındaki ses benzerlikleri (uyak) şiire ahenk katar. Aynı konu hem öyküyle hem şiirle anlatılabilir.</p>",
+  "dersler": [
+   [
+    "Duygular ve hazırlıksız konuşma",
+    "Tahtada duygular afişi açılır: “En yakın arkadaşın taşınsa, resmin kaybolsa, sunumdan sonra herkes alkışlasa ne hissedersin?” Öğrenciler afişten bir duygu seçip o duyguyu yaşadıkları bir anıyı sıra arkadaşına hazırlıksız konuşmayla anlatır, akran değerlendirme formunu doldurur. “Minik Bir Mutluluk” öyküsü örnek okumayla, sonra gönüllülerce okunur; “Metinde Geçen Duygular” etkinliği yapılır."
+   ],
+   [
+    "Öykünün bölümleri",
+    "Metinlerin giriş-gelişme-sonuç ya da serim-düğüm-çözüm bölümlerinden oluştuğu ve bölümlerin birbirine bağlı olduğu anlatılır; “Öykünün Bölümleri” etkinliği yapılır. Öykü yeniden açılıp anlama soruları sözlü cevaplanır. Ödev: dijital panoda öykünün bölümlerini belirlemek."
+   ],
+   [
+    "Öyküden şiire",
+    "Öğretmen öyküyü yapay zekâyla şiire dönüştürür; şiir önce örnek okunur, sonra sessiz ve dörtlük dörtlük okunur. Öykü ile şiirin benzer ve farklı yanları soru-cevapla bulunur; dize, dörtlük ve ses tekrarlarının ahenk kattığı açıklanır. “Şiir ve Düzyazı” eşleştirmesi yapılır. Ödev: “Minik Kedi” şiirine iki yeni dörtlük eklemek."
+   ]
+  ],
+  "gerek": "Akıllı tahta, akran değerlendirme formu"
+ },
+ {
+  "id": 123,
+  "unite": "Duygularımı Tanıyorum",
+  "ad": "Yaşamın İçinden Farklı Duygular",
+  "ozet": "Duygu ifadeleri ve TÜBİTAK Bilim Genç'in temel duygular metniyle duygular incelenir; öğrenciler bir temel duyguyu merkeze alan özgün bir hikâye yazar, düşünceyi geliştirme yolları (karşılaştırma, benzetme, tanımlama, örneklendirme) istasyon tekniğiyle çalışılır.",
+  "ozu": "<p>Metinden kanıt toplayıp ön bilgiyle ilişkilendirmek çıkarım yapmayı sağlar. Düşünceyi geliştirme yolları yazıyı güçlendirir: tanımlama (bir kavramın ne olduğunu açıklamak), örneklendirme (örnek vermek), karşılaştırma (benzerlik ve farkları göstermek), benzetme (bir şeyi başka bir şeye benzeterek anlatmak).</p>",
+  "dersler": [
+   [
+    "Temel duygu türleri",
+    "Tahtada gülen, ağlayan yüz gibi duygu ifadeleri gösterilir; beş öğrenci bunların hangi duyguyu yansıttığını ve en son ne zaman hissettiklerini anlatır. “Gün içinde en çok hangi duyguyu hissediyorsunuz?” cevaplarıyla kelime bulutu oluşturulur. TÜBİTAK Bilim Genç'teki “Temel Duygu Türleri Nelerdir?” metni örnek okunur, öğrencilere okutulur ve soru-cevapla anlaşılır. Ödev: “Duyguları Düşünüyorum” çıkarım soruları."
+   ],
+   [
+    "Duygunu hikâyeye dönüştür",
+    "Ödev kontrol edilir. Tahtaya “Duygunu Hikâyeye Dönüştür” yazılır; öğrenciler bir temel duyguyu merkeze alıp kendi deneyimlerinden yola çıkarak özgün karakterler, diyaloglar ve çözüm içeren bir olay örgüsü kurgulayıp hikâye yazar. Dereceli puanlama anahtarı önceden açıklanır; öğretmen hikâyeleri puanlayıp düzeltmeleri hazırlar."
+   ],
+   [
+    "Düşünceyi geliştirme istasyonları",
+    "Hikâyelere geri bildirim verilir. EBA'daki “Düşünceyi Geliştirme Yolları” içeriği incelenir. Karşılaştırma, benzetme, tanımlama ve örneklendirme için dört istasyon kurulur; gruplar beşer dakikada her istasyonda yolun tanımını yazar, örnek verir, örnek paragraf oluşturur ve bir slogan hazırlar. Çalışmalar tartışılarak değerlendirilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, istasyon kâğıtları"
+ },
+ {
+  "id": 124,
+  "unite": "Geleneklerimiz",
+  "ad": "Bir Elin Nesi Var",
+  "ozet": "İmece ve dayanışma geleneği EBA videosu, Soğanlı bez bebeği imecesi ve dijital bir hikâye üzerinden işlenir; öğrenciler anahtar kelimelerden slogan yazar, metindeki karakterleri karşılaştırır ve metindeki unsurları kavramlara göre gruplandırır.",
+  "ozu": "<p>İmece; köy ya da mahalle halkının bir işi birlikte, karşılıksız yapmasıdır ve dayanışma geleneğimizin bir parçasıdır. Bir metnin anahtar kelimeleri onun ana düşüncesini yansıtır; metindeki kişi, olay ve nesneleri ortak kavramlar altında toplamak metni daha iyi anlamayı sağlar.</p>",
+  "dersler": [
+   [
+    "Anahtar kelimeler ve slogan",
+    "“Tek başına yapamayacağın bir şeyi başkalarıyla birlikte başardığın bir anın var mı?” sorusuyla başlanır. EBA'dan “Toplumsal Yardımlaşma” videosu izlenir, imece kavramı açıklanır. “Videoyu en iyi anlatan üç kelime nedir?” cevaplarıyla kelime bulutu oluşturulur; öğrenciler bu üç kelimeyi kullanarak 3 dakikada kısa, olumlu bir slogan yazar ve dijital panoda paylaşır."
+   ],
+   [
+    "Soğanlı bebeği imecesi",
+    "“Soğanlı Bebeği İmecesi” metni okunur: “Kadınların bez bebeği birlikte yapması hangi değerleri güçlendiriyor?” Tahtaya yazılan iki alıntının hangi kahramana ait olduğu ve hangi duyguları yansıttığı karşılaştırılır. “Benzerlikler ve Farklılıklar” etkinliğiyle metindeki unsurlar karşılaştırılır. Ödev: yansıtıcı sorular."
+   ],
+   [
+    "Kavramlara göre gruplama",
+    "“Küçük Mahallenin Büyük Yardımlaşması” dijital hikâyesi okunup sorular cevaplanır. Üçer kişilik gruplar metin tekrar okunduktan sonra akıllarında kalan en az 8-10 unsuru (kişi, yer, olay, duygu, nesne) yazar ve bunları anlamca yakın gruplara ayırıp her gruba bir ad verir (ör. “parkı onarma” + “bahçeyi temizleme” = “çevreyi koruma”). Sonuçlar tahtada birleştirilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta"
+ }
+]
