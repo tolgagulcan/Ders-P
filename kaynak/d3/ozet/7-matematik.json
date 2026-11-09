@@ -1,0 +1,127 @@
+[
+ {
+  "id": 175,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Çokgenlerle Uzaya",
+  "ozet": "Gruplar yapay zekâyla düzgün çokgenlerden yapılmış bir uzay aracını anlatan hikâyeler yazar ve oylar; ilk Türk astronot Alper Gezeravcı'nın fotoğrafıyla derse girilir, düzgün yedigen, sekizgen ve ongen dinamik geometri aracında çizilip iç açıları incelenir, ikinci derste öğrenciler 3B modelleme aracında düzgün çokgen tabanlı saksılar tasarlar ve bunlar 3B yazıcıdan basılıp içine bitki dikilebilir.",
+  "ozu": "<p>Senaryo düzgün çokgenlerin <b>kenar ve açı özelliklerini</b> uzay ve tasarım temasıyla öğretiyor. Ders öncesi yazılan hikâyeler konuyu ilgi çekici kılıyor, Alper Gezeravcı'dan bahseden gruplar ödüllendiriliyor. Asıl ürün gerçek bir nesne: öğrenciler kontrol listesiyle düzgün çokgen tabanlı saksılarını 3B modelliyor; okulda 3B yazıcı varsa saksılar basılıp sınıfta çiçek, kaktüs ya da sukulent yetiştiriliyor.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "3-6 kişilik gruplar yapay zekâ araçlarıyla düzgün çokgenlerden yapılmış bir uzay aracıyla uzaya giden bir öğrencinin hikâyesini yazar, sınıf yönetim aracına yükler ve en beğendiklerine oy verir. Öğrenciler EBA'daki Çokgenler içeriğini ve Düzgün Çokgenler videosunu izler."
+   ],
+   [
+    "1. ders",
+    "Alper Gezeravcı'nın fotoğrafı açılır: “Bu kişinin mesleğini bilen var mı?” Cevaplar beyaz tahta aracına yazılır, gerekirse dikkat uzay aracına çekilir. Hikâyesinde Gezeravcı'dan bahseden ve en çok oy alan gruplar ödüllendirilir, kazanan hikâye okunur. Gruplar dinamik geometri aracında düzgün yedigen, sekizgen ve ongen oluşturur ve iç açı ölçülerini inceler."
+   ],
+   [
+    "2. ders",
+    "Öğrenciler önceden EBA'daki Kaktüs Saksısı Yapalım içeriğini izlemiştir. 2-5 kişilik gruplar 3B modelleme aracında kontrol listesini izleyerek düzgün çokgen tabanlı saksılar tasarlar, öğretmen dönüt verir. Kalan sürede EBA'daki Düzgün Çokgenler alıştırmaları ve alt konu testi çözülür, bitmeyenler ödev olur. Ders sonrasında saksılar 3B yazıcıdan basılır (okulda yoksa idareden destek istenir) ve öğrenciler içine bitki diker."
+   ]
+  ],
+  "gerek": "Alper Gezeravcı fotoğrafı, kontrol listesi çıktıları, 3B yazıcı (varsa), tohum ya da fideler, BT sınıfı, etkileşimli tahta, EBA; yapay zekâ, sınıf yönetimi, beyaz tahta, dinamik geometri ve 3B modelleme araçları."
+ },
+ {
+  "id": 176,
+  "unite": "Geometri ve Ölçme",
+  "ad": "Origami ile Doğrular ve Açılar",
+  "ozet": "Aynı düzlemdeki üç doğrunun birbirine göre durumları kartlarla verilip dinamik geometri aracında oluşturulur; paralel iki doğrunun bir kesenle yaptığı açılar origami ile katlanarak açıölçerle ölçülür, yöndeş, iç ters ve dış ters açılar EBA anlatımlarıyla öğrenilir, son derslerde gruplar “İki doğrunun paralel olup olmadığına nasıl karar veririz?” problemine çözüm üretip sunar.",
+  "ozu": "<p>Senaryo açı ilişkilerini <b>kâğıt katlayarak</b> keşfettiriyor: öğrenciler origami adımlarıyla paralel iki doğru ve bir kesen oluşturuyor, oluşan açıları ölçüp eş olanları buluyor. “Açıölçerimiz olmasaydı eş açıları nasıl gösterirdik?” sorusu farklı çözüm yollarına kapı açıyor (ör. kâğıdı katlayıp açıları üst üste getirmek). Son derslerdeki problem bu bilgiyi tersine kullanmayı gerektiriyor: eş yöndeş ya da ters açılar varsa doğrular paraleldir.</p>",
+  "dersler": [
+   [
+    "Dersten önce",
+    "Öğrenciler EBA'daki Bir Açının Komşusu, Tümleri, Bütünleri ve Tersi anlatımıyla 6. sınıf bilgilerini tekrar eder; öğretmen üç doğrunun durumlarını anlatan kartları basar."
+   ],
+   [
+    "1. ders",
+    "EBA'daki İki Doğrunun Birbirine Göre Durumları anlatımı izlenip kesişme, diklik ve paralellik hatırlatılır. Bilgisayar sayısına göre kurulan gruplar aynı düzlemdeki üç doğrunun durumlarını anlatan kartlardaki ifadeleri dinamik geometri aracında oluşturur ve neye dikkat ettiklerini, ne fark ettiklerini anlatır. EBA'daki Bir Düzlemde Üç Doğrunun Birbirine Göre Durumları anlatımından sonra çizimler düzeltilir. Sonraki ders için açıölçer, renkli kalemler, A4 kâğıdı ve cetvel istenir."
+   ],
+   [
+    "2. ders",
+    "Paralel İki Doğrunun Bir Kesenle Yaptığı Açıları Origami ile Oluşturma videosu adım adım izlenir ve katlanır; öğretmen “Paralel bir doğru için kâğıdı nasıl katlarız? Hangi açılar eş?” gibi sorularla sonraki adımı tahmin ettirir. Açılar açıölçerle ölçülür ve eş açılar gözlenir; “Açıölçer olmasaydı eş açıları nasıl gösterirdik?” fikirleri dijital panoya yazılır. EBA'daki Yöndeş, Dış Ters ve İç Ters Açılar ile Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar anlatımları durdurularak izlenir."
+   ],
+   [
+    "3. ders",
+    "EBA'daki Açı Çeşitlerini Oluşturma interaktif etkinliğinde paralel doğruların bir kesenle yaptığı açılarla ilgili sorular tüm öğrencilerin katılımıyla çözülür."
+   ],
+   [
+    "4-5. ders",
+    "Gruplara “İki doğrunun birbirine paralel olup olmadığına nasıl karar veririz?” problemi verilir; cetvel, açıölçer ve dinamik geometri aracıyla, kesenle oluşan açıların eşliğinden yararlanarak çözüm aranır. Gruplar çözümlerini sunum olarak hazırlayıp paylaşır ve grup değerlendirme formuyla değerlendirilir. EBA'daki Paralel Doğruların Bir Kesenle Yaptığı Açılar öğretmene özel çalışma soruları birlikte çözülür.",
+    "4-5"
+   ]
+  ],
+  "gerek": "Durum kartları çıktısı, A4 kâğıdı (origami), açıölçer, cetvel, renkli kalemler, BT sınıfı, etkileşimli tahta, EBA; dinamik geometri, video, dijital pano ve sunum araçları, grup değerlendirme formu."
+ },
+ {
+  "id": 177,
+  "unite": "Sayılar ve İşlemler",
+  "ad": "Havanın Gücüne Karşı Tasarımın Gücü",
+  "ozet": "Formula 1 araçlarının tasarımı ve fen dersindeki hava direnci konusu üzerinden ters orantıya girilir; dişli çark örneği, eşleştirme etkinliği ve zihin haritasıyla kavram pekiştirilir, son derste gruplar oyuncak arabaların ön yüzünün zeminle yaptığı açıyı ölçüp açı büyüdükçe hava direncinin azaldığı ters orantılı bir tablo oluşturur.",
+  "ozu": "<p>Senaryo ters orantıyı <b>matematik ile fen bilimlerini birleştirerek</b> öğretiyor: araç tasarımı ve hava direnci ilişkisi, dişli çarklardaki diş sayısı ve tur sayısı ilişkisine benzetiliyor. Öğrenciler kendi getirdikleri oyuncak arabalarla açı ölçüyor, ters orantıyı dikkate alarak tahminî hava direnci değerlerini hesaplıyor. Diğer etkenlerin sabit kabul edildiği vurgulanarak model kurma mantığı da kazandırılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "4-5 kişilik gruplara Formula 1 araçlarının görselleri gösterilir: “Bu araçlar neden böyle tasarlanmış, bir amacı var mı?” Yönlendirici sorularla rüzgârın etkisini azaltma ve hız fikrine ulaşılır, cevaplar dijital panoya yazılır. Fen dersinden hatırlatma için EBA'daki Hava Direnci videosu izlenir. Gruplar hava direnci ile F1 araçları arasındaki ilişkiyi tartışıp ortak sonuçlarını grup sözcüsüyle sınıfa duyurur."
+   ],
+   [
+    "2. ders",
+    "Öğrenciler Farklı Araç Türlerinin Maruz Kaldıkları Hava Dirençleri eşleştirme etkinliğini yapar; en büyük direncin hangi araca neden etki ettiği tartışılır. Ters orantıyı dişli çarklarla anlatan EBA videosu izlenir, öğrenciler günlük hayattan örnekleri dijital panoda paylaşır ve EBA Sorular bölümündeki iki soru birlikte çözülür. Merkezinde “ters orantı” olan bir zihin haritası oluşturulur. Ödev olarak EBA'daki Ters Orantılı İki Çokluktan Biri Verildiğinde Diğerini Bulma alıştırması verilir; sonraki ders için oyuncak araba, cetvel, açıölçer, kâğıt ve kalem istenir."
+   ],
+   [
+    "3. ders",
+    "Öğretmen, dişli çarklardakine benzer bir ilişkinin arabanın ön yüzünün zeminle yaptığı açı ile hava direnci arasında olup olmadığını sorar. Gruplar diğer etkenleri sabit kabul ederek oyuncak arabaların ön yüzünün zeminle yaptığı geniş açıyı cetvel ve açıölçerle ölçer. Tablodaki örnek satırı (190° → 460 N) referans alıp ters orantıyla her araç için tahminî hava direncini hesaplar ve sonuçları sunar. Gruplar değerlendirme formuyla puanlanır, ödev olarak EBA'daki Ters Orantı alt konu testi gönderilir."
+   ]
+  ],
+  "gerek": "Oyuncak arabalar, cetvel, açıölçer, Ek-1 hava direnci tablosu, grup değerlendirme formu, etkileşimli tahta, EBA; eşleştirme, zihin haritası, dijital pano ve sınıf yönetimi araçları."
+ },
+ {
+  "id": 178,
+  "unite": "Sayılar ve İşlemler",
+  "ad": "Yağmur Suyunu Yakalayalım",
+  "ozet": "6. sınıf oran bilgisi tekrar edildikten sonra Dünya'daki su kaynakları videosundaki verilerden oranlar kurulur; gruplar tatlı suyun korunması için çözüm prototipleri geliştirip sunar, geçirimli beton fikri yapay zekâ görselleriyle canlandırılır ve son derste geçirimli beton bağlamındaki oran problemleri bireysel olarak çözülür.",
+  "ozu": "<p>Senaryo oranı <b>su kaynaklarının korunması</b> sorunuyla ilişkilendiriyor. Öğrenciler videodaki verilerden kendi oranlarını kuruyor ve tatlı su sorununa oran bilgisini kullanarak çizim ya da 3B model şeklinde çözüm üretiyor. Yağmur suyunu yer altına geçiren geçirimli beton örneği matematiği mühendislikle bağlıyor; değerlendirme bu bağlamda yazılmış açık uçlu bir etkinlik kâğıdıyla yapılıyor.</p>",
+  "dersler": [
+   [
+    "1. ders",
+    "EBA'daki İki Niceliğin Karşılaştırılması: Oran videosuyla 6. sınıf oran bilgisi hatırlatılır. Çevrim içi tartışma araçlarında öğrenciler kafalarındaki soruları açıp birlikte cevap arar. Ardından EBA'daki Alıştırmalar-Oran testi etkileşimli tahtada birlikte çözülür."
+   ],
+   [
+    "2. ders",
+    "EBA'daki Dünyadaki Su Kaynakları videosu izlenir; 4-5 kişilik gruplar video ikinci kez oynatılırken verilerden oranlar kurar ve dijital panoda paylaşır, hatalar düzeltilir. Tatlı su kaynaklarının kısıtlı olduğu vurgulanır, gruplar “Tatlı su neden azalıyor, nasıl korunur?” sorularına beyin fırtınası aracında cevap arar. Ödev olarak bu çözümlere oranı da dikkate alan bir çizim ya da 3B model (prototip) hazırlanması istenir."
+   ],
+   [
+    "3. ders",
+    "“Yağmur suyu şehirlerde de doğrudan yer altına geçebilir mi?” sorusuna gruplar dijital panoda çözüm önerir. Öğretmen geçirimli beton uygulamasını tanıtır; öğrenciler bunu zihinlerinde canlandırıp yapay zekâ destekli görsel araçlarla görseller üretir ve yorumlar. “Zemin hem suyu geçirip hem nasıl sağlam olur?” sorusu tartışılır, yapay zekâya “Geçirimli beton nedir?” diye sorulup cevap sınıfa dinletilir."
+   ],
+   [
+    "4. ders",
+    "Gruplar prototiplerini sunar; öğretmen neleri dikkate aldıklarını, hangi zorluklarla karşılaştıklarını ve oran bilgisinin işlerine nasıl katkı sağladığını sorar, geri bildirim verir. EBA'daki Oranı Verilen Çoklukların Değerini Bulma etkinliği gönüllülerle tamamlanır ve oranla ilişkisi açıklanır."
+   ],
+   [
+    "5. ders",
+    "EBA Zenginleştirilmiş Kitap'taki oran alıştırmaları yapılır, gönüllüler tahtada çözer. Öğrenciler geçirimli beton konulu açık uçlu etkinlik kâğıdını bireysel olarak çözer. Kâğıtlar toplanıp öğretmen değerlendirme formuyla puanlanır, çözümler gönüllülerle tahtada yapılır ve sonuçlar sonraki derste paylaşılır."
+   ]
+  ],
+  "gerek": "Geçirimli beton etkinlik kâğıdı (Ek-1), öğretmen değerlendirme formu, prototip malzemeleri, etkileşimli tahta, EBA; çevrim içi tartışma, dijital pano, beyin fırtınası ve yapay zekâ araçları."
+ },
+ {
+  "id": 179,
+  "unite": "Sayılar ve İşlemler",
+  "ad": "Yüzdelerin Gücüyle İleri Dönüşüm",
+  "ozet": "Geri dönüşüm sembolü ve atık yönetimi videosuyla başlayan senaryoda gruplar sınıfta organik atıkları toplamak için 3B geri dönüşüm kutusu tasarlar ve tasarımlarını ideal ölçülere getirmek için yüzde kaç artırma ya da azaltma gerektiğini hesaplar; ardından kompost sunumları yapılır ve TÜİK atık verileriyle artma/azalma yüzdeleri bulunur.",
+  "ozu": "<p>Senaryo yüzde artma ve azalmayı <b>ileri dönüşüm</b> ve kompost temasıyla öğretiyor. İlk uygulama somut bir tasarım problemi: kendi kutularının ölçüleri ile ideal ölçüler (30×40×150 cm) arasındaki farkı yüzde olarak bulmak. İkinci uygulama gerçek veriyle çalışıyor: TÜİK'in işlenen atık miktarları yuvarlanıp yıllar arasındaki değişim yüzdesi hesaplanıyor.</p>",
+  "dersler": [
+   [
+    "1-2. ders",
+    "Geri dönüşüm sembolü gösterilip “Bu işaret ne anlama geliyor?” diye sorulur, fikirler dijital panoya yazılır. EBA'daki Atık Yönetimi videosu izlenir ve organik atık kutusuna neler atılabileceği konuşulur; mutfak atıklarının da ileri dönüşüme katılabileceği vurgulanıp sınıfta organik atıkla bitki yetiştirme fikri ortaya atılır. 3-5 kişilik gruplar 3B modelleme aracında bir geri dönüşüm kutusu tasarlar. İdeal ölçü 30×40×150 cm olarak verilince gruplar kendi tasarımlarıyla farkı ve yüzde kaç artırma ya da azaltma gerektiğini hesaplar, öğretmen anında dönüt verir. Ders sonrası gruplar organik atıklarla bitkinin nasıl besleneceğini (kompost suyu ve posası) araştırıp neden-sonuç ifadeleriyle etkileşimli sunum hazırlar.",
+    "1-2"
+   ],
+   [
+    "3-4. ders",
+    "Gruplar dijital panodaki sunumlarını yapar ve öz-akran değerlendirme formunu doldurur. TÜİK Atık Bertaraf ve Geri Kazanım Tesis Göstergeleri verilerinin yer aldığı çalışma kâğıdı dağıtılır; öğrenciler atık miktarlarını en yakın on binler basamağına yuvarlayıp hesap makinesiyle yıllar arasındaki artma ya da azalma yüzdelerini bulur. Ders sonrası MEB kazanım testlerinden derlenen Yüzdeler etkinliği sınıf yönetimi aracıyla gönderilir ve takip edilir.",
+    "3-4"
+   ]
+  ],
+  "gerek": "Geri dönüşüm sembolü görseli, TÜİK verili çalışma kâğıdı (Ek-2), öz-akran değerlendirme formu (Ek-1), hesap makinesi, etkileşimli tahta, EBA; 3B modelleme, dijital pano, etkileşimli sunum, test hazırlama ve sınıf yönetimi araçları."
+ }
+]
