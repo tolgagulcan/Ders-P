@@ -1,5 +1,113 @@
 ## 8. Sinif/Ingilizce/Tourism - Holiday!.pdf
-SURE:None KOD:
+SURE:4 KOD:
 KAV:
-
+Activities
+Before the Lesson
+Before the class, the teacher creates a digital survey on EBA. This survey includes questions such as
+“What type of holiday do you prefer?”, “Which activity do you like most?” and “Which place would you
+like to visit?” This process facilitates the discovery of shared preferences and possible holiday concepts
+through data analysis. The teacher prepares a Holiday Types presentation including various holiday
+types by using one of the interactive presentation tools.
+1. Ders (IT Class)
+Pre-Activity
+The teacher presents slides showcasing different types of holidays (beach vacations, city breaks,
+adventure trips, etc.) to prepare the students for upcoming activities, the Holiday Types presentation.
+While Activity
+The teacher asks the students to brainstorm ideas for the next holiday, providing them with clues and
+guiding them through the process: “Suppose that you are going on a holiday with your family. What kind
+of holiday do you prefer? Why?”
+The students are divided into groups to discuss their preferred holiday types within the allotted time set
+by the teacher. Groups with similar preferences are formed. The teacher provides guidance as needed.
+Subsequently, each group submits a written summary outlining their preferred holiday destination and
+the reasons behind their choice.
+The teacher asks the groups to turn their reports into presentations. For this, the teacher asks the students
+to use interactive presentation tools. The teacher then poses a new question for group discussion: “As a
+group, discuss your individual preferences and try to come up with a new holiday idea that combines
+elements everyone would enjoy. Where would you go, what would you do, and why would this be a great
+holiday for your combined group?” The teacher tells the students to be ready to make these presentations
+in the second lesson.
+3
+Holiday!
+Technology-Enhanced Learning Scenarios
+Post-Activity
+The students are required to create interactive vacation presentations using digital tools. To enhance
+engagement, they must incorporate images, videos, and audio. The teacher offers guidance on effective
+tool utilisation.
+Before the Lesson
+The teacher searches online map applications with various tourist destinations and prepares three sets
+of coloured cards (Green: Excellent; Blue: Acceptable; Red: Needs Improvement). Then, an observation
+form with evaluation criteria is created by the teacher and it is stated that the students will be assessed
+accordingly (Annex-1).
+2. Ders (IT Class)
+Pre-Activity
+The teacher and the students choose one of the online map applications to see different tourist
+destinations around the world. The teacher asks the students to share if they recognise any of the
+places. With this activity, the teacher arouses curiosity about the lesson and attracts the attention of
+the students.
+While Activity
+The teacher distributes three cards to the students and explains how to use them (e.g., Listen carefully
+to your friends’ presentations. Evaluate your friends using the cards given to you at the end of the
+presentation). The teacher introduces the observation form (Annex-1). The teacher informs the students
+in advance about the criteria on the form and provides detailed explanations of these criteria. One
+student from each group presents their group’s ideal vacation. The presentation guidelines emphasise
+correct grammar and vocabulary.
+Each group presents their work, followed by peer evaluation using provided cards. The teacher observes
+this process, offering guidance as needed.
+Post-Activity
+The teacher requires the students to create digital reflective journal using web tools for self assessment.
+In these journals, the students reflect on their experience during the lessons, what they learned, and
+areas for improvement. The teacher reviews these journals and provides personalised feedback to
+each student.
+4
+Holiday!
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher prepares a digital board titled “Vacation Dreams” on EBA, creates a “word box” for the
+gamification activity and outlines the competition rules.
+3. Ders (IT Class)
+Pre-Activity
+The teacher creates a digital board titled “Vacation Dreams” and uses EBA for this activity. The students
+brainstorm and post images, short videos, or text representing their ideal vacation destinations.
+While Activity
+The teacher enhances the students’ vocabulary acquisition through an engaging competition. The
+class is divided into two groups. The teacher prepares ten vocabulary words related to the unit (e.g.
+ancient, rural, landmark etc.), folds them, and places them in a box labelled “word box”. During the
+competition, the students from each group take turns drawing a word from the box. If a student can
+correctly define the word, their group gets a point. If the student is unable to define the word, it will be
+returned to the box. The game continues until one group manages to score the most points.
+Additionally, to reinforce writing skills, the students access Writing Exercise 1: Tourism on EBA. The teacher
+reads the writing text and puts the emphasis on holiday activities and places. They then use this outline
+to compose a paragraph about a place they have visited, integrating vocabulary from the competition.
+Post-Activity
+The teacher displays sample brochures by using one of the interactive presentation tools. The students
+are then required to create brochures based on their outline and the teacher provides support when
+needed. By integrating vocabulary reinforcement through competition with writing exercises and
+brochure design, the students engage actively in both language acquisition and digital literacy skills
+development.
+Before the Lesson
+The teacher prepares blurred or partially hidden photos of famous landmarks in Türkiye and also
+creates a word association test focused on vocabulary related to unit outcomes (Annex-2).
+4. Ders (Class)
+Pre-Activity
+The teacher displays a series of images of notable landmarks (blurred or partially hidden) in Türkiye.
+The students guess the location and share what they already know about it.
+5
+Holiday!
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher initiates Listening Exercise: Tourism on EBA to reinforce the vocabulary and structures
+related to unit outcomes. The students listen to the text and answer questions about the listening text
+while improving their listening skills.
+To encourage vocabulary acquisition, a word association test is employed (Annex-2). This activity
+can be conducted individually or in groups. The students are briefed on the test procedure and the
+associated marking scheme. They are asked to senerate words and phrases associated with “tourism
+and preferences” and subsequently incorporate these into sentences that relate to “holiday plans”.
+One mark is awarded for each valid word or phrase linked to “holiday plans” (e.g. seaside, abroad,
+souvenir). Two marks are awarded for each meaningful sentence pertaining to “holiday plans” (e.g. “I
+prefer urban places; I think they are fascinating.”, “I’d rather have a cultural holiday than a historical
+one.”, “I prefer a historical holiday.”).
+Post-Activity
+The teacher reviews and evaluates the students’ responses, providing feedback based on their
+performance.
+Evaluation/
 LINKS:[["Holiday Types", "Uh47lZC"], ["EBA-Writing Exercise 1: Tourism", "o42WMy"], ["EBA-Listening Exercise: Tourism", "0p2kzR"]]

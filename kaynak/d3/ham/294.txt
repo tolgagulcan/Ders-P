@@ -1,5 +1,109 @@
 ## 6. Sinif/Ingilizce/Life - I Like My Routines!.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher assigns the students to think of a routine day, their repeated actions and their free time
+activities. The teacher wants the students to focus on verbs to describe their actions. Thanks to this
+assignment, the students get the preliminary information about the basic routines and free time
+activities, and this makes it easy to follow the lesson. Additionally, the teacher prepares Routines
+Flashcards by using visual creation and editing tools (Annex-1). Lastly, the teacher prepares a Find
+Routines activity by using a web tool for matching activities and uses the activity for evaluation
+(Annex-2).
+3
+I Like My Routines!
+Technology-Enhanced Learning Scenarios
+1. Ders (Class)
+Pre-Activity
+The teacher initiates the lesson with a game named “Names and Adjectives”. The teacher wants the
+students to think of an adjective to describe themselves. The adjective must start with the same letter
+as their name. For instance, “I am Fatma, and I am funny.” After all the students tell their names and
+adjectives, the teacher says “I am funny, I like my routines and also free time activities are very important
+for me.” to draw attention to the new topic. “Without the free time activities and the hobbies, the life will
+be more boring.” says the teacher and asks the students “What are your routines and hobbies? What do
+you do in your free time?”.
+While Activity
+The teacher initiates the Routines Flashcards on the interactive whiteboard (Annex-1). The teacher
+focuses on each flashcard and asks the students about their routines. The teacher shares the Routines
+Flashcards on EBA and wants the students to go over the flashcards for a few times (Annex-1). After
+completing the flashcards, the teacher asks the students to keep the routines in their mind for the game
+they will play. The teacher explains the game instructions clearly. The teacher says that one of the
+students will come to the board and the student will choose a routine to describe to the other classmates.
+While describing, the student cannot speak. The students can just use mimes or body language. Who
+knows the correct routine comes to the board and tries to describe another routine. The student who
+gives the most correct answer becomes the winner and the teacher gives a printed routine flashcard
+as a prize. The students are instructed to continue playing game until the routines have been sufficiently
+consolidated.
+Post-Activity
+Once the required vocabulary has been sufficiently revised, the teacher initiates the Find Routines
+activity on interactive whiteboard and wants the students to come to the board, drag and drop the
+correct routine to match it with the correct picture (Annex-2). The teacher provides feedback to the
+students when they achieve the correct matches.
+Before the Lesson
+Prior to the lesson, the teacher prepares a presentation of Talking about Routines with the help of
+interactive presentation tools (Annex-3). Additionally, the teacher creates a sticky note by using a tool
+for creating digital boards or post-its. Lastly the teacher finds a song named “Hours of the day” about
+the daily routines to use as a warm-up activity.
+2. Ders (IT Class)
+Pre-Activity
+Thanks to the “Hours of the day” song, the students not only remember the routines in a day but also have
+fun and feel ready for the class. While listening to the song, the teacher wants the students to imitate the
+mentioned routine by using mimes or body language and in this way the teacher aims to see whether
+the students can recognise phrases, words and expressions related to repeated actions or not.
+4
+I Like My Routines!
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher initiates the presentation of Talking about Routines with the help of an interactive
+presentation tool (Annex-3). The teacher focuses on the sample sentences and emphasises the
+rules of forming a correct sentence. After all positive, negative and question forms are exemplified,
+the teacher forms extra different types of sentences by using different subjects. The teacher draws
+attention to the different usage between the singular and plural subjects. To make the difference
+clear, the teacher writes simple sample sentences on the board by using the same verbs. For
+instance, “I get up at 7 a.m.” and “Ann gets up at 7 a.m.” and emphasises the suffix “-s, -es, -ies”. To
+deepen understanding, the teacher asks the students to form sentences of their routines by using
+simple present tense. The teacher shares the Talking about Routines presentation on EBA and asks the
+students to repeat the subject as much as possible (Annex-3).
+Post-Activity
+The teacher creates a sticky note by using a tool for creating digital boards or post-its. The teacher
+displays the sample sticky note including a casual morning routine and shares the morning routine
+sticky note with the students. The sticky note starts like “I get up at 7 in the morning. I wash my
+hands and face, brush my teeth. After I have my breakfast...” The teacher asks the students to work
+individually on the sticky note and to continue to write their routine day at least with five sentences.
+The teacher helps the students to write their routines. When the students have finished, they share
+their work with their classmates, who can like or comment on it.
+Homework/Assignment
+As an assignment the teacher shares Grammar Exercise 1: Life on EBA. The teacher asks the students
+to match the pictures with the correct sentences.
+Before the Lesson
+Prior to the lesson, the teacher uses artificial intelligence powered tools to write and record the daily
+routine of a famous person. The teacher may use prompts such as “Write the basic routine day of Aziz
+Sancar with ten sentences by using simple present tense.” or “Write an ordinary day of Messi with ten
+sentences.” The teacher prepares a peer assessment form to be used as an evaluation at the end of
+the lesson (Annex-4).
+3. Ders (IT Class)
+Pre-Activity
+The teacher initiates the lesson with a video titled “Morning Routines of Highly Successful People”. After
+watching the video, the teacher asks, “What is the importance of our routine?” and tries to emphasise
+the significance of a planned routine day.
+5
+I Like My Routines!
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher shows the daily routine of a famous person created by artificial intelligence powered
+tools. With assistance from an artificial intelligence powered tool, the teacher guides each student
+through an audio text, which is played through headphones. The teacher goes over each sentence
+to remind the students the usage of simple present tense and the verbs to state routines. Following
+a thorough reading and listening of the script, the teacher provides instruction to the students to
+work in pairs to create an illustration of the script. The teacher explains to the students what to do in
+detail and reminds that their works will be evaluated by their pairs. The teacher asks students to read
+the script again and dream on the routines mentioned. After the students dream of the character’s
+daily routine, use a digital story creation tool to illustrate their character’s routine. While the students
+are working on their stories, the teacher walks around the classroom, observes the works, provides
+feedback and helps the students if they need.
+Post-Activity
+The teacher distributes the peer assessment form to the students and wants them to evaluate their
+workmate (Annex-4). The teacher discusses the results of the assessment with the students and
+provides the necessary feedback.
+Evaluation/
 LINKS:[["Routines Flashcards", "WAqpMj"], ["Find Routines", "kNGMZg"], ["Talking about Routines", "94X3Pu"], ["EBA-Grammar Exercise 1: Life", "Uca1xJF"]]

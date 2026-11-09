@@ -816,7 +816,7 @@
 "OeiGKr"
 ]
 ],
-"akis_len": 0
+"akis_len": 11596
 },
 {
 "id": 23,
@@ -915,7 +915,7 @@
 "UTNUGVf"
 ]
 ],
-"akis_len": 0
+"akis_len": 13298
 },
 {
 "id": 26,
@@ -944,7 +944,7 @@
 "30DRFD"
 ]
 ],
-"akis_len": 0
+"akis_len": 8614
 },
 {
 "id": 27,
@@ -969,7 +969,7 @@
 "UES4bIU"
 ]
 ],
-"akis_len": 0
+"akis_len": 8257
 },
 {
 "id": 28,
@@ -1096,7 +1096,7 @@
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "Adventures - Move More, Live More",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1121,14 +1121,14 @@
 "UIXjijG"
 ]
 ],
-"akis_len": 0
+"akis_len": 11875
 },
 {
 "id": 33,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "Chores - Chores Build Responsibility",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1165,14 +1165,14 @@
 "UpkstcF"
 ]
 ],
-"akis_len": 0
+"akis_len": 10746
 },
 {
 "id": 34,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "Friendship - Life Is Meaningful with Friends!",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1205,14 +1205,14 @@
 "U86O3Ur"
 ]
 ],
-"akis_len": 0
+"akis_len": 8314
 },
 {
 "id": 35,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "In the Kitchen - Digital Chef- Interactive English in the Kitchen",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1261,14 +1261,14 @@
 "4hRKWm"
 ]
 ],
-"akis_len": 0
+"akis_len": 8069
 },
 {
 "id": 36,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "On the Phone - Phone Time",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1333,14 +1333,14 @@
 "U6jtL40"
 ]
 ],
-"akis_len": 0
+"akis_len": 13061
 },
 {
 "id": 37,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "Teen Life - World of Teenagers",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1377,14 +1377,14 @@
 "aDX45m"
 ]
 ],
-"akis_len": 0
+"akis_len": 7460
 },
 {
 "id": 38,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "The Internet - Worldwide Explorers",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1421,14 +1421,14 @@
 "UJn27si"
 ]
 ],
-"akis_len": 0
+"akis_len": 8787
 },
 {
 "id": 39,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "Tourism - Holiday!",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1445,14 +1445,14 @@
 "0p2kzR"
 ]
 ],
-"akis_len": 0
+"akis_len": 7300
 },
 {
 "id": 40,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "Tourism - If I Were a Tourist!",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1489,14 +1489,14 @@
 "wg36fd"
 ]
 ],
-"akis_len": 0
+"akis_len": 8210
 },
 {
 "id": 41,
 "sinif": "8. Sinif",
 "ders": "Ingilizce",
 "dosya": "Tourism - Travel Adventures- Exploring the World",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -1509,7 +1509,7 @@
 "bfxGEl"
 ]
 ],
-"akis_len": 0
+"akis_len": 9057
 },
 {
 "id": 42,
@@ -1559,7 +1559,7 @@
 "FFtcHu"
 ]
 ],
-"akis_len": 0
+"akis_len": 3137
 },
 {
 "id": 43,
@@ -1623,7 +1623,7 @@
 "kf9ZUo"
 ]
 ],
-"akis_len": 0
+"akis_len": 2788
 },
 {
 "id": 45,
@@ -1712,7 +1712,7 @@
 "UJONJj0"
 ]
 ],
-"akis_len": 0
+"akis_len": 5162
 },
 {
 "id": 47,
@@ -1873,7 +1873,7 @@
 "3OHvnd"
 ]
 ],
-"akis_len": 0
+"akis_len": 3353
 },
 {
 "id": 51,
@@ -5601,14 +5601,14 @@
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Family Life - Rhythm of My Family",
-"sure": null,
+"sure": 3,
 "kod": [
 "ENG.5.4.L2.",
 "ENG.5.4.L3.",
 "ENG.5.4.R2.",
 "ENG.5.4.R3."
 ],
-"kav": "",
+"kav": "Family life, Routines and hobbies, Everyday habits, Actions happening at the moment",
 "link": [
 [
 "Routine or Today?",
@@ -5643,14 +5643,14 @@
 "Ukca7gD"
 ]
 ],
-"akis_len": 0
+"akis_len": 9193
 },
 {
 "id": 147,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Games and Hobbies - Let's Play Together!",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -5687,14 +5687,14 @@
 "U6H2itP"
 ]
 ],
-"akis_len": 0
+"akis_len": 5656
 },
 {
 "id": 148,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Hello! - Around the World",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -5715,14 +5715,14 @@
 "YjWZsC"
 ]
 ],
-"akis_len": 0
+"akis_len": 7479
 },
 {
 "id": 149,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Hello! - Digital Meet & Greet",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -5759,14 +5759,14 @@
 "URTTEBp"
 ]
 ],
-"akis_len": 0
+"akis_len": 8862
 },
 {
 "id": 150,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Hello! - Nice To Meet You!",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -5791,16 +5791,16 @@
 "WmQate"
 ]
 ],
-"akis_len": 0
+"akis_len": 7147
 },
 {
 "id": 151,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Life in Nature - Animals and Nature",
-"sure": null,
+"sure": 3,
 "kod": [],
-"kav": "",
+"kav": "Habitats, Wild animals, Types of animals",
 "link": [
 [
 "Guess Game",
@@ -5847,21 +5847,21 @@
 "pMFecn"
 ]
 ],
-"akis_len": 0
+"akis_len": 9686
 },
 {
 "id": 152,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Life in the Neighbourhood & City - Neighbourhood at a Glance",
-"sure": null,
+"sure": 3,
 "kod": [
 "ENG.5.5.L2.",
 "ENG.5.5.L3.",
 "ENG.5.5.P1.",
 "ENG.5.5.V1."
 ],
-"kav": "",
+"kav": "Places for recreation and attraction, Neighbourhood, Attractions",
 "link": [
 [
 "Exploring the City",
@@ -5896,16 +5896,16 @@
 "o3QteI"
 ]
 ],
-"akis_len": 0
+"akis_len": 7731
 },
 {
 "id": 153,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Life in the Universe & Future - Next Stop- The Future",
-"sure": null,
+"sure": 3,
 "kod": [],
-"kav": "",
+"kav": "Future, Plans, Travel, Exploration, Digital learning, Communication",
 "link": [
 [
 "Where to Go Next?",
@@ -5944,21 +5944,21 @@
 "UpNTg6X"
 ]
 ],
-"akis_len": 0
+"akis_len": 8837
 },
 {
 "id": 154,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "Life in the World - Eat Healthy, Stay Healthy",
-"sure": null,
+"sure": 3,
 "kod": [
 "ENG.5.6.L3.",
 "ENG.5.6.P1.",
 "ENG.5.6.R2.",
 "ENG.5.6.R3."
 ],
-"kav": "",
+"kav": "Food events, Healthy life, Ordering in a restaurant",
 "link": [
 [
 "Tap and Say",
@@ -5993,14 +5993,14 @@
 "kC0WxY"
 ]
 ],
-"akis_len": 0
+"akis_len": 7512
 },
 {
 "id": 155,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "My Daily Routine - A Day in My Life",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -6033,14 +6033,14 @@
 "UWrudpt"
 ]
 ],
-"akis_len": 0
+"akis_len": 7108
 },
 {
 "id": 156,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "My Town - Let's Go- Explore the City",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -6085,21 +6085,21 @@
 "O9SV7V"
 ]
 ],
-"akis_len": 0
+"akis_len": 8196
 },
 {
 "id": 157,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "School Life - Happy School Moments",
-"sure": null,
+"sure": 3,
 "kod": [
 "ENG.5.1.L2.",
 "ENG.5.1.L3.",
 "ENG.5.1.P1.",
 "ENG.5.1.R2."
 ],
-"kav": "",
+"kav": "School life, School places, School clubs, School rules",
 "link": [
 [
 "Our School Life Song-Track",
@@ -6130,14 +6130,14 @@
 "MGGIMZ"
 ]
 ],
-"akis_len": 0
+"akis_len": 11051
 },
 {
 "id": 158,
 "sinif": "5. Sinif",
 "ders": "Ingilizce",
 "dosya": "The Animal Shelter - Interactive Pet Shelter",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -6190,7 +6190,7 @@
 "MTNdyt"
 ]
 ],
-"akis_len": 0
+"akis_len": 6214
 },
 {
 "id": 159,
@@ -6734,7 +6734,7 @@
 "U68bCqn"
 ]
 ],
-"akis_len": 0
+"akis_len": 8802
 },
 {
 "id": 172,
@@ -7060,7 +7060,7 @@
 "UevTlP2"
 ]
 ],
-"akis_len": 0
+"akis_len": 8176
 },
 {
 "id": 181,
@@ -7130,7 +7130,7 @@
 "DkVq6c"
 ]
 ],
-"akis_len": 0
+"akis_len": 16584
 },
 {
 "id": 183,
@@ -7155,7 +7155,7 @@
 "T2i0ma"
 ]
 ],
-"akis_len": 0
+"akis_len": 16802
 },
 {
 "id": 184,
@@ -7220,7 +7220,7 @@
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Appearance and Personality - Little Detectives- What’s on the Note-",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7245,14 +7245,14 @@
 "5JaUq0"
 ]
 ],
-"akis_len": 0
+"akis_len": 12478
 },
 {
 "id": 187,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Biographies - The Story of a Scientist",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7285,14 +7285,14 @@
 "2fCeT5"
 ]
 ],
-"akis_len": 0
+"akis_len": 8257
 },
 {
 "id": 188,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Celebrations - Come and Join the Party!",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7341,14 +7341,14 @@
 "CkRdYI"
 ]
 ],
-"akis_len": 0
+"akis_len": 8875
 },
 {
 "id": 189,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Dreams - Mysterious Future!",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7377,14 +7377,14 @@
 "3dshWt"
 ]
 ],
-"akis_len": 0
+"akis_len": 8226
 },
 {
 "id": 190,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Dreams - Real or Dream-",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7409,14 +7409,14 @@
 "uB7ZFt"
 ]
 ],
-"akis_len": 0
+"akis_len": 9320
 },
 {
 "id": 191,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Environment - Eco-Friendly Steps",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7477,14 +7477,14 @@
 "AjRqf1"
 ]
 ],
-"akis_len": 0
+"akis_len": 11460
 },
 {
 "id": 192,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Planets - Exploring the Cosmic Mysteries",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7521,14 +7521,14 @@
 "CAE2Fg"
 ]
 ],
-"akis_len": 0
+"akis_len": 9308
 },
 {
 "id": 193,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Public Buildings - Places in Our Neighbourhood",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7565,14 +7565,14 @@
 "URi4P1I"
 ]
 ],
-"akis_len": 0
+"akis_len": 8813
 },
 {
 "id": 194,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Sports - Don't Stop Motion",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7597,14 +7597,14 @@
 "oV6WTT"
 ]
 ],
-"akis_len": 0
+"akis_len": 12741
 },
 {
 "id": 195,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Television - Window to the World",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7645,14 +7645,14 @@
 "FGDdjN"
 ]
 ],
-"akis_len": 0
+"akis_len": 9155
 },
 {
 "id": 196,
 "sinif": "7. Sinif",
 "ders": "Ingilizce",
 "dosya": "Wild Animals - Wildlife Explorer",
-"sure": null,
+"sure": 4,
 "kod": [],
 "kav": "",
 "link": [
@@ -7713,7 +7713,7 @@
 "3eIqzV"
 ]
 ],
-"akis_len": 0
+"akis_len": 9274
 },
 {
 "id": 197,
@@ -9028,7 +9028,7 @@
 "U7DLYiL"
 ]
 ],
-"akis_len": 0
+"akis_len": 7449
 },
 {
 "id": 228,
@@ -11299,7 +11299,7 @@
 "mUkzC0"
 ]
 ],
-"akis_len": 0
+"akis_len": 13909
 },
 {
 "id": 272,
@@ -11822,14 +11822,14 @@
 "UmQGMJY"
 ]
 ],
-"akis_len": 0
+"akis_len": 6866
 },
 {
 "id": 286,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "At the Fair - Fun at the Fair",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -11882,14 +11882,14 @@
 "lo8nb5"
 ]
 ],
-"akis_len": 0
+"akis_len": 9063
 },
 {
 "id": 287,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Bookworms - Fantactic Readers!",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -11930,14 +11930,14 @@
 "Up4zphd"
 ]
 ],
-"akis_len": 0
+"akis_len": 7654
 },
 {
 "id": 288,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Bookworms - Write and Draw!",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -11946,14 +11946,14 @@
 "RKNuq5"
 ]
 ],
-"akis_len": 0
+"akis_len": 4972
 },
 {
 "id": 289,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Democracy - The Power of Choice",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -11990,14 +11990,14 @@
 "UZIRMkH"
 ]
 ],
-"akis_len": 0
+"akis_len": 8123
 },
 {
 "id": 290,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Downtown - Let’s Find Somewhere Peaceful!",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12034,14 +12034,14 @@
 "IL1KJ6"
 ]
 ],
-"akis_len": 0
+"akis_len": 7385
 },
 {
 "id": 291,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Holidays - Draw Your Holiday",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12054,14 +12054,14 @@
 "UFykO5F"
 ]
 ],
-"akis_len": 0
+"akis_len": 5486
 },
 {
 "id": 292,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Holidays - Holiday Adventure",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12086,14 +12086,14 @@
 "P3JVL8"
 ]
 ],
-"akis_len": 0
+"akis_len": 7239
 },
 {
 "id": 293,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Holidays - Holiday Tales",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12130,14 +12130,14 @@
 "7I0B7f"
 ]
 ],
-"akis_len": 0
+"akis_len": 6239
 },
 {
 "id": 294,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Life - I Like My Routines!",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12158,14 +12158,14 @@
 "Uca1xJF"
 ]
 ],
-"akis_len": 0
+"akis_len": 7599
 },
 {
 "id": 295,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Occupations - Exploring Future Occupations",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12202,14 +12202,14 @@
 "UodtPG8"
 ]
 ],
-"akis_len": 0
+"akis_len": 7127
 },
 {
 "id": 296,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Saving the Planet - We Are Planet Protectors!",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12234,14 +12234,14 @@
 "U2koAFO"
 ]
 ],
-"akis_len": 0
+"akis_len": 7077
 },
 {
 "id": 297,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Weather and Emotions - Emotional Impact of Weather",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12286,14 +12286,14 @@
 "4EnJUh"
 ]
 ],
-"akis_len": 0
+"akis_len": 9216
 },
 {
 "id": 298,
 "sinif": "6. Sinif",
 "ders": "Ingilizce",
 "dosya": "Yummy Breakfast - Enjoy Your Meal",
-"sure": null,
+"sure": 3,
 "kod": [],
 "kav": "",
 "link": [
@@ -12330,7 +12330,7 @@
 "W7EGkM"
 ]
 ],
-"akis_len": 0
+"akis_len": 5226
 },
 {
 "id": 299,

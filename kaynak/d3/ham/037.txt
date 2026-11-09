@@ -1,5 +1,112 @@
 ## 8. Sinif/Ingilizce/Teen Life - World of Teenagers.pdf
-SURE:None KOD:
+SURE:4 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher is required to design various digital materials to enhance student engagement and
+learning. First, the teacher designs an activity named Guess the Music using one of the gamification
+web tools and downloads different types of music, such as “jazz, techno, and pop, etc.” to be used for the
+activity. Then the teacher creates an animation titled Plans for the Weekend using one of the animation
+creation tools (Annex-1). Lastly, for the assessment, the teacher developes Elizabeth’s Routines multiple-
+choice questions using one of the web tools for multiple-choice questions (Annex-2).
+1. Ders (Class)
+Pre-Activity
+The teacher introduces the Guess the Music activity, where the teacher plays the audio from the
+interactive whiteboard and asks the students to guess the types of the music such as techno, classical,
+jazz, etc. The student who gives the correct answer can dance to the music if they prefer.
+While Activity
+Following the activity, the teacher initiates the Plans for the Weekend animation, where the students are
+required to identify the phrases of preference and expressions about regular activities of teenagers
+(Annex-1). When the animation is over, the teacher asks, “What other activities do the teenagers engage
+in?” The teacher wants the students to form sentences about their favourite free time activities,
+favourite types of music and movies. Additionally, the students are required to form sentences about
+the activities that they don’t like or prefer. The students are expected to use the structures such as, “I am
+crazy about”, “I am fond of” or “I can’t stand” while talking about their activities and the teacher provides
+prompt feedback throughout the course of the activity.
+Post-Activity
+Following the animation, the teacher employs multiple-choice questions derived from Elizabeth’s
+Routines text to assess the students’ comprehension. The student who is the fastest and provides the
+greatest number of correct answers is declared to be the winner (Annex-2).
+4
+World of Teenagers
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher designs a visual named Four Corners of Me using one of the visual creation and editing tools
+to enhance student engagement. Additionally, for the assessment, the teacher is required to prepare a
+group assessment form, where the students will evaluate their group members’ performance in creating
+an animation (Annex-3).
+2. Ders ( IT Class)
+Pre-Activity
+The teacher introduces the Four Corners of Me activity, where the teacher displays a visual on the
+interactive whiteboard, asks the students to form groups of four and to think of the four parts of
+themselves such as “Something I am crazy about, something I can’t stand, etc.” The students brainstorm
+for a while, share their answers with their classmates and comment on the answers.
+While Activity
+Following the activity, the teacher wants the students to continue with their group members to create
+an animation using one of the animation creation tools, where the students are required to write short
+and simple dialogues about regular activities of teenagers and make a weekend plan. Additionally,
+the students are required to provide a simple description of their daily activities and to express what
+they prefer, like and dislike while creating the animation. The teacher informs the students that their
+performance will be evaluated by their group members at the end of the lesson. While the students are
+working on their animations, the teacher walks around the classroom to check their improvement. If the
+students need help, the teacher provides clues. If pleased with their progress, the teacher says, “Good
+job!” to encourage them.
+Post-Activity
+When the students finish creating the animation, the teacher hands out the group assessment form
+and asks the students to evaluate their group members (Annex-3). The teacher reviews the assessment
+results with the students and provides relevant feedback.
+Homework/Assignment
+The teacher shares the Reading Exercise: Teen Life on EBA and assigns the students to read the passage
+and to find the correct answers.
+5
+World of Teenagers
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher is required to design various digital materials to enhance student engagement and learning.
+First, the teacher creates an activity titled How Do You Feel? using one of the gamification web tools.
+Moreover, the teacher prepares a presentation titled Adjectives for Emotions using one of the interactive
+presentation tools (Annex-4). Lastly, for the assessment, the teacher creates a matching activity named
+Adjectives and Explanations using one of the web tools for matching activities (Annex-5).
+3. Ders (Class)
+Pre-Activity
+The teacher introduces the How Do You Feel? activity, where the teacher initiates the visual on the
+interactive whiteboard, asks the students to choose a feeling from the visual that reflects their emotions
+such as embarrassed or happy, then drag the marbles into the corresponding box and the teacher
+then explains the reasons in a few sentences.
+While Activity
+After the activity, the teacher initiates the Adjectives for Emotions presentation, where the students
+follow the provided adjectives and identify their meanings. (Annex-4). During the presentation of the
+adjectives, the teacher writes additional examples on the board and invites the students to form
+sentences to discuss their preferences using the provided adjectives.
+Post-Activity
+After the presentation, to assess the comprehension, the teacher implements the Adjectives and
+Explanations matching activity, where the students are encouraged to match the adjectives with the
+corresponding explanations (Annex-5).
+Before the Lesson
+The teacher creates a sticky note using one of the tools for creating digital boards or post-its, where the
+students are required to complete the assigned sticky note.
+4. Ders (IT Class)
+Pre-Activity
+The teacher introduces a miming and gesturing game designed to enhance student engagement and
+recall of the adjectives, and free time activities of teenagers. The teacher asks for a volunteer student to
+come to the board and use mimes, gestures, or body language to describe an adjective or a teenage
+free-time activity, while the other students try to guess it. The student who guesses the correct answer
+comes to the board to describe another adjective.
+6
+World of Teenagers
+Technology-Enhanced Learning Scenarios
+While Activity
+After the miming and gesturing exercise, the teacher introduces a sticky note containing a sample daily
+routine, free time activities, or hobbies. The teacher shares the sticky note with the students, explains
+the task, and invites them to describe their routines or hobbies using both an emoji and an adjective to
+express how each activity makes them feel. The sticky note prompts the students to share not only their
+favorite activities but also their least favorite ones. The teacher supports the students as they plan their
+routines and hobbies. Once completed, the students are encouraged to share their responses with
+their classmates.
+Post-Activity
+Once the sticky notes have been completed and shared with their classmates, the students proceed
+to assess their comprehension of the adjectives. They then attempt to identify the adjectives that
+correspond to the emojis. They provide feedback on the emojis and share information with their
+classmates.
+Evaluation/
 LINKS:[["Guess the Music", "jK8RiS"], ["Plans for the Weekend", "UxXMFWU"], ["Elizabet’s Routines", "5f5X2h"], ["Four Corners of Me", "Uu0Aowd"], ["EBA-Reading Exercise: Teen Life", "U8ZgNi9"], ["How Do You Feel Today?", "2Xfh8S"], ["Adjectives for Emotions", "UH4oAOp"], ["Adjectives and Explanations", "aDX45m"]]

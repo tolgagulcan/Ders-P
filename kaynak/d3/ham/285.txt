@@ -1,5 +1,133 @@
 ## 6. Sinif/Turkce/Okuma Kulturu - Kitaplarla El Ele.pdf
 SURE:6 KOD:T.6.1.3. T.6.1.4. T.6.2.4. T.6.1.7.
 KAV:
-
+ÖğrenmeEtkinlikleri
+Öğrenme Yaklaşımı
+Bu senaryomuzda 6. sınıf Türkçe ders kitabının “Okuma Kültürü” temasındaki “Oğuz Kitaplarla Tanışıyor”
+adlı metnin etkinlikleri, işleniş açısından teknoloji odaklı olarak ele alınmıştır.
+1. Ders (Sınıf)
+Öğretmen, konuya dikkat çekmek amacıyla öğrencilere yönelttiği “Kitap okumak neden önemlidir?”
+sorusuyla derse giriş yapar. Öğrencilerin vızıltı 55 yöntemini kullanarak ilgili konuda tartışmalarını sağlamak
+için onları, sınıf mevcudunu göz önünde bulundurarak (örneğin beşer kişi olarak) gruplar. Öğrenciler beşer
+kişilik gruplar oluşturur ve kendi gruplarıyla çember düzenine geçerler. Soruda irdelenen konu üzerine
+gruptaki her öğrenci, grup çemberinde bir yanında bulunan arkadaşına 5 dakika süreyle fikrini aktarır.
+“Oğuz Kitaplarla Tanışıyor” metni, bir dinleme metni olduğundan öğrenciler metni birkaç defa dinlerler.
+Öğretmen, öğrencilerden dinledikleri metne uygun bir başlık düşünmeleri ister. Gelen cevapları kelime
+bulutu oluşturma araçları yardımıyla etkileşimli tahtada yazarak görselleştirir. Ardından öğretmen, sınıfa
+başlık seçiminde dikkat edilmesi gereken noktaların neler olduğuna dair açıklamalar yapar.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Yaratıcı ve yenilikçi düşünme
+2. Ders (BT Sınıfı)
+Öğretmen, ilk adım olarak özet yazarken nelere dikkat edilmesi gerektiğine dair öğrencileri bilgilendirir.
+Öğrenciler önemli noktaları deftere not eder. Ardından öğretmen, öğrencileri beşerli gruplara ayırarak
+her grubun “Oğuz Kitaplarla Tanışıyor” adlı metnin özetini ortak olarak yazmasını ister. Öğrenciler, iş birlikli
+çalışmayı destekleyen araçlar yardımıyla özetlerini oluşturur.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, İş birliği
+3. Ders (BT Sınıfı)
+Öğretmen, grupları dolaşarak özetlere göz atıp gruplara geri bildirimlerde bulunur. Gruplar, özetlerini
+son kez gözden geçirir ve düzenler. Tamamlanan özetleri grup sözcüleri okur ve grup üyeleri, öğret-
+menin EBA’da paylaştığı grup değerlendirme formu aracılığıyla değerlendirme yaparlar (Ek-1).
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, İş birliği
+4. Ders (Sınıf)
+Öğrenciler, bu derste kitap okuma hakkında bir konuşma yapacaklardır. Oyunlaştırılmış ölçme ve değer-
+lendirme web araçları yardımıyla hazırlanan Kelime Çarkını döndürüp çarktan çıkan üç sözcük odağında
+konuşmayı gerçekleştirirler (Ek-2).
+Ev Çalışması
+Konuşmasını tamamlayan her öğrenci, öğretmenin EBA’da paylaştığı öz değerlendirme formu yardı-
+mıyla kendini değerlendirir (Ek-3).
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Yaratıcı ve yenilikçi düşünme
+3 Kitaplarla El Ele
+5. ve 6. Ders (Sınıf)
+Bu dersimizde öğrenciler, ders kitabının 185. sayfasındaki 6. etkinlikte bulunan metin tamamlama etkin-
+liğini dijital hikâye oluşturma araçlarını kullanarak yapacaklardır. Öğrenciler metin tamamlama etkin-
+liğine başlamadan önce öğretmen, öyküleyici metin yazarken dikkat edilmesi gereken noktalarla ilgili
+bir anlatım gerçekleştirir. Öğrenciler, akıllarına takılan konular varsa sorularını sorarlar. Her öğrenci ders
+süresi içinde çalışmasını yapacak. Öğretmen, yapılan çalışmalara uygun bir zamanda geri bildirim-
+lerde bulunur.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Yaratıcı ve yenilikçi düşünme, Üretkenlik
+Beceriler
+Öğrenme Yaklaşımı
+Değerlendirme Yöntemleri/Araçları
+• Ders kitabı etkinlikleri • Grup değerlendirme formu
+• Öz değerlendirme formu • Oyunlaştırılmış ölçme ve değerlendirme web araçları
+• Kelime bulutu oluşturmayı sağlayan web
+araçları
+REFERANS
+Beceriler
+Öğrenme
+İlgili Bağlantılar
+Yaklaşımı
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Kelime Çarkı: https://meb.ai/UmQGMJY (Son erişim tarihi: 08.05.2024)
+Kaynakça
+Ertürk N., Keleş S., Külünk D. (2021). Ortaokul ve imam hatip ortaokulu 6. sınıf Türkçe ders kitabı. Millî Eğitim
+Bakanlığı Yayınları.
+Millî Eğitim Bakanlığı. (2019). Türkçe dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=663
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Mayıs 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr
+Tanju, E. H. (2011). Çocuklarda kitap okuma alışkanlığına genel bir bakış. Aile ve Toplum, 6(22), 30-37.
+Wordwall. (2024). Kitaplarla el ele-kelime çarkı. Son erişim tarihi 08 Mayıs 2024, https://wordwall.net/
+resource/90766227
+4 Kitaplarla El Ele
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Grup Değerlendirme Formu
+Ek-2: Kelime Çarkı İçeriği
+Ek-3: Öz Değerlendirme Formu
+5 Kitaplarla El Ele
+Ek-1
+Grup Değerlendirme Formu
+Bu form, grupların yaptığı çalışmaları değerlendirebilmeniz için hazırlanmıştır. Her bir kriter
+için verilen ifadelerden uygun olanı seçiniz. Değerlendirmeleriniz için açıklama yapmak
+isterseniz “Açıklama” sütununa yazabilirsiniz.
+Değerlendirme Yapan Öğrencinin Adı-Soyadı: ..............................................................................................
+Grup Adı: ...........................................................................................................................................................................................
+SEÇENEKLER
+KISMEN (K)
+KRİTERLER AÇIKLAMA
+HAYIR (H)
+EVET (E)
+1. Özet, orijinal metnin ana noktalarını kapsıyor
+mu?
+2. Özet, açık ve anlaşılır bir şekilde yazılmış mı?
+3. Özet, orijinal metnin içeriğini doğru bir şekilde
+yansıtıyor mu?
+4. Özette kullanılan kelimeler doğru yazılmış
+mı?
+5. Özette noktalama işaretleri doğru kulla-
+nılmış mı?
+Kitaplarla El Ele
+Ek-2
+Kelime Çarkı İçeriği
+Öğretmen, aşağıdaki kelimeleri kullanarak oyunlaştırılmış ölçme ve değerlendirme
+web araçları ile kelime çarkı oluşturur
+ALIŞKANLIK BILGI
+ARKADAŞ
+DENEYIM HEYECAN
+HAYAL
+KEŞFETMEK MERAK
+KEYIF
+Kitaplarla El Ele
+Ek-3
+Öz Değerlendirme Formu
+Bu form, konuşma etkinliği konusundaki kendi çalışmalarınızı değerlendirmeniz amacıyla
+geliştirilmiştir. Her bir kriter için verilen ifadelerden uygun olanı seçiniz. Değerlendirmele-
+riniz için açıklama yapmak isterseniz “Açıklama” sütununa yazabilirsiniz.
+Değerlendirme Yapan Öğrencinin Adı-Soyadı: .......................................................................................
+SEÇENEKLER
+KISMEN (K)
+KRİTERLER HAYIR (H) AÇIKLAMA
+EVET (E)
+1. İşitilebilir bir ses tonuyla konuştum.
+2. Kelimeleri doğru telaffuz ettim.
+3. Vurgu ve tonlamalara dikkat ettim.
+4. Konuşmamı jest ve mimiklerle destekledim.
+5. Düşüncelerimi açık ve anlaşılır bir şekilde ifade
+ettim.
+Kitaplarla El Ele
 LINKS:[["Kelime Çarkı", "UmQGMJY"]]

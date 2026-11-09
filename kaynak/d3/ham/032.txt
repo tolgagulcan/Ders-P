@@ -1,5 +1,160 @@
 ## 8. Sinif/Ingilizce/Adventures - Move More, Live More.pdf
-SURE:None KOD:
+SURE:4 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher designs a game titled Epic Dance Challenge using one of the gamification web tools,
+and a visual titled Extreme Sports using one of the visual creation and editing tools (Annex-1). Then,
+for the assessment, the teacher prepares a matching activity titled Group the Sports, using one of the
+web tools for matching activities.
+1. Ders (Class)
+Pre-Activity
+The teacher commences the lesson by posing the questions, “What is the relation between physical
+activity and health?” and “How often do you do sports?”, thereby encouraging the students to reflect on
+the importance of physical activity for maintaining good health. Following this discussion, the teacher
+introduces the Epic Dance Challenge game. Accompanied by music, the teacher enthusiastically
+says, “Let’s dance and move to stay healthy!” and invites the students to stand up. By clicking the
+Start Dancing button, the teacher activates the stickman animation, which periodically freezes. The
+students are then asked to dance along with the stickman and imitate its pose whenever it freezes.
+While Activity
+Following the game, the teacher poses questions such as: “What kind of sports are you interested
+in?”, “Do you prefer indoor or outdoor sports?”, “Do you prefer team or individual sports?”, “Do you like
+taking risks and going beyond your limits, or do you prefer staying in your safe zone?”, “If all sports were
+free, which one would you try?”, “If you could create a new sport, what would it look like? How would
+people play it?”, and “Imagine you are a coach. How would you encourage lazy people to do more
+exercise?”. These questions are designed to activate the students’ prior knowledge, stimulate critical
+thinking, and foster personal connections with the topic. By encouraging the students to articulate
+their preferences and attitudes toward sports, the teacher not only elicits preliminary information but
+also enhances student engagement and prepares the cognitive ground for deeper exploration of
+the role of physical activity in health and well-being. The teacher then displays the Extreme Sports
+visual, where the students understand short and simple texts to find the main points about adventures
+(Annex-1). The students are then invited to form two circles, one inside, the other outside to apply the
+fishbowl technique of active learning approach. The inner circle is required to express their preferences
+about extreme sports and make comparisons between the extreme sports, and the outer circle asks
+the reasons of their preferences. After a set time, the students switch roles, allowing everyone to
+participate, which fosters critical thinking, active listening, and structured speaking in an engaging
+way. The teacher provides prompt feedback throughout the course of the activity.
+4
+Move More, Live More
+Technology-Enhanced Learning Scenarios
+Post-Activity
+Following the discussion, for the assessment, the teacher initiates the Group the Sports matching
+activity, in which the students are required to work in pairs to group the given extreme sports such as
+kayaking, rafting, skydiving under the corresponding title indicating the locations where they can be
+practised.
+Before the Lesson
+The teacher procures materials such as rope, netting, and planks, which will later be used in implementing
+of the adventure project in the school garden.
+2. Ders (Garden)
+Pre-Activity
+At the beginning of the lesson, the teacher informs the students that they will be in the school garden
+for an activity. Once in the garden, the teacher invites the students to form a circle, stands at its centre,
+displays the materials, and asks the students to guess the purpose of bringing these materials to the
+garden. The teacher evaluates the students’ guesses and indicates which ones are correct or closest to
+the intended answer. The teacher asks guiding questions such as “What is the importance of adventure
+in your lives?”, “Have you ever done an extreme sport?”, and “What is the relation between extreme
+sports and freedom?” These questions encourage the students to discuss the role of freedom and
+adventure in their lives.
+While Activity
+Following the discussion, the teacher emphasises the importance of physical activity and exercise in
+our lives and invites the students to initiate an adventure course project in the school garden. The
+ensuing details will be elucidated: firstly, the posters indicating the importance of physical activity for
+our health, in which all the details of the project will be explained; and secondly, the objective of the
+project, which is encouraging the students to socialise and engage in physical activities. The students
+are then assigned the task of designing posters for the following lesson, emphasising the importance
+of socialising and engaging in physical activities. The posters will be hung in the school corridors and
+the trees in the garden to promote the campaign, and the students make announcements to promote
+the participation of the volunteer students and the collecting of materials for the adventure area. A
+designated adventure course will be established in the garden for the use of all students using the
+materials collected. The teacher will act as a guide during the implementation of the project.
+5
+Move More, Live More
+Technology-Enhanced Learning Scenarios
+Post-Activity
+At this stage, the teacher conducts a brainstorming session with the students to reflect on the
+proposed project. The students are encouraged to share their observations and discuss the potential
+challenges and risks that might arise during the implementation of an adventure course, making
+comparisons between different adventure options. To make the process more effective, this stage
+can be organised outdoors in groups, which is especially helpful for large classes. The risk and
+challenge discussion can also be made role-based to enrich perspectives. For example, the students
+can be divided into groups such as the “Safety Team,” the “Organisers,” the “Students’ Club,” and
+the “Eco Team.” Each group represents a different viewpoint and contributes by focusing on safety,
+organisation, participant experience, and environmental impact. In this way, students collaboratively
+identify risks and propose solutions while considering multiple dimensions of the project. Together, they
+consider possible solutions and suggest strategies to address these difficulties in advance. Together,
+they discuss potential improvements, consider suitable locations in the garden where an adventure
+course can be constructed, give reasons, and place the materials to that location. The students will
+have the opportunity to use the target language in discussing real-life experiences, thereby fostering
+meaningful communication. Moreover, through the adventure course project, the entire school
+community will collaboratively engage in the process of designing and creating a tangible product.
+This not only promotes cooperative learning and a sense of shared responsibility but also provides
+learners with an authentic outcome that reinforces their language use in a purposeful context.
+Before the Lesson
+The teacher designs a Checklist using one of the visual creation and editing tools (Annex-2).
+3. Ders (IT Class)
+Pre-Activity
+The teacher shares the Checklist on EBA and divides the class into four groups designated as Adventure
+Course, Land Sports, Air Sports, and Water Sports (Annex-2). Thereafter, the teacher prompts the
+students to deduce their respective tasks by referring to the checklist in conjunction with the thematic
+focus of their assigned group. The teacher then evaluates the process and provides constructive
+feedback.
+While Activity
+The teacher then guides the students to utilise the relevant sections of the checklist, and to allocate
+the tasks among themselves. Initially, the Adventure Course group prepares an online survey to be
+published on the school website about their favourite extreme sports using one of the survey tools
+and analyses the results during the implementation phase of the project. On the school website, the
+students announce that volunteers may contribute to the Adventure Course project by providing
+materials or by participating in the design and construction of the course. Subsequently, they design
+promotional posters for the Adventure Course project, print them, and display them on the school
+walls.
+6
+Move More, Live More
+Technology-Enhanced Learning Scenarios
+In the final stage, the group undertakes the practical task of setting up the Adventure Course in the
+school garden. Meanwhile, the Water Sports, Air Sports, and Land Sports groups employ chatbots to
+conduct research on their respective categories and use visual creation and editing tools to create
+detailed dissemination materials such as brochures or posters of their respective sports categories.
+These dissemination materials are then showcased at stands in the school garden to inform their
+peers about the different types of sports. Each group needs to use structures to express preferences,
+give reasons for their preferences and make comparisons for their assigned tasks. The students will
+contribute to the collective endeavour within the larger group while concurrently engaging in smaller
+groups. The teacher provides ongoing feedback to facilitate the students' engagement and progress
+throughout the activity.
+Post-Activity
+The groups share their posters, surveys, and dissemination materials on EBA, and the other group
+members may like or comment on them to give feedback to their classmates.
+Productivity, Cultural awareness
+Before the Lesson
+The teacher designs a Self-Assessment Form using one of the visual creation and editing tools and
+prints it out (Annex-3). The teacher assists the students in printing the posters and dissemination
+materials. Furthermore, the students set up three stands in the school garden, each dedicated to one
+category: Water Sports, Air Sports, and Land Sports.
+4. Ders (Garden)
+Pre-Activity
+At the beginning of the lesson, the teacher informs the students that they will be in the school garden
+for an activity. Once in the garden, the teacher invites the students to form a circle, stands at its centre,
+and goes over the responsibilities of each group. The Adventure Course group collects the materials
+provided by the school and initiates the design of the course, with opportunities for volunteer students
+to participate in the process. Simultaneously, the Water Sports, Air Sports, and Land Sports groups
+prepare their stands and begin introducing the extreme sports within their respective categories.
+While Activity
+Each group carries out the tasks allocated to them, and during the process, the group members are
+expected to give detailed explanations of the sports, express their preferences of extreme sports, give
+reasons for their preferences using the vocabulary such as challenging, amusing and fascinating
+with the objective of practising both the target structures and the lexical items introduced in the unit.
+In addition, the students are required to make comparisons between different extreme sports using
+the appropriate comparative structures. The Adventure Course group constructs the courses with
+the provided materials, and the teacher ensures safety by carrying out detailed checks and provides
+feedback to all groups throughout the process.
+7
+Move More, Live More
+Technology-Enhanced Learning Scenarios
+Post-Activity
+The teacher hands out the Self-Assessment Form, and encourages the students to reflect on and
+evaluate their performance throughout the project (Annex-3).
+Homework/Assignment
+The students are assigned to conduct research on locations in Türkiye where extreme sports can be
+practised, and to design a map of Türkiye using visual creation and editing tools to indicate the types
+of extreme sports available.
+Evaluation/
 LINKS:[["Epic Dance Challenge", "LDKlv8"], ["Extreme Sports", "UM6oQSf"], ["Group the Sports", "ICeqrg"], ["Checklist", "1cRQtg"], ["Self-Assessment Form", "UIXjijG"]]

@@ -1,5 +1,122 @@
 ## 5. Sinif/Ingilizce/Family Life - Rhythm of My Family.pdf
-SURE:None KOD:ENG.5.4.L2. ENG.5.4.L3. ENG.5.4.R2. ENG.5.4.R3.
-KAV:
+SURE:3 KOD:ENG.5.4.L2. ENG.5.4.L3. ENG.5.4.R2. ENG.5.4.R3.
+KAV:Family life, Routines and hobbies, Everyday habits, Actions happening at the moment
+Learning Activities
+Before the Lesson
+The teacher designs a game titled Routine or Today? using one of the web tools for matching activities
+(Annex-1). Next, the teacher prepares an activity titled Who Is Doing What? using one of the web tools for
+fill-in-the-blank questions (Annex-2). After that, the teacher creates a video titled A Day of My Family using
+one of the video editing tools (Annex-3). For the assessment part, the teacher designs a website titled Let’s
+Share Our Routines and Hobbies using one of the web page editing tools (Annex-4).
+1. Ders (IT Class)
+Pre-Activity
+The teacher initiates the lesson with a warm-up activity to engage all students and create a positive
+classroom atmosphere for well-being. The teacher says some short sentences using gestures and facial
+expressions, such as “I eat breakfast.” and “I am eating breakfast.” The students decide whether they are
+routine or now by raising their hands: one hand for routine and two hands for now. After the activity, the
+teacher displays the Routine or Today? digital activity on the interactive whiteboard (Annex-1). The students
+complete the task by dragging and dropping each action into the correct category, either a routine or an
+action happening now.
+While Activity
+Following the grouping activity, the teacher proceeds to the Who Is Doing What? activity (Annex-2). In this
+activity, learners complete the task through listening only. The students listen to the audio carefully and
+match each family member with the correct hobby or activity. After the listening task is completed, the
+teacher plays the A Day of My Family video, so that the students can observe the family members and their
+daily routines, as well as the activities they are currently engaged in (Annex-3).
+Post-Activity
+After watching the video, the teacher divides the students into small groups. Each group creates a poster
+using one of the visual creation and editing tools, showing a family engaged in different hobbies or daily
+routines. The students write a short sentence next to each character to describe what he or she is doing.
+After completing their designs, the teacher shares the template link of the Let’s Share Our Routines and
+Hobbies site with the students. (Annex-4) Then, the groups upload their work to the site and present it to
+their classmates. After the presentations, the teacher gives immediate feedback, praises correct language
+use and gently corrects sentences when needed to support ongoing learning.
+Classification, Observation-based prediction, Listening/Watching-comprehension,
+Framework Speaking-expression, Writing-expression, Grammaring: Selection and use, Digital
+literacy, Visual literacy, Communication, Cooperation
+7 Rhythm of My Family
+...
+Before the Lesson
+The teacher creates an activity titled Routines and Hobbies Wheel using one of the gamification web tools.
+Then, the teacher designs an activity titled Find the Right Person task using one of the web tools for matching
+activities.
+2. Ders (Class)
+Pre-Activity
+The lesson starts with a warm-up game designed to engage all students and boost their motivation. The
+teacher says short and simple sentences related to routines and actions happening at the moment. The
+students stand up for routine sentences and sit down for actions happening now. The students who make a
+mistake are eliminated from the game. On the other hand, the last student who can perform all the actions
+correctly wins the game. After the game, the teacher asks simple guiding questions like “What do you do
+with your family?” and “What are you doing now at school?”. After this warm-up, the teacher displays the
+Routines and Hobbies Wheel on the interactive board and writes the question patterns “What is he/she
+doing?” and “What are they doing?” on the board to guide the students. The students come to the board in
+pairs. One student spins the wheel and asks the appropriate question and the other student answers. The
+teacher models correct expressions when necessary and provides immediate oral feedback.
+While Activity
+Following the activity, the teacher initiates the Find the Right Person task. In this activity, the students look at
+the pictures and match each person with the correct text describing their routine and current activity. Then,
+the teacher asks the students to interview their classmates about their routines and what they do on Sundays.
+The students use the guiding questions “What do you usually do?” and “What do you do on Sundays?” during
+the task. The teacher also introduces some thinking questions such as “Which one do you like more? Why?”,
+“Which activity is better for family time?”. Each student interviews at least two peers, selects an additional
+question from the list, and takes brief notes while collecting their answers. While the students are working
+on the task, the teacher circulates around the classroom and supports the students when needed.
+Post-Activity
+After interviewing their classmates and taking notes, the students describe their friends’ routines and
+activities using short sentences. During the sharing stage, the teacher actively involves the whole class by
+asking some follow-up questions such as “Who likes playing games?”, “What do you think about cycling?”,
+“Is it good for family time?”. The teacher encourages different students to participate and confirms correct
+language use by reformulating sentences when necessary.
+Observation, Reading-comprehension, Speaking-expression, Writing-expression,
+Grammaring: Selection and use, Vocabulary: Selection and use, Communication,
+Framework
+Cooperation, Digital literacy, Visual literacy
+8 Rhythm of My Family
+...
+TECHNOLOGY-ENHANCED LEARNING SCENARIOS ABC
+Before the Lesson
+The teacher designs an activity titled Mysterious Routines and Hobbies using one of the interactive presentation
+tools (Annex-5). Following that, the teacher prepares an activity titled Global Routines and Hobbies Explorers
+using one of the visual creation and editing tools (Annex-6). For the assessment, the teacher uses the Let’s
+Share Our Routines and Hobbies site again (Annex-4).
+3. Ders (IT Class)
+Pre-Activity
+The teacher displays the Mysterious Routines and Hobbies activity and asks the students to guess what
+James is doing (Annex-5). After collecting the students’ responses, the teacher asks follow-up questions,
+such as “Do families in Türkiye do this?”, “Is it important for families?”, “How do you feel?”, and “Does your
+family do this activity?”. The students are encouraged to answer these questions with short responses, or
+even single words.
+While Activity
+After guessing the activities and answering the questions, the teacher divides the students into groups and
+asks them to conduct some short research into the daily routines and hobbies of people in different countries.
+The teacher states that the students can use artificial intelligence powered tools to support their research
+process and explains that these tools should only be used for this purpose. The teacher emphasises that
+the students are expected to organise the information in their own words, not share any personal data, and
+use AI as a guiding tool. The teacher shares the template link of the Global Routines and Hobbies Explorers
+with the students and asks them to fill in the blanks based on their findings (Annex-6). While working on
+their paper, the students answer guiding questions such as “Which country are you curious about? Why?”,
+“What do people in that country do?”,“What are their hobbies?”, “What is similar to your family?”, and “What
+is different from your family?”. By answering these questions, they reflect on the similarities and differences
+between the daily routines and hobbies of the selected country and their own family.
+Post-Activity
+After completing the activity, each group uploads their work to the Let’s Share Our Routines and Hobbies site
+(Annex-4). Each group then presents their paper to their classmates, sharing what they have learnt about
+routines and hobbies around the world. Once a group has finished presenting, the teacher asks the other
+groups to evaluate the presentation using the survey tool on the website, by giving points and sharing one
+positive comment and one suggestion for improvement.
+9 Rhythm of My Family
+...
+TECHNOLOGY-ENHANCED LEARNING SCENARIOS ABC
+Homework/Assignment
+The students are assigned to create a short video about the routines and hobbies of their family members.
+In the video, the students briefly describe what their family members usually do, what they are doing today
+or now, and what their hobbies are, using clear and simple sentences. They do not need to show anyone’s
+face; instead, they may record related objects, places, or items that represent the routines or hobbies. After
+recording and editing their videos, the students upload their work to EBA to share it with their classmates.
+This enables them to watch each other’s videos, leave comments and respond to each other’s work in a
+supportive way.
+Information gathering, Observation-based prediction, Comparison, Reflective thinking,
+Framework Grammaring: Selection and use, Vocabulary: Selection and use, Digital literacy,
+Cultural literacy, Communication
 
 LINKS:[["Routine or Today?", "UvXeTCf"], ["Who is Doing What?", "UmsTo4L"], ["A Day of My Family", "M4PKFc"], ["Let’s Share Our Routines and Hobbies", "UiaWD0N"], ["Routines and Hobbies Wheel", "UIAucmZ"], ["Find the Right Person", "U5MQdi2"], ["Mysterious Routines and Hobbies", "U8iCPl6"], ["Global Routines and Hobbies Explorers", "Ukca7gD"]]

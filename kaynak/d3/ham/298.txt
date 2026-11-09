@@ -1,5 +1,80 @@
 ## 6. Sinif/Ingilizce/Yummy Breakfast - Enjoy Your Meal.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher designs an activity named Spin and Name the Food using one of the gamification web
+tools. Then the teacher prepares an animation titled Interview about Eating Habits using one of the
+animation creation tools (Annex-1). Lastly, for the assessment, the teacher creates an activity titled
+Healthy or Unhealthy using one of the web tools for matching activities (Annex-2).
+1. Ders (Class)
+Pre-Activity
+The teacher introduces the Spin and Name the Food activity, where the students spin the wheel, look at
+the visual and name the foods, such as egg, milk, tomato, etc. The students who give the correct answer
+can say whether they like the given food or not.
+While Activity
+Subsequent to the activity, the teacher introduces the Interview about Eating Habits animation, during
+which the students are required to identify appropriate phrases about food preferences, express
+opinions regarding liked and disliked foods, and categorise foods as healthy or unhealthy (Annex-1).
+Upon completion of the animation, the teacher poses the question, “What kinds of foods do you prefer
+for breakfast?” prompting the students to construct sentences expressing their food preferences and
+aversions. Additionally, the students are tasked with formulating sentences that provide examples of
+healthy and unhealthy foods. The students are expected to utilise structures such as “I prefer,” “I like/
+dislike,” or “I enjoy/hate” when discussing food, and the teacher provides immediate feedback throughout
+the activity.
+Post-Activity
+After the animation, to assess the comprehension, the teacher implements the Healthy or Unhealthy
+matching activity, where the students are asked to classify the given foods under the topics of healthy
+or unhealthy (Annex-2).
+Before the Lesson
+TThe teacher selects an age-appropriate song such as “Yummy Breakfast” to energise the students.
+Additionally, for the assessment, the teacher is required to prepare a Self-Assessment Form using one of
+the web tools for self-assessment (Annex-3).
+4
+Enjoy Your Meal
+Technology-Enhanced Learning Scenarios
+2. Ders ( IT Class)
+Pre-Activity
+The teacher initiates the “Yummy Breakfast” song, where the students are required to listen to the song,
+dance and clap their hands when they hear the name of food.
+While Activity
+Following the song, the teacher asks the students to work in groups of three to create an interview video
+using one of the video editing tools, where the students are required to write an interview about their
+eating habits and record their interview. Additionally, the students are encouraged to mention the foods
+they like or dislike, as well as identify healthy and unhealthy options while creating their interview video.
+The teacher informs the students that they will evaluate their own performance at the end of the lesson.
+While the students are conducting their interviews, the teacher circulates around the classroom to
+monitor their progress. If the students require assistance, the teacher offers guidance and encourages
+them to approach the task with creativity and productivity. When the students complete recording the
+video, the teacher asks the students to share their videos on EBA and as an assignment, the students
+are required to comment on the videos of their classmates.
+Post-Activity
+When the students finish creating the interview video, the teacher shares the Self-Assessment Form and
+wants the students to evaluate their own performances (Annex-3). The teacher discusses the results of
+the assessment with the students and provides the necessary feedback.
+Before the Lesson
+The teacher asks the students to complete Vocabulary Exercise 3: Yummy Breakfast activity on EBA
+and designs various digital materials to enhance student engagement and learning. First, the teacher
+develops an activity named Find the Foods using one of the gamification web tools (Annex-4). Then
+the teacher designs a presentation titled Food Labels using one of the interactive presentation tools
+(Annex-5). Lastly, for the assessment, the teacher creates an escape game titled Nutritious Kitchen
+using one of the gamified measurement and evaluation web tools (Annex-6).
+3. Ders (Class)
+Pre-Activity
+The teacher introduces the Find the Foods activity, where the students look at the given words and
+find them in the word grid (Annex-4). A student who identifies a given word is required to construct a
+sentence containing it.
+5
+Enjoy Your Meal
+Technology-Enhanced Learning Scenarios
+While Activity
+Following the activity, the teacher initiates the Food Labels presentation, where the students are presented
+with the phrases to label the foods (Annex-5). During the presentation, the teacher poses questions such
+as “Do you pay attention to product labels?” and “What is the expiry date? Is it important, and why?” to
+maintain student engagement and provides immediate feedback throughout the activity.
+Post-Activity
+Following the presentation, the students work in pairs to assess their comprehension. The teacher then
+implements the Nutritious Kitchen escape game, in which the students follow the provided steps and
+answer the interactive questions to complete the task and reach the exit (Annex-7).
+Evaluation/
 LINKS:[["Spin and Name the Food", "RjElyy"], ["Interview about Eating Habits", "4pGkHP"], ["Healthy or Unhealthy", "dE2PJR"], ["Self-Assessment Form", "UXky90Q"], ["EBA-Vocabulary Exercise 3: Yummy Breakfast", "UJOCiUx"], ["Find the Foods", "UHx11Te"], ["Food Labels", "FLwWDo"], ["Nutritious Kitchen", "W7EGkM"]]

@@ -1,5 +1,55 @@
 ## 8. Sinif/Inkilap Tarihi/Ataturk Donemi Turk Dis Politikasi - Barisin Mimari Ataturk’un Dis Politika Stratejileri.pdf
 SURE:2 KOD:İTA.8.6.2.
 KAV:
+1. Ders (Sınıf)
+Öğretmen, öğrencilere “Atatürk’ün ‘Yurtta sulh, cihanda sulh’ sözünden ne anlıyorsunuz?” sorusunu
+sorar. Öğrencilerden gelen yanıtlar sonrası sözü kısaca açıklar.
+“Bugünkü derste Atatürk Dönemi’nde komşu ve diğer ülkelerle nasıl ilişkiler kurduğumuzu sizlerin hazır-
+ladığı sanal dergilerden öğreneceğiz.” diyerek derse giriş yapar. Öğrencilerin çevrim içi dergi, elektronik
+kitap, metin hazırlama araçları ile oluşturdukları sanal dergileri sunmalarını sağlar. Öğrencilerin hazır-
+ladığı sanal dergileri sırayla etkileşimli tahtadan açar.
+Her gruba konu ile ilgili sorulardan bir ya da iki tanesini içeren kısımları sunmaları için 3-8 dk. süre verir
+(Ek-1). Öğrencilerin sunumlarından sonra öğretmen, konu ile ilgili gerekli açıklamalarda bulunur.
+Hazırlanan sanal dergiler, ders sonunda öğretmen tarafından dergi değerlendirme rubriği ile değer-
+lendirilir (Ek-2).
+Ders Sonrası
+Öğretmen, EBA’dan dersi pekiştirmeleri için öğrencilere Dış Politikamızın Temeli: Lozan, Yabancı Okullar
+Sorunu, Musul Meselesi, Türk-Yunan Nüfus Mübadelesi içeriklerini gönderir. Bir sonraki ders öğrencilerle
+içerikler hakkında kısa soru cevaplarla konu pekiştirmesi yapar.
+Motivasyon, Planlama ve organizasyon.
+2. Ders (BT Sınıfı)
+Öğretmen; EBA’daki Balkan Antantı, Montrö Boğazlar Sözleşmesi, Sadabat Paktı konuları ile ilgili animas-
+yonları sırayla izletir. Öğrencilere her video arasında 3-5 dk. düşünme fırsatı verir ve açık uçlu soruları
+sorar (Ek-3). Ders öncesinde öğretmen tarafından soruların çıktısı alınıp her sıraya birer tane verilebilir
+ya da sorular etkileşimli tahtaya yazılarak soruları tüm öğrencilerin görmeleri sağlanır.
+Öğretmen, öğrencilerden cevapları alarak varsa öğrencilerin eksiklerini tamamlar ve yanlış öğrenme-
+lerini giderir.
+4 Barışın Mimarı Atatürk’ün Dış Politika Stratejileri
+Konu ile ilgili EBA’da yer alan Alıştırmalar-Türk Dış Politikasının Temel İlkeleri etkinliği öğrencilere gönde-
+rilir. Etkinliği yapmaları için öğrencilere süre verilir. Etkinlik sonunda öğretmen tarafından gerekli geri
+bildirimler verilerek açıklamalar yapılır.
+Öğretmen, konuyu özetleyerek dersi bitirir.
+Ders Sonrası
+Öğretmen, öğrencilere kelime bulutu oluşturacaklarını söyler ve kullanabilecekleri web araçları ile ilgili
+onları bilgilendirir. Öğrenciler, Türk dış politikası konusunda geçen önemli gördüğü kavramları listele-
+yerek kelime bulutu oluşturmayı sağlayan web aracı kullanarak konu ile ilgili etkinlik oluşturur. Oluştu-
+rulan çalışmalar, EBA sınıf Öğrencilerin oluşturduğu kelime bulutu tüm öğrenciler ve öğretmen tarafından
+incelenir ve değerlendirilir.
+Öğrencilerin konuyu pekiştirmesi için EBA Atatürk Dönemi Türk Dış Politikası testini öğrencilere dağıtır.
+Bir sonraki ders sorular sınıfta çözümlenir.
+Motivasyon
+Beceriler
+Öğrenme Yaklaşımı
+Değerlendirme Yöntemleri/Araçları
+• EBA + alıştırmalar
+• EBA + konu kazanım testi
+• Kelime bulutu oluşturmayı sağlayan web araçları
+• Dergi değerlendirme rubriği
+• Açık uçlu sorular etkinliği
+Atatürk, İran Şahı Pehlevi ve Başbakan İsmet (İnönü) Paşa ile (Eskişehir, 21 Haziran 1934)
+5 Barışın Mimarı Atatürk’ün Dış Politika Stratejileri
+REFERANS
+Beceriler
+Öğrenme
 
 LINKS:[["EBA Dış Politikamızın Temeli: Lozan", "qeWazc"], ["EBA Yabancı Okullar Sorunu", "ksOyG9"], ["EBA Musul Meselesi", "UlhgHpQ"], ["EBA Türk-Yunan Nüfus Mübadelesi", "UIgVLpC"], ["EBA Balkan Antantı", "UuiwufR"], ["EBA Montrö Boğazlar Sözleşmesi", "U26lna5"], ["EBA Sadabat Paktı", "BAobV8"], ["EBA Alıştırmalar Türk Dış Politikasının Temel İlkeleri", "2Rc3hP"], ["EBA Atatürk Dönemi Türk Dış Politikası Testi", "FFtcHu"]]

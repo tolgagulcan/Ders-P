@@ -1,5 +1,106 @@
 ## 5. Sinif/Ingilizce/Life in the Neighbourhood & City - Neighbourhood at a Glance.pdf
-SURE:None KOD:ENG.5.5.L2. ENG.5.5.L3. ENG.5.5.P1. ENG.5.5.V1.
-KAV:
+SURE:3 KOD:ENG.5.5.L2. ENG.5.5.L3. ENG.5.5.P1. ENG.5.5.V1.
+KAV:Places for recreation and attraction, Neighbourhood, Attractions
+Learning Activities
+Before the Lesson
+The teacher chooses a song, “Welcome to My Town”, related to the theme and the sub-theme of the unit.
+Then, the teacher prepares a digital story titled Exploring the City by using an interactive presentation tool
+(Annex-1). Also, the teacher prepares a drag and drop matching activity titled Places Vocabulary Matching
+by using web tools for matching activities (Annex-2).
+1. Ders (Class)
+Pre-Activity
+To engage the students and activate their listening and visual memory skills related to the unit vocabulary,
+the teacher plays the song “Welcome to My Town” on the interactive whiteboard, so that the students can
+both see and hear the visuals and lyrics of the song. The teacher asks the students to identify and write
+down any words from the unit they hear in the song (e.g. places in the town, buildings, or landmarks). After
+listening, the students sing the song together with the teacher to improve their pronunciation in an enjoyable
+way. Then, the teacher asks the students guiding questions like, “Which place in the song would you like to
+visit, and why?” This encourages speaking and connects it with personal experience.
+While Activity
+To reinforce unit vocabulary, build contextual understanding, and improve listening skills, the teacher
+displays the digital story, Exploring the City, containing sentences built around the unit vocabulary (Annex-
+1). The students can hear correct pronunciation and connect meaning to visuals. Then, the teacher asks
+comprehension questions like ‘’ Where is the local shop? What can you do near the coast? And then, the
+teacher asks critical thinking questions like, “Which place in the town do you think is the most useful for the
+community? Why?” “What are the similarities and differences between this place and a place in your city?”
+Post-Activity
+The teacher reinforces the vocabulary that the students have learnt during the lesson by using the Places
+Vocabulary Matching Activity (Annex-2). The teacher displays the activity on the interactive whiteboard.
+This activity helps the students review and consolidate vocabulary about the places in the town in a fun
+and interactive way.
+Comparison, Interpretation, Listening/Watching-comprehension, Speaking-
+Framework Self-reflection, Communication, Social awareness, Information literacy,
+Digital literacy
+6 Neighbourhood at a Glance
+...
+Before the Lesson
+The teacher prepares guiding questions, so the students connect the lesson theme to their own experiences
+through these questions. Then, the teacher prepares a digital story titled My New Neighbourhood using an
+interactive presentation tool to present the topic (Annex-3). Afterwards, the teacher designs a follow-up
+activity named Discover Lisa’s Place about the story, using web tools for multiple-choice questions to check
+the students’ comprehension (Annex -4).
+2. Ders (Class)
+Pre-Activity
+The teacher gives a short introduction to the students about comparatives. After the introduction, the teacher
+organises a short and fun warm-up activity called “Yes or No Jump”. The teacher reads simple comparative
+sentences related to neighbourhood places. If the sentence is correct, the students jump and say “Yes”.
+If the sentence is incorrect, they stay still and say “No”. Then, the teacher says the correct sentence and
+the students repeat it together. This active activity helps the students revise comparative structures in an
+enjoyable way and supports their well-being by encouraging movement and participation.
+While Activity
+The teacher asks the students guiding questions such as “Do you live in a new house or in the same house?”,
+“Is your neighbourhood bigger or smaller than before?”, and “Is your home closer to your school or further
+away?”. Then, the teacher engages the students in the digital story, My New Neighbourhood (Annex-3).
+Before watching the digital story, the teacher asks prediction questions, such as “What do you think the story
+will be about?” or “What kind of place do you think Lisa has moved to?”. After viewing the story, the teacher
+uses a Think–Pair–Share activity to support student interaction, collaboration, and communication. First,
+the students think individually about Lisa’s new neighbourhood and how they feel about her daily life there.
+Then, the students work in pairs and share their ideas with each other. Finally, one student from each pair
+shares their common opinion with the class. During the activity, the students use simple sentence chunks
+such as “I think Lisa’s neighbourhood is …” and “In my opinion, it is better / worse than …” to express their ideas.
+Post-Activity
+The teacher presents the online quiz on the interactive whiteboard. The students complete the Discover
+Lisa’s Place activity to check their comprehension and practise key vocabulary (Annex-4).
+Comparison, Critical thinking, Listening/Watching-comprehension, Speaking-
+Framework Selection and use, Communication, Self-Regulation, Social awareness, Digital
+literacy
+7 Neighbourhood at a Glance
+...
+Before the Lesson
+The teacher first prepares an activity named Rooms & Furniture Flashcards with vocabulary about rooms
+and furniture by using visual creation and editing tools. Then, the teacher creates a house sketch on the
+interactive whiteboard tools titled My Dream House-Architecture Activity for the students to use during the
+activity. The teacher prepares a Self-Assessment Stop and Check form using the visual creation and editing
+tool to help the students evaluate what they have learnt at the end of the lesson (Annex-5). For the homework
+the teacher also prepares a guideline named Your Digital Welcome Kit by using one of the poster and flyer
+creation tools to show the students what to do and what to include in their Digital Welcome Kit (Annex-6).
+3. Ders (IT Class)
+Pre-Activity
+The teacher displays Rooms & Furniture Flashcards with vocabulary about rooms and furniture, such as
+kitchen, bedroom, sofa, bed, and fridge. The students make simple sentences using each word. This helps
+the students reinforce the new vocabulary before starting the main activity.
+While Activity
+The teacher first demonstrates the students how to use the interactive whiteboard tool, explaining how to
+draw shapes, add text, and move objects. The teacher introduces My Dream House-Architecture Activity
+which the students complete as a group work. Then, students use a house sketch and imagine they are
+architects designing a home. They design the rooms carefully and place furniture and objects in each room
+according to the vocabulary they have learnt. The students write the names of the rooms and furniture
+clearly on the sketch. This activity allows the students to practice the vocabulary, understand the function
+of each room, and be creative in planning their own house design.
+Post-Activity
+The students present their houses to the class. They describe the rooms, furniture, and objects using the new
+vocabulary. The rest of the class listens and engages by asking simple questions about the houses. Then,
+the students fill in the Self-Assessment Stop and Check form (Annex-5).
+Homework/ Assignment
+The teacher asks the students to prepare a Your Digital Welcome Kit including a welcome message,
+neighbourhood information, and helpful daily life tips for a new neighbour who has just moved to the town
+(Annex-6). The teacher shares a guideline with the students to show them what to do and what to include
+in their Digital Welcome Kit.
+Interpretation, Decision-making, Speaking-expression, Writing-expression,
+Vocabulary: Selection and use, Creativity, Questioning, Self-awareness,
+Framework
+Self-reflection, Communication, Cooperation, Digital literacy, Visual literacy
+8 Neighbourhood at a Glance
+...
 
 LINKS:[["Exploring the City", "UDbxc4w"], ["Places Vocabulary Matching", "2GioX2"], ["My New Neighbourhood", "U2PSiE8"], ["Discover Lisa’s Place", "DX0StT"], ["Rooms & Furniture Flashcards", "UkqKKdM"], ["My Dream House–Architecture Activity", "6LszCY"], ["Self-Assessment Stop and Check", "UGVnT3l"], ["Your Digital Welcome Kit", "o3QteI"]]

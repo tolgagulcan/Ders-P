@@ -1,5 +1,81 @@
 ## 6. Sinif/Ingilizce/Bookworms - Write and Draw!.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+Prior to the lesson, the teacher prepares preposition cards, each labelled with a specific preposition
+for the warm-up activity. The teacher creates a story containing multiple prepositions via an artificial
+intelligence powered tool.
+1. Ders (Class)
+Pre-Activity
+The teacher brings cards with prepositions and tells the students they will use their bodies to show
+different prepositions. The teacher divides the class into small groups and gives each group a
+preposition card. A group assigned “between” might have one student stand between two others,
+linking arms.
+For “under”, a student could crawl under a table, while the other stands nearby. Each group presents
+their formation to the class without speaking. The teacher then leads a brief discussion, asking the
+students to reflect on how the activity helped them understand the prepositions.
+While Activity
+The teacher writes a list of prepositions on the board. The teacher provides sample sentences to help
+the students: “The book is on the teacher’s desk.”, “The pencil is in the pencil case.”, and “The bag is
+under the chair.”
+3
+Write and Draw!
+Technology-Enhanced Learning Scenarios
+The students make up two or three sentences using the classroom as inspiration. They think for a few
+minutes, then share their sentences with the class. The teacher helps the students use prepositions
+correctly and meaningfully. The teacher reads the text with prepositions and asks the students to
+clap each time they hear a preposition. This activity fosters effective listening skills and expands the
+students’ vocabulary.
+Post-Activity
+The teacher presents the text to the students on the interactive whiteboard, enabling them to view
+the written form of all prepositions.
+Before the Lesson
+Prior to the lesson, the teacher selects a song that features prepositions for the warm-up activity. The
+teacher informs the students that they will be evaluated at the end of the activity and explains the
+criteria for the evaluation. The teacher organises an evaluation form to assess group performance
+at the end of the lesson (Annex-2).
+2. Ders (IT Class)
+Pre-Activity
+The students identify prepositions in a song by clapping or stomping. By actively participating in the
+clapping or stomping, the students enhance their auditory discrimination and reinforce their grasp
+of prepositional usage, integrating both kinaesthetic and auditory learning modalities.
+While Activity
+To integrate descriptive writing and visual interpretation, the class participates in an activity that
+uses prepositions as they work in groups. The class is split into two groups: writing and drawing. The
+writing group has to write a description of an imaginary room using prepositions. They might say,
+“The bookcase is next to the bed” or “The wardrobe is between the table and the coffee table.”
+The drawing group uses one of the visual creation and editing tools to turn the descriptions into
+pictures. The drawing group reads the descriptions and draws a picture of the room based on
+them. The drawing group must pay attention while listening for comprehension. Then the groups
+switch roles. The drawing group writes a new paragraph while the writing group draws the room.
+This rotation ensures that all the students practise both writing and drawing, which helps them to
+understand prepositions.
+Post-Activity
+Following the completion of the writing and drawing tasks, the students share their final work on EBA
+wall. The teacher and the students then review the work to correct any errors. The teacher subsequently
+completes the evaluation form to assess the group’s performance (Annex-1).
+4
+Write and Draw!
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+Before the class, the teacher prepares two images that are almost the same, apart from a few key
+details. These images can be used for a warm-up activity focused on prepositional phrases. The
+teacher creates an AI-made image of a room containing a range of items suitable for detailed
+description.
+3. Ders (Class)
+Pre-Activity
+The teacher presents two similar images and highlights the differences between them. Some objects
+in the first image are absent in the second. The students are asked to identify the missing objects
+and their original locations.
+While Activity
+To improve speaking skills, the students are split into groups and shown an AI-generated image of a
+room. Each group member describes one item from the image to the next student. The first student
+says, “The lamp is on the bedside table,” and the second student says, “There is a plant next to the
+lamp.” Each student describes one item at a time until the last student gives the full description. After
+sharing the final descriptions, groups compare their original descriptions with the final verbal output.
+This exercise helps the students understand what they hear and speak accurately.
+Post-Activity
+The students complete Grammar Exercise 2 from EBA for evaluation.
+Evaluation/
 LINKS:[["EBA - Grammar Exercise 2", "RKNuq5"]]

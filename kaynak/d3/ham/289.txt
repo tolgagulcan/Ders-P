@@ -1,5 +1,115 @@
 ## 6. Sinif/Ingilizce/Democracy - The Power of Choice.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher is required to design various digital materials to boost motivation and enhance the
+student engagement. First, the teacher creates an activity titled Democracy in One Word using one of
+tools for creating digital boards or sticky notes and shares the link on EBA. Next, the teacher prepares
+a presentation titled A Path to Democracy using one of the interactive presentation tools to introduce
+key democracy-related vocabulary, including words such as vote, candidate, ballot box, president,
+fairness, rights, and law. A pre-prepared word cloud named Democracy Words is designed using
+one of the word cloud creation tools by the teacher. Lastly, for vocabulary reinforcement, the teacher
+designs a matching activity, Democracy Match, using a web tool for matching activities (Annex-1).
+1. Ders (IT Class)
+Pre-Activity
+The teacher shares the link of the Democracy in One Word with the students and they are asked to
+think of words or short phrases related to democracy (e.g. vote, candidate, rights, fairness) and share
+their ideas verbally. As the students share their ideas, they actively input them into the digital platform,
+which gradually forms a dynamic visual display of the class’s brainstorming and highlights the main
+concepts connected to democracy.
+While Activity
+The teacher introduces the pre-prepared Democracy Words word cloud containing key democracy-
+related vocabulary and displays it on the interactive whiteboard. The students are invited to identify the
+words they already know and discuss their meanings with the class. This activity serves to activate prior
+knowledge, introduce essential vocabulary, and prepare the students for the upcoming presentation.
+The teacher presents A Path to Democracy presentation introducing the activity, and asks guiding
+questions such as “What happens if a leader is not fair?”, “Do you think voting is the best way to choose
+a leader?”, “If you are a candidate, what will you promise to people?” to promote discussion and
+comprehension. Prompt feedback is provided continuously to support understanding and engagement
+by the teacher.
+4
+The Power of Choice
+Technology-Enhanced Learning Scenarios
+Post-Activity
+For consolidation, the teacher implements the Democracy Match activity focusing on democracy-
+related vocabulary, which will help the students consolidate their understanding of the new terms
+(Annex-1). The activity is displayed on the interactive whiteboard, and the class is divided into two
+groups. The students take turns answering the questions, and each correct response earns points for
+their team. The activity is carried out in the form of a quiz competition, which both reinforces key terms
+and fosters collaboration, motivation, and engagement. This activity serves as a formative assessment
+tool, allowing the teacher to evaluate the students’ understanding of democracy-related vocabulary
+and identify words or concepts that may need further clarification in the following lesson.
+Before the Lesson
+The teacher prepares an animation titled The Election Adventure using one of the animation creation
+tools, focusing on a school election and the democratic process (Annex-2). The teacher also designs
+an online quiz, The Election Adventure Quiz, using one of the web tools for multiple-choice questions
+related to the animation, in order to check comprehension and reinforce learning (Annex-3).
+2. Ders (Class)
+Pre-Activity
+The teacher initiates a “Think-Pair-Share” activity to activate prior knowledge about democracy and
+elections. Each student thinks individually about the question: “What makes a fair election?” and writes
+2–3 ideas on a small paper. The students are paired and share their ideas with their partner, discussing
+similarities and differences. The teacher encourages active participation and provides prompts to help
+the students elaborate on their answers.
+While Activity
+Following the “Think-Pair-Share” activity, the teacher presents the The Election Adventure animation
+about a school election and democratic process (Annex-2). Since some words in the story may
+be challenging for 6th graders, the teacher pauses the video at key moments to briefly explain or
+paraphrase the important terms, using simple language, gestures, and examples on the board. This
+way, the students can connect the new words with their meanings. To ensure better comprehension,
+the teacher plays the video twice: first, for general understanding, and second, for focusing on specific
+elements such as candidates, voting procedures, campaign promises, and fairness in elections.
+Immediately after the second viewing, the teacher asks questions such as: “Compare the democratic
+decision-making process in the animation with the class president elections in your school. What are
+the similarities and differences? How might this event have developed differently in a society that is
+not governed democratically?” Then the teacher initiates The Election Adventure Quiz related to the
+animation (Annex-3). The students answer interactive questions individually or in pairs, focusing on
+comprehension and understanding of democracy-related concepts.
+5
+The Power of Choice
+Technology-Enhanced Learning Scenarios
+Post-Activity
+As a post-activity, the teacher uses Vocabulary Exercise 2: Democracy from EBA, in which the students
+are asked to match the given sentence beginnings with the correct word groups to complete the
+sentences meaningfully. This activity helps the students reinforce their understanding of democracy-
+related vocabulary and sentence structures, while engaging in an interactive matching task. The
+teacher integrates this vocabulary exercise with the animation by focusing on key terms such as
+candidate, ballot box, rights, and fairness. The students complete the matching task and then explain
+one of the completed sentences aloud. This activity both reinforces the link between the animation
+and vocabulary practice and serves as an assessment activity enabling the teacher to evaluate the
+students’ understanding of democracy-related terms in context.
+Productivity
+Before the Lesson
+The teacher prepares for the lesson by selecting suitable digital tools for creating campaign posters
+and presentations. The teacher designs a detailed Election Campaign Guideline using one of the
+poster and flyer creation tools. The classroom is arranged to support effective group work and
+collaboration.
+3. Ders (IT Class)
+Pre-Activity
+In this lesson, the students work in groups to prepare an election campaign by using digital tools. The
+teacher explains the task: each group nominates a candidate, prepares campaign promises, a digital
+poster, and a presentation about a school election and democratic issue. Roles are assigned within
+each group: Candidate, Speech Writer, Digital Designer, Campaign Manager, Supporters. The teacher
+demonstrates the digital tools that can be used and provides the Election Campaign Guideline to
+support the students in organising their work.
+While Activity
+The teacher demonstrates how to use digital tools to design campaign posters and presentations.
+The students collaborate to create their candidate’s campaign promises, prepare a short campaign
+speech, and design a digital poster. During the activity, the teacher circulates around the classroom,
+offering guidance, answering questions, and ensuring that all group members actively participate in
+their assigned roles.
+6
+The Power of Choice
+Technology-Enhanced Learning Scenarios
+Post-Activity
+Each group presents their campaign to the class. The teacher provides feedback on creativity,
+collaboration, and presentation skills. The students reflect on the activity, discussing what they learnt
+about democracy and group work.
+Homework/Assignment
+The students are tasked with writing a short paragraph (6–8 sentences) about “Why democracy is
+important in our school and society.” They should include at least five new vocabulary words from the
+lesson (e.g. candidate, ballot box, rights, fairness, president). The students will upload their work to EBA
+or bring it to the next lesson for sharing.
+Evaluation/
 LINKS:[["Democracy in One Word", "Nj5pLd"], ["Democracy Words", "UVoqijA"], ["A Path to Democracy", "VbFJwc"], ["Democracy Match", "nF0rlx"], ["The Election Adventure", "UmA2B7K"], ["The Election Adventure Quiz", "UbQjnSG"], ["EBA-Vocabulary Exercise 2: Democracy", "UGRhwxC"], ["Election Campaign Guideline", "UZIRMkH"]]

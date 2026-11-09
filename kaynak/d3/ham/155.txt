@@ -1,5 +1,105 @@
 ## 5. Sinif/Ingilizce/My Daily Routine - A Day in My Life.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher asks the students to complete the Vocabulary Exercise 1: My Daily Routine on EBA. In this
+activity, the students match words related to routines with the images representing those routines.
+The teacher then designs a KWL Chart using one of the visual creation and editing tools and prints
+it out. Next, the teacher creates a video titled Tom’s Routines using one of the video editing tools
+(Annex-1). Finally, for the assessment, the teacher prepares a game named Catch the Routine using
+one of the game-based measurement and evaluation web tools.
+1. Ders (Class)
+Pre-Activity
+The teacher begins the lesson by asking the students what their favourite routine is and then invites
+them to consider the importance of routines in their lives. They ask the students to pay close attention
+to the relationship between routines and success. After this discussion, the teacher displays the KWL
+Chart on the interactive whiteboard. They then distribute copies of the chart and ask the students
+to pair up with a nearby classmate, focusing exclusively on the ‘K’ and ‘W’ sections and completing
+these parts of the chart.
+While Activity
+Following the sequence outlined in the chart, the teacher proceeds to the video titled Tom’s Routines,
+in which the students identify simple written texts about daily routines (Annex-1). The teacher uses the
+video as an introductory resource to prepare the students for the subsequent discussion and capture
+their attention. The students are then invited to work in pairs and discuss the following questions:
+‘What time do you get up?’, ‘What do you do after school?’, and ‘What are your evening routines?’. They
+then compare Tom’s routines with their own to identify similarities and differences. This activity aims
+to cultivate critical thinking, active listening and structured speaking in a captivating manner. The
+teacher provides ongoing feedback to support the students’ engagement and progress throughout
+the activity.
+Post-Activity
+Following the activity, to assess vocabulary acquisition, the teacher implements the Catch the Routine
+game, wherein the students match the visuals with the corresponding daily routines. Finally, the
+students are asked to work in pairs, focusing on the ‘L’ segment of the chart. They are then required to
+complete and evaluate the chart, reflecting on what they have learnt.
+4
+A Day in My Life
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher asks the students to complete the Reading Exercise: A Friend from Turkey on EBA. For
+this activity, the students read the text and answer the multiple-choice questions. Meanwhile, the
+teacher searches for videos depicting the daily routines of successful individuals in science or sports.
+Then the teacher creates a visual titled Tips for Success using one of the visual creation and editing
+tools before printing it out.
+2. Ders (IT Class)
+Pre-Activity
+The teacher uses a short video presentation to illustrate the daily routine of a well-known scientist
+or a successful athlete to the students. The students are then tasked with identifying the common
+elements in the routines of successful individuals.
+While Activity
+The teacher presents the visual aid titled Tips for Success, which will be used in the jigsaw technique of
+the cooperative learning approach. The students are then assigned numbers from 1 to 5, which are used
+to form groups. The students then convene in groups, discuss the relationship between the routines
+and success and focus on the titles such as sleeping time, eating habits, and free time activities for
+a short time. Subsequently, the students with identical numbers are grouped into an ‘expert group’,
+tasked with investigating and deliberating the significance of the assigned titles in the context of
+success. The teacher informs the students that the research findings would be utilised in the creation
+of an animation during the subsequent lesson. The expert groups may utilise artificial intelligence-
+powered tools or chatbots to conduct more in-depth searches, and they are also expected to take
+notes. The teacher provides ongoing feedback to facilitate the students’ engagement and progress
+throughout the activity.
+Post-Activity
+Once they have completed their assigned task, the expert groups will return to their home groups.
+Each student is expected to share their findings, ensuring that all group members are exposed to
+every topic and developing their critical thinking skills. Afterwards, there will be a discussion about the
+important role that these skills and routines play in the personal development of successful individuals.
+Cultural awareness
+5
+A Day in My Life
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher creates a digital board titled Use Your Imagination, using one of the tools for creating
+digital boards or post-its.
+3. Ders (IT Class)
+Pre-Activity
+The students continue to work in the same groups as in the previous lesson. The teacher uses an online
+discussion tool and starts the lesson by posing the following questions: ‘If you have a chance, who do
+you want to be for one day?’ and ‘Why?’. After collecting the students’ responses, the teacher tells
+them that they will play a game titled Mimicry Play Scenario: ‘A Day in Another’s Shoes’. The teacher
+applies the game-based learning approach, in which the students create the animation of a daily
+routine and act it out. This strategy is designed to enhance the students' imagination, collaboration,
+communication and creativity.
+While Activity
+The teacher shares the Use Your Imagination digital board link and invites the students to select a
+character, either real or imaginary. Working together, the students are tasked with creating an avatar
+to represent their chosen character, as well as an animation to illustrate a typical day in the life of that
+character, using one of the animation creation tools. They can also voice their animations by narrating
+or performing dialogue for their characters. Each group member must take responsibility for a specific
+aspect of the animation, as they will be tasked with enacting it. For example, one student could be
+assigned the role of the teacher or the character's mother. The animation could depict a typical day at
+school, work or home. The students share the animation links on the digital board. The teacher provides
+ongoing feedback to engage and support the students throughout the activity.
+Post-Activity
+The students watch animations and comment on their friends' work, sharing their opinions. Once all
+the animations have been discussed, the teacher summarises the key points about the relationship
+between routines and success, raising the students' awareness in the process.
+Homework/Assignment
+The students are tasked with performing their animation script, recording it, and sharing the recording
+on the digital board. Each student is expected either to provide a positive comment on their peers'
+work, or to offer suggestions.
+Digital skills, Critical thinking
+6
+A Day in My Life
+Technology-Enhanced Learning Scenarios
+Evaluation/
 LINKS:[["EBA-Vocabulary Exercise 1: My Daily Routine", "U6qs3wm"], ["KWL Chart", "UoFQcfS"], ["Tom’s Routines", "Lz5keq"], ["Catch the Routine", "UlRFSAv"], ["EBA-Reading Exercise: A Friend from Turkey", "rNPTSn"], ["Tips for Success", "P0D9dw"], ["Use Your Imagination", "UWrudpt"]]

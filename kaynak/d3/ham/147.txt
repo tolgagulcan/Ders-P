@@ -1,5 +1,87 @@
 ## 5. Sinif/Ingilizce/Games and Hobbies - Let's Play Together!.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher is required to design various digital materials to enhance student engagement and
+learning. First, the teacher prepares a presentation titled Magical World of Games using one of the
+interactive presentation tools (Annex-1). Then, for the assessment, the teacher creates a Balloon Pop
+game using one of the gamified measurement and evaluation web tools.
+1. Ders (Class)
+Pre-Activity
+The teacher introduces the “Which game is it?” activity, in which the students act out or mime a game
+for their classmates to guess. The teacher then asks for a volunteer student to leave the classroom.
+While they are away, the teacher asks the rest of the class to decide on a game to describe. At least
+five students can volunteer to leave the classroom, and there can be five different games need to be
+mimed.
+While Activity
+Following the “Which game is it?” activity, the teacher initiates the Magical World of Games presentation,
+where the students are asked to identify the names of games and hobbies, as well as phrases related
+to likes and dislikes, and abilities and inabilities (Annex-1). During the presentation, the teacher asks,
+“What kind of games do you play with your friends?”. The students are encouraged to express their
+preferences regarding games they like or don’t like, followed by constructing sentences that reflect
+their abilities and inabilities. The students are required to use the structures such as, “I like/dislike” or “I
+enjoy/hate” while talking about the games and hobbies and the teacher provides prompt feedback
+throughout the course of the activity.
+Post-Activity
+After the presentation, to assess the comprehension, the teacher implements the Balloon Pop game,
+in which the students are asked to look at the images of games and hobbies and match them with the
+corresponding terms such as hide and seek, blind man’s buff, hopscotch, etc.
+4
+Let’s Play Together!
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher designs various digital materials to boost student motivation. First, the teacher creates a
+Word Grid using one of the gamification web tools (Annex-2). Then, the teacher designs a My Weekly
+Game Schedule using one of the interactive presentation tools (Annex-3). Lastly, for the assessment,
+the teacher prepares a Reflective Journal using one of the poster and flyer creation tools (Annex-4).
+2. Ders ( Class)
+Pre-Activity
+The teacher displays the Word Grid and requests that the students find the given words in the grid
+(Annex-2). Each student who finds the given word is required to construct a sentence using “I like”, “love”,
+“dislike”, or “hate” structures. This allows the teacher to assess whether the students can correctly use
+these structures to express their likes and dislikes.
+While Activity
+Following the word grid activity, the teacher displays the My Weekly Game Schedule activity, in which
+the students will follow a simple story with visual aids and construct sentences (Annex-3). The teacher
+introduces the character named Sam and asks the students to work in groups of three to discuss
+Sam’s game scedule. The teacher shares the link with the groups on a digital board and asks the
+students to look at the images of the games and hobbies and construct sentences to tell the weekly
+game schedule of Sam. The students may like or comment on the visual story. The students are asked
+to construct sentences such as “Tom likes playing soccer with his friends on Tuesday.” The teacher
+walks around the students during the discussions and provides prompt feedback throughout the
+course of the activity.
+Post-Activity
+Following the discussion on the game schedule of Sam, the teacher proceeds to the assessment part
+and shares the link to the Reflective Journal, where the students are asked to answer the questions to
+check their self-development (Annex-4).
+Before the Lesson
+The teacher creates an activity named Horse Race using one of the gamified measurement and
+evaluation web tools. Then, the teacher prepares another activity named Do You Like? using one of
+the gamification web tools.
+5
+Let’s Play Together!
+Technology-Enhanced Learning Scenarios
+3. Ders ( IT Class)
+Pre-Activity
+The teacher introduces the Horse Race game, in which the students listen to audio clips such as
+swimming, hide and seek, playing chess, etc., and match each with the corresponding image.The
+teacher explains that the winner is the student who finds the answers the fastest. This interactive
+game is intended to facilitate a warm start for the lesson.
+While Activity
+Following the horse race, the teacher initiates another activity titled Do You Like?, in which the students
+look at the images and talk about hobbies and likes/dislikes and abilities in a simple way. The activity
+includes images of games and hobbies such as skipping rope, riding a bike, roller skating, etc. The
+teacher asks the students to work in pairs, one student poses the question “Do you like?”, the other one
+chooses an option, and constructs sentences using “I like...”. The students then take turns to ask and
+answer the questions. The teacher circulates amongst the students during the discussions, providing
+immediate feedback throughout the activity.
+Post-Activity
+Following the activity, the teacher proceeds to the assessment part and shares the Reading Exercise:
+Kevin’s Project on EBA. In this exercise, the students read the text and answer the questions.
+Homework/Assignment
+The students are assigned to work in groups of four to prepare a dialogue about their hobbies. They
+are then asked to share their videos on EBA and comment on each other’s videos.
+Creativity
+Evaluation/
 LINKS:[["Magical World of Games", "U247s1C"], ["Balloon Pop", "uEIe3H"], ["Word Grid", "ZFvUyu"], ["My Weekly Game Schedule", "WLYWZ7"], ["Reflective Journal", "oL6dK2"], ["Horse Race", "UtbxlyK"], ["Do You Like?", "kcdCpO"], ["EBA-Reading Exercise: Kevin’s Project", "U6H2itP"]]

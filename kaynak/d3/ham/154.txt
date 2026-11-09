@@ -1,5 +1,105 @@
 ## 5. Sinif/Ingilizce/Life in the World - Eat Healthy, Stay Healthy.pdf
-SURE:None KOD:ENG.5.6.L3. ENG.5.6.P1. ENG.5.6.R2. ENG.5.6.R3.
-KAV:
+SURE:3 KOD:ENG.5.6.L3. ENG.5.6.P1. ENG.5.6.R2. ENG.5.6.R3.
+KAV:Food events, Healthy life, Ordering in a restaurant
+Learning Activities
+Before the Lesson
+The teacher creates a game named Tap and Say using one of the gamified measurement and evaluation
+web tools. Then the teacher prepares a video titled Healthy Eating Day using one of the video editing tools
+(Annex-1). Lastly, for the assessment, the teacher designs an activity named Question Set using one of the
+web tools for instant feedback (Annex-2).
+1. Ders (Class)
+Pre-Activity
+The teacher initiates the Tap and Say activity on the interactive whiteboard, where the students come to the
+board in pairs, tap each box to open, and say the corresponding name for the visuals, such as beef, beans,
+and soup. As a consequence of this activity, the students recognise the target words related to the main
+components of the current content with the help of the visual and written elements.
+While Activity
+Following the vocabulary activation stage, the teacher transitions to the Healthy Eating Day video, wherein
+the students recognise the clauses/sentences containing the target grammatical chunks in different
+contexts (Annex-1). The teacher asks questions about the eating habits of the students and the relationship
+between the eating habits and health. Then, the teacher requires the students to watch and listen to the video
+content by paying attention to the target phonological aspects, including pronunciation and intonation of
+utterances. Upon completion of the video, the teacher chooses five students to read the dialogues aloud,
+and in this way, the students gain awareness of clauses/sentences that contain target grammatical chunks
+that are presented. To check the comprehension, the teacher initiates the Question Set, in which the students
+answer different types of questions related to the video (Annex-2). While answering the questions, the
+students make significant inferences that contribute to the understanding of the meaning of the generally
+perceived current content.
+Post-Activity
+Following the questions, the teacher invites the students to work in groups of five to rehearse and act out the
+given dialogue in the video. The aim of this activity is to help the students reinforce the target phonological
+elements by repeating them several times in groups. The volunteer groups act out the dialogue in front of
+the class.
+Inference, Data-based prediction, Critical thinking, Listening/Watching-
+Framework Pronunciation: Selection and use, Curiosity, Assertiveness, Playfulness,
+Questioning, Communication, Cooperation
+6 Eat Healthy, Stay Healthy
+...
+Before the Lesson
+The teacher creates a game named Spin and Ask using one of the gamified measurement and evaluation
+web tools.
+2. Ders (IT Class)
+Pre-Activity
+The teacher shares the Spin and Ask activity with the students. In this task, the students work in pairs. One
+student spins the wheel and orders the food shown in the visual, while the other student responds appropriately
+as a waiter/waitress. The teacher writes an example dialogue on the board for the activity and encourages
+the students to use the target vocabulary spontaneously and apply the target grammatical chunks, such
+as “Can I have…?”, “Would you like…?” and “Here you are.”
+While Activity
+Following the vocabulary and grammatical chunks activation stage, the students are invited to work in
+groups of four to create a video in a restaurant, using one of the video editing tools. In this task, the students
+take on the roles of waiter/waitress and customer and collaboratively design a restaurant menu including
+both traditional Turkish meals and various meals from various cuisines. The customers are required to order
+food using the target grammatical chunks, such as “Can I have some soup?” or “I’d like some salad, please.”
+The waiters/waitresses are expected to describe the ingredients of the dishes and give brief information
+about them. This activity aims to enhance the students’ communicative competence by using language
+in a real-life context.
+Post-Activity
+The students are required to upload their videos to EBA. Each group is invited to watch their peers’ videos,
+like or comment on the video.The teacher leaves constructive comments and provides feedback.
+Speaking-expression, Writing-expression, Grammaring: Selection and use,
+Vocabulary: Selection and use, Pronunciation: Selection and use, Communica-
+Framework
+tion, Cooperation, Digital literacy, Cultural literacy
+7 Eat Healthy, Stay Healthy
+...
+Before the Lesson
+The teacher creates an activity named Match the Pairs using one of the web tools for matching activities.
+Then, the teacher crafts a presentation titled Healthy Recipes for Children using one of the interactive
+presentation tools (Annex-3). The teacher designs a digital board named Share Your Recipes using one of
+the tools for creating digital boards or sticky notes. Lastly, for assessment, the teacher prepares an activity
+named Exit Card using one of the visual creation and editing tools (Annex-4).
+3. Ders (IT Class)
+Pre-Activity
+The teacher initiates the lesson asking questions such as, “Do you help your parents in the kitchen?”, “Can
+you cook?”, “Can you tell the steps of a recipe?” and “Do you enjoy trying different kinds of food?” to engage
+the students’ attention. Then, the teacher says, “Let’s revise some phrases we use to tell the steps of a recipe.”
+and shares the Match the Pairs activity with the students. In this task, the students work in pairs to match
+the audios with the corresponding visuals, such as mixing the ingredients and cutting the onion. This task
+aims to help the students recognise significant horizontal/vertical/spiral relationships within the generally
+perceived current content, with the help of classifications in line with the new English curriculum outcomes.
+While Activity
+Following the vocabulary activation stage, the teacher shares the Healthy Recipes for Children presentation,
+in which the importance of healthy lifestyle is emphasised, and the steps of some healthy recipes are
+provided (Annex-3). The students are required to work in groups of four to review the current content by
+examining the surrounding audio/visual materials and identifying the general topic through skimming. After
+the students complete skimming the presentation, the teacher asks each group to share their predictions
+about the content. Then, the teacher goes over the presentation in detail and discusses the importance of
+our eating habits for our health and asks additional questions including: “Do you think the slogan “Healthy
+food, healthy mind.” is a good slogan? Why?”, “Can you make a new slogan for healthy eating?” Following
+the discussion, the students again work in their groups to prepare a simple and healthy recipe, which they
+then share with their classmates. The students may use artificial intelligence powered tools to find ideas for
+their recipes. The teacher provides ongoing feedback throughout the course of the activity.
+Post-Activity
+The teacher shares the link to the digital board, Share Your Recipes, with the students and asks them to
+share their group work on the digital board.
+8 Eat Healthy, Stay Healthy
+...
+Homework/Assignment
+The teacher shares the Exit Card as an assignment and requests the students to fill in the exit card and post
+it on the Share Your Recipes digital board (Annex-4).
+Data-based prediction, Reflective thinking, Critical thinking, Listening/
+Framework Writing-expression, Grammaring: Selection and use, Vocabulary: Selection and
+use, Reasoning, Creativity, Communication, Cooperation, Digital literacy
 
 LINKS:[["Tap and Say", "IhMOBB"], ["Healthy Eating Day", "UvENjf4"], ["Question Set", "UwO2EcS"], ["Spin and Ask", "2Olwob"], ["Match the Pairs", "bkqHMn"], ["Healthy Recipes for Children", "uUuAiq"], ["Share Your Recipes", "UkfQWoS"], ["Exit Card", "kC0WxY"]]

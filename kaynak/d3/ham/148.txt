@@ -1,5 +1,108 @@
 ## 5. Sinif/Ingilizce/Hello! - Around the World.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher uses a visual creation and editing tool to prepare the flags of various countries, turns them
+into flashcards, prints them in colour, and brings them to the classroom. The teacher can also use
+ready made Countries and Nationalities Flashcards prepared by using a visual creation and editing
+tool (Annex-1). The teacher finds “Where are you from?” song and “Where are you from? Continents,
+Countries & Nationalities” video for the lesson.
+1. Ders (Class)
+Pre-Activity
+The teacher enters the classroom and greets the students in a language other than English. The
+students wonder why they greet each other in this way. Some students may make a connection with
+the topic. The teacher tells them they are going to play “Chinese Whispers” and asks the students to
+line up. The teacher chooses a word from” another language that is used in greetings. For example,
+the teacher chooses the word “Ciao” to say “Hello” in Italian. The teacher whispers the word to the
+first student and asks them to continue the game. They whisper the word around until the last person
+repeats it. The game is repeated, taking the time into account.
+While Activity
+The teacher indicates that the focus of today’s lesson will be on the examination of the names and flags
+of various nationalities, with a particular emphasis on the facilitation of question-asking and question-
+answering activities such as “Where are you from?” and “What nationality are you?” in English. To do
+this, the teacher plays “Where are you from?” song. The teacher acts as a role model for the students
+to repeat the lyrics.
+After the song, the teacher distributes the Countries Nationalities Flashcards to the students (Annex-1).
+When the name of the countries is mentioned in the song, the teacher asks whoever has the flag of
+the correct country to raise the flag. While singing the song with the students once again, the students
+who hold the flags in their hands follow the song better and raise the flag when it is their turn. While
+collecting the flags after the song, the teacher asks the students again which country they belong to,
+and they can repeat once again in this way.
+3
+Around the World
+Technology-Enhanced Learning Scenarios
+Post-Activity
+After the song, which allows the students to become a little more familiar with the words, the teacher
+initiates “Where are you from? Continents, Countries & Nationalities” video in which people introduce
+themselves. In the video, people say their names, countries and nationalities. After the sample video, the
+teacher asks if there is anyone who can introduce themselves as in the video.
+After the video and introductions, the teacher reviews the main points. They use these patterns: “Where
+are you from? I am from Turkey.”, “What nationality are you? I am Turkish.” and “How many languages do
+you speak? Two. Turkish and English.” They engage in a question and answer activity using different flags
+to reinforce the topic.
+Before the Lesson
+The teacher creates a matching activity named Countries-Nationalities with one of the web tools for
+matching activities (Annex-2). The teacher prepares speaking cards as samples, outlining what the
+students can mention in their video (Annex-3). The teacher can distribute them and let the students talk
+about these cards or the students can research and collect their own information as in the scenario.
+2. Ders (IT Class)
+Pre-Activity
+The teacher initiates the Countries-Nationalities matching activity for the students to categorise countries
+and nationalities prepared with one of the web tools for matching activities before the lesson (Annex-2).
+The students drag and drop the names of countries and nationalities into the correct box. In this activity,
+they’ll practice telling the difference between countries and nationalities.
+While Activity
+After the matching activity, the teacher divides the students into two groups. One student from each
+group takes turns naming the location of a country. The teacher gives a sticker to the student who finds
+the location of the country first and asks the student to stick it on the country. The teacher calculates the
+scores, announces the winner, and the class applauds. Through this activity, the names of the countries
+and their locations on the map are practiced.
+Post-Activity
+After the game, the teacher asks the students to look at the map. The teacher chooses a sticker and asks
+which country it represents. Then the teacher asks which of their friends identified the country. They use
+these patterns: “Where is s/he from?”, “S/he is from...” and “I can speak English/German.” At the end of the
+activity, the students are expected to be able to ask and answer about themselves and other people.
+Homework/Assignment
+The students are assigned the task of conducting research on a country for their homework. The students
+should research a country’s flag, culture, common names and languages and dress in traditional clothes
+to record a one-minute video about the country. The teacher will evaluate the students’ work and ask
+them to evaluate their classmates’ videos.
+4
+Around the World
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher uses a video editing tool to merge the students’ videos, creating a single material to be
+watched together in the lesson. The teacher can name the video “Around the World”. The teacher evaluates
+the students’ performance on the video with an assessment form (Annex-4). The teacher watches the
+merged video and prepares a Sample Survey about this video with one of the web tools for e-surveys
+(Annex-5). Since each class will have a separate video, questions should be prepared according to the
+video.
+3. Ders (IT Class)
+Pre-Activity
+The teacher hangs the flag visuals on the board in order. The teacher tells the students that they will play
+a memory game. Then the teacher encourages them to count the names of the countries in order. The
+teacher takes the first flag, asks the studens to remember the flag in the 1 first place and encourages
+them to count the rest. Then the teacher takes the 2 second flag. The students try to remember the first
+2 rows. The game continues in this way. Towards the end, the students may have difficulty remembering
+them all in order. The students who remember them all can be rewarded at the end of the warm-up
+activity.
+While Activity
+The students watch the videos they prepared at home. The teacher tells the students that they will
+complete an online survey about this video. The teacher asks the students to watch the video closely and
+write down what they learn about their friends, their countries, and their languages.
+Post-Activity
+After watching the video, the teacher wants the students to complete the Sample Survey about video
+(Annex-5). In this survey, questions and sentences related to the required outcomes are included. Thus,
+the information discussed from the beginning is applied with the online survey. After applying the survey
+in the lesson, the teacher shares the results with the students. The students review the correct answers
+and discuss them with the teacher and their friends.
+Homework/Assignment
+The teacher assigns Grammar Exercise 5: Getting Info about Others to the students and asks them to
+complete it within the specified time. The teacher checks the students who completed the activity on EBA
+and the percentage of correct answers.
+5
+Around the World
+Technology-Enhanced Learning Scenarios
+Evaluation/
 LINKS:[["Countries and Nationalities Flashcards", "UFcTky3"], ["Countries-Nationalities", "UaXkh0X"], ["Sample Survey", "03mJJf"], ["EBA-Grammar Exercise 5: Getting Info about Others", "YjWZsC"]]

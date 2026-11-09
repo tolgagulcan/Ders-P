@@ -1,5 +1,91 @@
 ## 5. Sinif/Ingilizce/The Animal Shelter - Interactive Pet Shelter.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The students are required to complete Vocabulary Exercise 1: The Animal Shelter on EBA. This exercise
+involves matching various animal-related vocabulary items with their corresponding visual
+representations, allowing the students to enhance their lexical knowledge and strengthen word-image
+associations. The teacher prepares a Double Animals exercise using one of the gamification web
+tools. The teacher designs an Animals activity using web tools for matching exercises, as well as a Zoo
+Snapshots digital story using one of the digital story creation tools (Annex-1). The teacher creates a True
+or False Challenge exercise for the digital story using one of the web tools for true-false questions.
+1. Ders (Class)
+Pre-Activity
+The teacher integrates the Double Animals exercise as a warm-up exercise, requiring the students to
+promptly identify the repeated animal. After the exercise, the teacher asks the students: “What is your
+favourite animal?” to encourage engagement and spoken interaction.
+While Activity
+Following the gamification activity, the teacher introduces the Animals activity. In this task, the students
+listen to audio clips and match each spoken word (e.g. cat, fox,) with the corresponding image. After
+the matching activity, the teacher proceeds with the digital story Zoo Snapshots, which narrates the
+observations captured by a wildlife photographer’s camera (Annex-1). Through the story, the students
+listen to the names of animals, their offspring, and the actions in which they are engaged. To enhance
+speaking skills, the teacher pauses the video at key moments to ask the students questions about
+previous scenes, encouraging them to recall and describe what they have seen. At the end of the story,
+the students engage in a pair-work activity where they take turns asking and answering questions
+about the events and characters in the video, reinforcing their comprehension and speaking practice.
+Post-Activity
+For the assessment, the teacher transitions to the True or False Challenge exercise. The teacher informs
+the students with the following instructions: “Items will fly by at a fast speed. See how many you can get
+right before time runs out.” When the students identify a statement as false, the teacher challenges the
+students to correct it by asking follow-up questions such as, “If the duck is not jumping, what is it doing?”,
+fostering deeper thinking and speaking practice.
+4
+Interactive Pet Shelter
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher designs a game titled What’s Behind? and a Listen and Match activity using one of the
+gamified measurement and evaluation web tools. The teacher prepares a Mother and Baby Animals
+activity using web tools for matching exercises. Additionally, the teacher creates an Animals and Their
+Babies digital story using one of the digital story creation tools (Annex-2).
+2. Ders (Class)
+Pre-Activity
+As a warm-up activity, the teacher informs the students that they will play the game titled What’s
+Behind?. The students drag the cursor over the screen to reveal the hidden image. This activity helps
+engage the students and activates prior knowledge.
+While Activity
+After the gamification activity, the teacher proceeds with the Mother and Baby Animals activity. In this
+activity, the students match mother animals with their corresponding baby animals. For example, cat–
+kitten, dog-puppy, etc. After completing the matching activity, the teacher continues with the story
+Animals and Their Babies, in which the students introduce the offspring of various animals (Annex-2).
+To foster collaboration, communication, and interaction amongst the students while emphasising
+speaking skills, the teacher organises a group activity after watching the video. The students discuss
+and exchange ideas about the offspring of other animals in small groups. To enhance engagement,
+the teacher can integrate the Fishbowl technique, where a central chair is placed in a circle, and the
+students take turns stepping in to share their thoughts before rejoining the circle.
+Post-Activity
+For the assessment, the teacher continues with the Listen and Match exercise. The students are required
+to listen to the sentences and match them with the corresponding images. The activity continues until
+all answers are matched.
+Before the Lesson
+The teacher designs a Guess the Animal game using one of the gamification web tools. The teacher
+prepares a People at the Moment exercise using one of the web tools for matching activities. The
+teacher creates an Animals Quiz using one of the web tools for multiple-choice questions (Annex-3).
+3. Ders (IT Class)
+Pre-Activity
+The teacher informs the students that they will engage in the Guess the Animal game as a warm-
+up activity. The students are tasked with dragging and placing letters into the correct positions to
+unscramble the word or phrase.
+5
+Interactive Pet Shelter
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher transitions to the People at the Moment exercise, where the students are required to drag
+each description under the correct picture and click on them to zoom in. After completing the exercise,
+the teacher asks the students to work in pairs to create a poster about a fictional character and describe
+the work they are doing at that moment, similar to the activity. Each poster should include at least three
+sentences. Once the groups have finished, they present their posters, and their classmates provide
+feedback.
+Post-Activity
+As part of the assessment, the teacher conducts the Animals Quiz where the students have to choose
+the correct answer (Annex-3).
+Homework/Assignment
+The teacher assigns the students to prepare posters about animals. Each student will introduce at least
+two animals on their poster, including information about their names, what they eat, and any interesting
+facts. The students can use digital tools or create their posters by hand with drawings and colours. This
+assignment encourages creativity and personal expression while helping the students develop their
+research and writing skills. It also reinforces vocabulary and knowledge about animals in an engaging
+way.
+Evaluation/
 LINKS:[["EBA-Vocabulary Exercise 1: The Animal Shelter", "UwMsQfN"], ["Double Animals", "UVfy0eD"], ["Animals", "mi2u9N"], ["Zoo Snapshots", "chjiOH"], ["True or False Challenge", "UwTF7OB"], ["What’s Behind?", "ZCUx95"], ["Mother and Baby Animals", "BautFD"], ["Animals and Their Babies", "UEwwUTK"], ["Listen and Match", "zCJrie"], ["Guess the Animal", "hs7pAB"], ["People at the Moment", "Utq9CG6"], ["Animals Quiz", "MTNdyt"]]

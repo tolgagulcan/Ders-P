@@ -1,5 +1,133 @@
 ## 7. Sinif/Ingilizce/Planets - Exploring the Cosmic Mysteries.pdf
-SURE:None KOD:
+SURE:4 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher creates an animation named Fun Planet Facts, using one of the animation creation tools
+(Annex-1). Then, the teacher prepares a video titled Journey Through the Mysterious Universe using
+one of the video editing tools (Annex-2). Lastly, for the assessment, the teacher prepares an activity
+named Fill-in-the-Blanks with Comparatives using one of the web tools for fill-in-the-blank questions
+(Annex-3).
+1. Ders (Class)
+Pre-Activity
+The teacher aims to conduct an integrated STEM English lesson that connects science and language
+through the themes of space and exploration. To spark curiosity and imagination, the teacher initiates
+the lesson by asking questions such as “If you could visit any planet, which one would you choose
+and why?”, “Do you think there could be life on another planet?”, and “What do you think lies beyond
+the stars we can see?”. These questions are designed to stimulate creative thinking, preparing the
+students for the theme of exploration. Following the questions, the teacher initiates the Fun Planet
+Facts animation, where the students identify specific information about general truths about the
+planets and comparatives (Annex-1).
+While Activity
+Following the animation, the teacher asks questions such as “What do you think about the mysteries
+of the universe?”, “What is the most interesting thing about the universe?” to promote higher-order
+thinking and guide the students towards reflective observation. Through these questions, learners
+are encouraged to make personal interpretations, connect visual input with prior knowledge, and
+express curiosity-driven ideas in English. The teacher says “Let’s continue to discover the mysteries
+of the universe.”, and initiates the Journey Through the Mysterious Universe video, through which
+the students can recognise additional scientific facts and mysteries presented in simple oral texts
+(Annex-2). Upon completion of the video, the teacher forms groups of four to encourage the students
+to work collaboratively. The groups are invited to work in their groups to discuss the concepts of black
+holes and comets, encouraging them to share their ideas, make comparisons, and draw simple
+conclusions based on the information they have observed. The teacher may ask some questions
+such as “What might happen if a comet came very close to Earth?”, “How would you feel if you could
+observe a black hole from a safe distance?” to develop higher-order thinking skills. Through this
+collaborative discussion, the students not only enhance their communicative competence but also
+cultivate critical thinking, creativity, and scientific reasoning, thereby aligning the activity with the
+interdisciplinary objectives of STEM education.
+4
+Exploring the Cosmic Mysteries
+Technology-Enhanced Learning Scenarios
+Post-Activity
+Following the discussion, the teacher displays the Fill-in-the-Blanks with Comparatives activity and
+invites the students to work in pairs to complete the activity, where the students can make simple
+comparisons (Annex-3).
+Active listening, Digital literacy
+Before the Lesson
+The teacher designs a game titled Guess the Image using one of the gamification web tools. The
+students are required to bring Styrofoam balls, paints, paintbrushes, wooden sticks, cardboard bases,
+glue and scissors to design the Solar System.
+2. Ders (IT Class)
+Pre-Activity
+The teacher shares the Guess the Image game with the students, where the students slide the circle to
+discover the hidden images, such as a satellite and a space shuttle, and write the word for that image.
+The student who has the most correct answers or finishes first will be declared the winner. The teacher
+uses this activity to engage the students in a fun and interactive warm-up activity that activates their
+prior knowledge and recalls key vocabulary related to the unit.
+While Activity
+Following the vocabulary activation stage, the teacher asks the students to work in groups of six. Within
+each group, half of the students are responsible for creating a digital model of the Solar System using
+one of the artificial intelligence-powered tools, while the other half design a physical model based on the
+same data. Within each group, basic roles such as data researchers, engineers/builders, presenters and
+coordinators will be assigned to improve the implementation of the course. The students researching
+the planets collect information about their diameter, average temperature, and distance from the Sun.
+After gathering the necessary data, each group integrates their findings into a short presentation using
+an interactive presentation tool. During this process, the students are encouraged to use comparative
+adjectives to describe the planets, reinforcing the target language structure in a meaningful, content-
+based context. Additionally, they may include interesting facts about the universe or the Solar System in
+their presentations. In this STEM-integrated process, the students develop interdisciplinary connections
+across science, maths, technology, engineering, and English through the design of both digital and
+physical models. The teacher provides prompt feedback throughout the activity.
+5
+Exploring the Cosmic Mysteries
+Technology-Enhanced Learning Scenarios
+Post-Activity
+The students present both their digital presentations and the physical models they have created to
+their classmates. After all presentations are completed, they organise a “Space Exhibition” in their
+classroom to display all the models. Their peers provide constructive feedback on their work.
+Productivity, Digital literacy
+Before the Lesson
+The teacher creates a matching activity titled Match the Verbs using one of the web tools for matching
+activities. Then the teacher designs a story named Lost in Space using one of the digital story creation
+tools (Annex-4). Lastly, for the assessment, the teacher prepares an activity titled Answer the Questions
+using one of the web tools for multiple-choice questions (Annex-5).
+3. Ders (Class)
+Pre-Activity
+The teacher initiates the Match the Verbs activity, in which the students match the verbs, such as go
+and make, with their past forms. This serves as a warm-up activity to help them recall verb forms
+before reading the story about space travel.
+While Activity
+Following the matching activity, the teacher asks questions such as “Who was the first person to travel
+to space?” and “Do you know the name of the first animal that travelled to space?”. These questions
+activate the students’ background knowledge and arouse their curiosity about the topic. After eliciting
+a few answers, the teacher briefly introduces Yuri Gagarin and Laika, showing their pictures to help
+the students make connections with the upcoming story. The teacher briefly tells Laika’s story: “Laika
+was a small, stray dog from Moscow, Russia. In 1957, she became the first living creature to travel into
+space. On November 3, 1957, Laika was sent into space on the Sputnik 2 spacecraft. Unfortunately, the
+technology at that time could not bring her back to Earth safely.”, and initiates the Lost in Space story,
+in which the students read about the adventure of astronaut Leo and a cat named Cutie (Annex-4).
+Upon completing the story, the teacher asks, “If you were Leo, how would you feel and what would
+you do?”. The students may be asked to write a few sentences expressing their feelings as if they were
+Leo or Cutie. The aim of this stage is to encourage the students to think critically, empathise with the
+characters, and express their ideas using the target language.
+6
+Exploring the Cosmic Mysteries
+Technology-Enhanced Learning Scenarios
+Post-Activity
+Following the reading, to assess the students’ comprehension, the teacher displays the Answer the
+Questions multiple-choice questions and asks the students to work in pairs to answer the questions
+(Annex-5).
+4. Ders (IT Class)
+Pre-Activity
+The teacher invites the students to work in groups of four to create a word cloud using one of the word
+cloud creation tools. The word cloud may consist of the words related to science, space, planets, and
+space travels. The students are required to form sentences using the words in their word cloud. This
+activity combines creativity, vocabulary building, and sentence structure practice.
+While Activity
+Following the creation of the word cloud, the teacher shares the link of the Lost in Space story with
+the students and asks them to write the rest of the story (Annex-4). The students continue to work in
+the same group, brainstorm about the alternative endings and write an interesting, surprising end
+using the simple past tense. The teacher aims to develop the students’ creative writing and digital
+skills, while reinforcing their understanding and use of the simple past tense through meaningful story
+completion tasks. The teacher provides prompt feedback throughout the activity.
+Post-Activity
+The groups share their stories on EBA. The other groups read the stories, comment, or like the alternative
+endings to give feedback.
+Homework/Assignment
+The students are assigned to complete the Reading Exercise: Planets on EBA. The students are required
+to read the passage and answer the questions.
+7
+Exploring the Cosmic Mysteries
+Technology-Enhanced Learning Scenarios
+Evaluation/
 LINKS:[["Fun Planet Facts", "UZ3ytsN"], ["Journey Through the Mysterious Universe", "iuAxXW"], ["Fill-in-the-Blanks with Comparatives", "Uwm7QIj"], ["Guess the Image", "UZHZVeF"], ["Match the Verbs", "UzeKKyi"], ["Lost in Space", "DNoSUg"], ["Answer the Questions", "UuhjpYz"], ["EBA-Reading Exercise: Planets", "CAE2Fg"]]

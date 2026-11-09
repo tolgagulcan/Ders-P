@@ -1,5 +1,106 @@
 ## 6. Sinif/Ingilizce/Downtown - Let’s Find Somewhere Peaceful!.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher creates a video titled Life on the Farm using one of the video editing tools (Annex-1). Then,
+for the assessment, the teacher prepares a game titled Reach the Word using one of the gamified
+measurement and evaluation web tools.
+1. Ders (Class)
+Pre-Activity
+The teacher begins the lesson by asking the students if they know the difference between city and
+village life and then invites them to reflect on this. After this discussion, the teacher plays the Downtown
+video about the city and the village on EBA, and the students identify the differences between city
+and village life.
+While Activity
+Following the downtown video, the teacher proceeds to another video titled Life on the Farm, wherein
+the students identify simple phrases that are used for the purpose of comparison. (Annex-1). The
+teacher uses the video to prepare the students for the subsequent discussion activity and to capture
+their attention. Before the discussion begins, the teacher introduces the Reach the Word game, in
+which the students match visuals with vocabulary items such as ‘skyscraper’, ‘kiosk’ and ‘crowded’.
+This activity serves to review and reinforce the related vocabulary that the students can utilise during
+the discussion. The teacher then divides the class into two groups to discuss the following statements:
+‘Living in the city improves the quality of life’ and ‘Living in the village improves the quality of life’.
+The groups can use chatbots or search engines to conduct detailed research. Within each group,
+the students can share roles such as opening speaker, supporting speaker, speaker responding to
+arguments from the other side, and closing speaker. Each speaker may also be assigned a specific
+time limit. When the groups are ready, they form two circles to begin the discussion. The objective
+of this activity is to cultivate critical thinking, active listening and structured speaking while using
+comparatives in a captivating manner. The teacher provides ongoing feedback to facilitate student
+engagement and progress throughout the activity.
+4
+Let’s Find Somewhere Peaceful!
+Technology-Enhanced Learning Scenarios
+Post-Activity
+Following the previous discussion on the use of comparatives, the teacher implements the Marketplace
+activity, an approach employed in active learning. Using one of the web tools for instant feedback,
+the teacher creates a marketplace and asks the students to write two sentences comparing city and
+village life. Once all the students have finished entering their data, the teacher launches the application
+in presentation mode via the interactive whiteboard. A volunteer student is then invited to read a
+chosen sentence aloud and offer their personal interpretation of it.
+Digital skills, Digital literacy
+Before the Lesson
+The teacher creates a presentation titled Everyone Is Busy using one of the interactive presentation
+tools (Annex-2). Then, for the assessment, the teacher designs a Farm Quiz using one of the gamified
+measurement and evaluation web tools (Annex-3).
+2. Ders (Class)
+Pre-Activity
+The teacher initiates the lesson with an Agile, team-based game to foster interaction, spark interest
+across diverse learner profiles, and ensure inclusive engagement. The teacher forms groups of four
+or five students and provides each group with 20 spaghetti sticks, one yard each of string and tape,
+and a marshmallow. Each team then has five minutes to build the tallest possible structure using
+the materials provided. The marshmallow must be at the top of the structure. The structure needs
+to be free-standing so the students cannot glue it to the table. Additionally, the students cannot rip,
+eat or break the marshmallow but they can pierce it. The team that builds the tallest structure which
+remains standing for at least 20 seconds wins. The teacher uses an example sentence to compare the
+height of the constructions and asks the students to continue comparing them. The objective of this
+activity is to promote interaction while practising comparative language.
+While Activity
+Following this game, the teacher proceeds to the presentation titled Everyone Is Busy, in which the
+students identify the expressions and phrases related to present events (Annex-2). The teacher
+periodically pauses the presentation to ask questions such as “What is Daisy’s brother doing?”
+and “What are the cats doing?”, with the aim of creating an interactive learning environment and
+encouraging the students to speak up. To practise with present events further, two students volunteer
+to stand at the front of the classroom. One student acts out or mimes a specific event, while the other
+asks, “What are they doing?”. The rest of the class is then invited to respond. Throughout the activity,
+the teacher provides timely feedback.
+5
+Let’s Find Somewhere Peaceful!
+Technology-Enhanced Learning Scenarios
+Post-Activity
+After the previous presentation, to assess the comprehension, the teacher initiates the Farm Quiz, in
+which the students answer the multiple-choice questions (Annex-3). The students work in pairs, with
+one student posing the question and the other providing the response.
+Before the Lesson
+The teacher designs a matching activity titled What Are They Doing? using one of the web tools for
+matching activities (Annex-4). Then, the teacher creates a visual titled Describe What Is Going On using
+one of the visual creation and editing tools.
+3. Ders (IT Class)
+Pre-Activity
+The teacher initiates the What Are They Doing? matching activity, in which the students look at the
+visuals and match the given sentences with the corresponding visual (Annex-4). The teacher shares
+the link, and the students work in pairs to identify where the characters are and what they are doing.
+The objective of this activity is to practise using phrases related to present events.
+While Activity
+After the matching activity, the teacher selects two volunteer students to act as narrators and displays
+the Describe What Is Going On visual exclusively to the narrators. The remaining students are organised
+into groups of three; however, they are not permitted to view the visual aids. The narrators must provide
+a comprehensive description of the scene and the characters’ actions. The other students then try to
+design the scene using one of the visual creation and editing tools available to them. The objective
+of this activity is to promote interaction while practising the present continuous tense. Through this
+activity, the students learn to collaborate to create a final product.
+Post-Activity
+Once all groups have finished designing their visuals, they share their work on EBA. The teacher and the
+students then compare the visual materials to select the one that most closely resembles the original.
+6
+Let’s Find Somewhere Peaceful!
+Technology-Enhanced Learning Scenarios
+Homework/Assignment
+The students are assigned to work in groups of four in order to design two posters. One poster should
+depict city life, while the other should depict village life. They are required to use one of the poster and
+flyer creation tools for this task. Furthermore, the posters should draw a comparison between city and
+village life. The students are assigned to complete Reading Exercise: Carol’s Neighbourhood on EBA.
+The students are required to read the passage and answer the questions.
+Productivity
+Evaluation/
 LINKS:[["EBA-Downtown Video", "UkBxxRh"], ["Life on the Farm", "UVcyDks"], ["Reach the Word", "UeOGtPY"], ["Everyone Is Busy", "bF6no2"], ["Farm Quiz", "kOfqv5"], ["What Are They Doing?", "lJiOhD"], ["Describe What Is Going On", "XU2LNF"], ["EBA-Reading Exercise: Carol’s Neighbourhood", "IL1KJ6"]]

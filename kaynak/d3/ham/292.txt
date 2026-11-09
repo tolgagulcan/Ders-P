@@ -1,5 +1,106 @@
 ## 6. Sinif/Ingilizce/Holidays - Holiday Adventure.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher uses a web tool for creating mind maps to create a sample Mind Map with branches for
+three holiday destinations: “Rize”, “Antalya”, and “Cappadocia” to facilitate the brainstorming activity.
+1. Ders (IT Class)
+Pre-Activity
+To begin the lesson, the teacher reviews holidays and the past tense, ensuring the students are
+refreshed on these concepts. The teacher then engages the students in a mind mapping activity
+by writing three holiday destinations on the board: “Rize”, “Antalya” and “Cappadocia”. The teacher
+draws three branches from each destination and asks the students about holiday activities for each
+place. For example, for Rize, the students might suggest rafting, hiking, sailing, and mountain climbing.
+For Antalya, activities might include swimming, sunbathing, diving, and visiting historical sites. For
+Cappadocia, the students might suggest hot air balloon rides, exploring caves, hiking, and visiting
+museums. The teacher writes down these suggestions and encourages the students to share their
+ideas. The sample Mind Map is displayed by the teacher.
+3
+Holiday Adventure
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher initiates Grammar Exercise 5 and Grammar Exercise 6 on EBA to strengthen the students’
+grammatical accuracy when using past tenses, providing guidance throughout the tasks. The
+students proceed to complete the exercises collaboratively, offering peer support to ensure a shared
+understanding of the material. Following this, the teacher uses an artificial intelligence powered tool
+on the interactive whiteboard to generate a 100-word unfinished story related to holiday places,
+activities, and the simple past tense. The teacher initiates the artificial intelligence powered tool on
+interactive whiteboard and writes this instruction: “Please, write a 100-word unfinished story related to
+holiday places, activities and the simple past tense (regular verbs) for 6th grade students.” The teacher
+reads the generated text aloud and asks the students to complete the story, providing enough time
+for them to work individually. The students are encouraged to collaborate and assist each other with
+their stories.
+Post-Activity
+The students share their completed stories aloud and receive feedback from the teacher and their
+peers. This collaborative environment promotes learning and improvement.
+Homework/Assignment
+The students are assigned to create their own mind map about holiday places and activities at home,
+using the web tool for creating mind maps demonstrated earlier in the lesson.
+Before the Lesson
+Prior to the lesson, the teacher reviews the mind maps created by the students in the previous lesson.
+The students should be ready to share and discuss their mind maps with the class, explaining their
+choices and the activities they included. Criteria to evaluate the students’ writing and reading are
+also prepared in advance (Annex-1).
+2. Ders ( Class)
+Pre-Activity
+To start the lesson, the mind maps the students created on holidays are reviewed. Then the students
+are divided into small groups to discuss their mind maps and share their ideas. Finally, a few students
+from each group present their mind maps to the class, and they identify common themes and discuss
+their choices. This activity helps the students recall their previous learning, connect their ideas, and
+prepare for the upcoming lesson.
+4
+Holiday Adventure
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher initiates Writing Exercise: Colarado on EBA, guiding the students through a shared
+reading of the passage and a discussion of the holiday described. Then the teacher tasks them with
+composing a well-structured paragraph of 80 to 100 words, reflecting on a memorable holiday from
+their own experience. The students are required to read their written output, allowing sufficient time
+for the activity. During this activity, the teacher moves between the desks, monitoring the students'
+writing process and offering guidance when necessary.
+Post-Activity
+The students are invited to read their paragraphs aloud. The teacher evaluates the writing process
+and the finished paragraphs using predefined criteria: understanding of the task, correct grammar
+use, correct use of past tense verbs, the coherence of the text, and fluency in reading. This assessment
+takes place both during the writing process and when the students present their work, providing
+comprehensive feedback (Annex-1).
+Homework/Assignment
+The teacher assigns Tour Around the World as an educational activity on EBA. The teacher requests
+that the students to take notes on the various holiday activities depicted in the video while it is being
+viewed. Additionally, the teacher informs the students that a question and answer activity about the
+video will be conducted in the subsequent lesson.
+Before the Lesson
+The teacher prepares the question and answer activity for “Tour Around the World” video assignment
+(Annex-2). The teacher also gathers pictures or flashcards of different holiday activities, and a set of
+conversation prompt cards related to holidays and past experiences for “Holiday Adventure” game
+(Annex-3).
+3. Ders (Class)
+Pre-Activity
+The teacher begins the lesson by conducting the question and answer activity about Tour Around the
+World shared as an assignment on EBA in the previous lesson (Annex-2). The students are encouraged
+to share their notes and discuss the key points such as holiday activities and places from the video.
+This activity helps to activate prior knowledge and sets the context for the upcoming game.
+5
+Holiday Adventure
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher explains the “Holiday Adventure” game, which focuses on identifying holiday-related
+activities, discussing holidays, and describing past activities and personal experiences (Annex-3). The
+game is divided into three parts: Activity Spotting, Holiday Talk, and Past Activities Game. In Activity
+Spotting, the class is divided into small groups and shown pictures or flashcards of different holiday
+activities. Each group identifies and discusses the activities they see, using descriptive language.
+The teacher records the discussions using an audio editing tool, which will be reviewed later in the
+lesson. In Holiday Talk, the students use conversation prompt cards to discuss their favourite holidays
+and memorable holiday experiences with their group members, sharing details such as locations,
+activities, and companions. In the Past Activities Game, the students work in pairs or groups, taking turns
+describing past activities or experiences from prompt cards while their partner guesses. Throughout
+the game, the teacher monitors and supports the students, noting their use of language, vocabulary,
+and grammar for informal observation and feedback.
+Post-Activity
+After the game, the teacher plays back the audio recordings of the students’ discussions. This allows
+the class to listen to their conversations and reflect on their use of language, vocabulary, and grammar.
+The teacher leads a brief discussion on what they did well and areas for improvement, providing
+constructive feedback to enhance their speaking skills.
+Evaluation/
 LINKS:[["Mind Map", "Utuh47D"], ["EBA-Grammar Exercise 5: Holidays", "qOXQYq"], ["EBA-Grammar Exercise 6: Holidays", "3Obrqw"], ["EBA-Writing Exercise: Colarado", "UfQEFEE"], ["EBA-EBA TV-Tour Around the World (Holidays)", "P3JVL8"]]

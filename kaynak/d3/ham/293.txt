@@ -1,5 +1,93 @@
 ## 6. Sinif/Ingilizce/Holidays - Holiday Tales.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+Prior to the lesson, the teacher gathers all necessary materials, such as markers and sticky notes.
+1. Ders (Class)
+Pre-Activity
+The teacher recounts a personal holiday experience to introduce new vocabulary as follows: “Last
+month I was in the Black Sea region”, “There were lakes, mountains, forests and rivers”, “The landscape
+was fascinating!”, “There were fruit trees and different flowers”, “The sea was refreshing, the sightseeing
+was great and it was a wonderful holiday”, etc. The students are then asked to describe their own
+holiday experiences as follows: “Where did you go on your last holiday?”, “Was it beautiful?”, “Were
+there any great scenes or places?”, etc.
+While Activity
+Subsequent to an overview of the lesson being presented, the teacher initiates Listening Exercise: New
+Friends. Throughout this activity, the teacher engages with the students to ensure comprehension of
+the presented material.
+After completing the listening exercise, the teacher remarks, “Great job, everyone! Let’s now move
+on to expanding our vocabulary and see how well you can identify our new vocabulary words”. In
+Vocabulary Exercise 1: Holidays, the students match photos with the appropriate words.
+The teacher organises an activity related to the vocabulary of the unit. The teacher starts one of the
+interactive presentation tools. The students in pairs describe and write the words of the unit by using
+AI powered feature of the interactive presentation tool. Meanwhile, other students can draw similar
+pictures in their notebooks.
+Post-Activity
+Upon completion of the task, the teacher presents the images, if feasible, and provides the students
+with printed copies, which they then affix to the designated English-language learning area of the
+classroom.
+Homework/Assessment
+The teacher provides the students with a link to Holidays video as homework, instructing them to
+view it while taking notes on the subject matter in their notebooks. The students will discuss the topic
+further in the subsequent lesson.
+4
+Holiday Tales
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher gathers all necessary materials, such as sticky notes, markers, and notebooks. The
+teacher prepares a Multiple-Choice Test on the web tools for multiple-choice questions, reviews the
+AI-generated text about holidays, and converts it into a listening activity (Annex-1). The teacher also
+tests the audio editing tool to ensure the students can easily use it for their homework assignment.
+Additionally, the teacher informs the students to bring their materials, be prepared to share their
+holiday experiences for the upcoming lesson. The students should also review the vocabulary from
+the previous lesson and be ready for an engaging discussion on holiday destinations.
+2. Ders (Class)
+Pre-Activity
+The teacher displays a world map on the interactive whiteboard and gives each student a sticky note
+and a marker. The students will pin sticky notes with holiday destinations onto a map.This activity
+encourages geographical awareness and stimulates discussions about different places around the
+world.
+While Activity
+The teacher starts the activity, which is based on a web tool that presents multiple-choice questions
+related to the video that was assigned as homework in the previous lesson (Annex-1). The students
+record their answers, after which they verify them collectively. The teacher initiates Vocabulary
+Exercise 2: Holidays on EBA, and the students match the words with their descriptions.
+The students are introduced to past tense regular verbs through a listening activity for the first time.
+To draw attention to regular verbs, the teacher uses an artificial intelligence powered tool to write
+an original text about holidays according to the unit outcomes and context. The teacher turns the
+text into a listening activity with an audio editing tool. After playing the audio two or three times, the
+teacher displays the text on the interactive whiteboard. The students identify and note unfamiliar
+words and structures. The teacher then prompts the artificial intelligence chatbot tool to generate a
+new listening text focused on past tense regular verbs: “Can you write an authentic 150-word text on
+the topic of holiday that I can turn into an audio text for my 6th grade students who will be learning
+regular verbs in the past tense for the first time in English class?”
+Homework/Assessment
+As homework assignment, the teacher asks the students to record what they did during their last
+holiday using an audio editing tool and upload it to the link provided by the teacher.
+Before the Lesson
+The teacher checks the students’ audio homework. The teacher sets assessment criteria for the
+students, reviews grammar activities on EBA and designs a Verb Match Up Game using one of the
+gamification web tools. The teacher announces an upcoming student assessment (Annex-2).
+5
+Holiday Tales
+Technology-Enhanced Learning Scenarios
+3. Ders (Class)
+Pre-Activity
+The teacher switches on the audio recordings of the homework given in the previous lesson on the
+interactive whiteboard and the students listen to them together. The teacher uses an assessment form
+to evaluate the students’ recordings. The evaluation is based on “correct use of regular verbs”, “fluency”
+and “pronunciation” (Annex-2).
+While Activity
+Following the student assessment, the teacher proceeds to the main grammar activities by initiating
+Grammar Exercise 1: Holidays and Grammar Exercise 2: Holidays. The students are required to complete
+these exercises all together. The teacher makes sure that the students pay attention to the use of regular
+verbs in each question. Once the students have completed the exercises, they check their answers with
+the teacher as a whole class. The teacher then prepares the follow-up activity.
+Post-Activity
+The teacher initiates the Verb Match Up Game to facilitate the acquisition of regular verbs through a
+fun and engaging matching activity. The students match the verbs with the correct tense form on the
+interactive whiteboard. This game serves as an effective learning tool for the students to have fun while
+learning regular verbs using interactive whiteboard technology.
+Evaluation/
 LINKS:[["EBA-Listening Exercise: New Friends", "njx6Cr"], ["EBA-Vocabulary Exercise 1: Holidays", "UJtCUYA"], ["EBA-EBA TV: Holidays", "VmhN2r"], ["Multiple-Choice Test", "RKScne"], ["EBA-Vocabulary Exercise 2: Holidays", "UH2L48V"], ["EBA-Grammar Exercise 1: Holidays", "Ui3DqPr"], ["EBA-Grammar Exercise 2: Holidays", "Ut0rlu4"], ["Verb Match Up Game", "7I0B7f"]]

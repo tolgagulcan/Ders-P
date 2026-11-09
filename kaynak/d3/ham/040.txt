@@ -1,5 +1,114 @@
 ## 8. Sinif/Ingilizce/Tourism - If I Were a Tourist!.pdf
-SURE:None KOD:
+SURE:4 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher shares Tourism video on EBA. The students should watch the video at their own pace. Thus,
+they get preliminary information about the theme. They should practice the related vocabulary and
+grammar patterns such as kinds of tourist attractions, types of places, “Have you ever been abroad?,
+What type of places do you prefer?, Why?”
+The teacher creates an animation that two classmates, James and Victor are talking about their
+holiday experiences using one of the animation creation tools. Optionally, the teacher can use artificial
+intelligence powered tools to write the script of the animation. Additionally, the teacher prepares
+questions designed to assess the students’ comprehension of the instructional material (Annex-1).
+The teacher creates an age-appropriate infographic Own Your Creation & Respect Others on the topic
+of copyright using visual editing and creation tool (Annex-2). The teacher makes this available on EBA
+prior to the lesson. This ensures that the students possess preliminary information on this key topic
+before the lesson, during which they will conduct online research.
+The teacher prepares a set of instructions for the collaborative task, which requires the students to work
+in groups of five or six to create a shared digital storybook using a digital storytelling tool (Annex-3).
+3
+If I Were a Tourist!
+Technology-Enhanced Learning Scenarios
+1. Ders and Lesson 2 (IT Class)
+Pre-Activity
+The teacher initiates the lesson with an icebreaker. The students are asked to write a few questions
+on a piece of paper that they can ask their friends sitting next to them. The teacher explains that the
+purpose of writing these questions is to find out their friends’ preferences regarding tourist destinations
+around the world. The teacher gives examples such as “Would you rather visit the Taj Mahal or Giza
+during your summer holiday? Would you rather live in Tokyo or Arizona for a year?”
+While Activity
+After preparing the students for the topic with a warm-up activity, the teacher informs them that they
+will work individually. The students are required to watch and listen to the animation carefully. At the
+end of the animation, they are asked to answer some comprehension questions (Annex-1).
+Following the question and answer session, the teacher assigns a new task for ongoing lesson. The
+students will work in pairs and use the internet to search for their favourite city in the world. Each pair
+will then create a digital brochure using the visual creation and editing tools, aiming to convince people
+to visit their chosen location. As a reminder, the age-appropriate Own Your Creation & Respect Others
+on copyright is already posted on EBA for reference (Annex-2).
+The teacher provides guidance to the students on using the visual creation and editing tool, which offers
+pre-designed templates to facilitate their work. Furthermore, the following instructions are provided for
+creating the digital brochure:
+• Use a cover image and a clear message.
+• Organise your content with headings.
+• Choose easy-to-read fonts.
+• Use bullet points, short paragraphs, and strong visuals to break up the text.
+• Be careful with copyrights!
+Post-Activity
+Once all the brochures have been completed, the students are requested to upload their work to EBA
+and indicate their preferences by selecting the most attractive work, considering both its visual impact
+and the quality of its content.
+Homework/Assignment
+The teacher uses EBA for assessment and assigns the students Reading Exercise: Tourism. The teacher
+explains the students with the objective of a collaborative task to be completed throughout the week.
+Subsequently, the teacher provides a comprehensive outline of the task, sharing the list of instructions
+that had been prepared in advance of the lesson on EBA (Annex-3). The teacher also informs the students
+that they will assess each other at the end of the task via a group assessment form according to their
+performance throughout their collaboration.
+4
+If I Were a Tourist!
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher creates a How Much Do You Know about the World? spin the wheel game via one of the
+gamified measurement and evaluation web tools that includes questions about tourist attractions of
+some famous countries around the world (Annex-4).
+The teacher creates a digital diary titled My Lovely Diary via digital story creation tool. The topic
+concerns 13-year-old Ayşe’s recent holiday. In her diary, Ayşe provides details of her holiday, including
+transport, accommodation, and sightseeing. The teacher uses visuals to strengthen the impact of the
+instructional material. The teacher prepares comprehension questions which the students are to find
+specific information from the diary (Annex-5). It is optional for the teacher to upload the questions to
+the web tool for instant feedback and embed the link to the digital story creation tool. This enables the
+students to respond to open-ended questions concurrently while reading the diary.
+The teacher prepares a Quiz Time! activity using gamified measurement and assessment tool. The
+teacher can add multiple-choice and true/false questions as in the examples (Annex-6). The teacher
+prepares a group assessment form using the web tool for group assessment to allow the students
+assess their peers on their performance for group work (Annex-7).
+3. Ders and Lesson 4 (IT Class)
+Pre-Activity
+The teacher leads the students to the IT class for this activity and asks the students to work individually.
+The teacher initiates the How Much Do You Know about the World? game prepared via gamified
+measurement and evaluation web tools on the interactive whiteboard to motivate the students for the
+while activity and to review the pre-lesson task (Annex-4). The teacher directs the students to spin the
+wheel for each question. They are informed that a total of 1,000 points will be awarded at the conclusion
+of the game, provided that all questions are answered correctly.
+While Activity
+After the activity that engages the students with the theme of the lesson, the teacher asks the students
+to keep working individually. The teacher uses the tool for creating digital boards or post-its. The teacher
+adds some sentences on the web tool page such as “I prefer Italy for holiday. I think Italy has the most
+beautiful landscapes.”, “I would rather visit Egypt for holiday. In my opinion, Egypt is more adventurous.”,
+etc.
+The teacher then assigns the students to complete the sentences by adding sticky notes at the bottom
+of each blank on the digital board. Once all the students have added their sticky notes, the teacher
+initiates a face-to-face discussion as a whole class. The students are asked to explain why they agree
+or disagree with their peers’ responses displayed on the board.
+5
+If I Were a Tourist!
+Technology-Enhanced Learning Scenarios
+After the first activity that encourages the students to express their preferences verbally, the teacher shares
+the link for My Lovely Diary on EBA requesting the students to read the diary individually. Subsequently, the
+students are required to to answer the comprehension questions (Annex-5). Finally, the teacher displays
+the diary and the answers to the corresponding questions on the interactive whiteboard. The teacher
+gives feedback on the answers to the questions.
+Post-Activity
+At the end of the lesson, the teacher assesses student progress using the Quiz Time! activity created with
+a gamified measurement and assessment tool (Annex-6). The game starts online, and the teacher waits
+for all the students to join in. The teacher explains the game, emphasizing the importance of correct and
+quick answers to get more points.
+Finally, the teacher checks the collaborative task. The teacher initiates the digital story creation tool on
+the interactive whiteboard and run the audiovisual story created by all the students. A group assessment
+form allows the students to provide feedback on their peers’ performance (Annex-7).
+Homework/Assignment
+The teacher also uses EBA for assessment and assigns the students Vocabulary Exercise 3: Tourism and
+Listening Exercise: Tourism.
+Evaluation/
 LINKS:[["EBA-Tourism", "7ZEpgv"], ["Own Your Creations and Respect Others", "UIxJdfd"], ["EBA-Reading Exercise: Tourism", "CDG3jC"], ["How Much Do You Know About the World?", "Uzo1HII"], ["My Lovely Diary", "UIH82uO"], ["Quiz Time", "CyYjzV"], ["EBA-Vocabulary Exercise: Tourism", "UoqlawW"], ["EBA-Listening Exercise: Tourism", "wg36fd"]]

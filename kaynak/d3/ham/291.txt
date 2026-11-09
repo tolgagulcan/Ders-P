@@ -1,5 +1,85 @@
 ## 6. Sinif/Ingilizce/Holidays - Draw Your Holiday.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher prepares a Holiday Types presentation by using one of the interactive presentation tools.
+The teacher prepares a story summary form (Annex-1).
+1. Ders (IT Class)
+Pre-Activity
+The teacher initiates the Holiday Types presentation and provides an explanation. The teacher leads a
+holiday vocabulary game involving scrambled words and clues. The students compete to unscramble
+holiday-related words and phrases working in teams by using clues provided by the teacher. The first
+team guessing the correct one earns one point.
+3
+Draw Your Holiday
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher informs the students that in this lesson, they will collaborate in groups to create stories
+using past tense patterns. These stories will then be transformed into audio clips using artificial
+intelligence powered tools. To inspire the students, the teacher presents images of different vacation
+types. Each group then selects a vacation type and begins writing a story about it. The teacher
+provides a story summary form to guide the students in their writing process (Annex-1). The students
+are encouraged to use dictionaries, seek help from the teacher or their groupmates, and apply their
+knowledge of past tense patterns.
+Post-Activity
+Each group writes their own story, following the provided story structure outline. After completing
+their stories, the teacher explains that they will be converting these stories into audio clips. If the
+school lacks the necessary equipment, one group member can read their story aloud for the class.
+Before the Lesson
+The teacher reminds the students that after listening the audio clip they will illustrate the stories by
+one of the shape and drawing tools in this lesson. The teacher prepares a group evaluation form
+(Annex-2).
+2. Ders (IT Class)
+Pre-Activity
+The teacher introduces key vocabulary relating to the vacation theme, such as destination, journey,
+beach, mountains, activities, souvenirs and river. The teacher then requests that the students discuss
+their preferred vacation activities, thus enabling them to apply the new vocabulary in context. This
+preliminary exercise serves to engage the students and prepare them for the main lesson.
+While Activity
+After listening to their own stories and those of their classmates, the students will complete the
+story summary form distributed in the previous lesson, ensuring they include specific details in their
+drawings. They will also have the opportunity to ask questions to other groups.
+The students will listen to other groups’ audio stories. While listening, each group will take detailed
+notes. The teacher will then guide the students in creating visual representations of the stories by
+using one of the visual creation tools based on their notes. The students have the option to utilise the
+shape and drawing tool to generate their illustrations. Alternatively, they may choose to draw their
+images directly on their notebooks.
+Subsequently, the teacher assigns a timeframe for the students to create their illustrations. Upon
+completion, each group presents their illustrations to the class, and all the students review both the
+stories and illustrations. Finally, the teacher completes a group evaluation form prepared with one of
+the web tools for group assessment (Annex-2).
+4
+Draw Your Holiday
+Technology-Enhanced Learning Scenarios
+Post-Activity
+After analysing the evaluation forms, the teacher identifies the group with the highest score. To ensure
+easy access to the stories and illustrations, the teacher creates a QR code linking to the content. This
+QR code is then shared on EBA, making it accessible to all the students in the class. The students can
+scan the code to access the content at any time.
+Before the Lesson
+The teacher finds a sample writing text on EBA and prepares for the game they will play in the class.
+The teacher designs word cards and brings them to the class.
+3. Ders (IT Class)
+Pre-Activity
+The students are divided into pairs or small teams. The activity begins with a holiday-related word,
+such as “beach”. Each pair then takes turns saying words associated with the given topic, attempting
+to complete as many words as possible within a given time frame. These words could include sand,
+waves, sunscreen, shells, and surfing. The objective of this exercise is to enhance vocabulary and
+stimulate creative thinking related to holiday concepts.
+While Activity
+The teacher shares Writing Exercise: Colarado as a sample text with the students to improve writing
+skills. The students read and analyse the sample text about a holiday experience. They brainstorm
+their own memories and plan their narratives using the techniques from the sample. After writing
+independently, the students engage in peer review and share their work with the class. This process
+enhances their writing abilities, allows them to share their personal experiences, and facilitates
+learning from one another.
+Post-Activity
+After the writing activity, in order to reinforce holiday vocabulary the students play a game of charades.
+Teams act out words or draw pictures related to the holiday. The first team to guess correctly earns a
+point. This game encourages teamwork, creativity, and vocabulary development.
+Homework/Assignment
+The students are required to explore a holiday from a different culture through research. They can
+choose to share their findings in a report, presentation, or creative work.
+Evaluation/
 LINKS:[["EBA–Writing Exercise: Colarado", "Ua78iEE"], ["Holiday Types", "UFykO5F"]]

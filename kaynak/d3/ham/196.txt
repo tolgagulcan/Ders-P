@@ -1,5 +1,133 @@
 ## 7. Sinif/Ingilizce/Wild Animals - Wildlife Explorer.pdf
-SURE:None KOD:
+SURE:4 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher asks the students to complete Vocabulary Exercise 1: Wild Animals on EBA. In this activity,
+the students match words related to wild animals and their habitats with images that represent those
+words. The teacher then designs a gamified activity titled Animals using one of the gamification
+web tools. The teacher also creates a presentation called Characteristics of Animals using one of
+the interactive presentation tools. Additionally, Animals Group and Animal Explorers activities are
+prepared using web tools for matching activities (Annex-1).
+1. Ders (Class)
+Pre-Activity
+The teacher employs the Animals anagram activity as a warm-up, in which the students drag letters
+into the correct positions to unscramble an animal-related words or phrases such as ‘turtle’ or
+‘owl’. This interactive and fun activity helps students engage with the lesson while improving their
+vocabulary, spelling and problem-solving skills.
+While Activity
+Following the warm-up activity, the teacher moves on to the Animal Explorers activity. In this task, the
+students are required to listen to the audio clips and match each word or phrase such as ‘caterpillar’
+or ‘monkey’, with the corresponding image. After the matching activity, the teacher continues with
+the Characteristics of Animals presentation. During this activity, the students carefully review the
+presentation and answer questions about its content. To enhance the effectiveness of the process,
+the teacher pauses the video at specific points for analysis, enabling the students to develop a deeper
+understanding of the material. This approach helps students to process information, grasp the key
+concepts of the presentation and develop their critical thinking skills.
+Post-Activity
+For the assessment, the teacher invites the students to complete the Animals Group activity, in
+which they categorise animals into groups such as mammals, reptiles, insects, and birds (Annex-1).
+The students drag and drop each animal into its correct group, which helps them practise their
+classification skills and reinforce their understanding of the different types of animals.
+4
+Wildlife Explorer
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher creates a crossword named Animal World and a word search exercise named Body Parts
+using one of the gamification web tools. The teacher also designs a digital story titled The Big Elephant
+and the Little Panda using one of the digital story creation tools (Annex-2). Additionally, the teacher
+prepares an Animal ID exercise using one of the web tools for fill-in-the-blank questions (Annex-3).
+The teacher divides the students into groups by having them count off in sequence (e.g. “1, 2, 3, 4” for
+four groups). All the students who say “1” form Group 1, those who say “2” form Group 2, and so on. This
+method ensures even distribution and is quick to implement.
+2. Ders (IT Class)
+Pre-Activity
+As a warm-up activity, the teacher presents the Animal World crossword exercise, in which the students
+are encouraged to select a word and write it based on the corresponding image. This activity helps
+the students to connect visual cues with vocabulary, reinforcing their spelling, word recognition, and
+understanding of animal-related terms in an interactive way.
+While Activity
+Following the crossword activity, the teacher continues with The Big Elephant and the Little Panda
+digital story (Annex-2). While the students listen to the story, the teacher emphasises the body parts
+of the animals mentioned. This strategy promotes vocabulary acquisition by drawing the students’
+attention to key words within the context of the story, thereby fostering a more engaging and interactive
+learning experience.
+To reinforce the story, the Body Parts word search exercise is presented by the teacher. The students
+are required to find the hidden words in the letter grid as quickly as possible. The teacher divides the
+students into small groups beforehand to complete the task. Each group takes turns, promoting active
+engagement and teamwork.
+Once the students have fully completed the digital story and related vocabulary activities, they are
+required to collaboratively create a story of at least two pages. During the story-writing process, one
+student may generate visuals using AI powered tools, another may provide voice narration, while the
+remaining one or two students focus on composing the story text. This approach promotes teamwork,
+creativity, and the effective integration of digital tools in storytelling.
+5
+Wildlife Explorer
+Technology-Enhanced Learning Scenarios
+Post-Activity
+The teacher carries out the assessment using the Animal ID activity (Annex-3). In this activity, the
+students are required to look at the pictures and fill in the gaps, enabling the teacher to evaluate their
+understanding of the target vocabulary and concepts.
+Before the Lesson
+The teacher creates a labelled diagram activity titled Fun with Animals and an Eco-Friendly Suggestions
+activity using one of the web tools for matching activities. The teacher also prepares an animation
+titled Let’s Protect Nature using one of the animation creation tools (Annex-4).
+3. Ders (Class)
+Pre-Activity
+The teacher guides the students through the Fun with Animals labelled diagram activity. In this activity,
+the students are invited to drag and drop pins onto the correct part of animal images to match them
+with their names. This interactive task helps the students to improve their vocabulary and visual
+recognition skills in a fun and engaging way.
+While Activity
+After the labelled diagram activity, the students continue with the Let's Protect Nature animation, where
+they explore various suggestions for protecting nature (Annex-4). The teacher pauses the animation at
+specific points in the story to ask comprehension questions such as, »What do you think about that?”.
+This strategy ensures that the students understand the content and encourages active engagement.
+Afterwards, the teacher asks the students to work in pairs to brainstorm and write their own
+environmental protection suggestions, either by turning to the person next to them or by using a preset
+pairing method. Each pair focuses on three of the 3Rs (reuse, reduce, and recycle), coming up with one
+specific idea for each category. They can refer to ideas from the story for inspiration, before presenting
+their suggestions to the class. This activity helps to reinforce their understanding of the story while
+fostering teamwork, critical thinking and creativity.
+Post-Activity
+After the animation, the teacher moves on to the Eco-Friendly Suggestions activity for the assessment.
+In this task, the students are encouraged to read each suggestion carefully and then match it with the
+corresponding image using the drag-and-drop method.
+6
+Wildlife Explorer
+Technology-Enhanced Learning Scenarios
+Before the Lesson
+The teacher creates an exercise named Find the Animal using one of the web tools for matching
+activities. The teacher prepares a Reflection Paper using one of the interactive presentation tools and
+brings a hard copy of it to hand out to the students (Annex-5).
+4. Ders (IT Class)
+Pre-Activity
+The teacher asks the students to complete the Find the Animal exercise. They look at the shadows of
+the animals in the picture, click on a circle to hear an audio clip and then match the description to the
+correct animal. This activity helps the students to improve their listening and observation skills, as well
+as reinforcing their knowledge of different animals.
+While Activity
+After the interactive warm-up activity, the teacher introduces a poster creation task. Each pair will
+design three digital posters using one of the poster and flyer creation tools, based on the three ideas
+they wrote in the previous lesson about the 3Rs (reuse, reduce and recycle). Each poster should include
+a clear title, a short explanation, relevant images, and a call to action. Once the posters are complete,
+the groups will present them digitally to the class.
+Post-Activity
+To evaluate the students, the teacher uses the Reflection Paper, which includes questions about the
+names of the animal species learnt and suggestions for actions that can be taken to protect nature,
+etc., and requires the students to complete it as part of the assessment process (Annex-5).
+Homework/Assignment
+The teacher sets the students the task of creating a short presentation using an interactive
+presentation tool. For this presentation, students must choose two animals and provide information
+about them, including their habitat, classification (e.g. mammal, bird or reptile), weight and height. They
+will also include photos of the animals, which can be sourced digitally or drawn and coloured in by
+hand. Additionally, the students will suggest ways to protect these animals and their habitats. Once
+completed, the students are expected to upload their presentations to EBA before the lesson begins,
+ensuring they are prepared for class discussions. This activity encourages the students to practise their
+research skills, showcase their creativity and use technology effectively, all while engaging with their
+classmates.
+7
+Wildlife Explorer
+Technology-Enhanced Learning Scenarios
+Evaluation/
 LINKS:[["EBA- Vocabulary Exercise 1: Wild Animals", "0tjzHR"], ["Animals", "VI27VP"], ["Animal Explorers", "UmZPESx"], ["Characteristics of Animals", "UFFZQNX"], ["Animals Group", "Qushoy"], ["Animal World", "UVtTrEh"], ["The Big Elephant and the Little Panda", "kpKh0e"], ["Body Parts", "UJtBqDN"], ["Animal ID", "UV1x758"], ["Fun with Animals", "xdXLlk"], ["Let’s Protect Nature", "wAM4Ta"], ["Eco-Friendly Suggestions", "UtpDMz5"], ["Find the Animal", "AA7cmU"], ["Reflection Paper", "3eIqzV"]]

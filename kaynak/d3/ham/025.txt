@@ -1,5 +1,218 @@
 ## 8. Sinif/Turkce/Millî Kulturumuz - Misafirlikte Turk Kahvesi.pdf
 SURE:5 KOD:T.8.2.1. T.8.3.5. T.8.3.30. T.8.3.14.
 KAV:
-
+ÖğrenmeEtkinlikleri
+Öğrenme Yaklaşımı
+Bu çalışmada 8. sınıf Türkçe ders kitabının “Millî Kültürümüz” temasında yer alan “Bir Fincan Kahve” adlı
+metne dayalı etkinlikler, teknoloji odaklı olarak ele alınmıştır.
+Ders Öncesi
+Öğretmen derse giriş yapmadan önce öğrencilerini gruplara ayırır. Öğrencilere ülkemizin Kültür Varlık-
+ları ve Müzeler Genel Müdürlüğünün sorumluluğu altında yürüttüğü çalışmalar neticesinde 2016 yılına
+kadar UNESCO Dünya Miras Listesi’ne 17 adet varlığımızın alındığını belirtir. Gruplardan bu varlıklardan
+bir tanesini araştırarak sunum hazırlamalarını ve sunumlarında etkileşimli sunum araçlarından birini
+kullanmalarını ister.
+1. Ders (Sınıf)
+Öğretmen; her toplumun misafir ağırlama ve ikram kültürünün kendine özgü nitelikleri olabileceğini, ilk
+duyduğumuzda bize garip gelse bile bu ikramların sembolik anlamlar taşıyabileceğini belirtir. Öğren-
+cilerine evlerine misafir geldiğinde neler ikram ettiklerini sorarak derse giriş yapar. Verilen cevaplardan
+hareketle öğretmen, Türk kahvesi cevabını aldığında öğrencilerine kahvenin nasıl pişirildiğine dair Kahve
+Yapım Algoritması etkileşimli içeriğini etkileşimli tahtadan açar (Ek-1). Öğrencilerle etkinliği tamamlar
+ve metni öğrencilerine okutur. Öğrencilerin metni anladığından emin olan öğretmen, ders öncesinde
+eşleştirme yapabilmeyi sağlayan web araçlarıyla hazırladığı 1. etkinlikteki “yâren, tiryaki, pirinç, töre,
+türüm türüm tütmek, beyit, ehlikeyif, kallavi” kelimelerini ve bu kelimelerin açıklamalarını içeren Bilin-
+meyen Kelimeler Etkinliğini etkileşimli tahtadan açar. Gönüllü öğrencilere söz vererek onlardan sırayla
+etkileşimli tahtada bu kelimeleri anlamlarıyla eşleştirmelerini ister (Ek-2). Ardından öğrencilere geri
+bildirimde bulunur ve dersi bitirir.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim
+2. Ders (BT Sınıfı)
+Öğretmen, kahve üretimi aşamalarının verildiği 4. etkinlikteki görselleri dijital pano ya da post-it oluşturma
+araçlarından biri ile paylaşır ve öğrencilerinden bu görsellerin altına kahve yapımının kaçıncı aşaması
+olduğunu yazmalarını ister. Öğrenciler söz konusu görsellerin altına kahve üretim aşamalarını numara-
+landırarak yazar. Cevapların değerlendirilmesiyle etkinlik tamamlanır.
+Öğretmen bu dersi uygun olması durumunda bilişim sınıfında, uygun olmaması durumunda ise sınıfta
+işler. Sınıf ortamında işlenmesi durumunda öğretmen, ders kitabının 4. etkinliğindeki kahve üretim
+aşamalarının görsellerini etkileşimli tahtaya yansıtarak bu görselleri öğrencilerden numaralandırma-
+sını ister. Kahve üretiminin birinci aşamasının hangi görselde belirtildiğini öğrencilere sorar ve öğren-
+cilerinden el kaldırarak soruyu cevaplamalarını ister. Tüm görseller aynı şekilde değerlendirildiğinde
+etkinlik tamamlanmış olur.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Dijital yetkinlik
+4 Misafirlikte Türk Kahvesi
+3. Ders (BT Sınıfı)
+Öğretmen, EBA’da yer alan Cümleleri Yüklemin Yerine Göre ve Çeşidine Göre Türlerine Ayırma adlı
+eğitsel içeriği ders ortamında öğrencilerine gönderir ve onların yapmalarını sağlar. Bir sonraki derste
+kültür varlıklarımızın sunumunun gerçekleştirileceğini belirtir ve grup çalışmalarını kontrol ederek sunum
+öncesi eksiklerin tamamlanmasına dikkat eder. Bu sunumla öğrencilerin kültürel farkındalık ve ifade
+becerilerinin geliştirilmesi hedeflenmektedir.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Kültürel farkındalık ve ifade
+4. ve 5. Ders (Sınıf)
+Öğretmen, öğrencilere metin öncesi hazırlık çalışmaları kapsamında hazırlanan grup çalışmalarının
+bu ders saatinde sunulacağını belirtir. Gruplardan etkileşimli tahta üzerinden sunumlarını gerçekleş-
+tirmelerini ister. Öğrencilerin bu etkinlikle inisiyatif alma ve girişimcilik becerileriyle iletişim ve iş birliği
+becerilerinin de geliştirilmesini hedefler. Sunumlar yapıldıktan sonra öğrencilerin sunumlarını değerlen-
+dirmek için öğretmen, grup değerlendirme formu kullanır (Ek-3). Yaptığı değerlendirmeye dair öğren-
+cilere geri bildirimde bulunur.
+İlgili Yetkinlikler/Beceriler: Ana dilde iletişim, Etkin dinleme, İş birliği, Analitik düşünme
+Beceriler
+Öğrenme Yaklaşımı
+Değerlendirme Yöntemleri/Araçları
+• EBA + etkileşimli içerik
+• Ders kitabı etkinlikleri
+• Grup değerlendirme formu
+• Eşleştirme yapabilmeyi sağlayan web araçları
+5 Misafirlikte Türk Kahvesi
+REFERANS
+Beceriler
+Öğrenme
+İlgili Bağlantılar
+Yaklaşımı
+Bu senaryodaki tüm bağlantılara ulaşmak için bu alanı kullanabilirsiniz. Bağlantılar, ders öncesinde kontrol edilip hazır hâle
+getirilmelidir.
+1. Bilinmeyen Kelimeler Etkinliği: https://meb.ai/DiDsCl (Son erişim tarihi: 20.11.2024)
+2. Kahve Yapım Algoritması: https://meb.ai/hFYZMJ (Son erişim tarihi: 22.07.2025)
+3. EBA Cümleleri Yüklemin Yerine Göre ve Çeşidine Göre Türlerine Ayırma: http://meb.ai/UTNUGVf (Son
+erişim tarihi: 25.04.2024)
+Kaynakça
+Canva. (2025). Misafirlikte Türk kahvesi-kahve yapım algoritması. Son erişim tarihi 21 Temmuz 2025,
+Çakır, E. (2022). Sözlü tarih ve kültürel değişim: televizyona merhaba. Millî Folklor, 17(136), 79-93. Son
+erişim tarihi 25 Kasım 2024, https://dergipark.org.tr/tr/download/article-file/2190837
+Eselioğlu, H., Set, S., & Yücel, A. (2019). Ortaokul ve imam hatip ortaokulu 8. sınıf Türkçe ders kitabı. MEB
+Yayınları.
+Millî Eğitim Bakanlığı. (2019). Türkçe dersi öğretim programı (ilkokul ve ortaokul 1, 2, 3, 4, 5, 6, 7 ve 8.
+sınıflar). Talim ve Terbiye Kurulu Başkanlığı. https://mufredat.meb.gov.tr/ProgramDetay.aspx?PID=663
+Millî Eğitim Bakanlığı. (2023). 21. yüzyıl becerileri ve değerlere yönelik araştırma raporu. Talim ve Terbiye Kurulu
+Başkanlığı. Son erişim tarihi 10 Mayıs 2024, https://ttkb.meb.gov.tr/meb_iys_dosyalar/2023_05/11153521_21.
+yy_becerileri_ve_degerlere_yonelik_arastirma_raporu.pdf
+Millî Eğitim Bakanlığı. (2024). Eğitim bilişim ağı (EBA). Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü.
+https://eba.gov.tr/
+Türk Dil Kurumu. (2024). Güncel Türkçe sözlük. https://www.sozluk.gov.tr/
+Wordwall. (2024). Misafirlikte Türk kahvesi-bilinmeyen kelimeler etkinliği. Son erişim tarihi 20 Kasım 2024,
+https://wordwall.net/tr/resource/77819602
+Yönet Eren, F. & Ceyhun Sezgin, A. (2018). Kültürel miras açısından Türk kahvesi. Turkish Studies, 13(10),
+697-712. Son erişim tarihi 25 Kasım 2024, https://turkishstudies.net/DergiTamDetay.aspx?ID=12880
+Görsel Kaynakçası
+Bu senaryonun görsel kaynakçasına karekodu okutarak erişebilirsiniz.
+Ekler
+Ek-1: Kahve Yapım Algoritması Ek-3: Grup Değerlendirme Formu
+Ek-2: Bilinmeyen Kelimeler Etkinliği
+6 Misafirlikte Türk Kahvesi
+Ek-1
+Kahve Yapım Algoritması
+Sevgili öğrenciler, aşağıda Türk kahvesi yapım aşamaları karışık olarak verilmiştir. Aşamaların
+başındaki harfi yan tarafa yazarak doğru şekilde sıralayınız.
+a) Cezveyi tekrar ateşe koyun. 1. .........
+b) Kahveyi fincanlara dökün. 2. .........
+c) Kahve kaynamaya başlayınca köpürmeye başlar.
+3. .........
+ç) Her fincan için bir tatlı kaşığı kahve ekleyin. 4. .........
+d) Karışımı karıştırın. 5. .........
+e) Kahve tekrar kabarınca ocaktan alın. 6. .........
+f) Köpüğü fincanlara paylaştırın.
+7. .........
+g) Cezveyi kısık ateşe koyun. 8. .........
+ğ) İsteğe göre şeker ekleyin. 9. .........
+h) Cezveye soğuk su koyun. 10. .........
+Misafirlikte Türk Kahvesi
+Ek-2
+Bilinmeyen Kelimeler Etkinliği
+Aşağıdaki verilen kelime ve kelime gruplarını, anlamları ile eşleştirerek doğru harfi ayraç içine
+yazınız.
+Kelime ve Kelime Grupları Kelime ve Kelime Grupları
+Anlamları
+a) Bir toplulukta benimsenmiş, yerleşmiş
+.................................................................................................................... türüm türüm
+yâren
+davranış ve yaşama biçimlerinin, kural-
+.................................................................................................................... tütmek
+ların, görenek ve geleneklerin, ortaklaşa
+....................................................................................................................
+1. (......) alışkanlıkların, tutulan yolların bütünü;
+.................................................................................................................... 5. (......)
+âdet, ayin.
+....................................................................................................................
+....................................................................................................................
+b) Buram buram kokmak.
+....................................................................................................................
+....................................................................................................................
+c) Kahve, çay vb. keyif veren maddelere
+tiryaki .................................................................................................................... beyit
+alışmış olan (kimse).
+....................................................................................................................
+....................................................................................................................
+2. (......) ç) Anlam bakımından birbirine bağlı iki 6. (......)
+....................................................................................................................
+dizeden oluşmuş şiir parçası.
+....................................................................................................................
+....................................................................................................................
+d) Çok iri, kocaman olan.
+....................................................................................................................
+....................................................................................................................
+e) Rahatına düşkün, keyif sahibi olan kimse.
+....................................................................................................................
+pirinç ehlikeyif
+....................................................................................................................
+f) Arkadaş.
+....................................................................................................................
+3. (......) .................................................................................................................... 7. (......)
+g) Bir yere veya birinin evine kısa bir süre
+...................................................................................................................
+kalmak için gelen kimse.
+...................................................................................................................
+....................................................................................................................
+ğ) Bakıra çinko katılarak elde edilen sarı
+....................................................................................................................
+töre renkte bir alaşım.
+.................................................................................................................... kallavi
+...................................................................................................................
+4. (......) 8. (......)
+NOT: Konu ile ilgili farklı kavramlar ve ifadeler kullanılarak uygulayıcı öğretmen tarafından da bir eşleştirme etkinliği
+hazırlanabilir.
+Misafirlikte Türk Kahvesi
+EK-3
+Grup Değerlendirme Formu
+Bu form, öğrencilerinizin yaptığı sunumları değerlendirmeniz amacıyla hazırlanmıştır. Grup üyelerinin her biri için belirlenen kritere
+cevabınız “Evet” ise E, “Kısmen” ise K, “Hayır” ise H harfi yazınız.
+Grup Adı: ..........................................................................................................................................................
+Sunu Konusu: ............................................................................................................................................... Tarih: .............................................................................
+GRUP ÜYELERI
+KRİTERLER
+.............................. .............................. .............................. .............................. ..............................
+1. Etkili bir giriş yaptı.
+2. Sesini ve beden dilini etkili kullandı.
+3. Konu ile ilgili temel kavramlara hâkimdi.
+4. Sununun tasarımı ve organizasyonu düzenliydi.
+5. Vurgu, duraklama ve tonlama yaptı.
+6. Dinleyicilerle göz teması kurdu.
+7. Zamanı verimli kullandı.
+8. Tekrar yapmadan konuştu.
+9. Beden dilini etkili kullandı.
+10. Sınıftaki alanı verimli kullandı.
+11. Anlatımı canlı ve ilgi çekiciydi.
+12. Özetleme becerisi iyiydi.
+13. Etkili bir kapanış yaptı.
+Grup Hakkında Genel Yorum: ..............................................................................................................................................................................................................................................................................
+..............................................................................................................................................................................................................................................................................
+Misafirlikte Türk Kahvesi
+Cevap Anahtarı
+EK-1
+1 h
+2 ç
+3 ğ
+4 d
+5 g
+6 c
+7 f
+8 a
+9 e
+10 b
+EK-2
+SORULAR CEVAPLAR
+1 f
+2 c
+3 ğ
+4 a
+5 b
+6 ç
+7 e
+8 d
+Misafirlikte Türk Kahvesi
 LINKS:[["Bilinmeyen Kelimeler Etkinliği", "DiDsCl"], ["Kahve Yapım Algoritması", "hFYZMJ"], ["EBA Cümleleri Yüklemin Yerine Göre ve Çeşidine Göre Türlerine Ayırma", "UTNUGVf"]]

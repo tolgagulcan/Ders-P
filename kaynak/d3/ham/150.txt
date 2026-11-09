@@ -1,5 +1,104 @@
 ## 5. Sinif/Ingilizce/Hello! - Nice To Meet You!.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher prepares a presentation titled Countries/Nationalities using an interactive presentation
+tool (Annex-1). Additionally, the teacher generates a list of Countries/Nationalities/Languages using a
+visual creation and editing tool, which is then shared on EBA. The teacher brings a ball to the class.
+1. Ders (IT Class)
+Pre-Activity
+The students form a circle, and the teacher stands in the middle. The teacher says “Hello!”, takes the
+ball, calls out a name and throws the ball to a student. Each student introduces themselves and throws
+the ball back to the teacher.
+While Activity
+The teacher initiates the Countries/Nationalities presentation on the interactive whiteboard (Annex-1).
+The presentation consists of characters from different nations. The teacher introduces the characters
+briefly in the presentation.The teacher reads the sentences giving personal information slowly and
+asks the nationalities of each character. For example, after reading the sentences introducing Hans,
+the teacher asks, “What nationality is Hans?” The teacher provides prompt feedback throughout the
+course of activity.
+3
+Nice to Meet You!
+Technology-Enhanced Learning Scenarios
+After introducing each character, the teacher writes “Hello! My name is Hans. I am from Germany, and
+I am German. I can speak German.” on the board. The teacher underlines the words “Germany” and
+“German” and asks the difference between them to the students. The teacher focuses on the difference
+between country and nationality. The teacher presents the Countries/Nationalities/Languages list,
+which has countries such as, “China, France and Italy, etc.”, on the interactive whiteboard and provides
+sample sentences such as “I am from China. I am Chinese and I can speak Chinese and English”,
+“Mike is from France. He is French. He can speak French and Spanish.” The students are then invited to
+construct sentences in the same style.
+Post-Activity
+The teacher wants the students to work in pairs, to go over the list of Countries/Nationalities/Languages
+on the interactive board and to choose a county for themselves to create an imaginary character. The
+teacher assigns the students the task of researching the general characteristics (likes and dislikes) of
+the nations they have chosen for their imaginary characters. The teacher asks the students to make
+a good search before creating their imaginary characters by using a visual creation and editing tool
+in the next lesson. After the lesson the teacher shares the Countries/Nationalities/Languages list on
+EBA and wants the students to revise it.
+Before the Lesson
+Prior to the lesson, the teacher finds a song titled “What’s your nationality?” to use as a warm-up
+activity. The teacher prepares a peer evaluation form to be used at the end of the lesson (Annex-2).
+2. Ders (IT Class)
+Pre-Activity
+With the help of the song, the teacher reminds countries, nationalities and their flags to the students.
+The teacher asks the students to clap their hands when they hear a nationality in the song and, also
+wants the students to watch out the colours of the flags while listening to the song.
+While Activity
+The students work in pairs to create an imaginary character using a visual creation and editing tool
+ans add their voices by using an artificial intelligence powered tool to speak up their characters.
+Groups must introduce their character, including country, nationality, languages and likes/dislikes.
+After creating the image of the character and introducing the character, the teacher wants the
+students to insert the flag of the character’s nation under the visual. While the students are working
+on their characters, the teacher walks around the classroom to check their improvement. If the
+students need help, the teacher can provide some clues. If the teacher is pleased with the students'
+progress, the teacher says, “Good job!” to encourage them. The teacher provides an overview of the
+next lesson’s activities, noting that these visuals will be printed, and utilised for the upcoming gaming
+exercise. The teacher also informs the students that their works will be evaluated by their peers using
+the peer evaluation form prepared by the teacher. When all the students complete their work, the
+students introduce their characters to their classmates.
+4
+Nice to Meet You!
+Technology-Enhanced Learning Scenarios
+Post-Activity
+The teacher distributes the peer evaluation form to the students and wants them to evaluate their
+peers (Annex-2).
+Homework/Assignment
+As an assignment the teacher shares Grammar Exercise 3: Getting Info about Others on EBA. The teacher
+asks the students to put the words in the correct order and if it is a question, to give an answer to it.
+Cultural awareness
+Before the Lesson
+The teacher prints out the visuals of the imaginary characters created by the students in the previous
+lesson. The teacher creates a few more Character Visuals of different nations using a visual creation
+and editing tool and attach their flags under the pictures. Moreover, the teacher prepares a visual
+titled Likes/Dislikes using a visual creation and editing tool to be used for the game.
+3. Ders (Class)
+Pre-Activity
+The teacher provides a visual reminder of the flag colours of different nations by displaying images of
+flags on the interactive whiteboard. Prior to initiating the activity, the teacher and the students conduct
+a brief review of each flag.
+While Activity
+The teacher displays the printed Character Visuals such as, German boy, Chinese girl to the whole class
+one by one slowly and wants the students to focus on the flag colours. Then the teacher initiates the
+Likes/Dislikes visuals on the interactive whiteboard that include sentences about likes and dislikes, such
+as, “I like sushi”, “I love animals” and “I hate drawing.” After presenting the whole visuals and showing the
+sentences of likes and dislikes, the teacher explains the instructions clearly. The teacher announces
+that one of the students will be responsible for guessing. One of the Character Visuals will be attached
+to the back of the student, who will then turn back to their classmates. The student’s classmates help
+the student to find the nationality of the character by giving clues, such as the colours of the flag under
+the visual. When the student identifies the correct nationality and announces it, the teacher asks the
+student to choose one like and one dislike from the Likes/Dislikes visual on the board. The student can
+express extra likes and dislikes. This game continues until all the character visuals have been used.
+When the students find the correct answer, the teacher gives the students a flag. The student with the
+most flags becomes the winner of the game.
+Post-Activity
+The teacher hands out the character visuals to the class and wants the students to form a few more
+sentences under the visuals about their countries, nationalities, likes and dislikes. The teacher reviews
+the sentences and corrects any mistakes, and provides constructive feedback to help the students
+improve.
+5
+Nice to Meet You!
+Technology-Enhanced Learning Scenarios
+Evaluation/
 LINKS:[["Countries/Nationalities", "4Ai3VT"], ["Countries/Nationalities/Languages", "Ut8c6Kq"], ["EBA-Grammar Exercise 3: Getting Info about Others", "U7fih0P"], ["Character Visuals", "UfgbqiE"], ["Likes/Dislikes", "WmQate"]]

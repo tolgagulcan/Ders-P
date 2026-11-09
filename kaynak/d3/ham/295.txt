@@ -1,5 +1,108 @@
 ## 6. Sinif/Ingilizce/Occupations - Exploring Future Occupations.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The teacher identifies and utilises appropriate animation creation tools to facilitate the student
+learning. The teacher informs the students of the criteria and process for evaluating homework and
+prepares a student assessment form (Annex-1).
+1. Ders (Class)
+Pre-Activity
+The teacher begins the lesson by reminding the students about professions, job descriptions, and
+dates. “She is a teacher, she can teach English, but she can’t repair houses”, “She works on weekdays”,
+“She was born on 12th June 1980”, “She was a student in 2004”, etc. The teacher wants the students to
+discuss in pairs or small groups to list as many different job roles as they can within a set of time, such
+as two minutes. Afterward, each group shares their lists with the class, and the teacher facilitates a
+discussion on the variety of professions.
+3
+Exploring Future Occupations
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher facilitates a listening activity Listening Exercise: Occupations on EBA to enrich the
+students’ vocabulary.
+The teacher introduces an animation maker tool to demonstrate how to design characters, scenes,
+and dialogues about professions to the students. Animation creation starts with choosing the
+character and scene via the tool. After selecting the characters, the students select the scene,
+and they vocalise dialogues by using the recording start button. The teacher initiates the tool on
+the interactive whiteboard, which they decide on together with the students. The teacher divides
+the students into groups of three or four. First, the students decide on the professions they want to
+introduce, then they write the dialogues in their notebooks. The teacher checks and provide feedback
+to the students throughout the process. The groups that are ready, start to create their content on
+the interactive whiteboard. Each group saves its content after they create it.
+Post-Activity
+After all groups finish the activity, they watch animation videos together.
+Homework/Assignment
+The teacher asks the students to prepare the same activity individually as homework, with the same
+rules. The teacher requests the students to upload the assignments to one of the collaboration tools.
+Through the use of this tool, all the students and the teacher can see animation videos.
+The teacher informs the students about the evaluation process and the criteria. The teacher evaluates
+the student videos using the student assessment form, which includes 5 criteria: “Originality”,
+“accuracy”, “use of information technologies”, “relevance to the subject” and “clarity”(Annex-1).
+Before the Lesson
+The teacher asks the students to bring costumes, materials, tools and equipment related to the
+professions.
+2. Ders (Class)
+Pre-Activity
+The teacher elucidates to the students that they will be engaging in a recreational dress-up relay
+game to ascertain the correct designation of various professions. The teacher exemplifies the
+activity by wearing one of the costumes and enacting a concise scenario pertinent to the profession
+in question. For instance, the teacher can wear a lab coat and use a stethoscope to examine a
+patient. After the activity, the teacher leads a discussion about the different professions represented
+and their roles in the society. The students can share their observations and discuss the skills and
+responsibilities associated with each profession.
+4
+Exploring Future Occupations
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher initiates the previous lesson task on the interactive whiteboard and assigns a number
+to each video prepared by the students. The teacher uses a random selection method, such as
+drawing numbers from a hat or using a random number generator, to choose which videos to
+watch. This will ensure fairness and impartiality in the selection process. They watch the animation
+videos together. After watching the animation videos, the students are divided into pairs or small
+groups. The teacher asks the students to create short role-play skits where they act out scenarios
+related to different professions introduced in the videos. For example, one group might portray a
+doctor-patient interaction, while another group acts out a teacher-student dialogue. The students
+can use props and costumes to make their skits more engaging.
+The teacher leads the students to Grammar Exercise 5: Occupations and Grammar Exercise 6:
+Occupations activities on EBA. The teacher along with the students completes the activity to reinforce
+the course objectives.
+Post-Activity
+The teacher initiates a digital tool that displays the date on the interactive whiteboard. The dates
+come randomly, the students say the dates and write the spelling in their notebooks.
+The teacher initiates a reading activity Reading Exercise: Occupations on EBA and reads the text. Then,
+the teacher chooses a few students and requests them to read the text aloud. The teacher selects
+the students by calling out random numbers from the attendance list, ensuring a fair and engaging
+process. The students are allowed time to look up unfamiliar words and answer questions about the
+text. They then give their collective responses.
+Homework/Assignment
+As an assignment, the teacher shares Occupations 1 video on EBA with the students. The teacher
+informs the students that they will evaluate the video with a web tool for multiple-choice questions
+next lesson.
+Before the Lesson
+The teacher creates a Exploring Future Occupations Quiz using one of the web tools for multiple-
+choice questions (Annex-2). The teacher prepares a puzzle for Time Explorer Game by using one of
+the gamified measurement and evaluation web tools (Annex-3).
+3. Ders (Class)
+Pre-Activity
+The teacher launches a web tool for multiple-choice questions on the interactive whiteboard to
+create Exploring Future Occupations Quiz based on the previous lesson’s homework video (Annex-2).
+The students take turns and answer the questions.
+5
+Exploring Future Occupations
+Technology-Enhanced Learning Scenarios
+While Activity
+The teacher initiates Writing Exercise: My Dream Job on EBA. The teacher reads the sample writing
+activity and answers the students' questions about the text. The teacher encourages the students to
+write a similar text, skims the texts by walking between the desks, guides the students who need it, and
+asks the students to help each other. At the end of the activity, the teacher allows all the students to
+read their texts, starting with the voluntary students. In writing activities, the students may be reluctant
+to read their texts. In this process, the teacher identifies the students’ areas of underperformance and
+provides them with constructive feedback.
+Post-Activity
+The teacher initiates the Time Explorer Game including the unit outcomes; expressing dates, asking
+personal questions and getting to know professions on the interactive whiteboard (Annex-3). During
+the game, the students solve interactive puzzles related to unit outcomes, and the teacher monitors the
+progress of the students and provides guidance when needed.
+Collaboration
+Evaluation/
 LINKS:[["EBA-Listening Exercise: Occupations", "UIFJuQS"], ["EBA-Grammar Exercise 5: Occupations", "WI29Ak"], ["EBA-Grammar Exercise 6: Occupations", "Ui0WSrY"], ["EBA-Reading Exercise: Occupations", "VhZVoD"], ["EBA-EBA TV: Occupations", "5RtCKR"], ["EBA-Writing Exercise: My Dream Job", "U7MVfZg"], ["Exploring Future Occupations Quiz", "5rgcbn"], ["Time Explorer Game", "UodtPG8"]]

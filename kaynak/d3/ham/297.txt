@@ -1,5 +1,126 @@
 ## 6. Sinif/Ingilizce/Weather and Emotions - Emotional Impact of Weather.pdf
-SURE:None KOD:
+SURE:3 KOD:
 KAV:
-
+Activities
+Before the Lesson
+The students are required to complete Vocabulary Exercise 1: Weather and Emotions on EBA. This
+activity focuses on identifying and using appropriate vocabulary to describe different weather
+conditions. The teacher designs a memory card game named Find the Pairs using a gamification web
+tool to reinforce vocabulary through an engaging and interactive learning experience. The teacher
+also creates a digital story titled Weather Around the World using one of the digital story creation
+tools (Annex-1). Additionally, the teacher designs an Interactive Weather Match exercise using one of
+the web tools for matching activities.
+1. Ders (Class)
+Pre-Activity
+The teacher implements the Find the Pairs memory card game as a warm-up activity to activate
+the students’ prior knowledge and engage them in the lesson. In this interactive task, the students
+are required to memorise the position of all the cards and match each pair correctly. They are
+encouraged to complete the task as quickly as possible and try to beat their best score. This activity
+enhances vocabulary retention and improves short-term memory and fosters digital literacy skills by
+incorporating game-based learning elements.
+While Activity
+Following the memory card game, the teacher proceeds to the Weather Around the World story, in
+which the students learn about the weather in the capitals of different countries (Annex-1). The teacher
+then asks the students to remember the weather conditions discussed in the story. For example, they
+might be asked, “What is the weather like in Ankara?” to encourage reflection on the information heard.
+Next, the teacher divides the class into pairs or small groups and invites each group to choose a city.
+Working together, the students then create a weather card depicting the weather conditions in their
+chosen city, illustrating it in a similar way to the story. Once their drawings are complete, each group
+presents their weather card to the class and explains the weather in their selected city. This activity
+reinforces listening comprehension, fosters creative expression and encourages teamwork.
+4
+Emotional Impact of Weather
+Technology-Enhanced Learning Scenarios
+Post-Activity
+For the assessment, the teacher incorporates the Interactive Weather Match exercise, in which the
+students click on a circle to listen to an audio clip and select the correct weather condition from
+the options provided. This activity strengthens listening comprehension skills, helping the students
+to accurately associate auditory input with visual representations of weather vocabulary. It also
+encourages active engagement by providing an interactive digital learning experience.
+Before the Lesson
+The teacher designs an activity titled Guess the Weather through a gamification web tool to enhance
+student engagement and reinforce weather-related vocabulary. Additionally, the teacher designs
+a digital story titled Exploring Weather in VR using one of the digital story creation tools (Annex-2).
+Finally, the teacher designs an exercise titled Emotions using one of the gamified measurement and
+evaluation web tools.
+2. Ders (Class)
+Pre-Activity
+The teacher implements the Guess the Weather activity as a warm-up task to help the students review
+and internalise weather-related vocabulary. In this interactive activity, the students first listen to a
+weather-related word or phrase and then drag the letters into the correct positions to unscramble it.
+This task supports the development of listening comprehension, spelling and vocabulary recognition,
+and enhances digital literacy and engagement through a multisensory learning approach.
+While Activity
+After the activity, the teacher moves on to the Exploring Weather in VR digital story (Annex-2). In this
+story, the students enter a virtual reality classroom and take turns to experience different weather
+conditions such as sunny, rainy, snowy, or windy. As they explore the scenes, they describe what they
+see and express how the weather makes them feel using simple target sentences (e.g. ‘It’s sunny; I
+feel happy on sunny days.’).
+Following the story, the teacher organises a Weather & Emotion Station Activity. The classroom is
+divided into four stations, each represented by an emoji and labelled with a different emotion: happy
+( ), sad ( ), sleepy ( ) and angry ( ). The students then move to the station that best represents
+how they felt during their VR weather experience. At each station, they complete a short, guided task.
+Station 1 – Happy : Draw or describe a type of weather that makes you happy.
+Station 2 – Sad : Match weather icons with emotion words.
+Station 3 – Sleepy : Complete the sentence: ‘I feel sleepy when it is...’
+Station 4 – Angry : Role-play a short dialogue expressing emotions caused by extreme weather.
+5
+Emotional Impact of Weather
+Technology-Enhanced Learning Scenarios
+Each group shares their answers at their station, which encourages collaboration and the meaningful
+use of language. After the rotation, volunteers from each station present a sentence or idea to the
+whole class. This movement-based learning strategy enables students to internalise vocabulary and
+express their personal responses, thereby enhancing their language and emotional awareness.
+Post-Activity
+The teacher then moves on to the Emotions exercise for the assessment. In this interactive task, the
+students listen to a sentence and tap the correct answer when they see it as the answers move across
+the screen. Using this gamified activity for assessment increases student engagement, encourages
+active participation and aids the retention of emotional vocabulary. It also provides teachers with a
+dynamic way to assess students' understanding in an enjoyable, low-pressure environment, fostering
+a positive atmosphere for learning and development.
+Before the Lesson
+The teacher designs an exercise named Weather Bowling Challenge using a gamified measurement
+and evaluation web tool to make learning more engaging (Annex-3). Additionally, the teacher prepares
+an activity titled Weather/Seasons/Emotions using one of the web tools for matching exercises. The
+teacher also develops a Weather and Emotion Quiz with the help of a web tool for multiple-choice
+questions (Annex-4).
+3. Ders (IT Class)
+Pre-Activity
+The teacher uses the Weather Bowling Challenge exercise as a warm-up activity, in which the students
+roll a ball towards a set of pins, each labelled with different weather conditions such as sunny, rainy,
+or cloudy (Annex-3). If a student answers correctly, the corresponding pin falls, and they earn a point.
+If the student is unsure of the answer, the ball rolls past the pin without knocking it down, and the next
+student takes the turn. This activity promotes visual recognition and reinforces vocabulary retention in
+an interactive and fun way.
+6
+Emotional Impact of Weather
+Technology-Enhanced Learning Scenarios
+While Activity
+Following the warm-up activity, the students move on to the Weather/Seasons/Emotions categorisation
+task. In this interactive drag-and-drop exercise, the students are asked to drag the words and drop
+them into the correct categories. They categorise vocabulary related to weather conditions (e.g. sunny,
+rainy), seasons (e.g. winter, summer), and emotions (e.g. happy, sad). This activity supports vocabulary
+recall and helps the students to organise concepts visually while practising word recognition and
+spelling. The teacher divides the class into groups of four and asks each group to design a digital poster
+about the weather, the seasons and emotions. The teams use one of the poster and flyer creation
+tools to design their posters. Each team must choose at least three weather conditions, three seasons
+and three emotions and write simple sentences in English using these, such as 'It is hot in summer' or
+'I feel sleepy on rainy days'. They must also add drawings or images to visually represent each word
+or sentence. Once completed, each team leader presents their team's work to the class, explaining
+the weather types, seasons and emotions included, and reading the sentences aloud to practise
+pronunciation and speaking.
+Post-Activity
+To assess the students, the teacher uses the Weather and Emotion Quiz, a multiple-choice activity
+in which the students are expected to look at the visuals, read the sentence or short text carefully,
+and mark the correct option that matches the weather condition or emotion described (Annex-4). This
+activity improves the students’ reading comprehension and vocabulary recognition and encourages
+them to make connections between visuals and written language.
+Homework/Assignment
+The students create an interactive digital story about imaginary visits to three cities around the world,
+such as London, Tokyo and Paris. In their stories, the students will 'travel' to these cities, observe the
+weather and describe how it makes them feel. They are encouraged to enhance their stories by adding
+images, icons or animations to visually represent the weather and their emotions in each city. Once
+finished, the students submit their work to the teacher via a designated classroom management tool.
+Critical thinking
+Evaluation/
 LINKS:[["EBA-Vocabulary Exercise 1: Weather and Emotions", "62BRtt"], ["Find the Pairs", "SD2qde"], ["Weather Around the World", "U4Gz6kT"], ["Interactive Weather Match", "olRO8F"], ["Guess the Weather", "Uk9FLix"], ["Exploring Weather in VR", "YZFibN"], ["Emotions", "ZFVi2U"], ["Weather Bowling Challenge", "P5mHDx"], ["Weather/Seasons/Emotions", "83areC"], ["Weather and Emotions Quiz", "4EnJUh"]]
