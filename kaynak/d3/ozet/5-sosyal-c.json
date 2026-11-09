@@ -1,0 +1,134 @@
+[
+ {
+  "id": 81,
+  "unite": "Hayatımızdaki Ekonomi",
+  "ad": "Bütçeni Şimdi Yönet",
+  "ozet": "Öğretmenin gereksiz aldığı çanta örneğiyle bilinçli alışveriş sorgulanır; bütçe, gelir, gider, tasarruf ve yatırım kavramları bulmacayla öğrenilir, gruplar bütçe hazırlar, kumbara bulmacası ve atasözleriyle birikimin önemi işlenir.",
+  "ozu": "<p>Bütçe; gelir ile giderlerin planlanmasıdır. Finansal okuryazarlık, gelir-gider takibi yapmak ve gelirin bir kısmını düzenli olarak birikime ayırmaktır. Alışveriş öncesi “Gerçekten ihtiyacım var mı?” diye düşünmek (10 saniye kuralı) gereksiz harcamayı önler. Birikim ileride kullanmak için para ayırmak, tasarruf ise kaynakları gereksiz harcamamaktır.</p>",
+  "dersler": [
+   [
+    "Gereksiz alınan çanta",
+    "Öğretmen birbirine benzeyen iki çantayla gelir: “Bunu hafta sonu aldım ama geri vereceğim, evde benzeri varmış.” “Bir şey alırken kendimize hangi soruları sormalıyız?” sorusunun cevapları “10 Saniye Kuralı” etkinliğine yazılır. “Bütçe Rehberi” bulmacasında açıklamaları verilen bütçe kavramları bulunur, kavram yanılgıları düzeltilir."
+   ],
+   [
+    "Bütçemi hazırlıyorum",
+    "Öğretmen bütçe yapmanın ve düzenli birikimin finansal okuryazarlığın temeli olduğunu söyler; EBA'dan Bütçe Yönetimi videosu izlenip sorularla pekiştirilir. 2-4 kişilik gruplar bütçe yönetimi kâğıdındaki adımları izleyerek gelir, birikim ve gider tutarlarını yerleştirir, bütçeyi düzenleyip soruları cevaplar."
+   ],
+   [
+    "Kumbaradaki para",
+    "Öğretmen kumbarayla gelir: “Bu ay biriktirdiğim parayı hesaplayabilir misiniz?” 4-6 kişilik gruplar “Para Dedektifleri” bulmacasında satır ve sütun toplamlarından kumbaradaki parayı ilk bulmak için yarışır. “Neden birikim yaparız, birikim ile tasarruf farklı mı?” tartışılır. Tasarrufla ilgili atasözleri TDK sözlüğünden incelenir, “Atasözleri Bize Ne Anlatıyor?” çarkında anlamları açıklanır; öz değerlendirme formu doldurulur."
+   ]
+  ],
+  "gerek": "Akıllı tahta, iki benzer çanta, kumbara, bütçe ve Para Dedektifleri etkinlik kâğıtları"
+ },
+ {
+  "id": 82,
+  "unite": "Hayatımızdaki Ekonomi",
+  "ad": "Çevre Dostu Tüketim",
+  "ozet": "Ayrı poşetlerde getirilen cam, kâğıt ve plastik atıklarla geri dönüşüme dikkat çekilir; doğal kaynakların sınırlı olduğu ve sürdürülebilir kullanım EBA videolarıyla işlenir, öğrenciler çevre dostu afiş tasarlar ve sıfır atık temalı hikâye tamamlar.",
+  "ozu": "<p>Doğal kaynaklar sınırsız değildir; bilinçsiz tüketim israfa ve çevre sorunlarına yol açar. Sürdürülebilir kullanım, bugünün ihtiyaçlarını gelecek nesillerin haklarını koruyarak karşılamaktır. Tasarruf, geri dönüşüm ve sıfır atık bunun temel yollarıdır.</p>",
+  "dersler": [
+   [
+    "Doğal kaynaklar sınırsız mı?",
+    "Öğretmen cam, kâğıt ve plastik atıkların ayrı ayrı olduğu üç poşetle gelir: “Bunları neden ayrı biriktirmiş olabilirim?” EBA'dan Doğal Kaynakların İsrafı ve Dünyamıza Sahip Çıkalım videoları izlenir. “Doğal kaynaklar sınırsız mı? Sürdürülebilir kullanım ne demek? Bilinçsiz tüketim neye yol açar?” soruları tartışılır; Tasarrufluyum içeriğinin etkinlikleri yapılır. Ödev: EBA alt konu testi ve gruplarla önemli kelimelerden kelime bulutu."
+   ],
+   [
+    "Çevre dostu afişler",
+    "Öğrenciler etkileşimli beyaz tahtadaki “Çevre Dostu Afişler” sayfasından bir özlü söz seçip adını yazar ve 30 dakikada bu sözü anlatan bir afiş tasarlar; kriterler kontrol çizelgesiyle önceden paylaşılır. Afişler EBA'da paylaşılır, çıktıları sınıf panosuna asılır. Ödev: Sıfır Atık projesi hakkında bilgi toplamak."
+   ],
+   [
+    "Duru'nun sıfır atık yolculuğu",
+    "EBA'dan “Bir Tişörtün Yaşam Hikâyesi” izlenir: “Sıfır atık nedir, doğa için neden önemlidir?” Öğretmen “Duru'nun Sıfır Atık Yolculuğu” hikâyesinin girişini okur; öğrenciler 30 dakikada hikâyeyi sıfır atık ve geri dönüşümün önemini anlatacak şekilde tamamlayıp EBA'da paylaşır. Hikâyeler kontrol çizelgesiyle değerlendirilir; ödev olarak Evsel Atıklar ve Geri Dönüşüm testi verilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, cam-kâğıt-plastik atık poşetleri"
+ },
+ {
+  "id": 83,
+  "unite": "Hayatımızdaki Ekonomi",
+  "ad": "Harcamaların Yol Haritası: Bütçe",
+  "ozet": "Para yönetimi şarkısındaki kavramlardan yola çıkılır; ihtiyaç ve istek ayrımı zihin haritasıyla yapılır, “Ayşe Hanım ne yapmalı?” hikâyesiyle bilinçli tüketim, seyahat bütçesi planlamasıyla da gelir-gider dengesi öğrenilir.",
+  "ozu": "<p>İhtiyaç, yaşamak için gerekli olanlar (beslenme, barınma); istek ise olmasa da yaşanabilecek şeylerdir. Bütçe, gelir ve giderlerin dengelenmesidir; giderler geliri aşarsa plan yeniden yapılır. Bütçe yapabilmek ve tasarruf etmek finansal okuryazarlığın temelidir; aileye ve ülke ekonomisine de katkı sağlar.</p>",
+  "dersler": [
+   [
+    "İhtiyaç mı, istek mi?",
+    "Para yönetimiyle ilgili bir şarkı dinletilir, mesajı konuşulur; ikinci dinleyişte birikim, gelir, gider, tasarruf, istek, ihtiyaç, bütçe kavramları not alınıp tahtaya yazılır ve anlamları TDK sözlüğünden kontrol edilir. Öğrencilerin ihtiyaç ve istekleri sorgulanarak iki ayrı zihin haritasına yerleştirilir, farkları tartışılır ve bunları karşılamak için bütçe planlamanın gerekli olduğu sonucuna varılır. “İhtiyaç mı, İstek mi?” oyunuyla pekiştirilir."
+   ],
+   [
+    "Ayşe Hanım ve seyahat bütçesi",
+    "İkili gruplar “Ayşe Hanım Ne Yapmalı?” hikâyesini okuyup Ayşe Hanım'ın karar vermeden önce kendine sorması gereken üç soruyu 5 dakikada yazar; sorular tartışılıp “10 saniye kuralı” hatırlatılır. “Harçlığınızı nasıl kullanıyorsunuz?” sorusundan sonra EBA'daki seyahat bütçesi etkinliğinde öğrenci haftalık bütçesi incelenir; sınıfça bir seyahat bütçesi planlanır, giderler bütçeyi aşarsa plan yeniden yapılır."
+   ],
+   [
+    "Doğru ve uygulanabilir bütçe",
+    "Finansal okuryazarlık ve bütçe planlama soruları tartışılarak doğru bir bütçe hazırlamanın adımları görsel üzerinde birlikte yazılır. Bütçeye uyulmazsa yaşanabilecek sorunlar ve tasarrufun aileye ve ülke ekonomisine katkısı örneklerle konuşulur. “Doğru mu, Yanlış mı?” etkinliğinde yanlış cümlelerin doğruları söylenir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, TDK sözlüğü, “Ayşe Hanım Ne Yapmalı?” etkinlik kâğıdı"
+ },
+ {
+  "id": 84,
+  "unite": "Hayatımızdaki Ekonomi",
+  "ad": "İlimizdeki Zenginlikler",
+  "ozet": "“Bil Bakalım Ben Hangi Şehirim?” oyunuyla illerin ekonomik özellikleri hatırlanır; öğrenciler yaşadıkları ilin ekonomik faaliyetlerini tanıtan bilgi kartı, gruplar ise birer ekonomik faaliyet alanını tanıtan poster hazırlayıp sunar.",
+  "ozu": "<p>İnsanların ihtiyaçlarını karşılamak için yaptığı üretim, ticaret ve hizmet çalışmalarına ekonomik faaliyet denir: tarım, hayvancılık, madencilik, sanayi, ticaret, turizm gibi. Her ilin yer şekilleri, iklimi ve kaynaklarına göre öne çıkan ekonomik faaliyetleri farklıdır; bu kaynakların sürdürülebilir kullanılması gerekir.</p>",
+  "dersler": [
+   [
+    "Bil bakalım ben hangi şehirim?",
+    "Tahtadaki hafıza kartlarında bir ilin ekonomik ve coğrafi ipuçları okunur; öğrenciler bir dakika içinde şehri tahmin edip çevrim içi haritada gösterir, bulunan şehirler haritada slayt gösterisine dönüşür. Ödev: yaşadıkları ilin ekonomik faaliyetlerini tanıtan bir bilgi kartı tasarlamak (kontrol çizelgesiyle değerlendirilir), EBA'daki “Yaşadığım İldeki Ekonomik Faaliyetler” etkinliği ve faaliyet alanları hakkında araştırma."
+   ],
+   [
+    "Ekonomik faaliyet posteri",
+    "EBA'daki Ekonomik Faaliyetler bilgi notuyla faaliyet alanları anlatılır. Sınıf beş gruba ayrılır, her gruba bir ekonomik faaliyet alanı verilir; gruplar o alanı tanıtan bir poster hazırlayıp EBA'da paylaşır ve sunum için sözcü seçer."
+   ],
+   [
+    "Sunumlar",
+    "Gruplar yedişer dakikada posterlerini sunar, öğretmen eksikleri düzeltir ve değerlendirme sonuçlarını sonraki derste paylaşır. Ödev: “Ekonomik Faaliyet Alanları” zihin haritasını yönergeye göre doldurup EBA'da paylaşmak."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, çevrim içi harita"
+ },
+ {
+  "id": 85,
+  "unite": "Hayatımızdaki Ekonomi",
+  "ad": "Kaynaklar ve Geleceğe Dokunuş",
+  "ozet": "Âşık Veysel'in “Kara Toprak” şiiriyle toprağın önemine dikkat çekilir; doğal kaynakların sınırlı olduğu ve bilinçli kullanılması gerektiği işlenir, gruplar toprak, su, orman veya maden kaynaklarından birini tanıtan bir sunum hazırlayıp sunar.",
+  "ozu": "<p>Toprak, su, hava, ormanlar, madenler ve enerji kaynakları doğal kaynaklarımızdır. Dünya nüfusu arttıkça bu kaynaklara ihtiyaç artar ama kaynaklar sınırlıdır; bir kısmı yenilenebilir, bir kısmı yenilenemez. Bu yüzden tasarruflu ve sürdürülebilir kullanılmaları gerekir.</p>",
+  "dersler": [
+   [
+    "Kara Toprak",
+    "Âşık Veysel'in “Kara Toprak” şiiri tahtadan okunur: “Şiirde hangi doğal kaynak vurgulanıyor, hayatımızdaki önemi ne, nerelerde kullanılır? Doğal kaynaklar sınırsız mı?” Toprağın vazgeçilmezliği konuşulduktan sonra su, hava, madenler, ormanlar ve enerji kaynakları sıralanır. EBA'dan “Doğal Kaynaklar ve İnsan” videosu izlenir; artan nüfus karşısında kaynakların bilinçli kullanılması gerektiği vurgulanır, öğrenciler yakın çevrelerinden örnekler verir. Ödev: EBA'daki “Kaynakların Verimli Kullanımı” etkinliği."
+   ],
+   [
+    "Doğal kaynak sunumu",
+    "6-7 kişilik gruplar toprak, su, orman, maden gibi bir doğal kaynak seçer; ortak sunum şablonunu iş birliği bağlantısıyla paylaşıp görev dağılımı yapar ve bir sözcü belirler. Öğretmen sunum kriterlerini hatırlatarak rehberlik eder. Ödev: sunumu tamamlamak ve EBA'daki yenilenebilir-yenilenemez kaynaklar içeriği."
+   ],
+   [
+    "Sunumlar",
+    "Grup sözcüleri beşer dakikada sunum yapar; öğretmen grup çalışması değerlendirme formuyla puanlar ve eksikleri giderir. Ödev: çoktan seçmeli “Doğal Kaynaklarımız” etkinliği."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 86,
+  "unite": "Hayatımızdaki Ekonomi",
+  "ad": "Zenginlik Kaynağımız: Ekonomik Faaliyetler",
+  "ozet": "Atatürk'ün “Millî egemenlik, mali egemenlikle desteklenmelidir” sözüyle ekonomik bağımsızlığın önemi vurgulanır; başlıca ekonomik faaliyetler EBA videolarıyla öğrenilir, dokuz grup birer faaliyeti (tarım, hayvancılık, madencilik, ulaşım vb.) tanıtan sunum hazırlayıp sunar.",
+  "ozu": "<p>Bir ülkenin tam bağımsız olabilmesi için ekonomik olarak da güçlü olması gerekir. Tarım, hayvancılık, madencilik, sanayi, ticaret, ulaşım, turizm gibi ekonomik faaliyetler ülkenin zenginlik kaynaklarıdır ve doğal kaynaklara dayanır.</p>",
+  "dersler": [
+   [
+    "Ekonomik bağımsızlık",
+    "Tahtaya Atatürk'ün “Tam bağımsızlık için… millî egemenlik, mali egemenlikle desteklenmelidir… iktisadi zaferlerle taçlandırılmadıkça payidar olamaz” sözü yazılır ve soru-cevapla ekonomik bağımsızlığın önemi tartışılır. EBA'dan “Ekonomik Faaliyetler” ve “Kaynak ve Kaynak Çeşitleri” videoları izlenip sorularla pekiştirilir. Ödev: ekonomik faaliyetleri ana başlıklarla tekrar etmek."
+   ],
+   [
+    "Faaliyet sunumları hazırlama",
+    "Tahtaya ulaşım, hayvancılık, madencilik, tarım gibi faaliyetler yazılır. Sınıf dokuz gruba ayrılır; her grup bir faaliyet hakkında 40 dakikada 5 sayfalık bir sunum hazırlayıp EBA'da paylaşır ve sözcüsünü seçer. Grup değerlendirme formu önceden paylaşılır."
+   ],
+   [
+    "Sunumlar ve poster",
+    "Grup sözcüleri üçer dakikada sunum yapar; öğretmen formla değerlendirip eksikleri giderir. Ödev: ekonomik faaliyetleri anlatan bir poster hazırlayıp EBA'da paylaşmak; poster değerlendirme formuyla puanlanır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ }
+]

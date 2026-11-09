@@ -1,0 +1,130 @@
+[
+ {
+  "id": 93,
+  "unite": "Yaşayan Demokrasimiz",
+  "ad": "Bir Sorunum Var",
+  "ozet": "Toplanmayan çöpler ve kaldırıma çıkamayan tekerlekli sandalye gibi gündelik sorunlardan yola çıkarak sorun çözme basamakları öğrenilir; gruplar araştırdıkları bir çevre sorununun çözüm adımlarını ve başvurulacak kurumları anlatan sunum hazırlar.",
+  "ozu": "<p>Etkin vatandaş, çevresindeki sorunları fark eder ve çözüm için sorumluluk alır. Sorun çözme basamakları: sorunu belirlemek, kimi ilgilendirdiğini bulmak, bilgi toplamak, çözüm yollarını ve başvurulacak kişi/kurumları (muhtar, belediye, kaymakamlık, valilik) belirlemek, uygulamak.</p>",
+  "dersler": [
+   [
+    "Sorun çözme adımları",
+    "Ders öncesi öğrenciler çevrelerindeki sorunları ve çözüm yollarını ailelerine, ders kitabına ve yapay zekâ araçlarına başvurarak araştırır; EBA'daki Çevre Kirliliği videosunu izler ve “Sorun ne, kimi ilgilendiriyor, kime başvurulur, bireysel ne yapabiliriz?” sorularını düşünür. Derste “Sokağınızdaki çöpler hiç toplanmadı mı? Tekerlekli sandalyeli birinin kaldırıma çıkamadığını gördünüz mü?” soruları tartışılır. “Sorun Çözüm Adımları” eşleştirme etkinliği sınıfça yapılır ve her basamak açıklanır."
+   ],
+   [
+    "Sorun-çözüm sunumu",
+    "4-6 kişilik gruplar topladıkları video, fotoğraf ve yazılardan bir sorun seçer, çözüm aşamalarını sıralar ve hangi kurumlardan yararlanacaklarını anlatan bir sunum hazırlar; öğretmen sunum ve görsel araçlarını tanıtıp destek olur."
+   ],
+   [
+    "Sunumlar ve özet",
+    "Gruplar sunum yapar, öğretmen değerlendirme formuyla puanlar; çalışmalar EBA'ya yüklenir. “Sorun çözümünde ilk adım nedir, sonra ne gelir?” sorularıyla basamaklar tahtada birlikte sıralanır. Ödev: kaymakam, vali, muhtar ve belediye başkanının görevlerini araştırıp afiş hazırlamak ve eşleştirme etkinliği."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 94,
+  "unite": "Yaşayan Demokrasimiz",
+  "ad": "Demokratik Yaşamda Cumhuriyet",
+  "ozet": "Demokrasi ve cumhuriyet kavramları kelime bulutu ve EBA videolarıyla işlenir; öğrenciler evde ve okulda katıldıkları demokratik süreçleri anlatır, gruplar demokrasinin bir ilkesini tanıtan sunum sayfası hazırlar, demokrasi ile cumhuriyet arasındaki ilişki tartışılır.",
+  "ozu": "<p>Demokrasi, halkın kendi kendini yönettiği ve hak-özgürlüklerin güvence altında olduğu yönetim anlayışıdır. Cumhuriyet, egemenliğin kayıtsız şartsız millete ait olduğu ve yöneticilerin seçimle belirlendiği yönetim biçimidir; Atatürk'ün demokratik yönetim için kurduğu düzendir. Eşitlik, özgürlük, seçme-seçilme ve hukukun üstünlüğü demokrasinin temel ilkelerindendir.</p>",
+  "dersler": [
+   [
+    "Hayatımızdaki demokrasi",
+    "Ders öncesi öğrenciler Atatürk'ün demokratik yönetim için yaptıklarını ve sözlerini araştırır. Derste cumhuriyetin tanıdığı hak ve sorumluluklardan örnekler verilir; “demokrasi” ve “cumhuriyet” denince akla gelenlerle kelime bulutu oluşturulur ve kavramlar açıklanır. EBA'daki öğrenme alanı özeti videosunun ilk bölümleri izlenir. “Evde alınan kararlarda görüşün soruluyor mu? Ailenle ortak karar aldığınız bir durum anlat; evde daha demokratik bir ortam için ne önerirsin?” gibi sorularla aile ve okuldaki demokratik süreçler tartışılır."
+   ],
+   [
+    "Demokrasinin ilkeleri",
+    "EBA'dan “Demokrasinin İlkeleri” videosu izlenir ve sunumdaki ilkeler incelenir. Sekiz grup birer demokrasi ilkesi seçip yapay zekâ destekli araçlarla araştırarak ortak sunuma ikişer sayfa ekler; grup değerlendirme formuyla puanlanır. Ödev: cumhuriyetin nitelikleri ve Atatürk'ün sözleri hakkında araştırma."
+   ],
+   [
+    "Demokrasi ve cumhuriyet ilişkisi",
+    "Sunumlara geri bildirim verilir. Cumhuriyetin nitelikleri, Atatürk'ün cumhuriyet için yaptıkları ve söyledikleri anlatılır; iki kavramın benzerlik ve farkları tartışılır. Etkileşimli beyaz tahtadaki “Demokrasi ve Cumhuriyet Arasındaki İlişki” etkinliği sınıfça doldurulup özetlenir. Ödev: demokrasinin ilkeleri eşleştirme etkinliği."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 95,
+  "unite": "Yaşayan Demokrasimiz",
+  "ad": "Haklarımın ve Sorumluluklarımın Bilincindeyim",
+  "ozet": "Parkta oynayan, derste olan, çalıştırılan ve ailesiyle olan çocuk fotoğraflarından yola çıkarak hak, özgürlük ve sorumluluk kavramlarına ulaşılır; öğrenciler temel haklar posteri hazırlar, kelime bulutundaki kavramlarla metin yazar ve 5N1K ile analiz eder.",
+  "ozu": "<p>Hak, kişinin doğuştan ya da yasalarla sahip olduğu yetkidir; özgürlük, başkalarına zarar vermeden istediğini yapabilmektir; sorumluluk ise hakların yanında yerine getirmemiz gereken görevlerdir. Haklarını bilen ve sorumluluklarını yerine getiren kişi etkin vatandaştır.</p>",
+  "dersler": [
+   [
+    "Fotoğraflardaki çocuklar",
+    "Tahtada dört fotoğraf gösterilir: parkta oynayan çocuk, derste çocuk, çalıştırılan çocuk, ailesiyle evde çocuk. “Bu çocuklar ne yapıyor?” sorusundan yola çıkarak hak kavramına ulaşılır; özgürlük ve sorumluluk açıklanır. EBA'dan “Haklarımın Bilincindeyim” izlenir: “Hak ile sorumluluk arasındaki ilişki nedir, hak ve sorumluluk bilinci ne demektir?” Ödev: EBA alıştırması ve en az beş temel hakkı içeren poster."
+   ],
+   [
+    "Haklarımız ve sorumluluklarımız yazısı",
+    "Alıştırmaya geri bildirim verilir, posterler panoya asılır. Beşerli gruplar; yaşama hakkı, sağlık hakkı, haberleşme, seyahat, düşünce hürriyeti, anayasa, etkin vatandaş gibi kelimelerden oluşan kelime bulutundaki kavramlarla 25 dakikada bir düşünce yazısı, haber metni ya da hikâye yazar."
+   ],
+   [
+    "5N1K",
+    "Grupların metinleri dijital panoda 5N1K (ne, nerede, ne zaman, neden, nasıl, kim) sorularıyla incelenir; sözcüler metinleri okur ve cevapları paylaşır, grup değerlendirme formu doldurulur. Ödev: anahtar kavramlarla zihin haritası çizip haklar ve sorumluluklar üzerine özgün bir şiir yazmak."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 96,
+  "unite": "Yaşayan Demokrasimiz",
+  "ad": "İnsan Haklarıyla Vardır",
+  "ozet": "Öğrenciler ortak kararla sınıf kuralları belirleyip imzalar; imzanın kurallara resmiyet kazandırması üzerinden anayasa, İnsan Hakları Evrensel Bildirgesi ve Çocuk Haklarına Dair Sözleşme işlenir, Tuna'nın hikâyesinde çocuk hakları bulunur.",
+  "ozu": "<p>Kurallar, herkesin haklarını özgürce kullanabilmesi için gereklidir. Anayasa ülkemizde temel hak ve özgürlükleri güvence altına alan en üst yasadır. İnsan Hakları Evrensel Bildirgesi ve Çocuk Haklarına Dair Sözleşme uluslararası belgelerdir; Türkiye ikisini de imzalamıştır ve uymakla yükümlüdür.</p>",
+  "dersler": [
+   [
+    "Sınıf kurallarımız",
+    "Tahtada “Sosyal Bilgiler Dersi Sınıf Kuralları” panosu açılır: “Bunu neden yapıyor olabiliriz?” Öğrenciler 10 dakikada sınıf için beş kural yazar, ortak kararla seçilen kurallar panoya yazılıp çıktısı alınır, herkes imzalar ve sınıfa asılır. “Neden imza attık?” sorusuyla imzanın kurallara resmiyet kazandırdığı, toplumda da düzen için kurallara ve anayasaya ihtiyaç duyulduğu açıklanır."
+   ],
+   [
+    "Anayasa ve evrensel bildirge",
+    "EBA'dan “Temel Haklarımız” videosu izlenir ve sınıf kurallarıyla ilişkisi tartışılır. İnsan Hakları Evrensel Bildirgesi'ndeki haklardan örnekler verilir; imzalayan devletlerin, Türkiye dahil, bildirgeye uymak zorunda olduğu anlatılır. EBA konu testleri beşer dakikada çözülüp birlikte cevaplanır. Ödev: Çocuk Hakları videosu ve bilgi toplama."
+   ],
+   [
+    "Çocuk hakları ve Tuna'nın hikâyesi",
+    "Çocuk Hakları videosu tahtada izlenip sorularla Çocuk Haklarına Dair Sözleşme anlatılır. Öğrenciler EBA'dan “Tuna'nın Hikâyesi” etkinliğine girer; Tuna'nın hayat hikâyesindeki çocuk haklarını 15 dakikada bulup yazar ve sınıfla paylaşır. Ödev: “Çocuk Hakları” zihin haritasını EBA portfolyosuna yüklemek."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 97,
+  "unite": "Yaşayan Demokrasimiz",
+  "ad": "Sorunlarıma Çözüm Arıyorum",
+  "ozet": "Gruplar ihtiyaç ve sorunlar karşısında başvurulabilecek kişi ve kurumları zihin haritasıyla gösterir; Kamu Denetçiliği Kurumunun (KDK) çocuk broşürü incelenir, KDK Çocuk sitesinden başvuru süreci gösterilir ve genel tekrar bulmacası çözülür.",
+  "ozu": "<p>Sorunlarımızın çözümü için muhtarlık, belediye, kaymakamlık, valilik gibi kurumlara başvurabiliriz. Kamu Denetçiliği Kurumu (KDK), kamu kurumlarıyla ilgili şikâyetleri inceleyen bir kurumdur; çocuklar da KDK Çocuk sitesinden başvuru yapabilir. Çözüm ararken haklarımızı, sorumluluklarımızı ve başkalarının özgürlüğünü gözetmeliyiz.</p>",
+  "dersler": [
+   [
+    "Kamu Denetçiliği Kurumu",
+    "Ders öncesi 3-6 kişilik gruplar sorunlar ve başvurulacak kurumlarla ilgili zihin haritasını şablona göre hazırlayıp EBA'da paylaşır. Derste her sıraya EBA'daki KDK çocuk broşürünün çıktısı verilir, 10 dakika incelenir. “KDK hangi konularla ilgilenir, nasıl ve kim başvurabilir?” soruları konuşulur; KDK Çocuk sitesi açılarak başvuru süreci gösterilir. Ödev: EBA'daki “Sorunlarımın Çözümünü Biliyorum” içeriği."
+   ],
+   [
+    "Genel tekrar",
+    "“Genel Tekrar Bulmacası” tahtada birlikte çözülür. Grupların zihin haritaları açılıp sorunların ve çözüm kurumlarının doğru eşleştirilip eşleştirilmediği incelenir ve değerlendirme formuyla puanlanır. Ödev: öğrenme alanının kavram oyunu."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, KDK broşürü çıktıları"
+ },
+ {
+  "id": 98,
+  "unite": "Yaşayan Demokrasimiz",
+  "ad": "Sorunlarıma Çözüm Buluyorum",
+  "ozet": "Yoldaki çukur yüzünden lastiği patlayan bir vatandaş örneğiyle sınıfça dilekçe yazılır; gruplar zarftan çıkan mahalle sorunları için başvurulacak kurumları bulur, TEMA, Kızılay gibi STK'ların çalışma alanlarını canlandırmalarla tanıtır.",
+  "ozu": "<p>Eğitim, sağlık, temizlik, güvenlik, ulaşım, barınma gibi ihtiyaçlar resmî kurumlar ve sivil toplum kuruluşları (STK) tarafından karşılanır. Bir sorunu resmî olarak bildirmenin yolu dilekçedir; CİMER gibi kanallardan da başvuru yapılabilir. Etkin vatandaş sorununu doğru kuruma, doğru yolla iletir.</p>",
+  "dersler": [
+   [
+    "Dilekçe yazıyoruz",
+    "Öğretmen elinde boş bir kâğıtla gelir: “Dilekçe yazmayı bilen var mı?” Yoldaki çukur yüzünden lastiği patlayan vatandaşın durumu anlatılır; dilekçenin hangi kuruma, nasıl yazılacağı ve içermesi gerekenler konuşularak etkileşimli tahtada sınıfça bir dilekçe yazılır. 2-4 kişilik gruplara zarf içinde birer mahalle sorunu verilir (bakımsız park, bozuk yol, sokak hayvanları, yetersiz duraklar, kanalizasyon, nüfus işlemleri, hırsızlık, yaşlıların ihtiyaçları); gruplar hangi kuruma başvurulacağını tartışır."
+   ],
+   [
+    "STK canlandırması hazırlığı",
+    "EBA'dan “Sivil Toplum Kuruluşlarının Etkinlik Alanları” videosu izlenir. 4-6 kişilik gruplar TEMA, Türk Kalp Vakfı, Darüşşafaka, Kızılay gibi bir STK'nın çalışma alanını araştırıp bunu anlatan kısa bir hikâye ve canlandırma hazırlar; drama değerlendirme formu tanıtılır."
+   ],
+   [
+    "Canlandırmalar",
+    "Gruplar canlandırmalarını yapar, diğerleri hangi STK olduğunu tahmin eder; doğru cevaptan sonra STK'nın sitesi açılıp kısa bilgi verilir. Ödev: EBA içerikleri ve performans görevi olarak sorunlar karşısında başvurulacak kurumlar ve yolları gösteren bilgi kartı, afiş veya poster; panoda sergilenir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, sorun kartları için zarflar"
+ }
+]

@@ -46,6 +46,7 @@ def link_dagit(i, dersler):
     out = [[] for _ in dersler]
     elle = {int(k): v for k, v in oz[i].get('link_ders', {}).items()}  # özetteki elle düzeltme: link sırası -> ders no
     for j, (ad, kod) in enumerate(idx[i]['link'], 1):
+        if 'Talim ve Terbiye' in ad or ad[:1].islower(): continue  # kaynakçadan kaçan bozuk satır
         key = norm(ad.replace('EBA ', ''))[:22]
         pos = t.find(key)
         no, son = None, 0
@@ -78,6 +79,7 @@ h2{font-size:19px;margin:22px 0 10px}
 .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin-bottom:8px;color:var(--ink);text-decoration:none}
 .item:hover{border-color:var(--accent)}.item b{display:block;font-size:17px}.item p{margin:2px 0 0;color:var(--muted);font-size:14px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+.un{margin-top:10px;font-size:15px;color:var(--muted)}.un b{color:var(--ink)}
 .meta{display:flex;flex-wrap:wrap;gap:6px}.tag{background:var(--soft);border-radius:6px;padding:2px 8px;font-size:13px;color:var(--muted)}
 h3{font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:18px 0 8px}
 .ozu{border-left:3px solid var(--accent);padding:8px 14px;background:var(--soft);border-radius:0 8px 8px 0}.ozu p{margin:0}
@@ -107,7 +109,7 @@ for f in sorted(glob.glob(os.path.join(K, 'ozet', '*.json'))):
 bulten_pdf = {i: s['pdf'] for i, s in oz.items() if s.get('pdf')}
 
 os.makedirs(os.path.join(SITE, 'd3', 's'), exist_ok=True)
-for old in glob.glob(os.path.join(SITE, 'd3', 's', '*.html')) + glob.glob(os.path.join(SITE, 'd3', '*.html')):
+for old in glob.glob(os.path.join(SITE, 'd3', 's', '*.html')) + glob.glob(os.path.join(SITE, 'd3', '*.html')):  # pdf/ klasörüne dokunulmaz
     os.remove(old)
 
 def bslug(r): return slug(f"{r['sinif']}-{r['ders']}")
@@ -125,11 +127,16 @@ for i, s in oz.items():
         lk = ''.join(f'<a href="https://meb.ai/{c}" target="_blank" rel="noopener">🔗 {e(a)}</a>' for a, c in L[k])
         lis += f'<li><b>{no}. ders: {e(bas)}</b>{e(metin)}{f"<div class=lk>{lk}</div>" if lk else ""}</li>'
     tags = [ders, sinif] + ([f"{r['sure']} ders saati"] if r.get('sure') else []) + [c.rstrip('.') for c in r['kod'][:3]]
-    pdf = f'https://d3.eba.gov.tr/pdf-goster/dosya_{bulten_pdf[i]}' if i in bulten_pdf else PDF_GENEL
-    pdf_txt = "📄 Senaryonun PDF'ini aç" if i in bulten_pdf else "📄 Tam senaryo (d3.eba.gov.tr → Senaryolar)"
+    unite_html = f'<div class="un">Ünite: <b>{e(s["unite"])}</b></div>'
+    if os.path.exists(os.path.join(SITE, 'd3', 'pdf', f'{i:03d}.pdf')):
+        pdf, pdf_txt = f'../pdf/{i:03d}.pdf', "📄 Senaryonun tamamını aç (PDF)"
+    elif i in bulten_pdf:
+        pdf, pdf_txt = f'https://d3.eba.gov.tr/pdf-goster/dosya_{bulten_pdf[i]}', "📄 Senaryonun tamamını aç (PDF)"
+    else:
+        pdf, pdf_txt = PDF_GENEL, "📄 Tam senaryo (d3.eba.gov.tr → Senaryolar)"
     g = f'''<div class="nav"><a href="../{bslug(r)}.html">← {e(sinif)} {e(ders)}</a></div>
 <article class="card"><div class="meta">{''.join(f'<span class="tag">{e(t)}</span>' for t in tags)}</div>
-<h2 style="margin-top:8px">{e(s['ad'])}</h2><p>{e(s['ozet'])}</p>
+{unite_html}<h2 style="margin-top:4px">{e(s['ad'])}</h2><p>{e(s['ozet'])}</p>
 <h3>Konunun özü</h3><div class="ozu">{s['ozu']}</div>
 <h3>Ders ders akış</h3><ol class="d">{lis}</ol>
 <h3>Gerekenler</h3><p>{e(s['gerek'])}</p>
@@ -161,7 +168,7 @@ for ay, ids in BULTEN.items():
     var = [i for i in ids if i in oz]
     if var:
         g += f'<h2>{e(ay)} ayı senaryoları</h2>' + ''.join(
-            f'<a class="item" href="d3/s/{i:03d}.html"><b>{e(oz[i]["ad"])}</b><p>{e(SINIF_AD[idx[i]["sinif"]])} · {e(DERS_AD[idx[i]["ders"]])}</p></a>' for i in var)
+            f'<a class="item" href="d3/s/{i:03d}.html"><b>{e(oz[i]["ad"])}</b><p>{e(SINIF_AD[idx[i]["sinif"]])} · {e(DERS_AD[idx[i]["ders"]])} · {e(oz[i]["unite"])}</p></a>' for i in var)
 for sn in SINIF_SIRA:
     dl = sorted({dr for (s_, dr) in grup if s_ == sn}, key=lambda d: slug(DERS_AD[d]))
     if not dl: continue

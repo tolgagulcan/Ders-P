@@ -1,0 +1,130 @@
+[
+ {
+  "id": 74,
+  "unite": "Evimiz Dünya",
+  "ad": "Afetler: Hazır mısınız?",
+  "ozet": "Doğa kaynaklı afetlerin etkileri ve afet bilinci oluşturmada STK'ların rolü işlenir; 5 kişilik gruplar gelecekte kurmayı düşündükleri bir afet STK'sı için toplumu bilinçlendiren bir web sayfası hazırlar ve birbirlerinin sayfalarını değerlendirir.",
+  "ozu": "<p>Doğa kaynaklı afetler tamamen önlenemez ama alınan önlemlerle can ve mal kayıpları azaltılabilir. Afet bilinci; afet öncesi hazırlık, afet anında doğru davranış ve afet sonrası ilk yardımı bilmektir. AFAD ve sivil toplum kuruluşları eğitim ve etkinliklerle bu bilinci yaygınlaştırır.</p>",
+  "dersler": [
+   [
+    "Afet bilinci ve STK'lar",
+    "Ders öncesi öğrenciler yaşadıkları yerde görülen afetleri, bu alanda çalışan STK'ları ve EBA'daki Afet Risk Haritası'nı inceler. Derste afetlerin etkileri, önlemlerle azaltılabileceği ve STK'ların afet bilinci oluşturmadaki rolü anlatılır. Öğrenciler 5 kişilik gruplar kurar; gelecekte kurmayı düşündükleri bir STK'nın web sayfasına afet bilgileri, önlemler ve acil durum telefonları gibi içerikler koyacakları açıklanır. “Bir Tıkla Bilinçlen!” web şablonu tanıtılır, görev dağılımı yapılır; ödev olarak şablona girecek içerikler araştırılır."
+   ],
+   [
+    "Web sayfası hazırlama",
+    "Gruplar kendilerine özel iş birliği bağlantısıyla şablon üzerinde eş zamanlı çalışır. Seçtikleri afet türü hakkında genel bilgileri, afet öncesi önlemleri, afet anında ve sonrasında yapılacakları, acil durum telefonlarını ve yaşadıkları ile özgü riskleri yazar. Başlıklar ve bilgi kutucuklarıyla sayfayı düzenler, telif hakkına uygun görseller kullanır, yapay zekâ araçlarından yararlanır; öğretmen dolaşıp teknik destek verir. Eksikler not alınıp ders sonrası tamamlanır."
+   ],
+   [
+    "İnceleme ve akran değerlendirmesi",
+    "Gruplar birbirlerinin sayfalarını inceler: afet öncesi, anı ve sonrası bilgileri var mı, bilgiler doğru ve anlaşılır mı, kaynaklar güvenilir mi, görseller telif kurallarına uygun mu, sayfa okunaklı mı? Öğrenciler akran değerlendirme formunu doldurur. Gelen önerilere göre sayfalar düzeltilir ve EBA, okul web sitesi ile sosyal medyada paylaşılır."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları (web sayfası aracı)"
+ },
+ {
+  "id": 75,
+  "unite": "Evimiz Dünya",
+  "ad": "Afetlere Karşı Hazırlıklı Olalım",
+  "ozet": "“Afet” kelimesiyle oluşturulan kelime bulutuyla başlanır; EBA içerikleri, AFAD uyarı mesajı etkinliği ve afet risk haritasıyla yaşanılan yerdeki riskler incelenir, 17 Ağustos 1999 depremi hatırlatılarak öğrenciler kendi afet planı afişini hazırlar.",
+  "ozu": "<p>Yaşadığımız yerin hangi afetler için risk taşıdığını bilmek hazırlıklı olmanın ilk adımıdır. Afet öncesi (afet çantası, toplanma alanı, aile planı), afet sırasında (çök-kapan-tutun gibi) ve afet sonrasında yapılacakları önceden planlamak can kaybını azaltır. Hem kurumların hem bireylerin alabileceği önlemler vardır.</p>",
+  "dersler": [
+   [
+    "Afetlerin etkileri",
+    "Tahtaya büyük harflerle “AFET” yazılır; öğrencilerin aklına gelen kelimelerle kelime bulutu oluşturulup EBA'da paylaşılır. EBA'dan “Afetlerin İnsan Hayatına Etkileri” izlenir, örnek olaylar üzerinden konuşulur. “Yaşadığı İlde Meydana Gelebilecek Afetlerin Etkileri” içeriğinden kurumların ve bireylerin alabileceği tedbirler bölümleri izlenir, pekiştirici sorular sorulur. Ödev: içeriğin kalan bölümleri ve yaşadıkları yerdeki afetlerle ilgili haber ve görselleri dijital duvarda paylaşmak."
+   ],
+   [
+    "AFAD'dan mesajınız var",
+    "“AFAD'dan Mesajınız Var!” etkinliğinde öğrenciler uyarı mesajındaki boşlukları doldurur: “Ailenize hiç böyle bir mesaj geldi mi, gelse ne yapacağınızı biliyor musunuz?” Öğrenciler duvardaki araştırmaları inceleyip EBA'daki Afet Risk Haritası ile karşılaştırır, yaşadıkları yerde hangi doğa olaylarının afete dönüşme riski taşıdığını belirler."
+   ],
+   [
+    "Afet planım",
+    "Tahtaya “17 Ağustos 1999” yazılır, öğrenciler bu tarihte ne olduğunu tahmin eder; Marmara depremi ve afet bilincinin önemi konuşulur. Öğrenciler afiş aracında yaşadıkları yerde görülebilecek bir afet için afet öncesi, sırası ve sonrasında yapılacakları içeren “Afet Planım” afişini hazırlar; öğretmen kontrol listesiyle değerlendirir. Ödev: EBA'daki çevrim içi afet eğitimi ünite testi."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 76,
+  "unite": "Evimiz Dünya",
+  "ad": "Benim Güzel İlim",
+  "ozet": "Antalya'nın tanıtım videosu üzerinden göreceli konum unsurları fark edilir; öğrenciler seçtikleri bir ilin göreceli konum özelliklerini anlatan kısa bir şiir yazar, şiirin anahtar kelimelerinden kelime bulutu hazırlar.",
+  "ozu": "<p>Göreceli (özel) konum, bir yerin çevresindeki doğal ve beşerî unsurlara göre tarif edilmesidir: komşu iller, denizler, dağlar, doğal kaynaklar, tarihî ve kültürel değerler. Her ilin kendine özgü göreceli konum özellikleri vardır.</p>",
+  "dersler": [
+   [
+    "İlimi şiirle anlatıyorum",
+    "EBA'dan “Kültür ve Şehir – Antalya” videosu izlenir; videodaki bilgilerin Antalya'nın göreceli konum özellikleri olduğu ve her ilin kendine özgü özellikleri bulunduğu belirtilir. Öğrenciler seçtikleri bir ilin doğal kaynaklarını, kültürel, tarihî ve coğrafi değerlerini anlatan en fazla iki dörtlüklük bir şiiri yapay zekâ destekli araçlardan yararlanarak yazar. Şiirdeki göreceli konum anahtar kelimelerini belirleyip kelime bulutu hazırlar ve EBA'da paylaşır; öz değerlendirme formunun kriterleri açıklanır."
+   ],
+   [
+    "Değerlendirme",
+    "Öğrenciler “Şiir Yazma ve Kelime Bulutu” öz değerlendirme formunu doldurur. Oyunlaştırılmış süreç değerlendirme etkinliği bireysel çözülür, cevaplar anında kontrol edilir; ardından sorular sınıfça tartışılarak eksikler düzeltilir. Ödev: yanlış cevaplanan soruların doğrularını araştırıp deftere yazmak."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları"
+ },
+ {
+  "id": 77,
+  "unite": "Evimiz Dünya",
+  "ad": "Değişen Çevremiz",
+  "ozet": "Öğrenciler yaşadıkları ilin eski ve yeni fotoğraflarını, 20 yıl öncesinin uydu görüntülerini karşılaştırarak doğal ve beşerî çevredeki değişimleri belirler; seçtikleri bir değişimin etkilerini balık kılçığı diyagramıyla analiz eder.",
+  "ozu": "<p>Doğal çevre; dağlar, akarsular, bitki örtüsü gibi insan yapımı olmayan unsurlardır. Beşerî çevre; yerleşim, yollar, binalar, tarım alanları gibi insanın oluşturduğu unsurlardır. İnsan faaliyetleri zamanla her ikisini de değiştirir; bu değişimin neden ve sonuçlarını incelemek çevreyi anlamamızı sağlar.</p>",
+  "dersler": [
+   [
+    "İlimizde zaman yolculuğu",
+    "Ders öncesi öğrenciler ilde geçmişten bugüne yaşanan değişimleri araştırır, aile büyükleriyle konuşup not alır ve EBA içeriğini inceler. Derste herkes bulduklarını paylaşır. 2-4 kişilik gruplar bilinen bir cadde, park ya da meydanın eski ve yeni fotoğraflarını karşılaştırır: neler değişmiş, neler aynı kalmış? Değişimler doğal ve beşerî çevre diye sınıflandırılır, tahtada ortak karşılaştırma tablosu oluşturulup dijital platformda paylaşılır."
+   ],
+   [
+    "Uydu görüntüleriyle karşılaştırma",
+    "Gruplar çevrim içi harita uygulamasında ilin bugünkü görünümünü yaklaşık 20 yıl öncesiyle karşılaştırır. En belirgin üç değişikliği seçip olası nedenlerini ve etkilediği unsurları 10-15 dakikada tartışarak yazar. Sözcüler sınıfa sunar, diğer gruplar soru sorar; öğretmen grupları kontrol çizelgesiyle değerlendirir."
+   ],
+   [
+    "Balık kılçığı",
+    "Gruplar daha önce araştırdıkları bir çevresel değişimin etkilerini balık kılçığı diyagramına işler: sol tarafa su kaynakları, bitki örtüsü, arazi kullanımı gibi doğal çevre etkileri; sağ tarafa yerleşim, ulaşım, nüfus gibi beşerî çevre etkileri yazılır. Diyagramlar sunulup tartışılır ve değerlendirme formuyla puanlanır. Ödev: MEBİ'deki değerlendirme testi."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, ilin eski-yeni fotoğrafları"
+ },
+ {
+  "id": 78,
+  "unite": "Evimiz Dünya",
+  "ad": "Komşu Komşu Hu!",
+  "ozet": "“Komşu komşunun külüne muhtaçtır” atasözünden ülkelerin komşuluğuna geçilir; Türkiye'nin kara ve deniz sınırı komşuları haritada gösterilir, bağımsızlık sembolleri (bayrak, İstiklâl Marşı, Türkçe) işlenir ve komşu ülkelerin başkent, dil, para birimi ve bayrakları oyunlarla pekiştirilir.",
+  "ozu": "<p>İnsanlar gibi ülkelerin de kara ve deniz sınırı paylaştığı komşuları vardır. Türkiye geniş yüz ölçümü ve konumu nedeniyle birçok ülkeyle komşudur. Bayrak, İstiklâl Marşı ve Türkçe, ülkemizin bağımsızlık ve millî egemenlik sembolleridir.</p>",
+  "dersler": [
+   [
+    "Ülkelerin de komşusu olur mu?",
+    "Tahtadaki “Komşu komşunun külüne muhtaçtır” atasözü yorumlanır, komşuluğun dayanışmadaki önemi konuşulur. “İnsanlar gibi ülkelerin de komşusu olur mu?” sorusuyla çevrim içi haritada Türkiye'nin kara ve deniz sınırı komşuları gösterilir. EBA'dan Bağımsızlık ve Millî Egemenlik, Bayrağımız, İstiklâl Marşımız ve Dilimiz Türkçe videolarıyla bağımsızlık sembolleri işlenir. Ödev: bağımsızlık sembollerini tanıtan bir sunum hazırlayıp kontrol çizelgesine göre EBA'da paylaşmak."
+   ],
+   [
+    "Ülkemize komşu devletler",
+    "EBA'daki “Ülkemize Komşu Devletler” etkileşimli içeriği açılır; içerikteki soruları her öğrenci tahtaya çıkarak cevaplar. Komşuların sınırları üzerinden vatanseverlik değerinin önemi vurgulanır. Ödev: komşu ülkelerin başkent, bayrak, dil ve para birimlerini tekrar etmek."
+   ],
+   [
+    "Hangi ülke?",
+    "“Hangi Ülke?” oyununda başkent, resmî dil ve para birimleri doğru ülkelerle eşleştirilir; “Bayrakları Tanıyalım” etkinliğinde bayraklar ülkelerle eşleştirilir ve cevaplar anında kontrol edilir. Ödev: Yunanistan, Bulgaristan, Suriye ve Gürcistan hakkında farklı kaynaklardan bilgi toplayıp “Kara ve Deniz Sınırı Komşularım” afişi hazırlamak; öz değerlendirme formuyla değerlendirilir."
+   ]
+  ],
+  "gerek": "Akıllı tahta, çevrim içi harita"
+ },
+ {
+  "id": 79,
+  "unite": "Evimiz Dünya",
+  "ad": "Komşularımı Tanıyorum",
+  "ozet": "Türkiye'nin konumu ve komşularla iletişimin önemi işlenir; hafıza kartı oyunuyla komşu ülkeler haritada bulunur, sekiz grup birer komşu ülkeyi yapay zekâ destekli araçlarla araştırıp tanıtım sunumu hazırlar ve sunar.",
+  "ozu": "<p>Türkiye'nin sekiz kara sınırı komşusu vardır; ayrıca denizlerden de komşuları bulunur. Komşularla iyi ilişkiler, sınırların güvenliği ve ülkeler arası iş birliği için önemlidir. Her komşu ülkenin kendine özgü başkenti, dili, para birimi, bayrağı ve kültürel değerleri vardır.</p>",
+  "dersler": [
+   [
+    "Bilin bakalım hangi ülkeyim?",
+    "EBA'dan “Ülkemizin Konumu ve Önemi” videosu izlenir; sınırların güvenliği için komşularla iletişimin önemi vurgulanır. “Bilin Bakalım Hangi Ülkeyim?” oyununda öğrenciler hafıza kartındaki ipuçlarını okuyup cevap olan ülkeyi bir dakika içinde çevrim içi haritada gösterir; öğretmen anlık geri bildirim verir."
+   ],
+   [
+    "Komşu ülke sunumu",
+    "Sınıf sekiz gruba ayrılır, her gruba bir kara veya deniz komşusu verilir. Gruplar yapay zekâ destekli araçlardan da yararlanarak ülkenin başkentini, dilini, para birimini, bayrağını, kültürel değerlerini, tarihî varlıklarını ve doğal güzelliklerini araştırır; en az beş sayfalık bir tanıtım sunumu hazırlayıp EBA'da paylaşır. Grup değerlendirme formu tanıtılır; ödev olarak sunumdaki bilgiler farklı kaynaklardan kontrol edilir ve bir sözcü seçilir."
+   ],
+   [
+    "Sunumlar",
+    "Grupların sunumları tahtada açılır; her sözcü dört dakikada ülkesini tanıtır. Öğretmen eksik veya yanlış bilgileri düzeltir ve grupları değerlendirme formuyla puanlar."
+   ]
+  ],
+  "gerek": "Akıllı tahta, öğrenci bilgisayarları, çevrim içi harita"
+ }
+]
